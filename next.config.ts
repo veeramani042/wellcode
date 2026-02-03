@@ -3,7 +3,11 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: 'export',
   images: {
-    formats: ["image/avif"], // ✅ AVIF ONLY — no WebP
+    unoptimized:true,
+    formats: [
+      "image/avif",
+      "image/webp"
+    ], 
     remotePatterns: [
       {
         protocol: "https",
@@ -34,7 +38,6 @@ const nextConfig: NextConfig = {
   experimental: {
     scrollRestoration: false,
   },
-
 };
 
 export default nextConfig;
