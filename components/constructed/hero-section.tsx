@@ -47,7 +47,7 @@ const HeroSection = ({ animate = true }: Props) => {
                 </div>
             </BeamsBackground>
             {/* <DotPattern /> */}
-            <BlobPolymerScene />
+            {/* <BlobPolymerScene /> */}
             <div className="w-full absolute bottom-[-150px] h-100 z-10" style={{ background: 'linear-gradient(rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 55%, rgb(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0.5) 80%, rgba(0, 0, 0, 0) 100%)' }}></div>
         </section>
     )

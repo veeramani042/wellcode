@@ -101,31 +101,34 @@ function MobileMenuItem({
                             setExpanded((prev) => !prev);
                         }}
                         className={cn(
-                            "p-2 rounded-full transition-transform",
+                            "p-1 rounded-full transition-transform",
                             expanded && "rotate-90"
                         )}
+                        style={{ backgroundColor: '#6363633d', border: "1px solid #393939" }}
                     >
-                        <ChevronRight size={"18px"} />
+                        <ChevronRight size={"20px"} style={{ color: '#fff' }} />
                     </button>
                 )}
             </div>
 
             {/* SUBMENU */}
-            {hasSubs && expanded && (
-                <div className="pl-4 mt-2 space-y-1">
-                    {item.sub_menus.map((sub) => (
-                        <SubMenuItem
-                            key={sub.menu_name}
-                            parentLink={item.menu_link}
-                            sub={sub}
-                            setActiveTab={setActiveTab}
-                            closeMenu={closeMenu}
-                            pathname={pathname}
-                        />
-                    ))}
-                </div>
-            )}
-        </div>
+            {
+                hasSubs && expanded && (
+                    <div className="pl-4 mt-2 space-y-1">
+                        {item.sub_menus.map((sub) => (
+                            <SubMenuItem
+                                key={sub.menu_name}
+                                parentLink={item.menu_link}
+                                sub={sub}
+                                setActiveTab={setActiveTab}
+                                closeMenu={closeMenu}
+                                pathname={pathname}
+                            />
+                        ))}
+                    </div>
+                )
+            }
+        </div >
     );
 }
 
@@ -173,11 +176,12 @@ function SubMenuItem({
                             setExpanded((prev) => !prev);
                         }}
                         className={cn(
-                            "p-2 rounded-full transition-transform",
+                            "p-1 rounded-full transition-transform",
                             expanded && "rotate-90"
                         )}
+                        style={{ backgroundColor: '#6363633d', border: "1px solid #393939" }}
                     >
-                        <ChevronRight size={"18px"} />
+                        <ChevronRight size={"18px"} style={{ color: '#fff' }} />
                     </button>
                 )}
             </div>

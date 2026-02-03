@@ -1357,32 +1357,37 @@
             "images": [
                 {
                     "title": "Maintaining natural perspective",
-                    "filepath": "/assets/images/service-images/panorama-01.jpg",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_01.avif",
                     "alt": "Panoramic real estate photo maintaining natural perspective"
                 },
                 {
                     "title": "Showcasing property surroundings",
-                    "filepath": "/assets/images/service-images/panorama-02.jpg",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_02.avif",
                     "alt": "Wide-angle stitched panorama for marketing and virtual tours"
                 },
                 {
                     "title": "Residential property for listings",
-                    "filepath": "/assets/images/service-images/panorama-03.jpg",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_03.avif",
                     "alt": "Property panorama emphasizing scale and spatial design"
                 },
                 {
                     "title": "Residential property for listings",
-                    "filepath": "/assets/images/service-images/panorama-03.jpg",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_04.avif",
                     "alt": "Property panorama emphasizing scale and spatial design"
                 },
                 {
                     "title": "Residential property for listings",
-                    "filepath": "/assets/images/service-images/panorama-03.jpg",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_05.avif",
                     "alt": "Property panorama emphasizing scale and spatial design"
                 },
                 {
                     "title": "Residential property for listings",
-                    "filepath": "/assets/images/service-images/panorama-03.jpg",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_06.avif",
+                    "alt": "Property panorama emphasizing scale and spatial design"
+                },
+                {
+                    "title": "Residential property for listings",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_07.avif",
                     "alt": "Property panorama emphasizing scale and spatial design"
                 }
             ],
@@ -1390,12 +1395,12 @@
             "comparison": {
                 "before": {
                     "title": "Panorama showing entire living space",
-                    "filepath": "/assets/images/before/panorama-before.jpg",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_before.avif",
                     "alt": "Commercial property stitched panorama with high detail before"
                 },
                 "after": {
                     "title": "Wide panoramic view",
-                    "filepath": "/assets/images/after/panorama-after.jpg",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_after.avif",
                     "alt": "Panoramic image capturing interior and exterior areas after"
                 }
             }
@@ -2241,32 +2246,37 @@
             "images": [
                 {
                     "title": "Clutter-free interior",
-                    "filepath": "/assets/images/service-images/item-removals-01.jpg",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_01.avif",
                     "alt": "Removing personal belongings from property photos"
                 },
                 {
                     "title": "Large furniture removal",
-                    "filepath": "/assets/images/service-images/item-removals-02.jpg",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_02.avif",
                     "alt": "Wire and background distraction removal from property images"
                 },
                 {
                     "title": "De-cluttered kitchen image",
-                    "filepath": "/assets/images/service-images/item-removals-03.jpg",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_03.avif",
                     "alt": "Professional item removal for occupied home photos"
                 },
                 {
                     "title": "De-cluttered kitchen image",
-                    "filepath": "/assets/images/service-images/item-removals-03.jpg",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_04.avif",
                     "alt": "Professional item removal for occupied home photos"
                 },
                 {
                     "title": "De-cluttered kitchen image",
-                    "filepath": "/assets/images/service-images/item-removals-03.jpg",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_05.avif",
                     "alt": "Professional item removal for occupied home photos"
                 },
                 {
                     "title": "De-cluttered kitchen image",
-                    "filepath": "/assets/images/service-images/item-removals-03.jpg",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_06.avif",
+                    "alt": "Professional item removal for occupied home photos"
+                },
+                {
+                    "title": "De-cluttered kitchen image",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_07.avif",
                     "alt": "Professional item removal for occupied home photos"
                 }
             ],
@@ -2274,12 +2284,12 @@
             "comparison": {
                 "before": {
                     "title": "Removing personal belongings",
-                    "filepath": "/assets/images/before/item-removal-before.jpg",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_before.avif",
                     "alt": "Clean and polished interior after object removal"
                 },
                 "after": {
                     "title": "Interior after object removal",
-                    "filepath": "/assets/images/after/item-removal-after.jpg",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_after.avif",
                     "alt": "Virtual furniture removal for real estate marketing"
                 }
             }
@@ -2489,33 +2499,33 @@
         "media": {
             "images": [
                 {
-                    "title": "Online property showcasing",
-                    "filepath": "/assets/images/service-images/virtual-tour-01.jpg",
-                    "alt": "Virtual tour editing and creation for premium property marketing"
-                },
-                {
-                    "title": "Creation for premium property marketing",
-                    "filepath": "/assets/images/service-images/virtual-tour-02.jpg",
-                    "alt": "Hotspots highlighting key property features in virtual tours"
-                },
-                {
                     "title": "Real estate 3D virtual tour",
-                    "filepath": "/assets/images/service-images/virtual-tour-03.jpg",
+                    "filepath": "/assets/images/service-images/virtual-tour/virtual_tour_01.avif",
                     "alt": "Realistic 360-degree property tour with interactive elements"
                 },
                 {
                     "title": "Real estate 3D virtual tour",
-                    "filepath": "/assets/images/service-images/virtual-tour-03.jpg",
+                    "filepath": "/assets/images/service-images/virtual-tour/virtual_tour_02.avif",
                     "alt": "Realistic 360-degree property tour with interactive elements"
                 },
                 {
                     "title": "Real estate 3D virtual tour",
-                    "filepath": "/assets/images/service-images/virtual-tour-03.jpg",
+                    "filepath": "/assets/images/service-images/virtual-tour/virtual_tour_03.avif",
                     "alt": "Realistic 360-degree property tour with interactive elements"
                 },
                 {
                     "title": "Real estate 3D virtual tour",
-                    "filepath": "/assets/images/service-images/virtual-tour-03.jpg",
+                    "filepath": "/assets/images/service-images/virtual-tour/virtual_tour_04.avif",
+                    "alt": "Realistic 360-degree property tour with interactive elements"
+                },
+                {
+                    "title": "Real estate 3D virtual tour",
+                    "filepath": "/assets/images/service-images/virtual-tour/virtual_tour_05.avif",
+                    "alt": "Realistic 360-degree property tour with interactive elements"
+                },
+                {
+                    "title": "Real estate 3D virtual tour",
+                    "filepath": "/assets/images/service-images/virtual-tour/virtual_tour_06.avif",
                     "alt": "Realistic 360-degree property tour with interactive elements"
                 }
             ],
@@ -2710,32 +2720,32 @@
             "images": [
                 {
                     "title": "Multiple real estate photos",
-                    "filepath": "/assets/images/service-images/sky-replace-01.jpg",
+                    "filepath": "/assets/images/service-images/sky-replacement/sky-replacement_01.avif",
                     "alt": "HDR sky replacement for high-quality property visuals"
                 },
                 {
                     "title": "Vibrant sky replacement",
-                    "filepath": "/assets/images/service-images/sky-replace-02.jpg",
+                    "filepath": "/assets/images/service-images/sky-replacement/sky-replacement_02.avif",
                     "alt": "Twilight and sunset sky editing for home listings"
                 },
                 {
                     "title": "Seamless sky replacement",
-                    "filepath": "/assets/images/service-images/sky-replace-03.jpg",
+                    "filepath": "/assets/images/service-images/sky-replacement/sky-replacement_03.avif",
                     "alt": "Real estate photo enhancement with accurate sky tones"
                 },
                 {
                     "title": "Seamless sky replacement",
-                    "filepath": "/assets/images/service-images/sky-replace-03.jpg",
+                    "filepath": "/assets/images/service-images/sky-replacement/sky-replacement_04.avif",
                     "alt": "Real estate photo enhancement with accurate sky tones"
                 },
                 {
                     "title": "Seamless sky replacement",
-                    "filepath": "/assets/images/service-images/sky-replace-03.jpg",
+                    "filepath": "/assets/images/service-images/sky-replacement/sky-replacement_05.avif",
                     "alt": "Real estate photo enhancement with accurate sky tones"
                 },
                 {
                     "title": "Seamless sky replacement",
-                    "filepath": "/assets/images/service-images/sky-replace-03.jpg",
+                    "filepath": "/assets/images/service-images/sky-replacement/sky-replacement_06.avif",
                     "alt": "Real estate photo enhancement with accurate sky tones"
                 }
             ],
@@ -2743,12 +2753,12 @@
             "comparison": {
                 "before": {
                     "title": "Property exterior images",
-                    "filepath": "/assets/images/before/sky-replacement-before.jpg",
+                    "filepath": "/assets/images/service-images/sky-replacement/sky-replacement_before.avif",
                     "alt": "Outdoor property images with vibrant sky replacement before"
                 },
                 "after": {
                     "title": "Sky replacement editing",
-                    "filepath": "/assets/images/after/sky-replacement-after.jpg",
+                    "filepath": "/assets/images/service-images/sky-replacement/sky-replacement_after.avif",
                     "alt": "Consistent sky editing across multiple real estate photos after"
                 }
             }
@@ -3042,36 +3052,11 @@
                 "title": "Techniques Used in Image De-Cluttering",
                 "descriptions": [],
                 "list": [
-                    {
-                        "title": "Background Removal",
-                        "descriptions": [
-                            "We remove busy or distracting backgrounds to isolate the main subject. This is especially effective for real estate image cleanup services, product images, and marketing visuals."
-                        ]
-                    },
-                    {
-                        "title": "Object Removal",
-                        "descriptions": [
-                            "Unwanted objects such as furniture, wires, personal items, shadows, or background clutter are carefully removed to create a clean and distraction-free composition."
-                        ]
-                    },
-                    {
-                        "title": "Cropping and Resizing",
-                        "descriptions": [
-                            "Strategic cropping helps eliminate unnecessary space and guides the viewer’s attention toward the focal point of the image."
-                        ]
-                    },
-                    {
-                        "title": "Color Correction",
-                        "descriptions": [
-                            "We adjust brightness, contrast, and color balance to ensure a harmonious and visually pleasing look across the image."
-                        ]
-                    },
-                    {
-                        "title": "Sharpening and Clarity Enhancement",
-                        "descriptions": [
-                            "Key elements are enhanced with subtle sharpening to improve definition and ensure the subject stands out clearly."
-                        ]
-                    }
+                    "Background Removal",
+                    "Object Removal",
+                    "Cropping and Resizing",
+                    "Color Correction",
+                    "Sharpening and Clarity Enhancement"
                 ],
                 "phrase_text": ""
             }
@@ -3223,32 +3208,32 @@
             "images": [
                 {
                     "title": "Interior photo editing",
-                    "filepath": "/assets/images/service-images/image-de-cluttering-01.jpg",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_01.avif",
                     "alt": "Object removal for clean marketing visuals"
                 },
                 {
                     "title": "Digital de-cluttering",
-                    "filepath": "/assets/images/service-images/image-de-cluttering-02.jpg",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_02.avif",
                     "alt": "De-cluttering services for online product images"
                 },
                 {
                     "title": "Removal of unwanted objects",
-                    "filepath": "/assets/images/service-images/image-de-cluttering-03.jpg",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_03.avif",
                     "alt": "Professional photo cleanup for occupied property listings"
                 },
                 {
                     "title": "Removal of unwanted objects",
-                    "filepath": "/assets/images/service-images/image-de-cluttering-03.jpg",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_04.avif",
                     "alt": "Professional photo cleanup for occupied property listings"
                 },
                 {
                     "title": "Removal of unwanted objects",
-                    "filepath": "/assets/images/service-images/image-de-cluttering-03.jpg",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_05.avif",
                     "alt": "Professional photo cleanup for occupied property listings"
                 },
                 {
                     "title": "Removal of unwanted objects",
-                    "filepath": "/assets/images/service-images/image-de-cluttering-03.jpg",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_06.avif",
                     "alt": "Professional photo cleanup for occupied property listings"
                 }
             ],
@@ -3256,12 +3241,12 @@
             "comparison": {
                 "before": {
                     "title": "Clutter-free property images",
-                    "filepath": "/assets/images/before/image-de-cluttering-before.jpg",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_before.avif",
                     "alt": "Minimalist image enhancement with clutter removal before"
                 },
                 "after": {
                     "title": "Professional image de-cluttering",
-                    "filepath": "/assets/images/after/image-de-cluttering-after.jpg",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_after.avif",
                     "alt": "Removing distractions for high-quality visual content after"
                 }
             }
