@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.wellcodestudio.com
+
+# Sitemaps
+Sitemap: https://www.wellcodestudio.com/sitemap.xml

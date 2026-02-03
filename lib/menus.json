@@ -1,0 +1,233 @@
+[
+    {
+        "menu_name": "Home",
+        "menu_link": "",
+        "sub_menus": []
+    },
+    {
+        "menu_name": "Services",
+        "menu_link": "services",
+        "sub_menus": [
+            {
+                "menu_name": "Real Estate Editing",
+                "menu_link": "real-estate-services",
+                "sub_menus": [
+                    {
+                        "menu_name": "Real Estate Editing",
+                        "menu_link": "real-estate-services",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Day to Dusk",
+                        "menu_link": "day-to-dusk",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Drone/Aerial Editing",
+                        "menu_link": "drone-or-aerial-editing",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Panorama Stitching",
+                        "menu_link": "panorama-stitching",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Video Editing",
+                        "menu_link": "video-editing",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "3D Rendering",
+                        "menu_link": "3d-redering",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Floor Plan",
+                        "menu_link": "floor-plan",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Item Removals",
+                        "menu_link": "item-removal",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Virtual Tour",
+                        "menu_link": "virtual-tour",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Sky Replacement",
+                        "menu_link": "sky-replacement",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Photo Clipping Path",
+                        "menu_link": "photo-clipping-path",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Image De-Cluttering",
+                        "menu_link": "image-de-cluttering",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "360 Image Enhancement",
+                        "menu_link": "360-image-enhancement",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "MLS-Compliant Real Estate Photo Editing",
+                        "menu_link": "mls-compliant-real-estate",
+                        "sub_menus": [],
+                        "addon": true
+                    },
+                    {
+                        "menu_name": "Real Estate Branding & Marketing Design",
+                        "menu_link": "real-estate-branding-marketing-design",
+                        "sub_menus": [],
+                        "addon": true
+                    },
+                    {
+                        "menu_name": "Custom Digital Product Development",
+                        "menu_link": "custom-digital-product-development",
+                        "sub_menus": [],
+                        "addon": true
+                    }
+                ]
+            },
+            {
+                "menu_name": "iOS/Android App",
+                "menu_link": "ios-android-app-development",
+                "sub_menus": [
+                    {
+                        "menu_name": "Custom Software Development",
+                        "menu_link": "custom-software-development",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "E-Commerce & CMS",
+                        "menu_link": "e-commerce-cms",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Web Development",
+                        "menu_link": "web-development",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Website Maintenance and support service",
+                        "menu_link": "website-maintenance-support",
+                        "sub_menus": [],
+                        "addon": true
+                    },
+                    {
+                        "menu_name": "Cloud Migration & Management Services",
+                        "menu_link": "cloud-migration-management",
+                        "sub_menus": [],
+                        "addon": true
+                    },
+                    {
+                        "menu_name": "API Development & Integration Services",
+                        "menu_link": "api-development-integration",
+                        "sub_menus": [],
+                        "addon": true
+                    },
+                    {
+                        "menu_name": "SaaS Application Development Services",
+                        "menu_link": "saas-application-development",
+                        "sub_menus": [],
+                        "addon": true
+                    }
+                ]
+            },
+            {
+                "menu_name": "Creative Services",
+                "menu_link": "creative-services",
+                "sub_menus": [
+                    {
+                        "menu_name": "Logo Creation",
+                        "menu_link": "logo-creation",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Brochure/Flyer",
+                        "menu_link": "brochure-flyer",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Data Management",
+                        "menu_link": "data-management",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "Video Service",
+                        "menu_link": "video-services",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "E-Commerce",
+                        "menu_link": "e-commerce",
+                        "sub_menus": [],
+                        "addon": false
+                    },
+                    {
+                        "menu_name": "UI/UX Design",
+                        "menu_link": "ui-ux-design",
+                        "sub_menus": [],
+                        "addon": true
+                    },
+                    {
+                        "menu_name": "Brand identity Design",
+                        "menu_link": "e-brand-identity-design",
+                        "sub_menus": [],
+                        "addon": true
+                    },
+                    {
+                        "menu_name": "Website UI Redesign Services",
+                        "menu_link": "website-ui-redesign",
+                        "sub_menus": [],
+                        "addon": true
+                    },
+                    {
+                        "menu_name": "Digital marketing",
+                        "menu_link": "digital-marketing",
+                        "sub_menus": [],
+                        "addon": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "menu_name": "About Us",
+        "menu_link": "about",
+        "sub_menus": []
+    },
+    {
+        "menu_name": "Contact",
+        "menu_link": "contact",
+        "sub_menus": []
+    }
+]

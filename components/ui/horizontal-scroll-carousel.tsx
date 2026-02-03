@@ -1,0 +1,54 @@
+"use client"
+
+import * as React from "react"
+import { motion, useTransform, useScroll } from "framer-motion"
+import Image from "next/image"
+
+interface HorizontalScrollCarouselProps {
+    images: string[]
+}
+
+const HorizontalScrollCarousel: React.FC<HorizontalScrollCarouselProps> = ({ images }) => {
+    const targetRef = React.useRef<HTMLDivElement>(null)
+    const { scrollYProgress } = useScroll({
+        target: targetRef,
+        offset: ["start end", "end start"]
+    })
+
+    const x = useTransform(scrollYProgress, [0, 1], ["5%", "-95%"])
+
+    return (
+        <section
+            ref={targetRef}
+            className="relative h-[100vh] w-full"
+        >
+            <div className="sticky top-0 flex h-screen items-center overflow-hidden">
+                <motion.div
+                    style={{ x }}
+                    className="flex gap-4"
+                >
+                    {images.map((src, i) => (
+                        <Card
+                            src={src}
+                            key={i}
+                        />
+                    ))}
+                </motion.div>
+            </div>
+        </section>
+    )
+}
+
+const Card: React.FC<{ src: string }> = ({ src }) => {
+    return (
+        <div className="group relative h-[450px] w-[450px] overflow-hidden rounded-lg">
+            <img
+                src={src}
+                className="h-full w-full object-cover"
+                alt="carousel image"
+            />
+        </div>
+    )
+}
+
+export { HorizontalScrollCarousel };
