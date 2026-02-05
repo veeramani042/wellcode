@@ -4,6 +4,11 @@
 @import "swiper/css/navigation";
 @import "swiper/css/pagination";
 
+/* ✅ BREAKPOINTS MUST BE HERE */
+/* @theme {
+  --breakpoint-2xl: 1599px;
+} */
+
 @custom-variant dark (&:is(.dark *));
 
 html {
@@ -77,6 +82,8 @@ html {
       transform: rotate(-5deg) scale(0.9);
     }
   }
+
+
 
   --animate-first: moveVertical 30s ease infinite;
   --animate-second: moveInCircle 20s reverse infinite;
@@ -499,4 +506,14 @@ html {
 .glass-scroll::-webkit-scrollbar-thumb {
   background: rgba(255, 255, 255, 0.4);
   border-radius: 20px;
+}
+
+@media (min-width: 1536px) and (max-width: 1599px) {
+  .cs-home-title {
+    font-size: 3.2rem;
+  }
+
+  .cs-home-bg-image {
+    height: 325px;
+  }
 }

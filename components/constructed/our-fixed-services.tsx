@@ -41,7 +41,7 @@ const items = [
         description:
             "Our creative design services help brands communicate clearly across all channels. From marketing assets to digital visuals and campaigns, we blend strategy and creativity to drive engagement and conversions.",
         slug: "creative-sector",
-        image: "/assets/images/service-images/day-to-dusk/day_to_dusk_after_4.avif",
+        image: "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_01.avif", 
     },
 ];
 
@@ -110,11 +110,11 @@ export default function OurFixedServices() {
                     className="absolute inset-0 flex items-center justify-center px-4"
                 >
                     <div className="text-center max-w-5xl mx-auto">
-                        <h2 className="tracking-tight mb-6 text-4xl sm:text-5xl lg:text-7xl">
+                        <h2 className="tracking-tight mb-6 text-4xl sm:text-5xl 2xl:text-7xl cs-home-title">
                             <AuroraText>{item.title}</AuroraText>
                         </h2>
 
-                        <MotionDiv className="w-full h-[250px] md:h-[325px] 2xl:h-[450px] bg-[#090909] rounded-3xl">
+                        <MotionDiv className="w-full h-[250px] md:h-[300px] 2xl:h-[400px] bg-[#090909] rounded-3xl cs-home-bg-image">
                             <div
                                 className="w-full h-full bg-cover bg-center rounded-3xl"
                                 style={{ backgroundImage: `url(${item.image})` }}

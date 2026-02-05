@@ -179,7 +179,7 @@ const Modal = ({
                                         exit={{ opacity: 0, y: -20 }}
                                         transition={{ duration: 0.4, ease: "easeOut" }}>
                                         <motion.h2 className="text-4xl md:text-5xl font-semibold tracking-tight">
-                                            <AuroraText colors={["#0a5128ff", "#ffffffff", "#d2f7e1"]}>{item.title}</AuroraText>
+                                            <AuroraText colors={["#ffe6d6", "#ffffffff", "#f1aa7d"]}>{item.title}</AuroraText>
                                         </motion.h2>
                                         <p className="mt-4 max-w-2xl font-light text-white/70 text-sm">
                                             {item.description}
