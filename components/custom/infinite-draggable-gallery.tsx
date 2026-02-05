@@ -8,18 +8,16 @@ const InfiniteDraggableGallery = (props: Props) => {
     return (
         <DraggableContainer variant="masonry">
             <GridBody>
-                {Array.from({ length: 10 }).map((image, index) => (
+                {Array.from({ length: 15 }).map((image, index) => (
                     <GridItem
                         key={index}
-                        className="relative h-36 w-54 md:h-64 md:w-96"
-                    >
+                        className="relative h-36 w-54 md:h-64 md:w-96">
                         <Image
                             width={400}
                             height={250}
-                            src={`/assets/images/image${String(index + 12).padStart(2, "0")}.webp`}
+                            src={`/assets/images/service-images/our-works/our_works_${String(index + 1).padStart(2, "0")}.avif`}
                             alt={`wellcode-asset-${index}`}
                             className="pointer-events-none absolute h-full w-full object-cover"
-
                         />
                     </GridItem>
                 ))}

@@ -50,6 +50,7 @@ export type PagesContent = ServiceInformation[];
    ========================================================= */
 
 export type ServiceInformation = {
+    base_service: string,
     service_title: string,
     meta_titles: string[];
     meta_descriptions: string[];
@@ -60,6 +61,7 @@ export type ServiceInformation = {
     media: Media;
     general_info?: GeneralInfoSection | null;
     our_works?: OurWorksSection | null;
+    service_slider?: SliderSection | null;
     ai_works?: AiWorksSection | null;
     process?: ProcessSection | null;
     suitable_users?: SuitableUsersSection | null;
@@ -132,6 +134,14 @@ export type OurWorksItem = {
     link?: ContentLink // supports spelling variation in data
     includes?: string[];
     image?: MediaItem | null
+};
+
+// Slider Section
+
+export type SliderSection = {
+    title: string;
+    description?: string[];
+    link?: ContentLink // supports spelling variation in data       
 };
 
 /* =========================================================

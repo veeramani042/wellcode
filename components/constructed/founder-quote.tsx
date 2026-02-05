@@ -59,7 +59,7 @@ const FounderQoute = () => {
                                 viewport={{ once: true, margin: "-100px" }}
                                 transition={{ duration: 0.8, delay: 0.5 }}
                                 className="mb-4 inline-block text-sm font-medium uppercase tracking-[0.2em] text-primary">
-                                Our Foucs
+                                Our Focus
                             </motion.h2>
                             <motion.h2
                                 initial={{ opacity: 0, y: 30 }}

@@ -1,16 +1,25 @@
 "use client";
 
 import { AuroraText } from "../ui/aurora-text";
-import { motion } from "framer-motion";
 import { ReactCompareSlider } from "react-compare-slider";
 import MacWindow from "../custom/mac-window";
 import { Spotlight } from "../ui/spotlight-new";
 import { Media, OurWorksItem, ServiceInformation, UseCaseSection } from "@/lib/model";
+import { AnimatePresence, motion } from "framer-motion";
 import { CircleCheckBig, Sparkles } from "lucide-react";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 import Image from "next/image";
 import { Badge } from "../ui/badge";
+import { Swiper, SwiperSlide } from "swiper/react";
+import type { Swiper as SwiperType } from "swiper";
+import { RainbowButton } from "../ui/rainbow-button";
+import { ShinyButton } from "../ui/shiny-button";
+import { ShineBorder } from "../ui/shine-border";
+import { useRouter } from "next/navigation";
+import { Thumbs } from "swiper/modules";
+import { ReactCompareSliderImage } from "react-compare-slider";
+import { useState } from "react";
 
 export function ServiceFeatures({ usecase }: { usecase: UseCaseSection }) {
     return (
@@ -183,50 +192,158 @@ export const TextWithLink = ({
     );
 };
 
-
-
 type Props = {
     service: ServiceInformation
 }
 
 export default function ServiceInfo({ service }: Props) {
+
+    const [mainSwiper, setMainSwiper] = useState<SwiperType | null>(null);
+    const [thumbsSwiper, setThumbsSwiper] = useState<SwiperType | null>(null);
+    const router = useRouter();
+
     return (
         <div className="relative z-10 py-20">
             <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/5 via-transparent to-[#a855f7]/5 blur-3xl" />
-            <div className="max-w-7xl mx-auto items-center px-4">
-                <motion.div
-                    initial={{ y: 80, opacity: 0 }}
-                    whileInView={{ y: [80, -10, 0], opacity: 1 }}
-                    transition={{
-                        duration: 1,
-                        ease: "easeOut",
-                        bounce: 0.4,
-                    }}
-                    viewport={{ once: true, amount: 0.2 }}
-                    className="text-center my-20 md:my-30"
-                >
-                    <h1 className="block text-4xl font-semibold md:font-normal mb-5 leading-tight md:text-5xl lg:text-8xl">
-                        <AuroraText>
-                            {service.header.title}
-                        </AuroraText>
-                    </h1>
-                    {
-                        service.header.sub_title &&
-                        <h2 className="text-2xl md:text-4xl text-white/80 max-w-2xl mx-auto my-4 md:my-8">
-                            <AuroraText>{service.header.sub_title}</AuroraText>
-                        </h2>
-                    }
-                    <p className="text-lg text-white/80 max-w-4xl mx-auto">
+
+            {
+                service.service_slider &&
+                <div className="max-w-[100rem] mx-auto items-center px-4">
+                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-3 md:gap-x-10 p-5 md:p-10 h-full">
+                        {/* Left Content */}
+                        <div className=" relative z-10">
+                            <div className="w-full content-end">
+                                <Swiper
+                                    onSwiper={setMainSwiper}
+                                    modules={[Thumbs]}
+                                    spaceBetween={10}
+                                    slidesPerView={1}
+                                    allowTouchMove={false}
+                                    className="overflow-hidden rounded-xl lg:mt-10 h-full">
+                                    {service.media.images.map((src, i) => (
+                                        <SwiperSlide key={i}>
+                                            {src.filepath.endsWith(".mp4") ? (
+                                                <video
+                                                    src={src.filepath}
+                                                    className="h-full w-full object-cover rounded-xl"
+                                                    loop
+                                                    muted
+                                                    autoPlay
+                                                    playsInline
+                                                />
+                                            ) : (
+                                                <img
+                                                    src={src.filepath}
+                                                    alt=""
+                                                    className="h-full w-full object-cover rounded-xl min-h-[300px] md:min-h-[485px] max-h-[300px] md:max-h-[485px]"
+                                                />
+                                            )}
+                                        </SwiperSlide>
+                                    ))}
+                                </Swiper>
+                            </div>
+                            {/* Thumbnails */}
+                            <Swiper
+                                onSwiper={setThumbsSwiper}
+                                spaceBetween={10}
+                                slidesPerView={4}
+                                watchSlidesProgress
+                                className="mt-5 w-full max-w-5xl">
+                                {service.media.images.map((src, i) => (
+                                    <SwiperSlide key={i}>
+                                        <motion.img
+                                            src={src.filepath}
+                                            alt={`Thumb ${i}`}
+                                            onClick={() => mainSwiper?.slideTo(i)}
+                                            initial={{ opacity: 0, y: 20 }}
+                                            animate={{ opacity: 1, y: 0 }}
+                                            transition={{ delay: i * 0.1 }}
+                                            className="min-h-[80px] md:min-h-[130px] object-cover rounded-md border-2 border-gray-300 hover:border-blue-500 cursor-pointer"
+                                        />
+                                    </SwiperSlide>
+                                ))}
+                            </Swiper>
+
+                        </div>
+
+                        {/* Right Content (SCROLLABLE) */}
+                        <div className="content-center relative space-y-3 z-10 py-5 overflow-auto h-full" style={{ maxHeight: "calc(100vh - 155px)" }}>
+                            <div className="relative max-w-6xl mx-auto md:px-6">
+                                <AnimatePresence mode="wait">
+                                    <motion.div
+                                        key={service.service_slider.title}
+                                        initial={{ opacity: 0, y: 20 }}
+                                        animate={{ opacity: 1, y: 0 }}
+                                        exit={{ opacity: 0, y: -20 }}
+                                        transition={{ duration: 0.4, ease: "easeOut" }}>
+                                        <motion.h2 className="text-4xl md:text-5xl xl:text-7xl font-semibold tracking-tight">
+                                            <AuroraText colors={["#0a5128ff", "#ffffffff", "#d2f7e1"]}>{service.service_slider.title}</AuroraText>
+                                        </motion.h2>
+                                        <p className="mt-6 max-w-2xl font-light text-white/70 text-sm md:text-base">
+                                            {service.service_slider.description}
+                                        </p>
+                                    </motion.div>
+                                </AnimatePresence>
+                                <div className="flex gap-3 items-center">
+                                    <RainbowButton
+                                        className="mt-8 rounded-3xl px-5 py-4"
+                                        onClick={() => router.push(`/contact`)}>
+                                        Explore
+                                    </RainbowButton>
+                                    <ShinyButton
+                                        onClick={() =>
+                                            router.push(`/contact`)
+                                        }
+                                        className="mt-8 rounded-3xl px-5 py-2">
+                                        <ShineBorder />
+                                        Book service
+                                    </ShinyButton>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            {
+                service.base_service !== "Real Estate Image Editing" &&
+                <div className="max-w-7xl mx-auto items-center px-4">
+                    <motion.div
+                        initial={{ y: 80, opacity: 0 }}
+                        whileInView={{ y: [80, -10, 0], opacity: 1 }}
+                        transition={{
+                            duration: 1,
+                            ease: "easeOut",
+                            bounce: 0.4,
+                        }}
+                        viewport={{ once: true, amount: 0.2 }}
+                        className="text-center my-20 md:my-30"
+                    >
+                        <h1 className="block text-4xl font-semibold md:font-normal mb-5 leading-tight md:text-5xl lg:text-8xl">
+                            <AuroraText>
+                                {service.header.title}
+                            </AuroraText>
+                        </h1>
                         {
-                            service?.header?.link ?
-                                <TextWithLink
-                                    text={service?.header?.descriptions?.join("\n")} link={service?.header?.link}
-                                />
-                                : service?.header?.descriptions?.join("\n")
+                            service.header.sub_title &&
+                            <h2 className="text-2xl md:text-4xl text-white/80 max-w-2xl mx-auto my-4 md:my-8">
+                                <AuroraText>{service.header.sub_title}</AuroraText>
+                            </h2>
                         }
-                    </p>
-                </motion.div>
-            </div>
+                        <p className="text-lg text-white/80 max-w-4xl mx-auto">
+                            {
+                                service?.header?.link ?
+                                    <TextWithLink
+                                        text={service?.header?.descriptions?.join("\n")} link={service?.header?.link}
+                                    />
+                                    : service?.header?.descriptions?.join("\n")
+                            }
+                        </p>
+                    </motion.div>
+                </div>
+            }
+
+
             {
                 service.our_works &&
                 <div className="max-w-7xl mx-auto items-center px-4">
@@ -389,8 +506,8 @@ export default function ServiceInfo({ service }: Props) {
                                                             src={service.media.comparison.before.filepath}
                                                             alt={service.media.comparison.before.alt}
                                                             className="rounded-b-xl object-cover h-full w-full"
-                                                            width={1200}
-                                                            height={800}
+                                                            fill
+                                                            quality={100}
                                                             loading="lazy"
                                                         />
                                                     </div>
@@ -401,8 +518,8 @@ export default function ServiceInfo({ service }: Props) {
                                                             src={service.media.comparison.after.filepath}
                                                             alt={service.media.comparison.after.alt}
                                                             className="rounded-b-xl object-cover h-full w-full"
-                                                            width={1200}
-                                                            height={800}
+                                                            fill
+                                                            quality={100}
                                                             loading="lazy"
                                                         />
                                                     </div>
