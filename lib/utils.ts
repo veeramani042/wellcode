@@ -1059,7 +1059,7 @@ export const servicesData = [
                 description:
                     "At Well Code Studio, we professionally enhance automobile images to present vehicles with sharp detail, accurate colors, and strong visual impact. Our automobile image editing delivers clean, realistic, and marketing-ready visuals that build buyer confidence and improve online engagement.",
                 features: ["Background Cleanup & Isolation", "Lighting & Reflection Control", "Paint & Surface Retouching", "Shadow & Depth Enhancement"],
-                feature_content: ["Remove’s distracting surroundings and places vehicles on clean or custom backgrounds to keep full focus on the car.", "Balances highlights, reduces glare, and refines reflections for clear, polished vehicle presentation.", "Eliminates scratches, dust, and imperfections while preserving original paint texture and realism.", "Adds natural ground shadows and depth to create a professional, showroom-quality look."],
+                feature_content: ["Remove’s distracting surroundings and places vehicles  on clean or custom backgrounds to keep full focus on the car.", "Balances highlights, reduces glare, and refines reflections for clear, polished vehicle presentation.", "Eliminates scratches, dust, and imperfections while preserving original paint texture and realism.", "Adds natural ground shadows and depth to create a professional, showroom-quality look."],
                 slider_images: [
                     { filepath: "/assets/images/service-images/our-works/our_works_01.avif" },
                     { filepath: "/assets/images/service-images/our-works/our_works_02.avif" },
