@@ -229,7 +229,7 @@ const menus = [
                         sub_menus: []
                     },
                     {
-                        menu_name: "Drand Identity Design",
+                        menu_name: "Brand Identity Design",
                         menu_link: "/brand-identity-design",
                         icon: "",
                         sub_menus: []
@@ -391,6 +391,8 @@ export function NavBar({ }: NavBarProps) {
                         src={"/wcs_logo.png"}
                         alt="Wellcode"
                         className="max-w-8 object-contain"
+                        loading="lazy"
+                        sizes="(max-width: 768px) 100vw, 50px"
                     />
                     <h6 className="text-xl font-semibold">Wellcode</h6>
                 </Link>

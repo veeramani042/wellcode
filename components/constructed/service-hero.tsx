@@ -19,7 +19,7 @@ const items = [
         id: 1,
         title: "REAL ESTATE SECTOR",
         subtitle: "",
-        count: 6,
+        count: 16,
         icon: (
             <path d="M12 2L15 8H9l3-6z" />
         ),
@@ -28,25 +28,25 @@ const items = [
     },
     {
         id: 2,
-        title: "COMMERCIAL SECTOR",
+        title: "IMAGING SECTOR",
         subtitle: "Subtitle goes here",
         icon: (
             <circle cx="12" cy="12" r="10" />
         ),
         position: "justify-center translate-y-[100px]",
         delay: 0.2,
-        count: 3,
+        count: 10,
     },
     {
         id: 3,
-        title: "TECH SECTOR",
+        title: "SOFTWARE SECTOR",
         subtitle: "Subtitle goes here",
         icon: (
             <rect x="4" y="4" width="16" height="16" />
         ),
         position: "justify-center translate-y-[100px]",
         delay: 0.4,
-        count: 3
+        count: 8
     },
     {
         id: 4,
@@ -57,7 +57,7 @@ const items = [
         ),
         position: "justify-end translate-y-[-40px]",
         delay: 0.6,
-        count: 2
+        count: 8
     }
 ]
 
@@ -96,10 +96,10 @@ const ServiceHero = (props: Props) => {
                     by="word"
                     className="max-w-3xl mx-auto mt-5 text-xl text-neutral-300"
                 >
-                    WellCode Studio replaces legacy outsourcing with neural-driven digital craftsmanship. We architect the visual future of global brands.
+                    A centralized production partner for real estate media, high-end image editing, creative design, and digital product development. We replace fragmented outsourcing with structured, scalable execution. Built for brands that demand precision, speed, and uncompromising quality.
                 </TextAnimate>
                 <RainbowButton onClick={e => router.push("#content")} className="flex gap-2 py-6 px-10 text-neutral-700 text-lg font-semibold rounded-4xl mx-auto mt-10">
-                    {"Explore"}
+                    {"Explore Our Capabilities"}
                     <ArrowRight className="ml-2 h-5 w-5" />
                 </RainbowButton>
                 <motion.div

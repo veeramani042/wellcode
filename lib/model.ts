@@ -1,4 +1,4 @@
-import { LucideIcon } from "lucide-react"
+import type { LucideIcon } from "lucide-react";
 
 export type ServiceType = {
     id: number
@@ -24,6 +24,7 @@ export interface ServiceCard {
     description: string;
     features?: string[]; // optional, because some cards don't have features
     feature_content?: string[]; // optional, because some cards don't have features
+    slider_images?: { filepath: string }[] // optional, because some cards don't have features
     images: string[],
     slug: string
 }
@@ -60,6 +61,7 @@ export type ServiceInformation = {
     header: HeaderSection;
     media: Media;
     general_info?: GeneralInfoSection | null;
+    work_info?: WorkInfoSection | null;
     our_works?: OurWorksSection | null;
     service_slider?: SliderSection | null;
     ai_works?: AiWorksSection | null;
@@ -108,6 +110,18 @@ export type GeneralInfoSection = {
         link?: ContentLink
         phrase_text?: string;
     };
+};
+
+export type WorkInfoItem = {
+    icon: keyof typeof import("lucide-react");
+    content: string;
+};
+
+export type WorkInfoSection = {
+    title: string;
+    descriptions: string[];
+    list: WorkInfoItem[];
+    sub_title: string;
 };
 
 /* =========================================================

@@ -18,6 +18,8 @@ const InfiniteDraggableGallery = (props: Props) => {
                             src={`/assets/images/service-images/our-works/our_works_${String(index + 1).padStart(2, "0")}.avif`}
                             alt={`wellcode-asset-${index}`}
                             className="pointer-events-none absolute h-full w-full object-cover"
+                            loading="lazy"
+                            sizes="(max-width: 768px) 100vw, 400px"
                         />
                     </GridItem>
                 ))}

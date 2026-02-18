@@ -5,7 +5,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { AuroraText } from "../ui/aurora-text";
 import { BorderBeam } from "../ui/border-beam";
 import { servicesData } from "@/lib/utils";
-import { ChevronLeft, ChevronRight, Sparkle } from "lucide-react";
+import { ChevronLeft, ChevronRight, Sparkle, X } from "lucide-react";
 import Link from "next/link";
 import { Badge } from "../ui/badge";
 import { ServiceCard, ServiceSection } from "@/lib/model";
@@ -13,6 +13,7 @@ import { useRouter } from "next/navigation";
 import { PortalModal } from "../custom/modal";
 import { ReactCompareSlider, ReactCompareSliderImage } from "react-compare-slider";
 import { Swiper, SwiperSlide } from "swiper/react";
+import type { Swiper as SwiperType } from "swiper";
 import { Thumbs } from "swiper/modules";
 import { RainbowButton } from "../ui/rainbow-button";
 import { ShinyButton } from "../ui/shiny-button";
@@ -74,7 +75,8 @@ const Modal = ({
     category = "",
     setActiveIndex,
 }: PopperModalProps) => {
-    const [thumbsSwiper, setThumbsSwiper] = useState<any>(null);
+    const [mainSwiper, setMainSwiper] = useState<SwiperType | null>(null);
+    const [thumbsSwiper, setThumbsSwiper] = useState<SwiperType | null>(null);
     const router = useRouter();
 
     useEffect(() => {
@@ -94,138 +96,140 @@ const Modal = ({
             >
                 {/* CONTENT */}
                 <div className="flex-1 lg:overflow-hidden">
-                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-3 md:gap-x-10 p-5 md:p-10 h-full max-h-[90vh] overflow-auto lg:max-h-none">
-                        {/* Left Content */}
-                        <div className="hidden md:block relative z-10">
-                            <div className="w-full content-end">
-                                <Swiper
-                                    modules={[Thumbs]}
-                                    spaceBetween={10}
-                                    allowTouchMove={false}
-                                    slidesPerView={1}
-                                    thumbs={{ swiper: thumbsSwiper }}
-                                    className="overflow-hidden rounded-xl lg:mt-10 h-full"
-                                >
-                                    {images.map((src, i) => (
-                                        <SwiperSlide key={i} className="h-auto">
-                                            {i === 1 ? (
-                                                <ReactCompareSlider
-                                                    className="h-full"
-                                                    itemOne={
-                                                        <ReactCompareSliderImage
-                                                            src="/assets/images/image09.jpg"
-                                                            alt="Before"
-                                                        />
-                                                    }
-                                                    itemTwo={
-                                                        <ReactCompareSliderImage
-                                                            src="/assets/images/image31.webp"
-                                                            alt="After"
-                                                        />
-                                                    }
-                                                />
-                                            ) : (
-                                                <video
-                                                    src={"/assets/videos/home.mp4"}
-                                                    className="h-full w-full object-cover"
-                                                    loop
-                                                    playsInline
-                                                    muted
-                                                    autoPlay
-                                                    controls={false}
-                                                />
-                                            )}
-                                        </SwiperSlide>
-                                    ))}
-                                </Swiper>
-                            </div>
-
-                            {/* Thumbnails */}
-                            <Swiper
-                                onSwiper={setThumbsSwiper}
-                                spaceBetween={10}
-                                slidesPerView={4}
-                                watchSlidesProgress
-                                className="mt-5 w-full max-w-5xl"
-                            >
-                                {images.map((src, i) => (
-                                    <SwiperSlide key={i}>
-                                        <motion.img
-                                            layout
-                                            src={src}
-                                            initial={{ opacity: 0, y: 20 }}
-                                            animate={{ opacity: 1, y: 0 }}
-                                            transition={{ delay: i * 0.2 }}
-                                            alt={`Thumb ${i}`}
-                                            className="w-full h-20 object-cover rounded-md border-2 border-gray-300 hover:border-blue-500 transition cursor-pointer"
-                                        />
-                                    </SwiperSlide>
-                                ))}
-                            </Swiper>
+                    <div className="p-5 md:p-10">
+                        <div className="text-right">
+                            <button
+                                onClick={onClose}
+                                className="p-2 text-right cursor-pointer">
+                                <X size={24} />  {/* size can be adjusted */}
+                            </button>
                         </div>
+                        <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-3 md:gap-x-10 h-full max-h-[90vh] overflow-auto lg:max-h-none">
+                            {/* Left Content */}
+                            <div className="relative z-10">
+                                {item.slider_images && item.slider_images.length > 0 && (
+                                    <>
+                                        {/* Main Slider */}
+                                        <Swiper
+                                            onSwiper={setMainSwiper}
+                                            modules={[Thumbs]}
+                                            thumbs={{ swiper: thumbsSwiper && !thumbsSwiper.destroyed ? thumbsSwiper : null, }}
+                                            spaceBetween={10}
+                                            slidesPerView={1}
+                                            allowTouchMove={false}
+                                            className="overflow-hidden rounded-xl"
+                                        >
+                                            {item.slider_images.map((src, i) => (
+                                                <SwiperSlide key={i}>
+                                                    {src.filepath.endsWith(".mp4") ? (
+                                                        <video
+                                                            src={src.filepath}
+                                                            className="h-full w-full object-cover rounded-xl"
+                                                            loop
+                                                            muted
+                                                            autoPlay
+                                                            playsInline
+                                                        />
+                                                    ) : (
+                                                        <motion.img
+                                                            src={src.filepath}
+                                                            alt={`Slide ${i}`}
+                                                            loading="lazy"
+                                                            className="h-full w-full object-cover rounded-xl min-h-[300px] md:min-h-[485px] max-h-[300px] md:max-h-[485px]"
+                                                        />
+                                                    )}
+                                                </SwiperSlide>
+                                            ))}
+                                        </Swiper>
 
-                        {/* Right Content (SCROLLABLE) */}
-                        <div className="content-center relative space-y-3 z-10 py-5 overflow-auto h-full" style={{ maxHeight: "calc(100vh - 155px)" }}>
-                            <div className="relative max-w-6xl mx-auto md:px-6">
-                                <p className="flex gap-2 items-center tracking-wider uppercase mb-5 text-xs text-muted-foreground">
-                                    <Sparkle size={16} className="text-teal-900" /> {category}
-                                </p>
-
-                                <AnimatePresence mode="wait">
-                                    <motion.div
-                                        key={item.title}
-                                        initial={{ opacity: 0, y: 20 }}
-                                        animate={{ opacity: 1, y: 0 }}
-                                        exit={{ opacity: 0, y: -20 }}
-                                        transition={{ duration: 0.4, ease: "easeOut" }}>
-                                        <motion.h2 className="text-4xl md:text-5xl font-semibold tracking-tight">
-                                            <AuroraText colors={["#ffe6d6", "#ffffffff", "#f1aa7d"]}>{item.title}</AuroraText>
-                                        </motion.h2>
-                                        <p className="mt-4 max-w-2xl font-light text-white/70 text-sm">
-                                            {item.description}
-                                        </p>
-                                        {/* <p className="mt-4 max-w-2xl font-light text-white/70 text-sm">
-                                            {item.title} : {item.description}
-                                        </p> */}
-                                    </motion.div>
-                                </AnimatePresence>
-
-                                {item?.features && (
-                                    <div className="mt-4 md:mt-10 grid grid-cols-1 md:grid-cols-2 gap-x-4 gap-y-4 md:gap-y-8">
-                                        {item.features.map((feature, i) => (
-                                            <motion.div
-                                                key={feature}
-                                                initial={{ opacity: 0, y: 10 }}
-                                                animate={{ opacity: 1, y: 0 }}
-                                                transition={{ delay: 0.1 }}
-                                                className="group relative p-3 rounded-xl hover:bg-white/10 cursor-pointer">
-                                                <p className="font-medium mt-1 text-white/80">{feature}</p>
-                                                <p className="text-sm font-light text-white/60 mt-1">
-                                                    {item.feature_content?.[i] || "No content available"}
-                                                </p>
-                                            </motion.div>
-                                        ))}
-
-                                    </div>
+                                        {/* Thumbnails */}
+                                        <Swiper
+                                            onSwiper={setThumbsSwiper}
+                                            spaceBetween={10}
+                                            slidesPerView={4}
+                                            watchSlidesProgress
+                                            modules={[Thumbs]}
+                                            className="mt-5 w-full max-w-5xl"
+                                        >
+                                            {item.slider_images.map((src, i) => (
+                                                <SwiperSlide key={i}>
+                                                    <motion.img
+                                                        src={src.filepath}
+                                                        alt={`Thumb ${i}`}
+                                                        onClick={() => mainSwiper?.slideTo(i)}
+                                                        className="min-h-[80px] md:min-h-[130px] max-h-[130px] w-100 object-cover rounded-md border-2 border-gray-300 hover:border-blue-500 cursor-pointer"
+                                                    />
+                                                </SwiperSlide>
+                                            ))}
+                                        </Swiper>
+                                    </>
                                 )}
 
-                                <div className="flex gap-3 items-center">
-                                    <RainbowButton
-                                        className="mt-8 rounded-3xl px-5 py-4"
-                                        onClick={() =>
-                                            router.push(`/services/${item.slug}#content`)
-                                        }
-                                    >
-                                        Explore
-                                    </RainbowButton>
-                                    <ShinyButton
-                                        onClick={() =>
-                                            router.push(`/contact`)
-                                        }
-                                        className="mt-8 rounded-3xl px-5 py-2">
-                                        <ShineBorder />
-                                        Book service
-                                    </ShinyButton>
+                            </div>
+
+                            {/* Right Content (SCROLLABLE) */}
+                            <div className="content-center relative space-y-3 z-10 py-5 overflow-auto h-full" style={{ maxHeight: "calc(100vh - 155px)" }}>
+                                <div className="relative max-w-6xl mx-auto md:px-6">
+                                    <p className="flex gap-2 items-center tracking-wider uppercase mb-5 text-xs text-muted-foreground">
+                                        <Sparkle size={16} className="text-teal-900" /> {category}
+                                    </p>
+
+                                    <AnimatePresence mode="wait">
+                                        <motion.div
+                                            key={item.title}
+                                            initial={{ opacity: 0, y: 20 }}
+                                            animate={{ opacity: 1, y: 0 }}
+                                            exit={{ opacity: 0, y: -20 }}
+                                            transition={{ duration: 0.4, ease: "easeOut" }}>
+                                            <motion.h2 className="text-4xl md:text-5xl font-semibold tracking-tight">
+                                                <AuroraText colors={["#ffe6d6", "#ffffffff", "#f1aa7d"]}>{item.title}</AuroraText>
+                                            </motion.h2>
+                                            <p className="mt-4 max-w-2xl font-light text-white/70 text-sm">
+                                                {item.description}
+                                            </p>
+                                            {/* <p className="mt-4 max-w-2xl font-light text-white/70 text-sm">
+                                            {item.title} : {item.description}
+                                        </p> */}
+                                        </motion.div>
+                                    </AnimatePresence>
+
+                                    {item?.features && (
+                                        <div className="mt-4 md:mt-10 grid grid-cols-1 md:grid-cols-2 gap-x-4 gap-y-4 md:gap-y-8">
+                                            {item.features.map((feature, i) => (
+                                                <motion.div
+                                                    key={feature}
+                                                    initial={{ opacity: 0, y: 10 }}
+                                                    animate={{ opacity: 1, y: 0 }}
+                                                    transition={{ delay: 0.1 }}
+                                                    className="group relative p-3 rounded-xl hover:bg-white/10 cursor-pointer">
+                                                    <p className="font-medium mt-1 text-white/80">{feature}</p>
+                                                    <p className="text-sm font-light text-white/60 mt-1">
+                                                        {item.feature_content?.[i] || "No content available"}
+                                                    </p>
+                                                </motion.div>
+                                            ))}
+
+                                        </div>
+                                    )}
+
+                                    <div className="flex gap-3 items-center">
+                                        <RainbowButton
+                                            className="mt-8 rounded-3xl px-5 py-4"
+                                            onClick={() =>
+                                                router.push(`/services/${item.slug}#content`)
+                                            }
+                                        >
+                                            Explore
+                                        </RainbowButton>
+                                        <ShinyButton
+                                            onClick={() =>
+                                                router.push(`/contact`)
+                                            }
+                                            className="mt-8 rounded-3xl px-5 py-2">
+                                            <ShineBorder />
+                                            Book service
+                                        </ShinyButton>
+                                    </div>
                                 </div>
                             </div>
                         </div>

@@ -1,7 +1,6 @@
 import AboutFeautres from '@/components/constructed/about-feature'
 import AboutHero from '@/components/constructed/about-hero'
 import AboutTimeline from '@/components/constructed/about-timeline'
-import AboutWorkPlatforms from '@/components/constructed/about-work-platforms'
 import LandingFooter from '@/components/constructed/landing-footer'
 import ServiceManagement from '@/components/constructed/service-management'
 import ComingSoonSection from '@/components/custom/comming-soon'
@@ -23,8 +22,7 @@ function AboutPage({ }: Props) {
             <AboutHero />
             <AboutFeautres />
             <AboutTimeline />
-            <ServiceManagement />
-            {/* <AboutWorkPlatforms /> */}
+            <ServiceManagement />            
             <ComingSoonSection />
             <LandingFooter />
         </ScrollSmoothWrapper>

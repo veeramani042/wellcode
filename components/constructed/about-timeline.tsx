@@ -290,14 +290,16 @@ export default function TimelineAbout() {
                                         }}
                                         className="relative"
                                     >
-                                        <img
+                                        <motion.img
                                             src={data.image}
                                             alt="Placeholder"
+                                            loading="lazy"
                                             className="w-full h-60 md:h-80 lg:h-100 max-h-100 object-cover rounded-4xl"
                                         />
-                                        <img
+                                        <motion.img
                                             src={data.image}
                                             alt="Placeholder"
+                                            loading="lazy"
                                             className="w-full h-60 md:h-80 lg:h-100 max-h-100 object-cover rounded-4xl absolute top-10 -right-10 blur-3xl -z-1"
                                         />
                                     </motion.div>

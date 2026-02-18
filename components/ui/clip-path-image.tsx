@@ -1,4 +1,5 @@
 import React from 'react';
+import { motion } from "framer-motion"
 
 interface ClippedMediaGalleryProps extends React.ComponentPropsWithoutRef<'section'> {
     media?: {
@@ -48,7 +49,7 @@ const ClipWrapper = React.forwardRef<HTMLElement, ClippedMediaGalleryProps>(
                 <figure ref={ref} className={className || ""} style={{ clipPath: `url(#${media?.clipId || "clip-another"})` }}>
                     {
                         media?.type === "image" ?
-                            <img src={media?.src} className='transition-all duration-300 aspect-4/6 h-full align-bottom object-cover hover:scale-105 w-full' /> :
+                            <motion.img src={media?.src} loading="lazy" className='transition-all duration-300 aspect-4/6 h-full align-bottom object-cover hover:scale-105 w-full' /> :
                             <video
                                 autoPlay
                                 muted

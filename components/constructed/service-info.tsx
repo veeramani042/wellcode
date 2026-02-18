@@ -1,12 +1,13 @@
 "use client";
-
 import { AuroraText } from "../ui/aurora-text";
 import { ReactCompareSlider } from "react-compare-slider";
 import MacWindow from "../custom/mac-window";
 import { Spotlight } from "../ui/spotlight-new";
-import { Media, OurWorksItem, ServiceInformation, UseCaseSection } from "@/lib/model";
+import { Media, OurWorksItem, ServiceInformation, UseCaseSection, WorkInfoItem, WorkInfoSection } from "@/lib/model";
 import { AnimatePresence, motion } from "framer-motion";
 import { CircleCheckBig, Sparkles } from "lucide-react";
+import * as LucideIcons from "lucide-react";
+import type { LucideIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 import Image from "next/image";
@@ -18,7 +19,6 @@ import { ShinyButton } from "../ui/shiny-button";
 import { ShineBorder } from "../ui/shine-border";
 import { useRouter } from "next/navigation";
 import { Thumbs } from "swiper/modules";
-import { ReactCompareSliderImage } from "react-compare-slider";
 import { useState } from "react";
 
 export function ServiceFeatures({ usecase }: { usecase: UseCaseSection }) {
@@ -192,6 +192,28 @@ export const TextWithLink = ({
     );
 };
 
+function normalizeWorkInfo(work_info: any): WorkInfoSection | null {
+    if (!work_info) return null;
+
+    const list: WorkInfoItem[] =
+        work_info.list?.map((item: any) => {
+            if (typeof item === "string") {
+                return { icon: "CircleCheckBig", content: item }; // fallback icon
+            }
+            if (item.icon && item.content) {
+                return { icon: item.icon, content: item.content };
+            }
+            return { icon: "CircleCheckBig", content: "No content" };
+        }) ?? [];
+
+    return {
+        title: work_info.title ?? "",
+        sub_title: work_info.sub_title ?? "",
+        descriptions: work_info.descriptions ?? [],
+        list,
+    };
+}
+
 type Props = {
     service: ServiceInformation
 }
@@ -201,6 +223,8 @@ export default function ServiceInfo({ service }: Props) {
     const [mainSwiper, setMainSwiper] = useState<SwiperType | null>(null);
     const [thumbsSwiper, setThumbsSwiper] = useState<SwiperType | null>(null);
     const router = useRouter();
+    const workInfo: WorkInfoSection | null = normalizeWorkInfo(service.work_info);
+    if (!workInfo) return null;
 
     return (
         <div className="relative z-10 py-20">
@@ -208,8 +232,12 @@ export default function ServiceInfo({ service }: Props) {
 
             {
                 service.service_slider &&
-                <div className="max-w-[100rem] mx-auto items-center px-4">
-                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-3 md:gap-x-10 p-5 md:p-10 h-full">
+                <div className="max-w-[100rem] mx-auto items-center px-4 relative">
+                    {/* Optimized Two-Layer Gradient Glow */}
+                    {/* <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/10 via-transparent to-[#a855f7]/10 blur-xl" />
+                    <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/20 via-transparent to-[#a855f7]/20 blur-xl" /> */}
+
+                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-3 md:gap-x-10 md:p-10 h-full">
                         {/* Left Content */}
                         <div className=" relative z-10">
                             <div className="w-full content-end">
@@ -232,9 +260,10 @@ export default function ServiceInfo({ service }: Props) {
                                                     playsInline
                                                 />
                                             ) : (
-                                                <img
+                                                <motion.img
                                                     src={src.filepath}
                                                     alt=""
+                                                    loading="lazy"
                                                     className="h-full w-full object-cover rounded-xl min-h-[300px] md:min-h-[485px] max-h-[300px] md:max-h-[485px]"
                                                 />
                                             )}
@@ -258,6 +287,7 @@ export default function ServiceInfo({ service }: Props) {
                                             initial={{ opacity: 0, y: 20 }}
                                             animate={{ opacity: 1, y: 0 }}
                                             transition={{ delay: i * 0.1 }}
+                                            loading="lazy"
                                             className="min-h-[80px] md:min-h-[130px] object-cover rounded-md border-2 border-gray-300 hover:border-blue-500 cursor-pointer"
                                         />
                                     </SwiperSlide>
@@ -343,7 +373,6 @@ export default function ServiceInfo({ service }: Props) {
                 </div>
             }
 
-
             {
                 service.our_works &&
                 <div className="max-w-7xl mx-auto items-center px-4">
@@ -393,224 +422,194 @@ export default function ServiceInfo({ service }: Props) {
                     } */}
                 </div>
             }
+
             {
-                service.process &&
-                <div className="max-w-7xl mx-auto relative mt-15 md:mt-30 px-4">
+                service.work_info &&
+                <section className="max-w-7xl mx-auto px-6 py-24 relative">
                     <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/5 via-transparent to-[#a855f7]/5 blur-3xl" />
                     <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/10 via-transparent to-[#a855f7]/10 blur-3xl" />
-                    {/* First main column */}
-                    <motion.div
-                        initial={{ y: 80, opacity: 0 }}
-                        whileInView={{ y: [80, -10, 0], opacity: 1 }}
-                        transition={{ duration: 1, ease: "easeOut", bounce: 0.4, delay: .3 }}
-                        viewport={{ once: true, amount: 0.2 }}
-                    >
-                        <span className="block mb-3 text-xs md:text-sm font-medium uppercase tracking-[0.2em] text-muted-foreground">
-                            {"Our Process"}
-                        </span>
-                        <h2 className="mb-6 inline-block text-3xl sm:text-4xl md:text-6xl font-medium leading-tight">
-                            <AuroraText>
-                                {service.process?.title}
-                            </AuroraText>
-                        </h2>
-                        <p className="text-muted-foreground max-w-xl">
-                            {
-                                service.process?.link ?
-                                    <TextWithLink
-                                        text={service.process?.descriptions?.join(" ")}
-                                        link={service.process?.link}
-                                    /> :
-                                    service.process?.descriptions?.join(" ")
-                            }
+                    <div className="max-w-4xl space-y-6 mb-16 mx-auto text-center">
+                        <AuroraText className="block text-4xl mb-5 md:text-5xl lg:text-7xl">
+                            {service.work_info?.title}
+                        </AuroraText>
+
+                        <p className="text-gray-400 leading-relaxed">
+                            {service.work_info?.descriptions}
                         </p>
-                    </motion.div>
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-15 mt-10">
-                        <motion.div
-                            initial={{ x: -80, opacity: 0 }}
-                            whileInView={{ x: [-80, -10, 0], opacity: 1 }}
-                            transition={{
-                                duration: 1,
-                                ease: "easeOut",
-                                bounce: 0.4,
-                                delay: .3
-                            }}
-                            viewport={{ once: true }}
-                            className="flex flex-col space-y-4"
-                        >
-                            {
-                                service.process?.steps.map((step, i) => {
-                                    return <div
-                                        key={i}
-                                        className={cn("flex items-center justify-between")}
-                                    >
-                                        <div className="flex items-start space-x-5">
-                                            <span className="text-base  font-light">
-                                                {String(i + 1).padStart(2, "0")}
-                                            </span>
-                                            <div className="pb-4 border-b border-gray-300/10 cursor-pointer relative">
-                                                {/* {i == 0 && <div className="absolute inset-x-0 -bottom-px h-0.5 gradient-line w-25 rounded-xl"></div>} */}
-                                                <span className="text-lg text-gray-400 font-light">
-                                                    <AuroraText>{step.title}</AuroraText>
-                                                </span>
-                                                <div className={cn("text-base font-light text-muted-foreground")}>
-                                                    {
-                                                        step?.link ?
-                                                            <TextWithLink
-                                                                text={step.descriptions?.join(" ")}
-                                                                link={step?.link}
-                                                            /> :
-                                                            step.descriptions?.join(" ")
-                                                    }
-                                                </div>
-                                            </div>
+
+                        <h3 className="text-xl text-gray-300 pt-6">
+                            {service.work_info?.sub_title}
+                        </h3>
+                    </div>
+                    {/* WorkInfo Grid */}
+                    <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                        {workInfo.list.map((item, idx) => {
+                            // TS-safe dynamic icon lookup with fallback
+                            const Icon: LucideIcon =
+                                item.icon in LucideIcons
+                                    ? (LucideIcons[item.icon] as LucideIcon)
+                                    : CircleCheckBig;
+
+                            return (
+                                <motion.div
+                                    key={idx}
+                                    initial={{ opacity: 0, y: 20 }}
+                                    whileInView={{ opacity: 1, y: 0 }}
+                                    viewport={{ once: true }}
+                                    transition={{ duration: 0.5, delay: idx * 0.08 }}
+                                    className="group relative rounded-xl border border-white/10 bg-white/5 p-6 transition-all hover:border-white/20 hover:bg-white/10"
+                                >
+                                    <div className="absolute inset-0 rounded-xl ring-1 ring-transparent group-hover:ring-white/10 transition" />
+
+                                    <div className="flex items-start gap-4">
+                                        {/* Icon */}
+                                        <div className="w-10 h-10 min-w-10 rounded-md bg-white/10 flex items-center justify-center text-gray-200">
+                                            <Icon className="w-5 h-5" />
                                         </div>
 
-                                        {/* Right side: arrow */}
-                                        {/* <span className="text-gray-500/80">
-                                            <ChevronRight size={16} />
-                                        </span> */}
+                                        {/* Content */}
+                                        <p className="text-sm text-gray-400 leading-relaxed">{item.content}</p>
                                     </div>
-                                })
-                            }
-                        </motion.div>
-                        {/* Second main column with two sub-columns */}
-                        <div>
-                            {/* Left sub-column: numbered list */}
-                            <motion.div
-                                initial={{ y: 80, opacity: 0 }}
-                                whileInView={{ y: [80, -10, 0], opacity: 1 }}
-                                transition={{
-                                    duration: 1,
-                                    ease: "easeOut",
-                                    bounce: 0.4,
-                                    delay: .6
-                                }}
-                                viewport={{ once: true, margin: "-100px" }}
-                            >
-                                <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/5 via-transparent to-[#a855f7]/5 blur-3xl" />
-                                <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/10 via-transparent to-[#a855f7]/10 blur-3xl" />
-                                <MacWindow>
-                                    {
-                                        service.media.comparison ?
-                                            // <ImageComparisonSlider
-                                            //     beforeImage={service.media.comparison.before.filepath}
-                                            //     afterImage={service.media.comparison.after.filepath}
-                                            //     alt="Before/After comparison"
-                                            //     className="rounded-b-xl object-cover h-full w-full"
-                                            // />
-                                            <ReactCompareSlider
-                                                style={{ height: "100%" }}
-                                                itemOne={
-                                                    <div className="relative w-full h-full">
-                                                        <Image
-                                                            src={service.media.comparison.before.filepath}
-                                                            alt={service.media.comparison.before.alt}
-                                                            className="rounded-b-xl object-cover h-full w-full"
-                                                            fill
-                                                            quality={100}
-                                                            loading="lazy"
-                                                        />
-                                                    </div>
-                                                }
-                                                itemTwo={
-                                                    <div className="relative w-full h-full">
-                                                        <Image
-                                                            src={service.media.comparison.after.filepath}
-                                                            alt={service.media.comparison.after.alt}
-                                                            className="rounded-b-xl object-cover h-full w-full"
-                                                            fill
-                                                            quality={100}
-                                                            loading="lazy"
-                                                        />
-                                                    </div>
-                                                }
-                                            />
-                                            // <ReactCompareSlider
-                                            //     style={{ height: "100%" }}
-                                            //     itemOne={
-                                            //         <ReactCompareSliderImage
-                                            //             // src={"/assets/images/image01.jpg"}
-                                            //             // alt={"realestate-images"}
-                                            //             src={service.media.comparison.before.filepath}
-                                            //             alt={service.media.comparison.before.alt}
-                                            //             className="rounded-b-xl"
-                                            //         />
-                                            //     }
-                                            //     itemTwo={
-                                            //         <ReactCompareSliderImage
-                                            //             src={service.media.comparison.after.filepath}
-                                            //             alt={service.media.comparison.after.alt}
-                                            //             className="rounded-b-xl"
-                                            //         />
-                                            //     }
-                                            // />
-                                            : (service.media.videos.length > 0 ?
-                                                <>
-                                                    <video
-                                                        // src={service.media.videos[0].filepath}
-                                                        src={"/assets/videos/INSANE REAL.mp4"}
-                                                        className={"object-cover h-full w-full rounded-b-xl"}
-                                                        autoPlay
-                                                        muted
-                                                        playsInline
-                                                    >
+                                </motion.div>
+                            );
+                        })}
+                    </div>
+                </section>
+            }
 
-                                                    </video>
-                                                </>
-                                                :
-                                                service.media.images.length > 0 ?
-                                                    <>
-                                                        <Image
-                                                            src={service.media.images[0].filepath}
-                                                            alt={service.media.images[0].alt}
-                                                            // src={`/assets/images/image${String(Math.floor(Math.random() * 10) + 1).padStart(2, "0")}.jpg`}
-                                                            // alt={service.media.images[0].alt}
-                                                            // alt=""
-                                                            width={600}
-                                                            height={400}
-                                                            className="object-cover h-full w-full rounded-b-xl"
-                                                        />
-                                                    </> : <>
-                                                        <Image
-                                                            // src={service.media.images[0].filepath}
-                                                            // alt={service.media.images[0].alt}
-                                                            src={`/assets/images/image01.jpg`}
-                                                            alt={"edited"}
-                                                            // alt=""
-                                                            width={600}
-                                                            height={400}
-                                                            className="object-cover h-full w-full rounded-b-xl"
-                                                        />
-                                                    </>
-                                            )
-                                    }
-                                </MacWindow>
-                            </motion.div>
-                            {/* Row 2 */}
-                            {/* <motion.div
-                                    initial={{ x: 80, opacity: 0 }}
-                                    whileInView={{ x: [80, -10, 0], opacity: 1 }}
-                                    viewport={{ once: true, }}
-                                    transition={{
-                                        duration: 1,
-                                        ease: "easeOut",
-                                        bounce: 0.4,
-                                        delay: .3
-                                    }}
-                                    className="space-y-4 content-end text-muted-foreground font-light"
+            {
+                service.ai_works &&
+                <div className={cn("relative w-full", !service.suitable_users && "mt-15 md:mt-25",)}>
+                    {/* Glow background */}
+                    <div className="pointer-events-none absolute inset-0">
+                        <div className="absolute left-[-20%] top-[-30%] h-[600px] w-[600px] rounded-full bg-green-500/10 blur-[120px]" />
+                        <div className="absolute bottom-[-30%] right-[-20%] h-[600px] w-[600px] rounded-full bg-purple-500/10 blur-[120px]" />
+                    </div>
+
+                    <div className="relative mx-auto max-w-7xl px-6 py-10">
+                        {service.ai_works.comparison && (
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-5 md:gap-10 mt-10">
+                                {/* Title + description */}
+                                <motion.div
+                                    initial={{ opacity: 0, y: 40 }}
+                                    whileInView={{ opacity: 1, y: 0 }}
+                                    transition={{ duration: 0.8 }}
+                                    viewport={{ once: true }}
+                                    className={cn(service.ai_works.comparison?.human_title ? "col-span-2" : "")}
                                 >
-                                    <hr className="w-16 border h-0" />
-                                    <p className="text-sm leading-snug text-justify">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias in eos explicabo eum rerum saepe culpa ut consequuntur, inventore ducimus..
-                                    </p>
-                                    <p className="text-sm leading-snug text-justify">
-                                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores, dolore excepturi impedit aut quod sint earum, eaque rerum eius nobis, eos voluptate. Dignissimos sequi cupiditate error voluptas, accusantium nemo animi.
-                                    </p>
-                                </motion.div> */}
-                        </div>
+                                    <h2 className="text-4xl font-semibold leading-tight text-gray-200 md:text-6xl">
+                                        <AuroraText>{service.ai_works.title}</AuroraText>
+                                    </h2>
+                                    {service.ai_works.descriptions && (
+                                        <p className="mt-6 max-w-2xl text-base leading-relaxed text-gray-400">
+                                            {service.ai_works.descriptions}
+                                        </p>
+                                    )}
+                                </motion.div>
+
+                                {/* AI comparison card */}
+                                <motion.div
+                                    initial={{ opacity: 0, y: 40 }}
+                                    whileInView={{ opacity: 1, y: 0 }}
+                                    transition={{ duration: 0.8, delay: 0.2 }}
+                                    viewport={{ once: true }}
+                                    className={cn(
+                                        "group relative overflow-hidden rounded-3xl p-10",
+                                        "bg-linear-to-br from-white/10 via-white/5 to-transparent backdrop-blur-xl",
+                                        "border border-transparent",
+                                        "transition-all duration-500 hover:-translate-y-3"
+                                    )}
+                                >
+                                    <div>
+                                        <h3 className="text-sm uppercase font-semibold tracking-wider text-gray-300">
+                                            {service.ai_works.comparison?.title}
+                                        </h3>
+                                        {service.ai_works.comparison?.list && (
+                                            <ul className="mt-6 space-y-4">
+                                                {service.ai_works.comparison?.list.map((item, index) => (
+                                                    <li key={index} className="flex items-start gap-3">
+                                                        <span className="mt-1 inline-flex h-5 w-5 min-w-5 items-center justify-center rounded-full text-teal-700">
+                                                            <CircleCheckBig />
+                                                        </span>
+                                                        <span className="text-gray-300">
+                                                            {typeof item === "string" ? (
+                                                                item
+                                                            ) : (
+                                                                <div className="flex flex-col gap-1">
+                                                                    <h5>{item.title}</h5>
+                                                                    <p className="text-muted-foreground font-light max-w-xl text-sm">
+                                                                        {item.descriptions?.join(" ")}
+                                                                    </p>
+                                                                </div>
+                                                            )}
+                                                        </span>
+                                                    </li>
+                                                ))}
+                                            </ul>
+                                        )}
+                                    </div>
+                                    {service.ai_works.comparison?.human_title && (
+                                        <img
+                                            src="https://images.unsplash.com/photo-1738003667850-a2fb736e31b3?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0"
+                                            alt="visual"
+                                            className="absolute h-50 w-50 object-cover rounded-tl-3xl -z-1 -bottom-1 -right-4"
+                                        />
+                                    )}
+                                </motion.div>
+
+                                {/* Human comparison card */}
+                                {service.ai_works.comparison?.human_title && (
+                                    <motion.div
+                                        initial={{ opacity: 0, y: 40 }}
+                                        whileInView={{ opacity: 1, y: 0 }}
+                                        transition={{ duration: 0.8, delay: 0.4 }}
+                                        viewport={{ once: true }}
+                                        className={cn(
+                                            "group relative overflow-hidden rounded-3xl p-10",
+                                            "bg-linear-to-br from-white/10 via-white/5 to-transparent backdrop-blur-xl",
+                                            "border border-transparent",
+                                            "transition-all duration-500 hover:-translate-y-3"
+                                        )}
+                                    >
+                                        <h3 className="text-sm uppercase font-semibold tracking-wider text-gray-300">
+                                            {service.ai_works.comparison?.human_title}
+                                        </h3>
+                                        {service.ai_works.comparison?.human_list && (
+                                            <ul className="mt-6 space-y-4">
+                                                {service.ai_works.comparison?.human_list.map((item, index) => (
+                                                    <li key={index} className="flex items-start gap-3">
+                                                        <span className="mt-1 inline-flex h-5 w-5 min-w-5 items-center justify-center rounded-full text-teal-800">
+                                                            <CircleCheckBig />
+                                                        </span>
+                                                        <span className="text-gray-300">
+                                                            {typeof item === "string" ? (
+                                                                item
+                                                            ) : (
+                                                                <div className="flex flex-col gap-1">
+                                                                    <h5>{item.title}</h5>
+                                                                    <p className="text-muted-foreground font-light max-w-xl text-sm">
+                                                                        {item.descriptions?.join(" ")}
+                                                                    </p>
+                                                                </div>
+                                                            )}
+                                                        </span>
+                                                    </li>
+                                                ))}
+                                            </ul>
+                                        )}
+                                        <img
+                                            src="https://images.unsplash.com/photo-1670081684460-15cd8379fcbc?q=80&w=1492&auto=format&fit=crop&ixlib=rb-4.1.0"
+                                            alt="visual"
+                                            className="absolute h-50 w-50 object-cover rounded-tl-3xl -z-1 -bottom-1 -right-4 grayscale-50 saturate-50"
+                                        />
+                                    </motion.div>
+                                )}
+                            </div>
+                        )}
                     </div>
                 </div>
             }
+
             {service.usecase &&
                 service.usecase.list &&
                 typeof service.usecase.list[0] === "string" ? <>
@@ -746,6 +745,8 @@ export default function ServiceInfo({ service }: Props) {
                                                         width={600}
                                                         height={400}
                                                         className="object-cover h-full w-full rounded-b-xl"
+                                                        loading="lazy"
+                                                        sizes="(max-width: 768px) 100vw, 600px"
                                                     />
                                                 </> :
                                                 <>
@@ -755,6 +756,8 @@ export default function ServiceInfo({ service }: Props) {
                                                         width={600}
                                                         height={400}
                                                         className="object-cover h-full w-full rounded-b-xl"
+                                                        loading="lazy"
+                                                        sizes="(max-width: 768px) 100vw, 600px"
                                                     />
                                                 </>
                                         }
@@ -774,6 +777,7 @@ export default function ServiceInfo({ service }: Props) {
                 }
             </>
             }
+
             {
                 service.general_info &&
                 <div className="relative max-w-7xl mx-auto px-6 my-10 sm:my-20 md:my-50">
@@ -800,7 +804,9 @@ export default function ServiceInfo({ service }: Props) {
                                             alt={service.media.images.length > 1 ? service.media.images[5].title : service.media.images[0].title}
                                             width={600}
                                             height={400}
-                                            className="object-cover h-full w-full rounded-xl"
+                                            className="object-cover h-full w-full rounded-xl min-h-[375px] max-h-[400px]"
+                                            loading="lazy"
+                                            sizes="(max-width: 768px) 100vw, 600px"
                                         />
                                     </> :
                                     <>
@@ -809,7 +815,9 @@ export default function ServiceInfo({ service }: Props) {
                                             alt={"Edited"}
                                             width={600}
                                             height={400}
-                                            className="object-cover h-full w-full rounded-xl"
+                                            className="object-cover h-full w-full rounded-xl min-h-[375px] max-h-[400px]"
+                                            loading="lazy"
+                                            sizes="(max-width: 768px) 100vw, 600px"
                                         />
                                     </>
                             }
@@ -911,9 +919,176 @@ export default function ServiceInfo({ service }: Props) {
                     </div>
                 </div>
             }
+
+            {
+                service.process &&
+                <div className="max-w-7xl mx-auto relative mt-15 md:mt-30 px-4">
+                    <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/5 via-transparent to-[#a855f7]/5 blur-3xl" />
+                    <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/10 via-transparent to-[#a855f7]/10 blur-3xl" />
+                    {/* First main column */}
+                    <motion.div
+                        initial={{ y: 80, opacity: 0 }}
+                        whileInView={{ y: [80, -10, 0], opacity: 1 }}
+                        transition={{ duration: 1, ease: "easeOut", bounce: 0.4, delay: .3 }}
+                        viewport={{ once: true, amount: 0.2 }}
+                    >
+                        <span className="block mb-3 text-xs md:text-sm font-medium uppercase tracking-[0.2em] text-muted-foreground">
+                            {"Our Process"}
+                        </span>
+                        <h2 className="mb-6 inline-block text-3xl sm:text-4xl md:text-6xl font-medium leading-tight">
+                            <AuroraText>
+                                {service.process?.title}
+                            </AuroraText>
+                        </h2>
+                        <p className="text-muted-foreground max-w-xl">
+                            {
+                                service.process?.link ?
+                                    <TextWithLink
+                                        text={service.process?.descriptions?.join(" ")}
+                                        link={service.process?.link}
+                                    /> :
+                                    service.process?.descriptions?.join(" ")
+                            }
+                        </p>
+                    </motion.div>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-15 mt-10">
+                        <motion.div
+                            initial={{ x: -80, opacity: 0 }}
+                            whileInView={{ x: [-80, -10, 0], opacity: 1 }}
+                            transition={{
+                                duration: 1,
+                                ease: "easeOut",
+                                bounce: 0.4,
+                                delay: .3
+                            }}
+                            viewport={{ once: true }}
+                            className="flex flex-col space-y-4"
+                        >
+                            {
+                                service.process?.steps.map((step, i) => {
+                                    return <div
+                                        key={i}
+                                        className={cn("flex items-center justify-between")}
+                                    >
+                                        <div className="flex items-start space-x-5">
+                                            <span className="text-base  font-light">
+                                                {String(i + 1).padStart(2, "0")}
+                                            </span>
+                                            <div className="pb-4 border-b border-gray-300/10 cursor-pointer relative">
+                                                {/* {i == 0 && <div className="absolute inset-x-0 -bottom-px h-0.5 gradient-line w-25 rounded-xl"></div>} */}
+                                                <span className="text-lg text-gray-400 font-light">
+                                                    <AuroraText>{step.title}</AuroraText>
+                                                </span>
+                                                <div className={cn("text-base font-light text-muted-foreground")}>
+                                                    {
+                                                        step?.link ?
+                                                            <TextWithLink
+                                                                text={step.descriptions?.join(" ")}
+                                                                link={step?.link}
+                                                            /> :
+                                                            step.descriptions?.join(" ")
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                })
+                            }
+                        </motion.div>
+                        {/* Second main column with two sub-columns */}
+                        <div>
+                            {/* Left sub-column: numbered list */}
+                            <motion.div
+                                initial={{ y: 80, opacity: 0 }}
+                                whileInView={{ y: [80, -10, 0], opacity: 1 }}
+                                transition={{
+                                    duration: 1,
+                                    ease: "easeOut",
+                                    bounce: 0.4,
+                                    delay: .6
+                                }}
+                                viewport={{ once: true, margin: "-100px" }}
+                            >
+                                <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/5 via-transparent to-[#a855f7]/5 blur-3xl" />
+                                <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/10 via-transparent to-[#a855f7]/10 blur-3xl" />
+                                <MacWindow>
+                                    {
+                                        service.media.comparison ?
+                                            <ReactCompareSlider
+                                                style={{ height: "100%" }}
+                                                itemOne={
+                                                    <div className="relative w-full h-full">
+                                                        <Image
+                                                            src={service.media.comparison.before.filepath}
+                                                            alt={service.media.comparison.before.alt}
+                                                            className="rounded-b-xl object-cover h-full w-full"
+                                                            fill
+                                                            quality={75}
+                                                            loading="lazy"
+                                                        />
+                                                    </div>
+                                                }
+                                                itemTwo={
+                                                    <div className="relative w-full h-full">
+                                                        <Image
+                                                            src={service.media.comparison.after.filepath}
+                                                            alt={service.media.comparison.after.alt}
+                                                            className="rounded-b-xl object-cover h-full w-full"
+                                                            fill
+                                                            quality={75}
+                                                            loading="lazy"
+                                                        />
+                                                    </div>
+                                                }
+                                            />
+                                            : (service.media.videos.length > 0 ?
+                                                <>
+                                                    <video
+                                                        // src={service.media.videos[0].filepath}
+                                                        src={"/assets/videos/INSANE REAL.mp4"}
+                                                        className={"object-cover h-full w-full rounded-b-xl"}
+                                                        autoPlay
+                                                        muted
+                                                        playsInline
+                                                    >
+
+                                                    </video>
+                                                </>
+                                                :
+                                                service.media.images.length > 0 ?
+                                                    <>
+                                                        <Image
+                                                            src={service.media.images[0].filepath}
+                                                            alt={service.media.images[0].alt}
+                                                            width={600}
+                                                            height={400}
+                                                            className="object-cover h-full w-full rounded-b-xl"
+                                                            loading="lazy"
+                                                            sizes="(max-width: 768px) 100vw, 600px"
+                                                        />
+                                                    </> : <>
+                                                        <Image
+                                                            src={`/assets/images/image01.jpg`}
+                                                            alt={"edited"}
+                                                            width={600}
+                                                            height={400}
+                                                            className="object-cover h-full w-full rounded-b-xl"
+                                                            loading="lazy"
+                                                            sizes="(max-width: 768px) 100vw, 600px"
+                                                        />
+                                                    </>
+                                            )
+                                    }
+                                </MacWindow>
+                            </motion.div>
+                        </div>
+                    </div>
+                </div>
+            }
+
             {
                 service.suitable_users &&
-                <div className="relative py-15 my-10 md:py-24 px-6">
+                <div className="relative pt-15 mt-10 md:pt-24 px-6">
                     <div className="max-w-7xl mx-auto relative z-10">
                         <motion.div
                             initial={{ y: 80, opacity: 0 }}
@@ -961,138 +1136,7 @@ export default function ServiceInfo({ service }: Props) {
                     </div>
                 </div>
             }
-            {
-                service.ai_works &&
-                <div className={cn("relative w-full", !service.suitable_users && "mt-15 md:mt-25",)}>
-                    {/* Glow background */}
-                    <div className="pointer-events-none absolute inset-0">
-                        <div className="absolute left-[-20%] top-[-30%] h-[600px] w-[600px] rounded-full bg-green-500/10 blur-[120px]" />
-                        <div className="absolute bottom-[-30%] right-[-20%] h-[600px] w-[600px] rounded-full bg-purple-500/10 blur-[120px]" />
-                    </div>
 
-                    <div className="relative mx-auto max-w-7xl px-6 py-10">
-                        {service.ai_works.comparison && (
-                            <div className="grid grid-cols-1 md:grid-cols-2 gap-5 md:gap-10 mt-10">
-                                {/* Title + description */}
-                                <motion.div
-                                    initial={{ opacity: 0, y: 40 }}
-                                    whileInView={{ opacity: 1, y: 0 }}
-                                    transition={{ duration: 0.8 }}
-                                    viewport={{ once: true }}
-                                    className={cn(service.ai_works.comparison?.human_title ? "col-span-2" : "")}
-                                >
-                                    <h2 className="text-4xl font-semibold leading-tight text-gray-200 md:text-6xl">
-                                        <AuroraText>{service.ai_works.title}</AuroraText>
-                                    </h2>
-                                    {service.ai_works.descriptions && (
-                                        <p className="mt-6 max-w-2xl text-base leading-relaxed text-gray-400">
-                                            {service.ai_works.descriptions}
-                                        </p>
-                                    )}
-                                </motion.div>
-
-                                {/* AI comparison card */}
-                                <motion.div
-                                    initial={{ opacity: 0, y: 40 }}
-                                    whileInView={{ opacity: 1, y: 0 }}
-                                    transition={{ duration: 0.8, delay: 0.2 }}
-                                    viewport={{ once: true }}
-                                    className={cn(
-                                        "group relative overflow-hidden rounded-3xl p-10",
-                                        "bg-linear-to-br from-white/10 via-white/5 to-transparent backdrop-blur-xl",
-                                        "border border-transparent",
-                                        "transition-all duration-500 hover:-translate-y-3"
-                                    )}
-                                >
-                                    <div>
-                                        <h3 className="text-sm uppercase font-semibold tracking-wider text-gray-300">
-                                            {service.ai_works.comparison?.title}
-                                        </h3>
-                                        {service.ai_works.comparison?.list && (
-                                            <ul className="mt-6 space-y-4">
-                                                {service.ai_works.comparison?.list.map((item, index) => (
-                                                    <li key={index} className="flex items-start gap-3">
-                                                        <span className="mt-1 inline-flex h-5 w-5 min-w-5 items-center justify-center rounded-full text-teal-700">
-                                                            <CircleCheckBig />
-                                                        </span>
-                                                        <span className="text-gray-300">
-                                                            {typeof item === "string" ? (
-                                                                item
-                                                            ) : (
-                                                                <div className="flex flex-col gap-1">
-                                                                    <h5>{item.title}</h5>
-                                                                    <p className="text-muted-foreground font-light max-w-xl text-sm">
-                                                                        {item.descriptions?.join(" ")}
-                                                                    </p>
-                                                                </div>
-                                                            )}
-                                                        </span>
-                                                    </li>
-                                                ))}
-                                            </ul>
-                                        )}
-                                    </div>
-                                    {service.ai_works.comparison?.human_title && (
-                                        <img
-                                            src="https://images.unsplash.com/photo-1738003667850-a2fb736e31b3?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0"
-                                            alt="visual"
-                                            className="absolute h-50 w-50 object-cover rounded-tl-3xl -z-1 -bottom-1 -right-4"
-                                        />
-                                    )}
-                                </motion.div>
-
-                                {/* Human comparison card */}
-                                {service.ai_works.comparison?.human_title && (
-                                    <motion.div
-                                        initial={{ opacity: 0, y: 40 }}
-                                        whileInView={{ opacity: 1, y: 0 }}
-                                        transition={{ duration: 0.8, delay: 0.4 }}
-                                        viewport={{ once: true }}
-                                        className={cn(
-                                            "group relative overflow-hidden rounded-3xl p-10",
-                                            "bg-linear-to-br from-white/10 via-white/5 to-transparent backdrop-blur-xl",
-                                            "border border-transparent",
-                                            "transition-all duration-500 hover:-translate-y-3"
-                                        )}
-                                    >
-                                        <h3 className="text-sm uppercase font-semibold tracking-wider text-gray-300">
-                                            {service.ai_works.comparison?.human_title}
-                                        </h3>
-                                        {service.ai_works.comparison?.human_list && (
-                                            <ul className="mt-6 space-y-4">
-                                                {service.ai_works.comparison?.human_list.map((item, index) => (
-                                                    <li key={index} className="flex items-start gap-3">
-                                                        <span className="mt-1 inline-flex h-5 w-5 min-w-5 items-center justify-center rounded-full text-teal-800">
-                                                            <CircleCheckBig />
-                                                        </span>
-                                                        <span className="text-gray-300">
-                                                            {typeof item === "string" ? (
-                                                                item
-                                                            ) : (
-                                                                <div className="flex flex-col gap-1">
-                                                                    <h5>{item.title}</h5>
-                                                                    <p className="text-muted-foreground font-light max-w-xl text-sm">
-                                                                        {item.descriptions?.join(" ")}
-                                                                    </p>
-                                                                </div>
-                                                            )}
-                                                        </span>
-                                                    </li>
-                                                ))}
-                                            </ul>
-                                        )}
-                                        <img
-                                            src="https://images.unsplash.com/photo-1670081684460-15cd8379fcbc?q=80&w=1492&auto=format&fit=crop&ixlib=rb-4.1.0"
-                                            alt="visual"
-                                            className="absolute h-50 w-50 object-cover rounded-tl-3xl -z-1 -bottom-1 -right-4 grayscale-50 saturate-50"
-                                        />
-                                    </motion.div>
-                                )}
-                            </div>
-                        )}
-                    </div>
-                </div>
-            }
             <style jsx>
                 {
                     `
@@ -1118,6 +1162,6 @@ export default function ServiceInfo({ service }: Props) {
                     `
                 }
             </style>
-        </div >
+        </div>
     );
 }

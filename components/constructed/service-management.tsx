@@ -4,6 +4,7 @@ import { AuroraText } from "../ui/aurora-text";
 import { AnimatePresence, motion } from "framer-motion";
 import { AnimatedBeam } from "../ui/animated-beam";
 import { BookCheck, Brain, ClockCheck, Siren, Sparkles, Spline, Telescope, UserStar } from "lucide-react";
+import Image from "next/image";
 
 const leftSide = [
     { title: "Access to Skilled Experts", body: "Work with trained professionals across creative, technical, and digital domains—without hiring overhead.", icon: <Brain /> },
@@ -106,7 +107,7 @@ export default function ServiceManagement() {
                                     <div className="absolute inset-0 -z-10 rounded-full bg-gradient-to-r from-indigo-900 via-orange-600 to-cyan-500 blur-3xl opacity-40" />
                                     <div className="absolute inset-0 -z-10 rounded-full bg-gradient-to-r from-indigo-900 via-orange-600 to-cyan-500 blur-3xl opacity-40" />
                                     <div className="absolute inset-0 -z-10 rounded-full bg-gradient-to-r from-indigo-900 via-orange-600 to-cyan-500 blur-3xl opacity-40" />
-                                    <img src="./wcs_logo.png" className="h-12 relative z-10" alt="WCS Logo" />
+                                    <img loading="lazy" src="./wcs_logo.png" className="h-12 relative z-10" alt="WCS Logo" />
                                 </motion.span>
                             </AnimatePresence>
                         </div>

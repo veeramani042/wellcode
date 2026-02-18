@@ -42,8 +42,9 @@ const HorizontalScrollCarousel: React.FC<HorizontalScrollCarouselProps> = ({ ima
 const Card: React.FC<{ src: string }> = ({ src }) => {
     return (
         <div className="group relative h-[450px] w-[450px] overflow-hidden rounded-lg">
-            <img
+            <Image
                 src={src}
+                loading="lazy"
                 className="h-full w-full object-cover"
                 alt="carousel image"
             />

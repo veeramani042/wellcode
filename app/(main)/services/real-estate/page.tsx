@@ -1,5 +1,4 @@
 import ScrollSmoothWrapper from '@/components/custom/scroll-smoothner'
-import React from 'react'
 import HeroSection from './components/hero-section'
 
 type Props = {}

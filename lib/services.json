@@ -250,6 +250,35 @@
             "description": [
                 "At Well Code Studio, we provide professional real estate image editing services that make your property listings stand out and attract more buyers. From clean, realistic edits to virtual staging, our human-led approach ensures market-ready visuals that boost inquiries and sales worldwide."
             ]
+        },
+        "work_info": {
+            "title": "What is Real Estate Editing?",
+            "descriptions": [
+                "Real Estate Editing is a specialized digital enhancement process that transforms property images into polished, market-ready visuals. By refining lighting, perspective, and color balance, it helps listings stand out, attract potential buyers, and convey the true value of a property."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Ruler",
+                    "content": "Perspective Correction: Adjusting angles and lines to ensure architectural accuracy and visual appeal."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Color & Light Enhancement: Balancing exposure, brightness, and color tones for natural, eye-catching images."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Background Cleanup: Removing distractions and clutter to focus attention on the property."
+                },
+                {
+                    "icon": "Sofa",
+                    "content": "Virtual Staging Support: Integrating digital furniture and decor for better visualization."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Shadow & Reflection Refinement: Adding realistic depth and dimension to interiors and exteriors."
+                }
+            ]
         }
     },
     {
@@ -503,6 +532,35 @@
             "title": "HDR Blending for Stunning Real Estate Photos",
             "description": [
                 "Well Code Studio offers professional HDR blending services that create natural, perfectly lit real estate images. By combining multiple exposures, we ensure clear interiors, vibrant exteriors, and accurate details—delivering market-ready visuals that boost listings and buyer confidence worldwide."
+            ]
+        },
+        "work_info": {
+            "title": "What is HDR Blending?",
+            "descriptions": [
+                "HDR (High Dynamic Range) Blending is an advanced photo editing technique that combines multiple images of the same scene, captured at different exposures, into a single, perfectly balanced photograph. This ensures that bright highlights and deep shadows retain detail, creating clean, visually appealing real estate images."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Layers3",
+                    "content": "Exposure Merging: Combining multiple shots to maintain details in both bright and dark areas."
+                },
+                {
+                    "icon": "SunMedium",
+                    "content": "Lighting Balance: Achieving natural interior and exterior illumination without overexposure."
+                },
+                {
+                    "icon": "Contrast",
+                    "content": "Shadow & Highlight Enhancement: Preserving textures and fine details throughout the image."
+                },
+                {
+                    "icon": "Sofa",
+                    "content": "Foundation for Virtual Staging: Providing realistic lighting and depth for digital furniture integration."
+                },
+                {
+                    "icon": "SlidersHorizontal",
+                    "content": "Contrast & Tone Optimization: Creating visually appealing, high-quality property visuals."
+                }
             ]
         }
     },
@@ -768,6 +826,31 @@
             "description": [
                 "Well Code Studio’s Day-to-Dusk photo editing transforms daytime real estate images into stunning twilight scenes. By enhancing lighting, colors, and shadows, we create warm, inviting visuals that make listings stand out while keeping a natural, professional look."
             ]
+        },
+        "work_info": {
+            "title": "What is Day to Dusk Photo Editing?",
+            "descriptions": [
+                "Day to Dusk editing is a high-end digital transformation that converts a standard daytime photograph into a breathtaking twilight scene. Using advanced luminosity masking and color theory, we replicate the specific atmospheric conditions of 'Golden Hour'—capturing the soft ambient glow, warm highlights, and deep, dramatic skies that characterize a premium property listing."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "CloudSun",
+                    "content": "Sky Replacement: We swap flat, midday skies with high-dynamic-range (HDR) twilight horizons for a dramatic backdrop."
+                },
+                {
+                    "icon": "Lightbulb",
+                    "content": "Luminance Mapping: Digitally 'turning on' interior and exterior lights, adding realistic glows to windows and pathways."
+                },
+                {
+                    "icon": "Palette",
+                    "content": "Color Temperature Calibration: Shifting harsh daylight blues into the warm, inviting magentas and oranges of a sunset."
+                },
+                {
+                    "icon": "Moon",
+                    "content": "Shadow Reconstruction: Re-rendering shadows to match the low-angle light source of an evening sun."
+                }
+            ]
         }
     },
     {
@@ -1027,6 +1110,35 @@
             "title": "Virtual Staging Services for Faster Property Sales",
             "description": [
                 "Well Code Studio offers professional virtual staging services that transform empty or under-furnished property photos into warm, market-ready interiors. Using realistic 3D design and furniture placement, we help buyers envision the space—boosting engagement and speeding up sales."
+            ]
+        },
+        "work_info": {
+            "title": "What is Virtual Staging?",
+            "descriptions": [
+                "Virtual Staging is a professional digital enhancement process that transforms empty or cluttered property images by adding photo-realistic furniture, décor, and accessories. It helps buyers visualize the space, creating emotion, scale, and purpose in every room."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Maximize",
+                    "content": "Accurate Scale & Perspective: Ensuring furniture fits naturally within the room’s dimensions."
+                },
+                {
+                    "icon": "Lightbulb",
+                    "content": "Realistic Shadows & Lighting: Adding depth and authenticity to staged elements."
+                },
+                {
+                    "icon": "Home",
+                    "content": "Architecture-Matched Design: Selecting furniture and décor that complement the property’s style."
+                },
+                {
+                    "icon": "Users",
+                    "content": "Human-Led Enhancement: Combining AI assistance with expert designers for precise, lifelike staging."
+                },
+                {
+                    "icon": "Sparkles",
+                    "content": "Visual Appeal Optimization: Creating images that attract buyers and boost listing performance."
+                }
             ]
         }
     },
@@ -1298,6 +1410,35 @@
             "description": [
                 "Well Code Studio’s Drone & Aerial Editing services turn raw aerial photos into stunning, market-ready visuals. With precision and clarity, we enhance real estate and landscape images to showcase properties from unique perspectives—capturing attention and driving engagement."
             ]
+        },
+        "work_info": {
+            "title": "What is Drone/Aerial Editing?",
+            "descriptions": [
+                "Drone/Aerial Editing is a specialized photo enhancement process that transforms raw aerial images into polished, high-impact visuals. By refining colors, lighting, and perspective, it highlights property layouts, landscapes, and surroundings, creating visually striking images for real estate marketing and promotional use."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "AlignCenter",
+                    "content": "Perspective & Alignment Correction: Ensuring aerial shots are level, proportional, and visually balanced."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Color Grading & Light Enhancement: Enhancing skies, land, and structures for vibrant, eye-catching results."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Object & Distraction Removal: Cleaning unwanted elements for a professional, crisp appearance."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Shadow & Reflection Refinement: Adding depth to landscapes and buildings for realistic visuals."
+                },
+                {
+                    "icon": "Maximize2",
+                    "content": "High-Resolution Optimization: Maintaining clarity and detail across large-format aerial images."
+                }
+            ]
         }
     },
     {
@@ -1561,6 +1702,35 @@
             "description": [
                 "Well Code Studio’s Panorama Stitching services combine multiple images into seamless, high-resolution real estate panoramas. Perfect for interiors, exteriors, and large spaces, our edits deliver immersive visuals that showcase every detail and make listings stand out."
             ]
+        },
+        "work_info": {
+            "title": "What is Panorama Stitching?",
+            "descriptions": [
+                "Panorama Stitching is a digital imaging process that combines multiple photos taken from the same point to create a wide, seamless, and distortion-free panoramic image. It allows businesses and photographers to showcase a broader field of view, delivering immersive and professional visuals."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "GitMerge",
+                    "content": "Precise Image Alignment & Blending: Seamlessly joining multiple frames into one smooth panorama."
+                },
+                {
+                    "icon": "Sliders",
+                    "content": "Color & Exposure Matching: Ensuring consistent tones and brightness across all images."
+                },
+                {
+                    "icon": "ZoomIn",
+                    "content": "High-Resolution Output: Preserving fine details for print, web, or virtual tours."
+                },
+                {
+                    "icon": "Crop",
+                    "content": "Cropping & Optimization: Adjusting dimensions for MLS listings, websites, and marketing materials."
+                },
+                {
+                    "icon": "Eye",
+                    "content": "Immersive Visual Appeal: Creating natural-looking panoramas that engage viewers."
+                }
+            ]
         }
     },
     {
@@ -1819,6 +1989,35 @@
             "description": [
                 "Well Code Studio offers professional video editing services that turn raw footage into polished, engaging, and visually compelling videos. Perfect for real estate walkthroughs, marketing, or social media, our expert editors deliver high-quality videos that capture attention and leave a lasting impact."
             ]
+        },
+        "work_info": {
+            "title": "What is Video Editing?",
+            "descriptions": [
+                "Real Estate Video Editing is the process of refining property footage to create polished, engaging videos that showcase homes and commercial spaces effectively. It enhances visuals, audio, and pacing to highlight property features, layouts, and ambiance, making listings more appealing to potential buyers."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "ListVideo",
+                    "content": "Footage Organization & Sequencing: Structuring property clips to highlight key rooms and features."
+                },
+                {
+                    "icon": "Palette",
+                    "content": "Color Grading & Visual Enhancement: Optimizing lighting and tones for bright, inviting interiors and exteriors."
+                },
+                {
+                    "icon": "Volume2",
+                    "content": "Audio Refinement: Balancing narration, background music, and ambient sounds for clarity."
+                },
+                {
+                    "icon": "Shuffle",
+                    "content": "Transitions & Effects: Adding smooth cuts, motion effects, and callouts for professional appeal."
+                },
+                {
+                    "icon": "PlayCircle",
+                    "content": "Storytelling & Pacing: Guiding viewers through the property in an engaging, visually compelling way."
+                }
+            ]
         }
     },
     {
@@ -2074,6 +2273,35 @@
             "description": [
                 "Well Code Studio’s 3D Rendering Services turn architectural concepts and floor plans into photorealistic real estate visuals. From immersive walkthroughs to detailed renderings, our high-quality visuals help you showcase properties, improve marketing, and make confident decisions."
             ]
+        },
+        "work_info": {
+            "title": "What is 3D Rendering for Real Estate?",
+            "descriptions": [
+                "3D Rendering is the process of transforming 2D drawings, sketches, or plans into highly realistic three-dimensional visuals. By using advanced modeling, lighting, textures, and materials, it produces images and animations that accurately depict how a property will look once completed."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Box",
+                    "content": "3D Modeling & Structure Design: Creating accurate digital representations of buildings and interiors."
+                },
+                {
+                    "icon": "SunDim",
+                    "content": "Lighting & Shadow Simulation: Replicating natural and artificial light for realistic effects."
+                },
+                {
+                    "icon": "Grid",
+                    "content": "Material & Texture Mapping: Applying surfaces, colors, and finishes that reflect real-world properties."
+                },
+                {
+                    "icon": "Move3d",
+                    "content": "Animation & Walkthroughs: Producing dynamic fly-throughs and walkthroughs for immersive presentations."
+                },
+                {
+                    "icon": "Eye",
+                    "content": "Visualization for Marketing & Planning: Helping developers, architects, and marketers showcase projects before construction."
+                }
+            ]
         }
     },
     {
@@ -2328,6 +2556,35 @@
             "description": [
                 "Well Code Studio provides professional floor plan services that turn property layouts into clear, visually appealing, and marketing-ready designs. From 2D and 3D plans to custom layouts, our accurate floor plans help buyers understand spaces, boost engagement, and accelerate decisions."
             ]
+        },
+        "work_info": {
+            "title": "What is Floor Plan Design?",
+            "descriptions": [
+                "Floor Plan Design is the creation of detailed, accurate layouts that illustrate the arrangement of rooms, walls, and spaces within a property. These visual guides help buyers, architects, and developers understand the flow, dimensions, and functionality of a space before visiting or constructing it."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Ruler",
+                    "content": "Accurate Measurements & Layouts: Ensuring every room and structural element is precisely represented."
+                },
+                {
+                    "icon": "SquareDashed",
+                    "content": "2D & 3D Floor Plans: Offering both flat and three-dimensional views for comprehensive understanding."
+                },
+                {
+                    "icon": "Sofa",
+                    "content": "Furniture & Fixture Placement: Visualizing interiors with realistic furniture and utility placement."
+                },
+                {
+                    "icon": "PenTool",
+                    "content": "Dimension Annotation & Labeling: Clearly marking sizes, areas, and room functions for clarity."
+                },
+                {
+                    "icon": "Layout",
+                    "content": "Marketing & Presentation Ready: Creating floor plans suitable for listings, brochures, and virtual tours."
+                }
+            ]
         }
     },
     {
@@ -2580,6 +2837,35 @@
             "title": "Real Estate Photo Item Removal Services",
             "description": [
                 "Well Code Studio’s Item Removal Services clean up real estate photos by removing unwanted objects, furniture, and distractions. Our professional edits create spacious, visually appealing images that highlight the property and help listings attract more buyers."
+            ]
+        },
+        "work_info": {
+            "title": "What is Item Removal in Real Estate Photography?",
+            "descriptions": [
+                "Item Removal is a digital editing process that eliminates unwanted objects, clutter, or distractions from property images. By creating clean, polished visuals, it helps buyers focus on the space itself, making listings appear more spacious, professional, and visually appealing."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Trash2",
+                    "content": "Clutter & Object Removal: Eliminating furniture, appliances, or personal items that distract from the property."
+                },
+                {
+                    "icon": "Brush",
+                    "content": "Background & Surface Retouching: Seamlessly filling areas where items were removed for a natural look."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Consistency in Lighting & Shadows: Maintaining realistic lighting after objects are edited out."
+                },
+                {
+                    "icon": "Maximize",
+                    "content": "Space Optimization Visualization: Making rooms appear larger and more open."
+                },
+                {
+                    "icon": "ZoomIn",
+                    "content": "High-Resolution Output: Ensuring edited images retain clarity for web and marketing use."
+                }
             ]
         }
     },
@@ -2837,6 +3123,35 @@
             "description": [
                 "Bring properties to life with immersive 360° virtual tours from Well Code Studios. Let buyers explore every corner remotely and experience layouts, flow, and space like never before. Our professional virtual tours boost engagement, build trust, and make your listings stand out in a competitive market."
             ]
+        },
+        "work_info": {
+            "title": "What are Virtual Tour Services?",
+            "descriptions": [
+                "A Virtual Tour is an interactive digital experience that allows potential buyers to explore a property online using 360-degree imagery and virtual walkthroughs. It helps users visualize the space realistically, understand layouts, and engage with the property from anywhere."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "RotateCw",
+                    "content": "360-Degree Imagery: Capturing every angle of interiors and exteriors for full spatial context."
+                },
+                {
+                    "icon": "Compass",
+                    "content": "Interactive Navigation: Allowing users to move seamlessly through rooms and spaces."
+                },
+                {
+                    "icon": "Map",
+                    "content": "Floor Plan Integration: Linking panoramic views with property layouts for better orientation."
+                },
+                {
+                    "icon": "MapPin",
+                    "content": "Hotspots & Annotations: Adding informative points to highlight key features and amenities."
+                },
+                {
+                    "icon": "Sparkles",
+                    "content": "Marketing-Optimized Experience: Creating immersive tours designed to attract and convert buyers."
+                }
+            ]
         }
     },
     {
@@ -3065,6 +3380,35 @@
             "title": "Real Estate Sky Replacement & Exterior Enhancement",
             "description": [
                 "Turn dull property photos into stunning listings with Well Code Studio’s Sky Replacement and exterior image enhancement. Replace grey skies with natural, vibrant skies to boost curb appeal and attract buyers. Ensure every listing looks its best, no matter the weather, and make your properties stand out instantly."
+            ]
+        },
+        "work_info": {
+            "title": "What is Sky Replacement?",
+            "descriptions": [
+                "Sky Replacement is a digital editing process that transforms ordinary property photos by replacing dull or overexposed skies with vibrant, realistic skies. This enhancement elevates the overall visual appeal, creating mood, depth, and a professional look for real estate listings."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Cloud",
+                    "content": "High-Quality Sky Selection: Choosing skies that match the scene’s lighting and atmosphere."
+                },
+                {
+                    "icon": "GitMerge",
+                    "content": "Seamless Integration: Blending new skies naturally with the property and surroundings."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Lighting & Color Adjustment: Ensuring consistent color tones and shadows for realism."
+                },
+                {
+                    "icon": "Contrast",
+                    "content": "HDR & Dynamic Range Enhancement: Preserving details in both the property and the sky."
+                },
+                {
+                    "icon": "Sparkles",
+                    "content": "Visual Appeal Optimization: Creating images that attract buyers and enhance listing performance."
+                }
             ]
         }
     },
@@ -3326,6 +3670,35 @@
             "description": [
                 "Enhance your property images with precise clipping path services from Well Code Studio. Clean edges, accurate object isolation, and professional presentation make your listings look sharp and marketing-ready. From background removal to complex image masking, we help real estate professionals showcase properties with clarity and confidence."
             ]
+        },
+        "work_info": {
+            "title": "What is Photo Clipping Path?",
+            "descriptions": [
+                "Photo Clipping Path is a precise digital editing technique used to isolate objects or properties from their backgrounds. It enables clean, professional images for listings, marketing materials, or virtual presentations by allowing controlled background replacement or enhancement."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Scissors",
+                    "content": "Object Isolation: Creating accurate outlines around property elements, furniture, or products."
+                },
+                {
+                    "icon": "ImageMinus",
+                    "content": "Background Removal & Replacement: Replacing unwanted backgrounds with clean or customized visuals."
+                },
+                {
+                    "icon": "Feather",
+                    "content": "Edge Refinement & Detailing: Ensuring crisp, smooth edges for professional quality."
+                },
+                {
+                    "icon": "Palette",
+                    "content": "Color & Tone Adjustment: Maintaining natural look after background edits."
+                },
+                {
+                    "icon": "Layout",
+                    "content": "Marketing-Ready Output: Producing images optimized for web, brochures, or virtual tours."
+                }
+            ]
         }
     },
     {
@@ -3577,6 +3950,35 @@
             "description": [
                 "Simplify and enhance your property images with Well Code Studio’s Image De-Cluttering services. Remove distractions, unwanted elements, and visual noise to create clean, focused, and professional visuals. Highlight key property features, improve clarity, and make every listing visually impactful."
             ]
+        },
+        "work_info": {
+            "title": "What is Image De-Cluttering?",
+            "descriptions": [
+                "Image De-Cluttering is a digital editing process that removes unnecessary objects, background distractions, and clutter from property photographs. It ensures the main subject stands out clearly, presenting clean, professional visuals that communicate the space effectively."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Eraser",
+                    "content": "Clutter & Distraction Removal: Eliminating unwanted furniture, objects, and visual noise."
+                },
+                {
+                    "icon": "Brush",
+                    "content": "Background Cleanup: Restoring walls, floors, and surfaces for a natural, polished look."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Color & Lighting Consistency: Maintaining realistic tones and shadows after edits."
+                },
+                {
+                    "icon": "Focus",
+                    "content": "Detail Preservation: Ensuring textures and property features remain accurate and clear."
+                },
+                {
+                    "icon": "Layout",
+                    "content": "Marketing-Ready Images: Producing visuals optimized for listings, brochures, and online platforms."
+                }
+            ]
         }
     },
     {
@@ -3824,6 +4226,35 @@
             "title": "360° Image Enhancement Services",
             "description": [
                 "Elevate your immersive visuals with Well Code Studio’s 360° Image Enhancement services. Transform raw 360-degree photos into polished, interactive experiences that let viewers explore spaces naturally. Improve clarity, realism, and engagement, making your listings, websites, and virtual tours truly stand out."
+            ]
+        },
+        "work_info": {
+            "title": "What is 360 Image Enhancement?",
+            "descriptions": [
+                "360 Image Enhancement is a digital editing process that refines panoramic and 360-degree property images to achieve professional, high-quality visuals. It improves color, lighting, and clarity, providing an immersive and realistic viewing experience for potential buyers."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "GitMerge",
+                    "content": "Seamless Stitching & Alignment: Correcting overlaps and ensuring smooth panoramic flow."
+                },
+                {
+                    "icon": "Sliders",
+                    "content": "Color Grading & Light Balancing: Optimizing exposure and tones for natural, vibrant visuals."
+                },
+                {
+                    "icon": "Move",
+                    "content": "Distortion Correction: Adjusting lens and perspective distortions for accuracy."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Clutter & Distraction Removal: Cleaning up unwanted objects or imperfections in the scene."
+                },
+                {
+                    "icon": "Eye",
+                    "content": "Immersive Visual Appeal: Delivering polished, high-resolution 360 images for virtual tours and marketing."
+                }
             ]
         }
     },
@@ -4082,6 +4513,35 @@
             "description": [
                 "Ensure your listings get approved and stand out with Well Code Studio’s MLS-compliant photo editing services. We enhance clarity, brightness, and appeal while strictly following MLS standards. Create professional, high-quality property photos that attract buyers and prevent listing rejections."
             ]
+        },
+        "work_info": {
+            "title": "What is MLS-Compliant Real Estate Photo Editing?",
+            "descriptions": [
+                "MLS-Compliant Real Estate Photo Editing ensures property images adhere to the technical, ethical, and visual standards set by Multiple Listing Services. This process guarantees accurate, professional visuals while avoiding misleading edits or over-manipulation."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "CheckCrcle",
+                    "content": "Standards Adherence: Ensuring images meet MLS rules for accuracy and representation."
+                },
+                {
+                    "icon": "Trash",
+                    "content": "Controlled Object Removal: Removing distractions without altering the property’s integrity."
+                },
+                {
+                    "icon": "Home",
+                    "content": "No Structural Alterations: Preserving walls, layouts, and architectural features."
+                },
+                {
+                    "icon": "SlidersHorizontal",
+                    "content": "Balanced Retouching: Enhancing brightness, color, and clarity within compliance limits."
+                },
+                {
+                    "icon": "ShieldCheck",
+                    "content": "Marketing-Ready & Compliant: Producing visuals that are both appealing and MLS-approved."
+                }
+            ]
         }
     },
     {
@@ -4329,6 +4789,35 @@
             "description": [
                 "Stand out in a competitive market with Well Code Studio’s real estate branding and marketing design services. Build trust, attract buyers, and elevate your property listings with a strong brand identity and compelling visuals. Our solutions enhance recognition and drive engagement across both digital and print platforms."
             ]
+        },
+        "work_info": {
+            "title": "What is Real Estate Branding & Marketing Design?",
+            "descriptions": [
+                "Real Estate Branding & Marketing Design is the process of creating a cohesive visual identity and promotional materials for property businesses. It helps realtors, developers, and agencies stand out, build credibility, and communicate their brand consistently across listings, advertisements, and digital platforms."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Badge",
+                    "content": "Brand Identity Creation: Designing logos, color schemes, and typography that reflect the business’s personality."
+                },
+                {
+                    "icon": "FileImage",
+                    "content": "Marketing Collateral Design: Producing brochures, flyers, social media graphics, and advertisements."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Consistency Across Platforms: Ensuring the brand’s look and message remain uniform across all media."
+                },
+                {
+                    "icon": "Film",
+                    "content": "Visual Storytelling: Highlighting properties effectively through compelling design elements."
+                },
+                {
+                    "icon": "Users",
+                    "content": "Client & Market Engagement: Crafting visuals that attract, inform, and convert potential buyers or clients."
+                }
+            ]
         }
     },
     {
@@ -4521,11 +5010,81 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Lifecycle support for digital products",
+                    "filepath": "/assets/images/service-images/custom-digital-product/custom_software_solutions_01.avif",
+                    "alt": "Custom digital product development for businesses"
+                },
+                {
+                    "title": "High-quality mobile and web",
+                    "filepath": "/assets/images/service-images/custom-digital-product/responsive_web_development.avif",
+                    "alt": "End-to-end software development solutions"
+                },
+                {
+                    "title": "Custom software development",
+                    "filepath": "/assets/images/service-images/custom-digital-product/mobile_app_development.avif",
+                    "alt": "Mobile and web application development services"
+                },
+                {
+                    "title": "Digital product design and implementation",
+                    "filepath": "/assets/images/service-images/custom-digital-product/e-commerce_cms_platforms.avif",
+                    "alt": "Scalable and secure digital product creation"
+                },
+                {
+                    "title": "Cloud-ready digital product",
+                    "filepath": "/assets/images/service-images/custom-digital-product/saas_application_development.avif",
+                    "alt": "UI/UX driven digital product design and development"
+                },
+                {
+                    "title": "Digital product prototyping and development",
+                    "filepath": "/assets/images/service-images/custom-digital-product/development_approach.avif",
+                    "alt": "Innovative software solutions for startups and enterprises"
+                },
+                {
+                    "title": "Full-stack digital product development services",
+                    "filepath": "/assets/images/service-images/custom-digital-product/custom_digital_product_01.avif",
+                    "alt": "Custom app and software development"
+                },
+                {
+                    "title": "Scalable and secure digital",
+                    "filepath": "/assets/images/service-images/custom-digital-product/custom_digital_product_02.avif",
+                    "alt": "Digital product prototyping and development solutions"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Custom Digital Product Development?",
+            "descriptions": [
+                "Custom Digital Product Development is the process of designing and building tailored digital solutions based on specific business needs. It involves creating scalable, user-focused products such as web applications, tools, platforms, and systems that solve real operational challenges."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "ClipboardList",
+                    "content": "Requirement Analysis & Planning: Understanding business goals to define clear product architecture."
+                },
+                {
+                    "icon": "PenTool",
+                    "content": "UI/UX-Centered Design: Crafting intuitive interfaces for seamless user experience."
+                },
+                {
+                    "icon": "Boxes",
+                    "content": "Scalable Development Architecture: Building flexible systems that grow with business needs."
+                },
+                {
+                    "icon": "Workflow",
+                    "content": "Integration & Automation: Connecting tools, APIs, and workflows for efficiency."
+                },
+                {
+                    "icon": "Gauge",
+                    "content": "Testing & Performance Optimization: Ensuring reliability, speed, and security across the product."
+                }
+            ]
+        }
     },
     {
         "base_service": "Digital Product Development",
@@ -4723,11 +5282,81 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "iOS App Development",
+                    "filepath": "/assets/images/service-images/ios-android-app-development/ios_app_development_01.avif",
+                    "alt": "Custom mobile app development for iOS and Android"
+                },
+                {
+                    "title": "Android App Development",
+                    "filepath": "/assets/images/service-images/ios-android-app-development/android_app_development.avif",
+                    "alt": "End-to-end mobile application development solutions"
+                },
+                {
+                    "title": "Native & Cross-Platform Apps",
+                    "filepath": "/assets/images/service-images/ios-android-app-development/native_cross_platform_apps_01.avif",
+                    "alt": "Native and cross-platform mobile app development"
+                },
+                {
+                    "title": "Custom Mobile App Solutions",
+                    "filepath": "/assets/images/service-images/ios-android-app-development/custom_mobile_app_solutions_01.avif",
+                    "alt": "Mobile app UI/UX design and development services"
+                },
+                {
+                    "title": "App UI/UX Design",
+                    "filepath": "/assets/images/service-images/ios-android-app-development/app_uiux_design01.avif",
+                    "alt": "Scalable and secure mobile apps for businesses"
+                },
+                {
+                    "title": "App development for startups",
+                    "filepath": "/assets/images/service-images/ios-android-app-development/ios_android_app_development_01.avif",
+                    "alt": "Custom iOS app development for startups and enterprises"
+                },
+                {
+                    "title": "Mobile app development for global businesses",
+                    "filepath": "/assets/images/service-images/ios-android-app-development/ios_android_app_development_02.avif",
+                    "alt": "Android app development for smooth performance"
+                },
+                {
+                    "title": "High-performance mobile app",
+                    "filepath": "/assets/images/service-images/ios-android-app-development/ios_android_app_development_03.avif",
+                    "alt": "Digital product prototyping and development solutions"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is iOS/Android App Development?",
+            "descriptions": [
+                "iOS/Android App Development is the process of designing and building mobile applications tailored for smartphones and tablets. It focuses on creating user-friendly, high-performance apps that provide seamless experiences across devices and operating systems."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Smartphone",
+                    "content": "Platform-Specific Development: Building optimized apps for both iOS and Android environments."
+                },
+                {
+                    "icon": "AppWindow",
+                    "content": "UI/UX Mobile Design: Crafting intuitive interfaces for smooth user interaction."
+                },
+                {
+                    "icon": "Database",
+                    "content": "API & Backend Integration: Connecting apps with servers, databases, and third-party services."
+                },
+                {
+                    "icon": "ShieldCheck",
+                    "content": "Performance & Security Optimization: Ensuring fast load times and secure data handling."
+                },
+                {
+                    "icon": "Rocket",
+                    "content": "Testing & Deployment: Rigorous testing for stability before publishing to app stores."
+                }
+            ]
+        }
     },
     {
         "base_service": "Digital Product Development",
@@ -4925,11 +5554,81 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Custom Business Software",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_business_software.avif",
+                    "alt": "Custom digital product development for businesses"
+                },
+                {
+                    "title": "Custom Web Application Development",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_web_application_development_01.avif",
+                    "alt": "End-to-end mobile application development solutions"
+                },
+                {
+                    "title": "Enterprise Software Solutions",
+                    "filepath": "/assets/images/service-images/custom_software_development/enterprise_software_solutions_01.avif",
+                    "alt": "Native and cross-platform mobile app development"
+                },
+                {
+                    "title": "Custom Application Development",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_application_development_01.avif",
+                    "alt": "Mobile app UI/UX design and development services"
+                },
+                {
+                    "title": "Legacy System Modernization",
+                    "filepath": "/assets/images/service-images/custom_software_development/legacy_system_modernization_02.avif",
+                    "alt": "Scalable and secure mobile apps for businesses"
+                },
+                {
+                    "title": "App development for startups",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_application_02.avif",
+                    "alt": "Custom iOS app development for startups and enterprises"
+                },
+                {
+                    "title": "Mobile app development for global businesses",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_application_03.avif",
+                    "alt": "Android app development for smooth performance"
+                },
+                {
+                    "title": "High-performance mobile app",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_application_04.avif",
+                    "alt": "Digital product prototyping and development solutions"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Custom Software Development?",
+            "descriptions": [
+                "Custom Software Development is the process of designing and building tailored software solutions that address specific business requirements. It focuses on creating scalable, efficient systems that streamline operations, improve productivity, and solve unique workflow challenges."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "ClipboardList",
+                    "content": "Requirement Analysis & System Planning: Defining clear architecture based on business needs."
+                },
+                {
+                    "icon": "Boxes",
+                    "content": "Scalable Application Development: Building flexible software that grows with the organization."
+                },
+                {
+                    "icon": "Server",
+                    "content": "Database & Backend Engineering: Ensuring reliable data management and performance."
+                },
+                {
+                    "icon": "Link",
+                    "content": "Integration with Existing Tools: Connecting software with current systems and workflows."
+                },
+                {
+                    "icon": "Lock",
+                    "content": "Testing, Security & Optimization: Delivering stable, secure, and high-performing software."
+                }
+            ]
+        }
     },
     {
         "base_service": "Digital Product Development",
@@ -5121,11 +5820,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Custom E-Commerce Websites",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/custom_e_commerce_websites.avif",
+                    "alt": "Custom e-commerce website development solutions"
+                },
+                {
+                    "title": "End-to-End E-Commerce Platforms",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/end_to_end_e-commerce.avif",
+                    "alt": "CMS-based website design and development"
+                },
+                {
+                    "title": "Global Online Store Development",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/global_online_store_development.avif",
+                    "alt": "End-to-end online store development services"
+                },
+                {
+                    "title": "CMS Website Design & Development",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/cms_website_design_dvelopment.avif",
+                    "alt": "Scalable e-commerce platform development for businesses"
+                },
+                {
+                    "title": "Custom & Open-Source CMS Solutions",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/custom_open_source_cms_solutions.avif",
+                    "alt": "WordPress and open-source CMS development services"
+                },
+                {
+                    "title": "Custom CMS development",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/e-commerce_cms_06.avif",
+                    "alt": "E-commerce website UI/UX design and development"
+                },
+                {
+                    "title": "Secure and fast e-commerce",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/e-commerce_cms_02.avif",
+                    "alt": "Online store development for global e-commerce businesses"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is E-Commerce & CMS Development?",
+            "descriptions": [
+                "E-Commerce & CMS Development is the process of building online stores and content management systems that allow businesses to sell products and manage website content efficiently. It focuses on creating user-friendly, scalable platforms that support seamless shopping experiences and easy content updates."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "ShoppingCart",
+                    "content": "E-Commerce Platform Setup: Developing secure online stores with product, cart, and checkout systems."
+                },
+                {
+                    "icon": "FileText",
+                    "content": "CMS Integration: Enabling easy content management without technical expertise."
+                },
+                {
+                    "icon": "CreditCard",
+                    "content": "Payment Gateway & API Integration: Connecting secure payment and third-party services."
+                },
+                {
+                    "icon": "MonitorSmartphone",
+                    "content": "Responsive UI/UX Design: Ensuring smooth performance across devices and browsers."
+                },
+                {
+                    "icon": "ShieldCheck",
+                    "content": "Performance & Security Optimization: Delivering fast, reliable, and protected platforms."
+                }
+            ]
+        }
     },
     {
         "base_service": "Digital Product Development",
@@ -5318,11 +6082,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Custom Website Development",
+                    "filepath": "/assets/images/service-images/web_development/custom_website_development.avif",
+                    "alt": "Custom website development for businesses"
+                },
+                {
+                    "title": "Web Application Development",
+                    "filepath": "/assets/images/service-images/web_development/web_application_development.avif",
+                    "alt": "Responsive web design for desktop and mobile"
+                },
+                {
+                    "title": "Front-End & Back-End Development",
+                    "filepath": "/assets/images/service-images/web_development/front_end_back_end_development.avif",
+                    "alt": "Full-stack web application development services"
+                },
+                {
+                    "title": "Responsive Website Development",
+                    "filepath": "/assets/images/service-images/web_development/responsive_website_development.avif",
+                    "alt": "Front-end and back-end web development solutions"
+                },
+                {
+                    "title": "Website Redesign & Optimization",
+                    "filepath": "/assets/images/service-images/web_development/website_redesign_optimization.avif",
+                    "alt": "Web development for corporate websites and startups"
+                },
+                {
+                    "title": "Professional web development",
+                    "filepath": "/assets/images/service-images/web_development/web_development_03.avif",
+                    "alt": "E-commerce web development and online store solutions"
+                },
+                {
+                    "title": "SEO-friendly website development",
+                    "filepath": "/assets/images/service-images/web_development/web_development_02.avif",
+                    "alt": "Website redesign and performance optimization services"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Web Development?",
+            "descriptions": [
+                "Web Development is the process of designing and building functional, responsive, and high-performance websites tailored to business goals. It focuses on creating fast, secure, and user-friendly websites that deliver seamless experiences across devices."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Code",
+                    "content": "Frontend & Backend Development: Building interactive interfaces supported by robust server logic."
+                },
+                {
+                    "icon": "MonitorSmartphone",
+                    "content": "Responsive Design Implementation: Ensuring compatibility across mobiles, tablets, and desktops."
+                },
+                {
+                    "icon": "Zap",
+                    "content": "Performance & Speed Optimization: Developing websites that load quickly and run smoothly."
+                },
+                {
+                    "icon": "Shield",
+                    "content": "Security & Data Protection: Implementing best practices to safeguard user information."
+                },
+                {
+                    "icon": "Search",
+                    "content": "SEO-Friendly Structure: Structuring websites for better visibility on search engines."
+                }
+            ]
+        }
     },
     {
         "base_service": "Digital Product Development",
@@ -5515,11 +6344,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Website Updates & Content Management",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/website_updates_content_management.avif",
+                    "alt": "Custom website development for businesses"
+                },
+                {
+                    "title": "Software & Plugin Updates",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/software_plugin_updates.avif",
+                    "alt": "Responsive web design for desktop and mobile"
+                },
+                {
+                    "title": "Security Monitoring & Fixes",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/security_monitoring_fixes.avif",
+                    "alt": "Full-stack web application development services"
+                },
+                {
+                    "title": "Performance Monitoring & Optimization",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/performance_monitoring_optimization.avif",
+                    "alt": "Front-end and back-end web development solutions"
+                },
+                {
+                    "title": "Bug Fixes & Technical Support",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/bug_fixes_technical_support.avif",
+                    "alt": "Web development for corporate websites and startups"
+                },
+                {
+                    "title": "Web application development",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/website_maintence_03.avif",
+                    "alt": "E-commerce web development and online store solutions"
+                },
+                {
+                    "title": "CMS-integrated website development",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/website_maintence_02.avif",
+                    "alt": "Website redesign and performance optimization services"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Website Maintenance and Support Service?",
+            "descriptions": [
+                "Website Maintenance and Support Service is the ongoing process of monitoring, updating, and optimizing a website to ensure it remains secure, fast, and fully functional. It helps businesses prevent issues, improve performance, and keep their website up to date."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Wrench",
+                    "content": "Regular Updates & Bug Fixes: Keeping themes, plugins, and codebases current and error-free."
+                },
+                {
+                    "icon": "Shield",
+                    "content": "Security Monitoring & Protection: Preventing vulnerabilities and safeguarding data."
+                },
+                {
+                    "icon": "Activity",
+                    "content": "Performance & Speed Checks: Ensuring fast load times and smooth functionality."
+                },
+                {
+                    "icon": "RefreshCw",
+                    "content": "Content & Feature Updates: Adding new content and improving existing features."
+                },
+                {
+                    "icon": "HardDrive",
+                    "content": "Backup & Recovery Management: Protecting website data with reliable backup systems."
+                }
+            ]
+        }
     },
     {
         "base_service": "Digital Product Development",
@@ -5712,11 +6606,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Cloud Consulting & Strategy",
+                    "filepath": "/assets/images/service-images/cloud-migration/cloud_consulting_strategy.avif",
+                    "alt": "Cloud migration and infrastructure management services by Well Code Studio"
+                },
+                {
+                    "title": "Cloud Migration Services",
+                    "filepath": "/assets/images/service-images/cloud-migration/cloud_migration_services.avif",
+                    "alt": "Secure cloud migration process for business applications and data"
+                },
+                {
+                    "title": "Cloud Infrastructure Management",
+                    "filepath": "/assets/images/service-images/cloud-migration/cloud_infrastructure_management.avif",
+                    "alt": "Cloud infrastructure setup and management for scalable businesses"
+                },
+                {
+                    "title": "Cloud Optimization & Cost Management",
+                    "filepath": "/assets/images/service-images/cloud-migration/cloud_optimization_cost_management.avif",
+                    "alt": "Managed cloud services for performance optimization and cost efficiency"
+                },
+                {
+                    "title": "Managed Cloud Support Services",
+                    "filepath": "/assets/images/service-images/cloud-migration/managed_cloud_support_services.avif",
+                    "alt": "Enterprise cloud migration strategy and deployment workflow"
+                },
+                {
+                    "title": "Cloud performance monitoring",
+                    "filepath": "/assets/images/service-images/cloud-migration/cloud_migration_01.avif",
+                    "alt": "Cloud server management and monitoring for high availability"
+                },
+                {
+                    "title": "Hybrid and multi-cloud migration",
+                    "filepath": "/assets/images/service-images/cloud-migration/cloud_migration_02.avif",
+                    "alt": "Data migration to cloud with security and compliance standards"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Cloud Migration & Management Services?",
+            "descriptions": [
+                "Cloud Migration & Management Services involve moving business applications, data, and infrastructure to cloud platforms while ensuring optimal performance, security, and scalability. It helps organizations leverage cloud technology for efficiency, reliability, and cost-effectiveness."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Cloud",
+                    "content": "Cloud Assessment & Planning: Evaluating current systems and designing migration strategies."
+                },
+                {
+                    "icon": "UploadCloud",
+                    "content": "Secure Data Migration: Transferring applications and data safely to the cloud environment."
+                },
+                {
+                    "icon": "Cpu",
+                    "content": "Infrastructure Optimization: Configuring cloud resources for performance and scalability."
+                },
+                {
+                    "icon": "Eye",
+                    "content": "Monitoring & Management: Continuous oversight for uptime, security, and operational efficiency."
+                },
+                {
+                    "icon": "HardDrive",
+                    "content": "Backup & Disaster Recovery: Implementing reliable systems to protect data and ensure business continuity."
+                }
+            ]
+        }
     },
     {
         "base_service": "Digital Product Development",
@@ -5909,11 +6868,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Custom API Development",
+                    "filepath": "/assets/images/service-images/api_development_integration/custom_api_development.avif",
+                    "alt": "Data synchronization using secure API integration"
+                },
+                {
+                    "title": "RESTful API Development",
+                    "filepath": "/assets/images/service-images/api_development_integration/restful_api_development.avif",
+                    "alt": "API integration for cloud, SaaS, and enterprise systems"
+                },
+                {
+                    "title": "Third-Party API Integration",
+                    "filepath": "/assets/images/service-images/api_development_integration/third_party_api_integration.avif",
+                    "alt": "Backend API development for scalable digital products"
+                },
+                {
+                    "title": "Web & Mobile API Integration",
+                    "filepath": "/assets/images/service-images/api_development_integration/web_mobile_api_integration.avif",
+                    "alt": "Third-party API integration for business platforms"
+                },
+                {
+                    "title": "Payment Gateway Integration",
+                    "filepath": "/assets/images/service-images/api_development_integration/payment_gateway_integration.avif",
+                    "alt": "Secure REST API development and system integration"
+                },
+                {
+                    "title": "Scalable API development for high-performance",
+                    "filepath": "/assets/images/service-images/api_development_integration/api_development_01.avif",
+                    "alt": "Custom API development for web and mobile applications"
+                },
+                {
+                    "title": "End-to-end API development",
+                    "filepath": "/assets/images/service-images/api_development_integration/api_development_02.avif",
+                    "alt": "API development and integration services by Well Code Studio"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is API Development & Integration Services?",
+            "descriptions": [
+                "API Development & Integration Services involve creating and connecting software interfaces that allow different applications to communicate seamlessly. This enables businesses to streamline workflows, automate processes, and enhance functionality across multiple platforms."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Plug",
+                    "content": "Custom API Development: Building secure, scalable APIs tailored to business requirements."
+                },
+                {
+                    "icon": "GitBranch",
+                    "content": "Third-Party Integration: Connecting external services, tools, and platforms efficiently."
+                },
+                {
+                    "icon": "Repeat",
+                    "content": "Data Synchronization & Automation: Ensuring accurate and real-time information flow between systems."
+                },
+                {
+                    "icon": "ShieldCheck",
+                    "content": "Performance & Security Optimization: Delivering fast, reliable, and protected API connections."
+                },
+                {
+                    "icon": "FileCode",
+                    "content": "Documentation & Support: Providing clear API documentation and ongoing technical assistance."
+                }
+            ]
+        }
     },
     {
         "base_service": "Digital Product Development",
@@ -6098,11 +7122,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Tailor-Made SaaS Solutions",
+                    "filepath": "/assets/images/service-images/saas_application/tailor_made_saas_solutions.avif",
+                    "alt": "SaaS application development services by Well Code Studio"
+                },
+                {
+                    "title": "Scalable & Cloud-Ready Architecture",
+                    "filepath": "/assets/images/service-images/saas_application/scalable_cloud-ready_architecture_01.avif",
+                    "alt": "Custom SaaS application development for scalable businesses"
+                },
+                {
+                    "title": "SaaS Product Development for Startups",
+                    "filepath": "/assets/images/service-images/saas_application/saas_product_development_startups.avif",
+                    "alt": "Cloud-based SaaS software development solutions"
+                },
+                {
+                    "title": "Secure SaaS Application Development",
+                    "filepath": "/assets/images/service-images/saas_application/secure_saas_application_development.avif",
+                    "alt": "End-to-end SaaS application development lifecycle"
+                },
+                {
+                    "title": "Cloud Software Development",
+                    "filepath": "/assets/images/service-images/saas_application/cloud_software_development.avif",
+                    "alt": "Secure SaaS application development with modern architecture"
+                },
+                {
+                    "title": "Custom SaaS platform development",
+                    "filepath": "/assets/images/service-images/saas_application/saas_application_01.avif",
+                    "alt": "Multi-tenant SaaS application development platform"
+                },
+                {
+                    "title": "High-performance SaaS software",
+                    "filepath": "/assets/images/service-images/saas_application/saas_application_01.avif",
+                    "alt": "SaaS product development for startups and enterprises"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is SaaS Application Development Services?",
+            "descriptions": [
+                "SaaS Application Development Services involve designing and building cloud-based software applications that are delivered over the internet. These applications are scalable, subscription-based, and accessible from anywhere, enabling businesses to streamline operations and serve users efficiently."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Layers",
+                    "content": "Multi-Tenant Architecture Design: Creating scalable applications that serve multiple users securely."
+                },
+                {
+                    "icon": "Globe",
+                    "content": "Cloud-Based Deployment: Hosting SaaS applications on reliable cloud infrastructure."
+                },
+                {
+                    "icon": "Plug",
+                    "content": "API & Third-Party Integrations: Connecting applications with other tools and services for enhanced functionality."
+                },
+                {
+                    "icon": "KeyRound",
+                    "content": "Security & Compliance Management: Ensuring data protection and regulatory adherence."
+                },
+                {
+                    "icon": "RefreshCcw",
+                    "content": "Continuous Updates & Maintenance: Providing ongoing improvements and performance optimization."
+                }
+            ]
+        }
     },
     {
         "base_service": "Creative Services",
@@ -6312,11 +7401,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Marketing-focused creative services",
+                    "filepath": "/assets/images/service-images/creative_service/logo_creation_services_01.avif",
+                    "alt": "Creative services by Well Code Studio for branding and marketing"
+                },
+                {
+                    "title": "Corporate creative services",
+                    "filepath": "/assets/images/service-images/creative_service/brochure_flyer_design_02.avif",
+                    "alt": "Professional creative design services by Well Code Studio"
+                },
+                {
+                    "title": "Creative concept development services",
+                    "filepath": "/assets/images/service-images/creative_service/video_services_01.avif",
+                    "alt": "End-to-end creative services offered by Well Code Studio"
+                },
+                {
+                    "title": "Business creative services",
+                    "filepath": "/assets/images/service-images/creative_service/e-commerce_creative_services_01.avif",
+                    "alt": "Branding and creative design solutions by Well Code Studio"
+                },
+                {
+                    "title": "Strategic creative services",
+                    "filepath": "/assets/images/service-images/creative_service/data_management_for_creative_workflows_01.avif",
+                    "alt": "Visual creative services by Well Code Studio for businesses"
+                },
+                {
+                    "title": "Professional creative services",
+                    "filepath": "/assets/images/service-images/creative_service/creative_services_01.avif",
+                    "alt": "Creative services by Well Code Studio for digital and print media"
+                },
+                {
+                    "title": "Full-scale creative services",
+                    "filepath": "/assets/images/service-images/creative_service/creative_services_02.avif",
+                    "alt": "Custom creative solutions by Well Code Studio for brands"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Creative Services?",
+            "descriptions": [
+                "Creative Services involve the strategic creation of visual, design, and multimedia assets that represent a brand’s identity and communicate its message effectively. They help businesses enhance branding, marketing, and customer engagement across digital and offline channels."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Palette",
+                    "content": "Brand Visual Design: Crafting logos, graphics, and visual assets that reflect brand identity."
+                },
+                {
+                    "icon": "Video",
+                    "content": "Multimedia Content Creation: Producing videos, animations, and interactive media for marketing campaigns."
+                },
+                {
+                    "icon": "FileImage",
+                    "content": "Marketing Collateral Design: Designing brochures, flyers, and digital assets to support promotions."
+                },
+                {
+                    "icon": "Share2",
+                    "content": "Social Media & Digital Campaigns: Creating engaging content for platforms that drive growth."
+                },
+                {
+                    "icon": "BookOpen",
+                    "content": "Storytelling & Brand Communication: Conveying messages effectively through cohesive visual narratives."
+                }
+            ]
+        }
     },
     {
         "base_service": "Creative Services",
@@ -6520,11 +7674,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Minimal and modern logo",
+                    "filepath": "/assets/images/service-images/logo_creation/custom_logo_design_for_businesses_03.avif",
+                    "alt": "Custom logo creation for business branding"
+                },
+                {
+                    "title": "Brand-focused logo creation",
+                    "filepath": "/assets/images/service-images/logo_creation/brand_identity_logo_design_03.avif",
+                    "alt": "Professional logo design and brand identity creation"
+                },
+                {
+                    "title": "Professional logo creation services",
+                    "filepath": "/assets/images/service-images/logo_creation/corporate_business_logo_design_02.avif",
+                    "alt": "Creative logo creation for startups and companies"
+                },
+                {
+                    "title": "Logo design workflow",
+                    "filepath": "/assets/images/service-images/logo_creation/modern_creative_logo_design_03.avif",
+                    "alt": "Modern logo design for digital and print use"
+                },
+                {
+                    "title": "Visual identity logo creation",
+                    "filepath": "/assets/images/service-images/logo_creation/scalable_logo_design_01.avif",
+                    "alt": "Corporate logo creation with clean visual identity"
+                },
+                {
+                    "title": "Creative logo design",
+                    "filepath": "/assets/images/service-images/logo_creation/logo_designing_01.avif",
+                    "alt": "Unique logo design concepts for brands"
+                },
+                {
+                    "title": "High-quality logo creation",
+                    "filepath": "/assets/images/service-images/logo_creation/logo_designing_02.avif",
+                    "alt": "Scalable logo creation for websites and marketing"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Logo Creation?",
+            "descriptions": [
+                "Logo Creation is the process of designing a unique visual symbol that represents a brand’s identity. A professionally designed logo helps businesses establish credibility, improve brand recognition, and maintain consistency across marketing, digital, and print channels."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Lightbulb",
+                    "content": "Creative Concept Development: Crafting original ideas aligned with brand values."
+                },
+                {
+                    "icon": "Type",
+                    "content": "Strategic Design & Typography: Selecting fonts, colors, and styles that convey the brand’s personality."
+                },
+                {
+                    "icon": "VectorSquare",
+                    "content": "Scalable & Vector-Based Design: Ensuring clarity across digital and print mediums."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Brand Consistency Integration: Aligning the logo with overall brand identity and marketing materials."
+                },
+                {
+                    "icon": "Sparkles",
+                    "content": "Professional Polish & Finishing: Applying design best practices for a modern, impactful logo."
+                }
+            ]
+        }
     },
     {
         "base_service": "Creative Services",
@@ -6728,11 +7947,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Visually engaging brochure",
+                    "filepath": "/assets/images/service-images/flyer_brochure/custom_brochure_design_businesses_02.avif",
+                    "alt": "Professional brochure and flyer design services"
+                },
+                {
+                    "title": "Professional brochure design",
+                    "filepath": "/assets/images/service-images/flyer_brochure/flyer_design_marketing_promotions_03.avif",
+                    "alt": "Custom brochure design for business marketing"
+                },
+                {
+                    "title": "Custom brochure and flyer design",
+                    "filepath": "/assets/images/service-images/flyer_brochure/corporate_business_brochure_design_01.avif",
+                    "alt": "Creative flyer design for promotions and campaigns"
+                },
+                {
+                    "title": "High-quality print-ready brochure",
+                    "filepath": "/assets/images/service-images/flyer_brochure/digital_print_brochure_design_01.avif",
+                    "alt": "Corporate brochure design for brand communication"
+                },
+                {
+                    "title": "Promotional flyer design",
+                    "filepath": "/assets/images/service-images/flyer_brochure/brand_consistent_marketing_collaterals_01.avif",
+                    "alt": "Marketing brochure and flyer design solutions"
+                },
+                {
+                    "title": "Business brochure design",
+                    "filepath": "/assets/images/service-images/flyer_brochure/flyer_brochure_01.avif",
+                    "alt": "Print and digital brochure design services"
+                },
+                {
+                    "title": "Creative brochure and flyer",
+                    "filepath": "/assets/images/service-images/flyer_brochure/flyer_brochure_02.avif",
+                    "alt": "Business flyer design for events and promotions"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Brochure & Flyer Design Services?",
+            "descriptions": [
+                "Brochure & Flyer Design Services involve creating structured, visually engaging marketing materials that showcase products, services, or brand information clearly and professionally. These materials help businesses communicate effectively and support marketing and sales goals."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Layout",
+                    "content": "Creative Layout & Composition: Designing visually appealing and organized content structures."
+                },
+                {
+                    "icon": "Image",
+                    "content": "High-Quality Visuals & Graphics: Incorporating images, illustrations, and brand elements effectively."
+                },
+                {
+                    "icon": "AlignLeft",
+                    "content": "Clear Messaging & Typography: Ensuring information is easy to read and aligns with brand tone."
+                },
+                {
+                    "icon": "Printer",
+                    "content": "Print & Digital Optimization: Preparing brochures and flyers for both physical and online use."
+                },
+                {
+                    "icon": "Badge",
+                    "content": "Brand Consistency: Maintaining visual identity across all marketing collateral."
+                }
+            ]
+        }
     },
     {
         "base_service": "Creative Services",
@@ -6942,11 +8226,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Large-scale data processing",
+                    "filepath": "/assets/images/service-images/data_management/data_organization_structuring_01.avif",
+                    "alt": "Professional data management services for businesses"
+                },
+                {
+                    "title": "Data organization and optimization",
+                    "filepath": "/assets/images/service-images/data_management/data_processing_data_handling_services_02.avif",
+                    "alt": "Secure data management and organization solutions"
+                },
+                {
+                    "title": "Data management services",
+                    "filepath": "/assets/images/service-images/data_management/digital_secure_data_management_01.avif",
+                    "alt": "Data processing and handling services for enterprises"
+                },
+                {
+                    "title": "AI-assisted data management",
+                    "filepath": "/assets/images/service-images/data_management/custom_data_management_solutions_03.avif",
+                    "alt": "Digital data management services with high accuracy"
+                },
+                {
+                    "title": "Reliable data management",
+                    "filepath": "/assets/images/service-images/data_management/ai_assisted_data_management_02.avif",
+                    "alt": "Structured data organization for business operations"
+                },
+                {
+                    "title": "Business data management",
+                    "filepath": "/assets/images/service-images/data_management/data_management_01.avif",
+                    "alt": "Custom data management solutions for companies"
+                },
+                {
+                    "title": "End-to-end data management",
+                    "filepath": "/assets/images/service-images/data_management/data_management_02.avif",
+                    "alt": "Data handling and validation services"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Data Management?",
+            "descriptions": [
+                "Data Management involves organizing, storing, and securing business information to ensure it remains accurate, accessible, and protected. Effective data management helps streamline operations, reduce errors, and enable informed, data-driven decision-making."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Database",
+                    "content": "Data Collection & Organization: Structuring information for easy access and usability."
+                },
+                {
+                    "icon": "ShieldCheck",
+                    "content": "Data Cleaning & Validation: Ensuring accuracy, consistency, and reliability of data."
+                },
+                {
+                    "icon": "ShieldCheck",
+                    "content": "Secure Storage & Access Control: Protecting sensitive information while enabling authorized access."
+                },
+                {
+                    "icon": "Workflow",
+                    "content": "Integration & Automation: Connecting systems and automating workflows for efficiency."
+                },
+                {
+                    "icon": "BarChart3",
+                    "content": "Reporting & Insights: Providing actionable data insights to support business decisions."
+                }
+            ]
+        }
     },
     {
         "base_service": "Creative Services",
@@ -7144,11 +8493,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Creative video content",
+                    "filepath": "/assets/images/service-images/video_editing/video_editing_services_03.avif",
+                    "alt": "Professional video editing services by Well Code Studio"
+                },
+                {
+                    "title": "Post-production edited video",
+                    "filepath": "/assets/images/service-images/video_editing/video_production_services_03.avif",
+                    "alt": "Color-graded and polished marketing video"
+                },
+                {
+                    "title": "Engaging video with seamless",
+                    "filepath": "/assets/images/service-images/video_editing/corporate_promotional_03.avif",
+                    "alt": "Edited corporate video with smooth transitions"
+                },
+                {
+                    "title": "Professional video editing",
+                    "filepath": "/assets/images/service-images/video_editing/360_videos_virtual_tours_02.avif",
+                    "alt": "High-quality promotional video for online campaigns"
+                },
+                {
+                    "title": "High-resolution video",
+                    "filepath": "/assets/images/service-images/video_editing/ai_assisted_video_services_02.avif",
+                    "alt": "Video with refined audio and visual enhancements"
+                },
+                {
+                    "title": "Promotional and corporate video",
+                    "filepath": "/assets/images/service-images/video_editing/video_editing_01.avif",
+                    "alt": "Social media optimized video with text and captions"
+                },
+                {
+                    "title": "Video content prepared",
+                    "filepath": "/assets/images/service-images/video_editing/video_editing_02.avif",
+                    "alt": "Marketing video showcasing product or service highlights"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Video Services?",
+            "descriptions": [
+                "Video Services involve creating professional, engaging, and polished video content for marketing, branding, and communication purposes. They help businesses tell their story, showcase products, and connect with audiences through compelling visual storytelling."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Lightbulb",
+                    "content": "Concept & Script Development: Planning content that aligns with brand goals and messaging."
+                },
+                {
+                    "icon": "Clapperboard",
+                    "content": "High-Quality Filming & Production: Capturing visually appealing footage with professional techniques."
+                },
+                {
+                    "icon": "Wand2",
+                    "content": "Post-Production Editing: Enhancing visuals, audio, and effects for polished final videos."
+                },
+                {
+                    "icon": "Video",
+                    "content": "Motion Graphics & Animation: Adding dynamic elements to increase engagement and clarity."
+                },
+                {
+                    "icon": "MonitorPlay",
+                    "content": "Platform-Optimized Delivery: Preparing videos for social media, websites, advertisements, or presentations."
+                }
+            ]
+        }
     },
     {
         "base_service": "Creative Services",
@@ -7365,11 +8779,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Conversion-focused e-commerce",
+                    "filepath": "/assets/images/service-images/e_commerce/e_commerce_creative_design_services_03.avif",
+                    "alt": "E-commerce creative services for online stores"
+                },
+                {
+                    "title": "E-commerce design services",
+                    "filepath": "/assets/images/service-images/e_commerce/product_creative_design_visual_optimization_03.avif",
+                    "alt": "Product creative design services for e-commerce platforms"
+                },
+                {
+                    "title": "E-commerce creative services",
+                    "filepath": "/assets/images/service-images/e_commerce/product_data_management_01.avif",
+                    "alt": "E-commerce visual design for better conversions"
+                },
+                {
+                    "title": "Visual content creation",
+                    "filepath": "/assets/images/service-images/e_commerce/order_processing_ecommerce_support_01.avif",
+                    "alt": "Creative design services for e-commerce marketing"
+                },
+                {
+                    "title": "Professional e-commerce creative design",
+                    "filepath": "/assets/images/service-images/e_commerce/payment_gateway_platform_support_01.avif",
+                    "alt": "E-commerce banner and promotional creative design"
+                },
+                {
+                    "title": "E-commerce marketing creatives design",
+                    "filepath": "/assets/images/service-images/e_commerce/ecommerce_01.avif",
+                    "alt": "Product visual optimization for e-commerce websites"
+                },
+                {
+                    "title": "Creative e-commerce services",
+                    "filepath": "/assets/images/service-images/e_commerce/ecommerce_02.avif",
+                    "alt": "Branded e-commerce creative design solutions"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are E-Commerce Services?",
+            "descriptions": [
+                "E-Commerce Services involve creating visually compelling, user-friendly, and conversion-focused online shopping experiences. These services help businesses showcase products effectively, streamline workflows, and build customer trust to drive sales and engagement."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "ShoppingBag",
+                    "content": "Product Image & Visual Enhancement: Ensuring high-quality, appealing product visuals."
+                },
+                {
+                    "icon": "ListOrdered",
+                    "content": "Catalog Management & Organization: Structuring product listings for easy navigation and searchability."
+                },
+                {
+                    "icon": "MousePointerClick",
+                    "content": "User Experience Optimization: Designing intuitive interfaces for seamless shopping journeys."
+                },
+                {
+                    "icon": "Search",
+                    "content": "Content Accuracy & SEO: Maintaining detailed, accurate product information optimized for search engines."
+                },
+                {
+                    "icon": "LineChart",
+                    "content": "Conversion & Performance Monitoring: Tracking engagement and sales metrics to maximize results."
+                }
+            ]
+        }
     },
     {
         "base_service": "Creative Services",
@@ -7586,11 +9065,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Intuitive interface design",
+                    "filepath": "/assets/images/service-images/ui_ux_design/user_experience_design_01.avif",
+                    "alt": "Professional UI UX design services for digital products"
+                },
+                {
+                    "title": "UX research and UI design",
+                    "filepath": "/assets/images/service-images/ui_ux_design/user_interface_design_01.avif",
+                    "alt": "User experience design focused on usability and flow"
+                },
+                {
+                    "title": "UI UX design services",
+                    "filepath": "/assets/images/service-images/ui_ux_design/web_ui_ux_design_01.avif",
+                    "alt": "User interface design for modern web and mobile apps"
+                },
+                {
+                    "title": "Human-centered UI UX design",
+                    "filepath": "/assets/images/service-images/ui_ux_design/mobile_ui_ux_design_04.avif",
+                    "alt": "UI UX design services for business websites"
+                },
+                {
+                    "title": "UI UX design for improved",
+                    "filepath": "/assets/images/service-images/ui_ux_design/product_ui_ux_design_01.avif",
+                    "alt": "Mobile app UI UX design solutions"
+                },
+                {
+                    "title": "Professional interface and experience",
+                    "filepath": "/assets/images/service-images/ui_ux_design/ui_ux_design_01.avif",
+                    "alt": "Product UI UX design for better user engagement"
+                },
+                {
+                    "title": "End-to-end UI UX design",
+                    "filepath": "/assets/images/service-images/ui_ux_design/ui_ux_design_02.avif",
+                    "alt": "User-centered UI UX design process"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are UI/UX Design Services?",
+            "descriptions": [
+                "UI/UX Design Services involve creating user-centered digital experiences that are both visually appealing and highly functional. These services focus on understanding user behavior, simplifying interactions, and optimizing usability across web and mobile platforms."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Users",
+                    "content": "User Research & Analysis: Understanding target audiences to guide design decisions."
+                },
+                {
+                    "icon": "GitMerge",
+                    "content": "Wireframing & Prototyping: Planning intuitive layouts and interactive flows before development."
+                },
+                {
+                    "icon": "PenTool",
+                    "content": "Visual Interface Design: Crafting engaging, brand-aligned user interfaces."
+                },
+                {
+                    "icon": "Activity",
+                    "content": "Interaction & Usability Optimization: Improving navigation, responsiveness, and overall user experience."
+                },
+                {
+                    "icon": "RefreshCw",
+                    "content": "Testing & Feedback Iteration: Refining designs based on real-user insights and usability testing."
+                }
+            ]
+        }
     },
     {
         "base_service": "Creative Services",
@@ -7807,11 +9351,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Brand guidelines and visual identity design",
+                    "filepath": "/assets/images/service-images/ui_ux_design/user_experience_design_01.avif",
+                    "alt": "Professional brand identity design services"
+                },
+                {
+                    "title": "Brand identity design for digital and print",
+                    "filepath": "/assets/images/service-images/ui_ux_design/user_interface_design_01.avif",
+                    "alt": "Visual brand identity design for businesses"
+                },
+                {
+                    "title": "Brand identity design services",
+                    "filepath": "/assets/images/service-images/ui_ux_design/web_ui_ux_design_01.avif",
+                    "alt": "Brand strategy and visual identity development"
+                },
+                {
+                    "title": "Strategic branding and identity",
+                    "filepath": "/assets/images/service-images/ui_ux_design/mobile_ui_ux_design_04.avif",
+                    "alt": "Logo and brand identity design solutions"
+                },
+                {
+                    "title": "Consistent visual branding",
+                    "filepath": "/assets/images/service-images/ui_ux_design/product_ui_ux_design_01.avif",
+                    "alt": "Corporate brand identity design services"
+                },
+                {
+                    "title": "Custom brand identity design",
+                    "filepath": "/assets/images/service-images/ui_ux_design/ui_ux_design_01.avif",
+                    "alt": "Complete brand identity design system"
+                },
+                {
+                    "title": "End-to-end brand identity design",
+                    "filepath": "/assets/images/service-images/ui_ux_design/ui_ux_design_02.avif",
+                    "alt": "Creative brand identity design for startups"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Brand Identity Design Service?",
+            "descriptions": [
+                "Brand Identity Design Service involves creating a cohesive visual and emotional representation of a business. It goes beyond logos to include color palettes, typography, imagery, and brand guidelines that establish recognition, trust, and long-term value."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "VectorSquare",
+                    "content": "Logo & Visual Element Design: Crafting distinctive symbols, icons, and brand graphics."
+                },
+                {
+                    "icon": "Type",
+                    "content": "Color & Typography Strategy: Selecting consistent colors and fonts that reflect brand personality."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Brand Guidelines & Systems: Developing rules for consistent usage across all touchpoints."
+                },
+                {
+                    "icon": "FileImage",
+                    "content": "Marketing Collateral Integration: Applying identity to brochures, social media, and digital assets."
+                },
+                {
+                    "icon": "Target",
+                    "content": "Audience-Centered Design: Ensuring the brand resonates with target customers and builds loyalty."
+                }
+            ]
+        }
     },
     {
         "base_service": "Creative Services",
@@ -8021,11 +9630,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [
+                {
+                    "title": "Creative website redesign",
+                    "filepath": "/assets/images/service-images/brand_identity_design/brand_strategy_visual_direction_04.avif",
+                    "alt": "Professional website UI redesign services"
+                },
+                {
+                    "title": "Website layout redesign",
+                    "filepath": "/assets/images/service-images/brand_identity_design/logo_core_brand_elements_03.avif",
+                    "alt": "Modern website redesign for improved user experience"
+                },
+                {
+                    "title": "Website UI redesign services",
+                    "filepath": "/assets/images/service-images/brand_identity_design/visual_identity_design_system_01.avif",
+                    "alt": "UI redesign services for responsive websites"
+                },
+                {
+                    "title": "End-to-end website UI and UX redesign",
+                    "filepath": "/assets/images/service-images/brand_identity_design/corporate_business_branding_04.avif",
+                    "alt": "Website interface redesign for digital platforms"
+                },
+                {
+                    "title": "Custom website redesign",
+                    "filepath": "/assets/images/service-images/brand_identity_design/complete_brand_identity_design_package_01.avif",
+                    "alt": "UX-focused website redesign services"
+                },
+                {
+                    "title": "Website interface optimization",
+                    "filepath": "/assets/images/service-images/brand_identity_design/brand_identity_design_01.avif",
+                    "alt": "Web UI makeover for better navigation and usability"
+                },
+                {
+                    "title": "Professional web UI revamp",
+                    "filepath": "/assets/images/service-images/brand_identity_design/brand_identity_design_02.avif",
+                    "alt": "Business website redesign for enhanced performance"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Website UI Redesign Services?",
+            "descriptions": [
+                "Website UI Redesign Services involve revamping the visual and interactive elements of an existing website to improve usability, engagement, and brand alignment. The goal is to modernize interfaces, enhance user experience, and optimize for conversions while maintaining brand consistency."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Search",
+                    "content": "UI Audit & Analysis: Reviewing existing website interfaces to identify areas for improvement."
+                },
+                {
+                    "icon": "GitMerge",
+                    "content": "Wireframing & Prototyping: Planning new layouts and interactive flows for optimal usability."
+                },
+                {
+                    "icon": "Palette",
+                    "content": "Visual Design Refresh: Updating colors, typography, graphics, and other design elements."
+                },
+                {
+                    "icon": "MonitorPlay",
+                    "content": "Responsive & Interactive Design: Ensuring seamless experience across devices and screen sizes."
+                },
+                {
+                    "icon": "Activity",
+                    "content": "Testing & Optimization: Iterating based on user behavior and performance metrics for improved results."
+                }
+            ]
+        }
     },
     {
         "base_service": "Creative Services",
@@ -8236,11 +9910,76 @@
             }
         },
         "media": {
-            "images": [],
+            "images": [ 
+                {
+                    "title": "Performance-driven digital marketing",
+                    "filepath": "/assets/images/service-images/digital_marketing/marketing_collateral_design_services_01.avif",
+                    "alt": "Professional digital marketing services for businesses"
+                },
+                {
+                    "title": "Digital marketing services",
+                    "filepath": "/assets/images/service-images/digital_marketing/marketing_visual_content_creation_01.avif",
+                    "alt": "End-to-end digital marketing solutions for brands"
+                },
+                {
+                    "title": "Creative digital marketing services",
+                    "filepath": "/assets/images/service-images/digital_marketing/social_media_creative_design_services_02.avif",
+                    "alt": "Social media marketing and content creation services"
+                },
+                {
+                    "title": "Paid advertising and social media marketing",
+                    "filepath": "/assets/images/service-images/digital_marketing/campaign_creative_design_for_ads_02.avif",
+                    "alt": "Online marketing campaigns for business growth"
+                },
+                {
+                    "title": "Conversion-focused digital marketing",
+                    "filepath": "/assets/images/service-images/digital_marketing/brand_consistent_digital_assets_01.avif",
+                    "alt": "SEO and digital marketing services for websites"
+                },
+                {
+                    "title": "Marketing strategy and digital content services",
+                    "filepath": "/assets/images/service-images/digital_marketing/digital_marketing_01.avif",
+                    "alt": "Marketing collateral design for digital campaigns"
+                },
+                {
+                    "title": "Professional online marketing",
+                    "filepath": "/assets/images/service-images/digital_marketing/digital_marketing_02.avif",
+                    "alt": "Brand promotion through digital marketing services"
+                }
+            ],
             "videos": [],
             "comparison": null
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Digital Marketing Services?",
+            "descriptions": [
+                "Digital Marketing Services involve creating and executing online strategies to increase brand visibility, attract targeted audiences, and drive measurable business results. These services encompass content creation, social media, SEO, paid campaigns, and analytics to help businesses grow digitally."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Search",
+                    "content": "Search Engine Optimization (SEO): Optimizing websites and content to improve search rankings and organic traffic."
+                },
+                {
+                    "icon": "Share2",
+                    "content": "Social Media Marketing: Crafting engaging posts, campaigns, and visuals to boost brand presence."
+                },
+                {
+                    "icon": "PenLine",
+                    "content": "Content Marketing: Producing high-quality content that educates, informs, and converts audiences."
+                },
+                {
+                    "icon": "Megaphone",
+                    "content": "Paid Advertising & Campaign Management: Running targeted ads on platforms like Google, Facebook, and Instagram."
+                },
+                {
+                    "icon": "BarChart",
+                    "content": "Analytics & Performance Tracking: Measuring campaigns and strategies to refine and maximize ROI."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -8477,7 +10216,36 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Image Editing Services?",
+            "descriptions": [
+                "Image Editing Services involve the professional enhancement, correction, and optimization of digital images to improve their overall quality and visual impact. Each image is carefully analyzed and edited based on its lighting, composition, and intended usage to deliver clean, sharp, and visually appealing results."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Sun",
+                    "content": "Color Correction & Exposure Adjustment: Optimizing brightness, contrast, and color balance for natural visuals."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Retouching & Cleanup: Removing imperfections, distractions, and unwanted elements."
+                },
+                {
+                    "icon": "ImageMinus",
+                    "content": "Background Editing & Replacement: Isolating or changing backgrounds for professional presentation."
+                },
+                {
+                    "icon": "ZoomIn",
+                    "content": "Sharpness & Detail Enhancement: Ensuring images appear crisp and high-resolution."
+                },
+                {
+                    "icon": "FileCog",
+                    "content": "Format Optimization: Preparing images for print, web, social media, and other digital platforms."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -8740,7 +10508,36 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Product Image Editing & Enhancement Services?",
+            "descriptions": [
+                "Product Image Editing & Enhancement involves professionally refining and optimizing product photographs to make them clean, accurate, and visually compelling. Each image is carefully adjusted to highlight key features while maintaining realism and brand consistency for e-commerce, advertising, and digital marketing purposes."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "ImageMinus",
+                    "content": "Background Removal & Replacement: Isolating products for clean, distraction-free visuals."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Color & Lighting Optimization: Enhancing tones, exposure, and reflections to match real-life appearance."
+                },
+                {
+                    "icon": "Sparkles",
+                    "content": "Retouching & Detail Enhancement: Correcting imperfections and emphasizing product features."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Shadow & Reflection Creation: Adding depth and realism to showcase products effectively."
+                },
+                {
+                    "icon": "Layout",
+                    "content": "Platform-Ready Formatting: Preparing images for online stores, catalogs, and marketing campaigns."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -8767,13 +10564,31 @@
             "sub_section": {
                 "title": "How Portrait Retouching Improves Your Images",
                 "descriptions": [],
-                "list": [
-                    "Model & fashion portrait enhancements with editorial-quality finishes",
-                    "High-end retouching for premium, meticulous results",
-                    "Creative photo manipulation and object removal while maintaining realism",
-                    "Accurate face & head swaps with perfect alignment and skin tones",
-                    "Corporate event portrait enhancements correcting lighting and colors",
-                    "Natural family & baby portrait editing preserving warmth and emotion"
+                "list-portrait-editing": [
+                    {
+                        "icon": "Camera",
+                        "content": "Model & fashion portrait enhancements with editorial-quality finishes"
+                    },
+                    {
+                        "icon": "Sliders",
+                        "content": "High-end retouching for premium, meticulous results"
+                    },
+                    {
+                        "icon": "Layers",
+                        "content": "Creative photo manipulation and object removal while maintaining realism"
+                    },
+                    {
+                        "icon": "Sun",
+                        "content": "Accurate face & head swaps with perfect alignment and skin tones"
+                    },
+                    {
+                        "icon": "Home",
+                        "content": "Corporate event portrait enhancements correcting lighting and colors"
+                    },
+                    {
+                        "icon": "Camera",
+                        "content": "Natural family & baby portrait editing preserving warmth and emotion"
+                    }
                 ],
                 "phrase_text": ""
             }
@@ -9004,7 +10819,36 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Portrait Retouching & Enhancement Services?",
+            "descriptions": [
+                "Portrait Retouching & Enhancement involves carefully refining facial features, skin tones, lighting, and background elements to improve image quality while preserving the subject’s natural look. Each portrait is edited with a personalized approach to ensure subtle, realistic, and professional results."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Sparkles",
+                    "content": "Skin Tone & Texture Refinement: Smoothing imperfections while keeping natural skin details intact."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Lighting & Color Correction: Adjusting brightness and tones for balanced, flattering visuals."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Background Cleanup: Removing distractions to keep focus on the subject."
+                },
+                {
+                    "icon": "Focus",
+                    "content": "Facial Feature Enhancement: Subtle sharpening and detailing of eyes, hair, and expressions."
+                },
+                {
+                    "icon": "User",
+                    "content": "Natural Look Preservation: Enhancing portraits without altering the person’s identity."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -9259,7 +11103,36 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Fashion Image Editing?",
+            "descriptions": [
+                "Fashion Image Editing is the professional enhancement of fashion photographs to elevate brand perception, visual appeal, and storytelling. It refines every element of the image while preserving authenticity, helping brands, designers, and photographers present polished, high-impact visuals."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Sparkles",
+                    "content": "Skin & Fabric Retouching: Refining skin tones and garment textures while maintaining realism."
+                },
+                {
+                    "icon": "Palette",
+                    "content": "Color Grading & Lighting Enhancement: Adjusting tones for vibrant, premium-looking visuals."
+                },
+                {
+                    "icon": "ImageMinus",
+                    "content": "Background Cleanup & Replacement: Removing distractions to keep focus on the subject and outfit."
+                },
+                {
+                    "icon": "Focus",
+                    "content": "Detail Enhancement: Sharpening accessories, patterns, and styling elements."
+                },
+                {
+                    "icon": "Badge",
+                    "content": "Brand-Consistent Finishing: Delivering images aligned with fashion brand aesthetics and campaign needs."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -9516,7 +11389,36 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Automobile Image Editing?",
+            "descriptions": [
+                "Automobile Image Editing is the professional enhancement of vehicle photographs to create clean, detailed, and visually appealing visuals for modern buyers. It improves image quality while maintaining accuracy, helping dealerships and automotive businesses build trust and attract attention online."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Palette",
+                    "content": "Color & Paint Enhancement: Refining tones and reflections to highlight the vehicle’s finish."
+                },
+                {
+                    "icon": "ImageMinus",
+                    "content": "Background Cleanup & Replacement: Removing distractions for a focused, professional look."
+                },
+                {
+                    "icon": "Focus",
+                    "content": "Detail Sharpening: Enhancing headlights, interiors, wheels, and key features."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Shadow & Reflection Balancing: Adding depth while maintaining realistic lighting."
+                },
+                {
+                    "icon": "Layout",
+                    "content": "Marketplace-Ready Optimization: Preparing images for automotive websites, listings, and ads."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -9778,7 +11680,36 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Photo Manipulation?",
+            "descriptions": [
+                "Photo Manipulation is a creative editing process that transforms standard images into unique, high-impact visuals for branding, advertising, and digital campaigns. It combines multiple elements, effects, and artistic techniques to create compelling visual storytelling."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "GitMerge",
+                    "content": "Composite Image Creation: Merging multiple images seamlessly into one cohesive visual."
+                },
+                {
+                    "icon": "ImagePlus",
+                    "content": "Creative Background & Scene Design: Building imaginative or conceptual environments."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Lighting & Color Harmony: Matching tones and shadows across combined elements."
+                },
+                {
+                    "icon": "Brush",
+                    "content": "Detail Blending & Refinement: Ensuring realistic edges, textures, and transitions."
+                },
+                {
+                    "icon": "Sparkles",
+                    "content": "Campaign-Ready Visual Output: Crafting striking images for ads, social media, and branding."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -10041,7 +11972,36 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Image Masking?",
+            "descriptions": [
+                "Image Masking is an advanced photo editing technique used to separate complex objects from their backgrounds while preserving fine details. It enables selective transparency, making it ideal for images with soft edges, hair, fur, or translucent elements."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Feather",
+                    "content": "Edge Detail Preservation: Retaining fine strands, soft edges, and intricate outlines."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Selective Transparency Control: Allowing precise background removal without hard cut lines."
+                },
+                {
+                    "icon": "Scissors",
+                    "content": "Complex Object Isolation: Handling hair, fabric, glass, and semi-transparent materials."
+                },
+                {
+                    "icon": "ImagePlus",
+                    "content": "Seamless Background Replacement: Integrating subjects naturally into new environments."
+                },
+                {
+                    "icon": "Layout",
+                    "content": "Design & E-commerce Ready Output: Preparing images for composites, ads, and product listings."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -10304,7 +12264,36 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Wedding Photo Enhancement?",
+            "descriptions": [
+                "Wedding Photo Enhancement is the professional refinement of wedding images to improve visual quality while preserving a natural, emotional look. It enhances colors, lighting, and details so every photo beautifully reflects the special moments of the day."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Sun",
+                    "content": "Color & Lighting Enhancement: Adjusting tones for warm, elegant, and consistent visuals."
+                },
+                {
+                    "icon": "Sparkles",
+                    "content": "Skin Tone & Detail Refinement: Subtle retouching while keeping expressions natural."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Background & Distraction Cleanup: Removing unwanted elements for clean compositions."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Album-Wide Consistency: Maintaining uniform color grading and style across all images."
+                },
+                {
+                    "icon": "Heart",
+                    "content": "Emotion-Focused Finishing: Preserving the storytelling essence of each captured moment."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -10561,7 +12550,36 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Mobile Photo Editing?",
+            "descriptions": [
+                "Mobile Photo Editing is the professional enhancement of smartphone images to improve lighting, colors, and overall visual balance while preserving a natural look. Each image is manually reviewed and refined to avoid over-processed results and maintain authenticity."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Sun",
+                    "content": "Lighting & Color Correction: Adjusting exposure and tones for clean, natural visuals."
+                },
+                {
+                    "icon": "Sparkles",
+                    "content": "Skin Tone & Detail Refinement: Enhancing portraits without artificial filters."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Background & Distraction Cleanup: Removing unwanted elements for better composition."
+                },
+                {
+                    "icon": "PenTool",
+                    "content": "Manual Precision Editing: Customized edits instead of template-based filters."
+                },
+                {
+                    "icon": "User",
+                    "content": "Natural Look Preservation: Ensuring images remain realistic and true to the moment."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -10820,7 +12838,36 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are High-End Manual Photo Retouching Services?",
+            "descriptions": [
+                "High-End Manual Photo Retouching is a professional editing process performed by skilled human retouchers using advanced tools for complete control and precision. It focuses on enhancing images while preserving natural textures, lighting accuracy, and fine details that automated tools often miss."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Sparkles",
+                    "content": "Skin Texture Preservation: Refining imperfections while keeping natural skin details intact."
+                },
+                {
+                    "icon": "Eye",
+                    "content": "Judgment-Based Enhancements: Applying edits based on lighting, context, and image purpose."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Color & Light Accuracy: Correcting tones without artificial or over-processed results."
+                },
+                {
+                    "icon": "Focus",
+                    "content": "Detail-Oriented Refinement: Enhancing fine elements such as hair, fabric, and textures."
+                },
+                {
+                    "icon": "ShieldCheck",
+                    "content": "Consistent Professional Output: Delivering high-quality results across all images without AI artifacts."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -11077,7 +13124,36 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Bulk Ecommerce Image Editing Services?",
+            "descriptions": [
+                "Bulk Ecommerce Image Editing Services involve the professional enhancement and optimization of large volumes of product images for online selling platforms. It ensures uniform quality, consistent lighting, clean backgrounds, and standardized dimensions across the entire product catalog."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "Layers",
+                    "content": "Batch Color & Lighting Consistency: Maintaining uniform tones across hundreds of images."
+                },
+                {
+                    "icon": "ImageMinus",
+                    "content": "Background Standardization: Applying clean, distraction-free backgrounds for all products."
+                },
+                {
+                    "icon": "Maximize",
+                    "content": "Size & Dimension Alignment: Preparing images to meet ecommerce platform requirements."
+                },
+                {
+                    "icon": "CheckCircle",
+                    "content": "Detail & Quality Control: Reviewing each image to ensure clarity and accuracy."
+                },
+                {
+                    "icon": "Layout",
+                    "content": "Catalog-Ready Output: Delivering optimized images for fast uploads and better sales performance."
+                }
+            ]
+        }
     },
     {
         "base_service": "Image Editing",
@@ -11308,6 +13384,35 @@
                 }
             }
         },
-        "meta_schema": []
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Image Quality Audit & Optimization?",
+            "descriptions": [
+                "Image Quality Audit & Optimization is a structured process of reviewing, analyzing, and enhancing images to ensure they are visually sharp, technically optimized, and performance-ready for web, ecommerce, and digital platforms. It improves both visual quality and loading efficiency for better user experience and SEO."
+            ],
+            "sub_title": "The Technical Pillars",
+            "list": [
+                {
+                    "icon": "ZoomIn",
+                    "content": "Clarity & Sharpness Evaluation: Ensuring images appear crisp and professional."
+                },
+                {
+                    "icon": "Maximize",
+                    "content": "Resolution & Scaling Accuracy: Adjusting dimensions without quality loss."
+                },
+                {
+                    "icon": "Palette",
+                    "content": "Color Accuracy & Consistency: Maintaining uniform tones across image sets."
+                },
+                {
+                    "icon": "FileCog",
+                    "content": "Format & Compression Optimization: Reducing file size while preserving visual quality."
+                },
+                {
+                    "icon": "Gauge",
+                    "content": "Performance & SEO Alignment: Preparing images for faster page loads and better search visibility."
+                }
+            ]
+        }
     }
 ]

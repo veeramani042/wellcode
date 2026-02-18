@@ -69,6 +69,7 @@ export const ImageComparisonSlider = ({
                         draggable={false}
                         priority
                         sizes="100vw"
+                        loading="lazy"
                         onLoadingComplete={() => setBeforeLoaded(true)}
                     />
                 </div>
@@ -91,6 +92,7 @@ export const ImageComparisonSlider = ({
                         className={`object-cover transition-opacity duration-300 ${afterLoaded ? 'opacity-100' : 'opacity-0'}`}
                         draggable={false}
                         priority
+                        loading="lazy"
                         sizes="100vw"
                         onLoadingComplete={() => setAfterLoaded(true)}
                     />

@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils";
 type FooterProps = {
     title: string;
     descriptions: string[];
-    link: ContentLink
+    link?: ContentLink
 };
 
 type TextWithLinkProps = {

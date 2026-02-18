@@ -6,9 +6,21 @@ import { useEffect } from "react";
 import { AnimatedCircularProgressBar } from "../ui/circular-progress";
 
 const stats = [
-    { label: "Conversion Analysis", value: 95 },
-    { label: "Generating Reports", value: 100 },
-    { label: "Market Value", value: 95 },
+    {
+        label: "Client Retention Rate",
+        value: 95,
+        content: 'Long-term partnerships built on reliability, consistency, and high-quality delivery.'
+    },
+    {
+        label: "Quality-Control Workflow",
+        value: 100,
+        content: 'Every project passes structured review processes to ensure accuracy and brand alignment.'
+    },
+    {
+        label: "On-Time Delivery Rate",
+        value: 98,
+        content: 'Fast turnaround times powered by streamlined production systems.'
+    },
 ];
 
 function AnimatedCounter({ value }: { value: number }) {
@@ -75,20 +87,20 @@ export default function StrengthSection() {
                         className="relative overflow-hidden rounded-3xl col-span-1 lg:col-span-2 bg-gradient-to-br from-pink-900/80 to-black/50 min-h-[350px] px-6 py-20"
                     >
                         <h3 className="max-w-sm text-3xl font-semibold text-white">
-                            Competitive Advantage Through Outsourcing
+                            Competitive Edge Through Strategic Wellcode.
                         </h3>
                         <p className="mt-4 max-w-sm text-white/60">
-                            Outsourcing enables faster growth, sharper focus, and expanded market
-                            share — a decisive competitive advantage.
+                            Wellcode your image editing, creative production, and digital services to reduce operational costs, increase efficiency, and scale faster. Focus on growth while we handle high-quality execution.
                         </p>
 
                         <motion.img
-                            src="./assets/images/image01.jpg"
+                            src="./assets/images/service-images/hdr/hdr_01.avif"
                             alt="visual"
+                            loading="lazy"
                             initial={{ y: 20 }}
                             whileInView={{ y: -10 }}
                             transition={{ duration: 2, ease: "easeOut" }}
-                            className="absolute h-auto rounded-tl-3xl w-80 -bottom-10 -right-2 grayscale-50 saturate-50"
+                            className="absolute h-auto rounded-tl-3xl w-80 -bottom-10 -right-2"
                         />
                     </motion.div>
 
@@ -99,11 +111,10 @@ export default function StrengthSection() {
                         className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-blue-900/80 to-black min-h-[300px] px-6 py-20"
                     >
                         <h3 className="text-3xl font-semibold text-white">
-                            Specialized Focus. Superior Results.
+                            Focused Expertise. Measurable Results.
                         </h3>
                         <p className="mt-4 text-white/60">
-                            By mastering select areas, we deliver consistently higher-quality
-                            outcomes without compromise.
+                            Our specialized team delivers precision-driven image editing, creative services, and digital production with consistent quality, faster turnaround, and performance-focused outcomes.
                         </p>
                     </motion.div>
 
@@ -116,11 +127,10 @@ export default function StrengthSection() {
                         className="relative text-center overflow-hidden rounded-3xl col-span-1 lg:col-span-3 bg-gradient-to-br from-blue-950 to-black min-h-[420px] px-6 py-20"
                     >
                         <h3 className="text-3xl font-semibold text-white max-w-sm mx-auto">
-                            Performance Metrics.
+                            Performance That Drives Business Growth.
                         </h3>
                         <p className="mt-4 text-white/60 max-w-lg mx-auto">
-                            By mastering select areas, we deliver consistently higher-quality
-                            outcomes without compromise.
+                            Optimized workflows, scalable production, and quality control systems built for agencies, real estate professionals, and e-Commerce brands.
                         </p>
 
                         <div className="grid md:grid-cols-3 gap-10 mt-15 text-center">
@@ -140,7 +150,7 @@ export default function StrengthSection() {
                                         />
                                     </motion.div>
                                     <p className="mt-5">{stat.label}</p>
-                                    <p className="text-white/50 text-sm max-w-[150px] mx-auto">Lorem ipsum dolor sit ametr sit amet.</p>
+                                    <p className="text-white/50 text-sm max-w-[220px] mx-auto">{stat.content}</p>
                                 </div>
                             ))}
                         </div>

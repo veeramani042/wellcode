@@ -10,7 +10,7 @@ type Props = {
 
 const InfinteWorksGallery = (props: Props) => {
     return (
-        <section className='px-2'>
+        <section className='px-3'>
             <ScrollViewTrigger
                 className={cn("text-center py-20", props.className)}
             >

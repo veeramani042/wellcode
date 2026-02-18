@@ -1,10 +1,7 @@
 "use client"
 
 import { cn } from "@/lib/utils"
-import { AuroraText } from "../ui/aurora-text"
 import { motion, } from "framer-motion";
-import type { Variants } from "framer-motion";
-import { Star } from "lucide-react";
 
 const aboutCards = [
     {

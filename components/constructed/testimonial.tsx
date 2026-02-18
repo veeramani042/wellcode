@@ -102,7 +102,7 @@ const ReviewCard = ({
             )}
         >
             <div className="flex flex-row items-center gap-2">
-                <Image className="rounded-full w-10 h-10 object-cover" width={50} height={50} alt="" src={"/assets/images/" + img + ".jpg"} />
+                <Image className="rounded-full w-10 h-10 object-cover" width={50} height={50} alt="Client Review" src={"/assets/images/" + img + ".jpg"} loading="lazy" />
                 <div className="flex flex-col">
                     <figcaption className="text-sm font-medium dark:text-white">
                         {name}
@@ -157,7 +157,7 @@ function Marquee({
 
 const Testimonial = () => {
     return (
-        <section className="relative z-1">
+        <section className="relative z-1 px-3">
             {/* <div className="pointer-events-none absolute inset-0 transform-gpu transition-all duration-300 group-hover:bg-black/3 group-hover:dark:bg-neutral-800/10" /> */}
             <div className="relative flex w-full flex-col items-center justify-center overflow-hidden pb-20">
                 <ScrollViewTrigger

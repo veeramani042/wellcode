@@ -15,15 +15,8 @@ const AboutHero = (props: Props) => {
                 style={{ transform: 'rotate(-15deg)', backgroundImage: `url(${Image01})` }}
                 className={cn("absolute h-screen w-[70vw] -right-100 -bottom-50 rounded-3xl bg-cover overflow-hidden shadow-2xl")}>
             </MotionDiv>
-            {/* <div className="absolute -inset-12 z-10 pointer-events-none bg-linear-to-br from-[#a855f7]/10 via-transparent to-[#3b82f6]/10 blur-3xl" /> */}
             <div className="p-10 sm:p-20 md:p-30 mx-auto h-full flex flex-col justify-between relative z-1">
                 <div>
-                    {/* <div className="flex flex-wrap mt-20 items-center gap-5">
-                        <img src="./wcs_logo.png" className="h-10 sm:h-14 md:h-15 relative z-10 invert-90" alt="WCS Logo" />
-                        <div className="text-foreground/90 text-4xl sm:text-6xl md:text-6xl max-w-xl font-semibold text-shadow-cyan-200 text-shadow-2xs">
-                            <TextAnimate duration={.6} animation="slideUp" by="character">WellCode</TextAnimate>
-                        </div>
-                    </div> */}
                     <div className="mt-20 relative">
                         <div
                             style={{ backgroundImage: `url(${Image01})` }}

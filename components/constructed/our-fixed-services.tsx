@@ -114,7 +114,7 @@ export default function OurFixedServices() {
                             <AuroraText>{item.title}</AuroraText>
                         </h2>
 
-                        <MotionDiv className="w-full h-[250px] md:h-[300px] 2xl:h-[400px] bg-[#090909] rounded-3xl cs-home-bg-image">
+                        <MotionDiv className="w-full h-[250px] md:h-[300px] 2xl:h-[450px] bg-[#090909] rounded-3xl cs-home-bg-image">
                             <div
                                 className="w-full h-full bg-cover bg-center rounded-3xl"
                                 style={{ backgroundImage: `url(${item.image})` }}

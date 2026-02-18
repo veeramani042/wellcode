@@ -32,7 +32,7 @@ const HeroSection = ({ animate = true }: Props) => {
                         transition={animate && { duration: 0.7, ease: "easeOut" }}
                         className="max-w-3xl mx-auto mt-5 text-sm sm:text-base text-neutral-300"
                     >
-                        You have discovered one of the top outsource providers for your business requirements. Save time and resources by partnering with reliable experts at Outsource Infotech in Image Editing, Software Development, and more.
+                        You have discovered one of the top Wellcode providers for your business requirements. Save time and resources by partnering with reliable experts at Well Code Studio in Image Editing, Software Development, and more.
                     </MotionP>
                     <MotionDiv
                         initial={animate && { opacity: 0, y: 50 }}

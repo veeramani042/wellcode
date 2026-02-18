@@ -17,7 +17,7 @@ export default function ContactSection() {
                         initial={{ opacity: 0, y: -20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.6 }}
-                        className="text-4xl md:text-8xl text-center my-15"
+                        className="text-4xl md:text-8xl text-center my-8 sm:my-6"
                     >
                         <AuroraText>Get in Touch</AuroraText>
                     </MotionH2>
@@ -26,7 +26,7 @@ export default function ContactSection() {
                         initial={{ opacity: 0, scale: 0.95 }}
                         animate={{ opacity: 1, scale: 1 }}
                         transition={{ duration: 0.7 }}
-                        className="p-10 gap-10"
+                        className="p-0 sm:p-10 gap-10"
                     >
                         <form className="space-y-6 block max-w-2xl mx-auto">
                             <div>
@@ -70,7 +70,7 @@ export default function ContactSection() {
                                 </div>
                             </div>
 
-                            <RainbowButton className="w-full py-5 rounded-lg shadow-lg">
+                            <RainbowButton className="w-full py-5 rounded-lg shadow-lg mt-3">
                                 Send Message
                             </RainbowButton>
                         </form>

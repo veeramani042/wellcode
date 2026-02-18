@@ -1,15 +1,10 @@
 import BeamsBackground from '@/components/ui/beams-background'
-import { LayoutTextFlip } from '@/components/ui/layout-text-flip'
-import { RainbowButton } from '@/components/ui/rainbow-button'
-import { ShinyButton } from '@/components/ui/shiny-button'
 import BlobPolymerScene from '@/components/ui/blob-polymer-scene'
-import { cn, servicesData } from '@/lib/utils'
+import { servicesData } from '@/lib/utils'
 import DotPattern from '@/components/ui/dot-pattern'
 import HeroSearch from '@/components/custom/search-hero-component'
-import { MotionDiv, MotionP } from '@/components/motion/motion-client'
+import { MotionP } from '@/components/motion/motion-client'
 import { AuroraText } from '@/components/ui/aurora-text'
-import { ChevronRight } from 'lucide-react'
-import { AnimatedGradientText } from '@/components/ui/animated-gradient-text'
 
 type Props = {
     animate?: Boolean,
@@ -30,7 +25,7 @@ const HeroSection = ({ animate = true }: Props) => {
                         transition={animate && { duration: 0.7, ease: "easeOut" }}
                         className="max-w-3xl mx-auto mt-5 text-md text-neutral-500 mb-10"
                     >
-                        You have discovered one of the top outsource providers for your business requirements. Save time and resources by partnering with reliable experts at Outsource Infotech in Image Editing, Software Development, and more.
+                        You have discovered one of the top Wellcode providers for your business requirements. Save time and resources by partnering with reliable experts at Well Code Studio in Image Editing, Software Development, and more.
                     </MotionP>
                     <HeroSearch
                         animate={true}
