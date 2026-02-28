@@ -1,0 +1,332 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "HDR blending",
+        "meta_titles": [
+            "Real Estate HDR Blending Services | Wellcode Studio",
+            "Outsource HDR Blending for Real Estate Photography"
+        ],
+        "meta_descriptions": [
+            "Looking for natural HDR blending? We deliver professional real estate HDR photo editing with fast turnaround and global support.",
+            "High-quality HDR blending for real estate photography. Human-led editing for realistic, market-ready images"
+        ],
+        "slug": "hdr-blending",
+        "header": {
+            "title": "Professional HDR Blending Services for Real Estate Photography",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we provide professional HDR blending services that create balanced, natural-looking real estate images—even in challenging lighting conditions. By blending multiple exposures, we help property photos showcase clear interiors, visible exterior views, and accurate details in a single, well-lit image. Our HDR blending solutions support real estate photographers, agents, and property marketers worldwide, delivering market-ready visuals that improve listing performance and buyer confidence."
+            ]
+        },
+        "general_info": {
+            "title": "Why HDR Blending Elevates Real Estate Listings",
+            "descriptions": [
+                "In real estate photography, lighting can make or break a property’s appeal. HDR blending balances multiple exposures to create bright, natural, and visually stunning images that showcase every detail—capturing buyer attention, boosting engagement, and driving results by presenting properties at their absolute best, making buyers more likely to inquire immediately."
+            ],
+            "sub_section": {
+                "title": "How HDR Blending Improves Property Listings",
+                "descriptions": [],
+                "list": [
+                    "Highlights every room’s details with perfect exposure",
+                    "Creates vibrant, true-to-life visuals that attract buyers",
+                    "Enhances perceived property value and space depth",
+                    "Makes listings stand out on portals and social media",
+                    "Supports faster sales and higher inquiries"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "HDR Blending Services for High-Impact Real Estate Images",
+            "descriptions": [
+                "Wellcode Studio’s HDR blending services combine multiple exposures to create balanced, naturally lit property images. Our human-led process ensures clarity,depth,and market-ready visuals for real estate listings."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Professional HDR Image Blending",
+                    "descriptions": [
+                        "Merge multiple exposures to achieve evenly lit images with natural highlights and shadows."
+                    ],
+                    "image": {
+                        "title": "HDR photo showing natural lighting",
+                        "filepath": "/assets/images/service-images/hdr/hdr_01.avif",
+                        "alt": "Exterior property image with improved contrast and tone mapping"
+                    }
+                },
+                {
+                    "title": "Natural Indoor Window Replacement",
+                    "descriptions": [
+                        "Maintain clear, realistic outdoor views while preserving consistent interior lighting for buyer-trustworthy visuals."
+                    ],
+                    "image": {
+                        "title": "Improved contrast and tone mapping",
+                        "filepath": "/assets/images/service-images/hdr/hdr_02.avif",
+                        "alt": "Professionally enhanced interior HDR photo showing natural lighting"
+                    }
+                },
+                {
+                    "title": "Accurate Tone Mapping & Color Balance",
+                    "descriptions": [
+                        "Enhance contrast, depth, and colors to create vibrant yet natural property images."
+                    ],
+                    "image": {
+                        "title": "Accurate indoor window lighting",
+                        "filepath": "/assets/images/service-images/hdr/hdr_03.avif",
+                        "alt": "HDR blended property image with balanced highlights and shadows by Wellcode Studio"
+                    }
+                },
+                {
+                    "title": "Detail Preservation & Fine Enhancements",
+                    "descriptions": [
+                        "Architectural details, textures, and subtle elements are retained for professional, polished results."
+                    ],
+                    "image": {
+                        "title": "Balanced tone-mapped hallway image",
+                        "filepath": "/assets/images/service-images/hdr/hdr_04.avif",
+                        "alt": "Property image with natural HDR lighting and shadow preservation"
+                    }
+                },
+                {
+                    "title": "MLS-Compliant, Buyer-Ready Images",
+                    "descriptions": [
+                        "All images meet real estate listing standards and maintain realism for virtual staging applications."
+                    ],
+                    "image": {
+                        "title": "Interior photo with enhanced",
+                        "filepath": "/assets/images/service-images/hdr/hdr_05.avif",
+                        "alt": "Realistic HDR blended bathroom image for online listings"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted HDR Blending, Human-Perfected Results",
+            "descriptions": [
+                "AI tools can assist with exposure merging and speed up initial processing. However, HDR blending requires expert judgment to prevent unnatural lighting, halos, or color inconsistencies—especially in real estate imagery."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Are Essential for HDR Blending",
+                "list": [
+                    "Human editors understand how buyers perceive property lighting",
+                    "Manual blending ensures realistic window views and interiors",
+                    "Tones are adjusted based on property type and visual intent",
+                    "Final quality checks prevent exaggerated or unrealistic HDR effects"
+                ],
+                "phrase_text": "At Wellcode Studio, AI supports efficiency, but human expertise ensures professional, market-ready HDR images that pair seamlessly with enhancements like virtual staging."
+            }
+        },
+        "process": {
+            "title": "Our Expert Approach to HDR Blending",
+            "descriptions": [
+                "Our human-led HDR workflow ensures realistic, market-ready property visuals. Each step focuses on clarity, balance, and listing-ready quality."
+            ],
+            "steps": [
+                {
+                    "title": "Image Review & Assessment",
+                    "descriptions": [
+                        "We analyze multiple exposures to determine the best HDR blending approach."
+                    ]
+                },
+                {
+                    "title": "Manual HDR Blending",
+                    "descriptions": [
+                        "Expert editors merge exposures, preserving detail and avoiding over-processed effects."
+                    ]
+                },
+                {
+                    "title": "Color & Tone Refinement",
+                    "descriptions": [
+                        "We adjust contrast, lighting, and color balance to create natural, visually compelling images."
+                    ]
+                },
+                {
+                    "title": "Window & Interior Lighting Adjustment",
+                    "descriptions": [
+                        "Indoor and outdoor lighting is fine-tuned for realism, crucial for virtual staging integration."
+                    ]
+                },
+                {
+                    "title": "Final Review & Delivery",
+                    "descriptions": [
+                        "Every image is carefully reviewed for accuracy, realism, and readiness for real estate marketing."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Who Uses Our HDR Blending Services?",
+            "descriptions": [
+                "Our HDR blending services are ideal for:"
+            ],
+            "users": [
+                "Real estate photographers",
+                "Real estate agents and brokers",
+                "Property developers and builders",
+                "Architectural photographers",
+                "Commercial and residential property marketers"
+            ],
+            "phrase_text": "HDR blending is particularly beneficial for properties with complex lighting or spaces intended for virtual staging and advanced visual presentation."
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for HDR Blending?",
+            "descriptions": [
+                "Our HDR blending services are ideal for:"
+            ],
+            "list": [
+                {
+                    "title": "Real Estate–Focused HDR Expertise",
+                    "descriptions": [
+                        "Our editors specialize exclusively in HDR blending for real estate—not generic photography."
+                    ]
+                },
+                {
+                    "title": "Natural, Realistic Results",
+                    "descriptions": [
+                        "We avoid extreme HDR effects and focus on clean visuals buyers trust."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround",
+                    "descriptions": [
+                        "We respect property marketing timelines and deliver consistently on schedule."
+                    ]
+                },
+                {
+                    "title": "Cost-Effective Outsourcing",
+                    "descriptions": [
+                        "Outsourcing HDR blending saves time while ensuring reliable, scalable quality."
+                    ]
+                },
+                {
+                    "title": "Trusted by Global Clients",
+                    "descriptions": [
+                        "Our editing approach aligns with international real estate listing and marketing standards."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Enhance Your Property Images with Professional HDR Blending",
+            "descriptions": [
+                "Well-balanced images significantly improve listing engagement and buyer perception. With Wellcode Studio’s HDR blending services, your property photos gain clarity, depth, and professional appeal—ready for marketing, listings.",
+                "Share your HDR images with us today and let our experts create natural, high-quality results that elevate your property visuals."
+            ],
+            "link": {
+                "text": "Share your HDR images with us today and let our experts create natural, high-quality results that elevate your property visuals.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Photo with realistic depth and colors",
+                    "filepath": "/assets/images/service-images/hdr/hdr_06.avif",
+                    "alt": "Corrected exposure and color balance in HDR living area photo"
+                },
+                {
+                    "title": "HDR photo showing natural lighting",
+                    "filepath": "/assets/images/service-images/hdr/hdr_01.avif",
+                    "alt": "Exterior property image with improved contrast and tone mapping"
+                },
+                {
+                    "title": "Improved contrast and tone mapping",
+                    "filepath": "/assets/images/service-images/hdr/hdr_02.avif",
+                    "alt": "Professionally enhanced interior HDR photo showing natural lighting"
+                },
+                {
+                    "title": "Accurate indoor window lighting",
+                    "filepath": "/assets/images/service-images/hdr/hdr_03.avif",
+                    "alt": "HDR blended property image with balanced highlights and shadows by Wellcode Studio"
+                },
+                {
+                    "title": "Balanced tone-mapped hallway image",
+                    "filepath": "/assets/images/service-images/hdr/hdr_04.avif",
+                    "alt": "Property image with natural HDR lighting and shadow preservation"
+                },
+                {
+                    "title": "Interior photo with enhanced",
+                    "filepath": "/assets/images/service-images/hdr/hdr_05.avif",
+                    "alt": "Realistic HDR blended bathroom image for online listings"
+                }
+            ],
+            "videos": [],
+            "comparison": {
+                "before": {
+                    "title": "Manual Editing & Enhancement",
+                    "filepath": "/assets/images/service-images/hdr/hdr_before.avif",
+                    "alt": "HDR enhanced garden or patio photo for property marketing before"
+                },
+                "after": {
+                    "title": "Skies and balanced HDR tones",
+                    "filepath": "/assets/images/service-images/hdr/hdr_after.avif",
+                    "alt": "Realistic HDR blended bathroom image for online listings after"
+                }
+            },
+            "slider": [
+                {
+                    "title": "Photo with realistic depth and colors",
+                    "filepath": "/assets/images/service-images/hdr/hdr_06.avif",
+                    "alt": "Corrected exposure and color balance in HDR living area photo"
+                },
+                {
+                    "title": "HDR photo showing natural lighting",
+                    "filepath": "/assets/images/service-images/hdr/hdr_01.avif",
+                    "alt": "Exterior property image with improved contrast and tone mapping"
+                },
+                {
+                    "title": "Improved contrast and tone mapping",
+                    "filepath": "/assets/images/service-images/hdr/hdr_02.avif",
+                    "alt": "Professionally enhanced interior HDR photo showing natural lighting"
+                },
+                {
+                    "title": "Accurate indoor window lighting",
+                    "filepath": "/assets/images/service-images/hdr/hdr_03.avif",
+                    "alt": "HDR blended property image with balanced highlights and shadows by Wellcode Studio"
+                },
+                {
+                    "title": "Balanced tone-mapped hallway image",
+                    "filepath": "/assets/images/service-images/hdr/hdr_04.avif",
+                    "alt": "Property image with natural HDR lighting and shadow preservation"
+                }
+            ]
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "HDR Blending for Stunning Real Estate Photos",
+            "description": [
+                "Wellcode Studio offers professional HDR blending services that create natural, perfectly lit real estate images. By combining multiple exposures, we ensure clear interiors, vibrant exteriors, and accurate details—delivering market-ready visuals that boost listings and buyer confidence worldwide."
+            ]
+        },
+        "work_info": {
+            "title": "What is HDR Blending?",
+            "descriptions": [
+                "HDR (High Dynamic Range) Blending is an advanced photo editing technique that combines multiple images of the same scene, captured at different exposures, into a single, perfectly balanced photograph. This ensures that bright highlights and deep shadows retain detail, creating clean, visually appealing real estate images."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Layers3",
+                    "content": "Exposure Merging: Combining multiple shots to maintain details in both bright and dark areas."
+                },
+                {
+                    "icon": "SunMedium",
+                    "content": "Lighting Balance: Achieving natural interior and exterior illumination without overexposure."
+                },
+                {
+                    "icon": "Contrast",
+                    "content": "Shadow & Highlight Enhancement: Preserving textures and fine details throughout the image."
+                },
+                {
+                    "icon": "Sofa",
+                    "content": "Foundation for Virtual Staging: Providing realistic lighting and depth for digital furniture integration."
+                },
+                {
+                    "icon": "SlidersHorizontal",
+                    "content": "Contrast & Tone Optimization: Creating visually appealing, high-quality property visuals."
+                }
+            ]
+        }
+    }
+]

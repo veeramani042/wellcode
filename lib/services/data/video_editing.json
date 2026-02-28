@@ -1,0 +1,309 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "Video Editing",
+        "meta_titles": [
+            "Professional Video Editing Services | Wellcode Studio",
+            "High-Quality Video Editing Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Expert video editing services by Wellcode Studio. From color correction to transitions and sound enhancement, we transform raw footage into engaging, high-quality videos.",
+            "Create polished, engaging videos with Wellcode Studio’s professional video editing services. Fast turnaround, expert editing, and visually impactful results."
+        ],
+        "slug": "video-editing",
+        "header": {
+            "title": "Professional Video Editing Services by Wellcode Studio",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, our video editing services transform raw footage into polished, engaging, and visually compelling videos. Whether you’re creating marketing content, real estate walkthroughs, social media videos, or corporate presentations, our expert editors ensure your videos communicate clearly, look professional, and leave a lasting impact.",
+                "We combine skilled human creativity with advanced editing tools to deliver videos that connect emotionally, maintain brand consistency, and hold viewer attention—something automated AI tools alone still struggle to achieve."
+            ]
+        },
+        "general_info": {
+            "title": "Why Professional Video Editing Elevates Real Estate Marketing",
+            "descriptions": [
+                "Professionally edited videos create stronger first impressions, build credibility, and keep viewers engaged longer. By shaping emotion, pacing, and clarity, video editing tells a compelling story while ensuring brand consistency through uniform colors, style, and tone."
+            ],
+            "sub_section": {
+                "title": "How Video Editing Improves Listings",
+                "descriptions": [],
+                "list": [
+                    "Builds credibility and trust with a strong first impression",
+                    "Shapes emotion, pacing, and clarity for better storytelling",
+                    "Keeps viewers watching longer with higher engagement",
+                    "Reinforces brand identity with consistent style and tone",
+                    "Optimized for multi-platform use across websites, social media, and ads"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Video Editing for High-Impact Real Estate Visuals",
+            "descriptions": [
+                "Wellcode Studio delivers professional video editing services that transform raw footage into polished, engaging, and high-impact videos. Our services are designed to support marketing, real estate, social media, and corporate communication with clarity, consistency, and strong visual storytelling."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Cutting, Trimming & Video Structuring",
+                    "descriptions": [
+                        "We remove unnecessary footage and structure scenes carefully to maintain smooth flow, clear messaging, and strong viewer engagement."
+                    ],
+                    "image": {
+                        "title": "Creative video services",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_01.avif",
+                        "alt": "Video production services from concept to delivery"
+                    }
+                },
+                {
+                    "title": "Color Correction & Color Grading",
+                    "descriptions": [
+                        "Exposure, contrast, and color tones are balanced across the entire video to achieve a consistent, professional, and visually appealing look."
+                    ],
+                    "image": {
+                        "title": "Cleaned and polished hallway image",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_02.avif",
+                        "alt": "Real estate exterior image with sky replacement and color balance"
+                    }
+                },
+                {
+                    "title": "Audio Enhancement & Sound Optimization",
+                    "descriptions": [
+                        "We refine audio levels, remove background noise, sync voiceovers, and integrate background music or sound effects to ensure clear and impactful sound."
+                    ],
+                    "image": {
+                        "title": "Bright and appealing balcony",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_03.avif",
+                        "alt": "Living area photo with enhanced sharpness and detail"
+                    }
+                },
+                {
+                    "title": "Transitions, Motion Graphics & Visual Effects",
+                    "descriptions": [
+                        "Subtle transitions, motion elements, and effects are added to enhance storytelling while keeping the focus on the content."
+                    ],
+                    "image": {
+                        "title": "Bright and appealing balcony",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_04.avif",
+                        "alt": "Living area photo with enhanced sharpness and detail"
+                    }
+                },
+                {
+                    "title": "Text, Titles, Captions & Subtitles",
+                    "descriptions": [
+                        "We include titles, lower thirds, subtitles, and captions to improve clarity, accessibility, and retention—especially for social media and marketing videos."
+                    ],
+                    "image": {
+                        "title": "Bright and appealing balcony",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_05.avif",
+                        "alt": "Living area photo with enhanced sharpness and detail"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Editing, Human-Perfected Property Videos",
+            "descriptions": [
+                "AI tools can assist with basic cuts and automation, but delivering compelling real estate videos requires human creativity, storytelling, and careful attention to brand style."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors craft pacing and sequencing to highlight property features",
+                    "Color grading and visual corrections ensure consistency across scenes",
+                    "Transitions and effects are applied thoughtfully for professional appeal",
+                    "Each video is customized to match property type and target audience",
+                    "Final quality checks guarantee polished, market-ready content",
+                    "AI supports efficiency, but real estate videos that truly engage viewers are ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Expert Video Editing Approach",
+            "descriptions": [
+                "Our video editing process is human-led and detail-driven, combining creative judgment with advanced editing tools to deliver videos that connect emotionally and align with your brand goals."
+            ],
+            "steps": [
+                {
+                    "title": "Requirement Understanding & Goal Alignment",
+                    "descriptions": [
+                        "We begin by understanding your objectives, target audience, platform requirements, and preferred visual style."
+                    ]
+                },
+                {
+                    "title": "Footage Review & Content Evaluation",
+                    "descriptions": [
+                        "Raw footage is carefully reviewed to identify the strongest visuals, pacing opportunities, and storytelling direction."
+                    ]
+                },
+                {
+                    "title": "Professional Manual Editing",
+                    "descriptions": [
+                        "Our editors apply precise trimming, color correction, audio enhancement, transitions, and branding elements with full creative control."
+                    ]
+                },
+                {
+                    "title": "Quality Review & Refinement",
+                    "descriptions": [
+                        "Each video undergoes a detailed quality check to ensure visual consistency, audio clarity, and storytelling accuracy."
+                    ]
+                },
+                {
+                    "title": "Final Delivery & Format Optimization",
+                    "descriptions": [
+                        "The final video is delivered in your preferred format, optimized for immediate use across websites, social platforms, or marketing campaigns."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Who Benefits from Our Video Services",
+            "descriptions": [],
+            "users": [
+                "Marketing and advertising agencies",
+                "E-commerce and retail brands",
+                "Real estate professionals",
+                "Content creators and influencers",
+                "Corporate communication teams"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Video Editing?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Creative Expertise for Real Estate Visuals",
+                    "descriptions": [
+                        "Our editors understand how property videos should flow to highlight space, lighting, and key selling points that attract buyers."
+                    ]
+                },
+                {
+                    "title": "Human-Led Quality Control",
+                    "descriptions": [
+                        "We combine advanced editing tools with manual precision to ensure every video looks polished, natural, and engaging."
+                    ]
+                },
+                {
+                    "title": "Professional Enhancements With Attention to Detail",
+                    "descriptions": [
+                        "From color correction to smooth transitions and pacing, we refine every frame for a market-ready presentation."
+                    ]
+                },
+                {
+                    "title": "Consistent Quality Across All Projects",
+                    "descriptions": [
+                        "Whether it’s a short walkthrough or a detailed property showcase, we maintain uniform editing standards."
+                    ]
+                },
+                {
+                    "title": "Fast and Reliable Turnaround Times",
+                    "descriptions": [
+                        "We respect marketing timelines and deliver edited videos promptly without compromising quality."
+                    ]
+                },
+                {
+                    "title": "Transparent Pricing and Custom Solutions",
+                    "descriptions": [
+                        "With fixed pricing and a workflow tailored to your project type, we provide dependable results without hidden costs."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Elevate Your Video Content with Wellcode Studio",
+            "descriptions": [
+                "Turn raw footage into powerful visual stories with Wellcode Studio’s professional video editing services. From real estate videos to marketing content and social media shorts, we help you create videos that engage, inform, and convert."
+            ],
+            "link": {
+                "text": "Wellcode Studio’s professional video editing services",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_06.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                },
+                {
+                    "title": "Creative video services",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_01.avif",
+                    "alt": "Video production services from concept to delivery"
+                },
+                {
+                    "title": "Cleaned and polished hallway image",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_02.avif",
+                    "alt": "Real estate exterior image with sky replacement and color balance"
+                },
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_03.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                },
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_04.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                },
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_05.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                }
+            ],
+            "videos": [
+                {
+                    "title": "Production services for marketing",
+                    "filepath": "/assets/videos/video-editing-01.mp4",
+                    "alt": "Business video services for websites and campaigns"
+                },
+                {
+                    "title": "Professional video services",
+                    "filepath": "/assets/videos/video-editing-02.mp4",
+                    "alt": "High-quality video editing and post-production"
+                }
+            ],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "Professional Video Editing Services – Wellcode Studio",
+            "description": [
+                "Wellcode Studio offers professional video editing services that turn raw footage into polished, engaging, and visually compelling videos. Perfect for real estate walkthroughs, marketing, or social media, our expert editors deliver high-quality videos that capture attention and leave a lasting impact."
+            ]
+        },
+        "work_info": {
+            "title": "What is Video Editing?",
+            "descriptions": [
+                "Real Estate Video Editing is the process of refining property footage to create polished, engaging videos that showcase homes and commercial spaces effectively. It enhances visuals, audio, and pacing to highlight property features, layouts, and ambiance, making listings more appealing to potential buyers."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "ListVideo",
+                    "content": "Footage Organization & Sequencing: Structuring property clips to highlight key rooms and features."
+                },
+                {
+                    "icon": "Palette",
+                    "content": "Color Grading & Visual Enhancement: Optimizing lighting and tones for bright, inviting interiors and exteriors."
+                },
+                {
+                    "icon": "Volume2",
+                    "content": "Audio Refinement: Balancing narration, background music, and ambient sounds for clarity."
+                },
+                {
+                    "icon": "Shuffle",
+                    "content": "Transitions & Effects: Adding smooth cuts, motion effects, and callouts for professional appeal."
+                },
+                {
+                    "icon": "PlayCircle",
+                    "content": "Storytelling & Pacing: Guiding viewers through the property in an engaging, visually compelling way."
+                }
+            ]
+        }
+    }
+]

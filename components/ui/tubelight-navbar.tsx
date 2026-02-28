@@ -130,6 +130,12 @@ const menus = [
                         icon: "",
                         sub_menus: []
                     },
+                    {
+                        menu_name: "Editing Style Service",
+                        menu_link: "/editing-style-service",
+                        icon: "",
+                        sub_menus: []
+                    },
                 ]
             },
             {
@@ -374,7 +380,7 @@ export function NavBar({ }: NavBarProps) {
             }}
             transition={{ type: "spring", stiffness: 240, damping: 26 }}
             className={cn(
-                "top-5 left-1/2 -translate-x-1/2 w-screen max-w-5xl z-50 mx-auto fixed md:rounded-md md:border py-0 md:py-2",
+                "top-5 left-1/2 -translate-x-1/2 w-screen max-w-5xl z-50 mx-auto fixed md:rounded-md md:border py-0 md:py-1.5",
                 scrolled && !open && "fixed bg-background/30 backdrop-blur-lg border-border shadow px-2"
             )}
         >
@@ -395,6 +401,7 @@ export function NavBar({ }: NavBarProps) {
                         sizes="(max-width: 768px) 100vw, 50px"
                     />
                     <h6 className="text-xl font-semibold">Wellcode</h6>
+                    {/* <div className="text-xs">V.1.0.0</div> */}
                 </Link>
 
                 {/* Desktop Menu */}

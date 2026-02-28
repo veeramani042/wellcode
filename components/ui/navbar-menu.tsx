@@ -41,7 +41,7 @@ export const MenuItem = ({
             onMouseLeave={() => setOpenMenu(null)}
         >
             <Link
-                className="block px-6 py-2 rounded-full transition-colors z-10"
+                className="block px-6 py-1.5 rounded-full transition-colors z-10"
                 href={item.menu_link}
                 aria-current={isActive ? "page" : undefined}
                 scroll={true}

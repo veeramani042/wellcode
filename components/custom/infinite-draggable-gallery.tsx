@@ -1,4 +1,3 @@
-import React from 'react'
 import { DraggableContainer, GridBody, GridItem } from '../ui/infinite-drag-scroll'
 import Image from 'next/image';
 
@@ -8,10 +7,10 @@ const InfiniteDraggableGallery = (props: Props) => {
     return (
         <DraggableContainer variant="masonry">
             <GridBody>
-                {Array.from({ length: 15 }).map((image, index) => (
+                {Array.from({ length: 27 }).map((image, index) => (
                     <GridItem
                         key={index}
-                        className="relative h-36 w-54 md:h-64 md:w-96">
+                        className="relative h-36 w-54 md:h-75 md:w-100">
                         <Image
                             width={400}
                             height={250}

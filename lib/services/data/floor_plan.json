@@ -1,0 +1,291 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "Floor Plan",
+        "meta_titles": [
+            "2D & 3D Floor Plan Services for Real Estate | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Get professional floor plan services for real estate with Wellcode Studio. We create high-quality 2D and 3D floor plans, site plans, and custom property layouts to boost listings, engagement, and sales."
+        ],
+        "slug": "floor-plan",
+        "header": {
+            "title": "Floor Plan Services by Wellcode Studio",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we create accurate, visually appealing floor plans that help buyers instantly understand a property’s layout, flow, and potential. Our professional floor plan services for real estate are designed to improve listing performance, increase buyer engagement, and support faster decision-making.",
+                "Whether you need 2D floor plan creation, 3D floor plan design for property listings, or custom floor plan design for real estate, our team ensures every plan is precise, easy to read, and marketing-ready."
+            ]
+        },
+        "general_info": {
+            "title": "Why Floor Plans Are Essential for Real Estate Marketing",
+            "descriptions": [
+                "Floor plans are a key part of modern property marketing, helping buyers visualize layouts, furniture placement, and movement flow. They boost engagement, keep viewers on listings longer, and drive more inquiries and conversions for properties."
+            ],
+            "sub_section": {
+                "title": "How Floor Plans Improve Listings",
+                "descriptions": [],
+                "list": [
+                    "Boost buyer engagement by clearly showing property layout",
+                    "Increase time spent on listings, improving lead quality",
+                    "Enable better visualization of furniture placement and space flow",
+                    "Drive more leads through high-quality, detailed plans"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Professional Floor Plan Design Services",
+            "descriptions": [
+                "Wellcode Studio offers professional floor plan services for real estate that help buyers instantly understand property layout, flow, and functionality. Our floor plans are designed for clarity, accuracy, and strong marketing performance across listings, brochures, and digital platforms."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "2D Floor Plan Services",
+                    "descriptions": [
+                        "We create clean, easy-to-read 2D floor plans that clearly display walls, doors, windows, room labels, and dimensions. Options include black & white layouts for minimal clarity, colour-coded plans for better room differentiation, and textured floor plans that add depth while remaining cost-effective for property marketing."
+                    ],
+                    "image": {
+                        "title": "Interactive digital floor plan",
+                        "filepath": "/assets/images/service-images/floorplan/floorplan_01.avif",
+                        "alt": "2D floor plan design for residential property by Wellcode Studio"
+                    }
+                },
+                {
+                    "title": "3D Floor Plan Services",
+                    "descriptions": [
+                        "Our 3D floor plan services add depth, lighting, materials, and furniture placement to help buyers understand space, scale, and room functionality. These visually rich floor plans are ideal for premium listings, off-plan properties, and projects where visual impact influences decisions."
+                    ],
+                    "image": {
+                        "title": "Custom floor plan design",
+                        "filepath": "/assets/images/service-images/floorplan/floorplan_02.avif",
+                        "alt": "Colored 2D floor plan showing room layout and dimensions"
+                    }
+                },
+                {
+                    "title": "Site Plan & Lot Plan Services",
+                    "descriptions": [
+                        "We provide site plans and lot plans that give a complete overview of the property context. These plans clearly show property boundaries, access points, pathways, parking, and surrounding features, making them ideal for developments, land listings, and legal clarity."
+                    ],
+                    "image": {
+                        "title": "Detailed 3D floor plan",
+                        "filepath": "/assets/images/service-images/floorplan/floorplan_03.avif",
+                        "alt": "3D floor plan rendering with furniture placement"
+                    }
+                },
+                {
+                    "title": "Custom & Interactive Floor Plans",
+                    "descriptions": [
+                        "Our custom and interactive floor plans are tailored to specific project requirements and branding needs. Interactive layouts allow users to explore properties digitally, improving engagement, user experience, and time spent on listings."
+                    ],
+                    "image": {
+                        "title": "Residential 2D floor plan",
+                        "filepath": "/assets/images/service-images/floorplan/floorplan_04.avif",
+                        "alt": "Realistic 3D furnished floor plan for real estate listings"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Floor Plans, Human-Perfected Precision",
+            "descriptions": [
+                "AI tools can assist with initial layout generation, but creating clear, accurate, and visually appealing floor plans requires human precision, design judgment, and careful attention to detail."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors ensure all measurements and proportions are accurate",
+                    "Labels, dimensions, and annotations are clearly presented for readability",
+                    "Designs are adjusted to reflect architectural style and property type",
+                    "Each floor plan is customized to highlight functional spaces and flow",
+                    "Final quality checks prevent errors and maintain professional standards",
+                    "AI supports efficiency, but floor plans that are precise, visually clear, and ready to impress are ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Floor Plan Design Approach",
+            "descriptions": [
+                "Our floor plan approach focuses on accuracy, clarity, and buyer-friendly design—ensuring every layout supports better visualization, stronger engagement, and improved real estate marketing performance."
+            ],
+            "steps": [
+                {
+                    "title": "Project Brief & Input Review",
+                    "descriptions": [
+                        "We begin by reviewing your sketches, measurements, reference materials, and output preferences to fully understand the property and marketing objectives."
+                    ]
+                },
+                {
+                    "title": "Accurate Floor Plan Creation",
+                    "descriptions": [
+                        "Using professional tools and precise scaling, our team creates accurate real estate floor plans that clearly represent layout, flow, and spatial relationships."
+                    ]
+                },
+                {
+                    "title": "Visual Enhancement & Structuring",
+                    "descriptions": [
+                        "Depending on the selected service, we enhance floor plans with colour coding, textures, furniture placement, or 3D depth to improve readability and buyer understanding."
+                    ]
+                },
+                {
+                    "title": "Review & Refinement",
+                    "descriptions": [
+                        "Each floor plan undergoes careful review and refinement to ensure visual balance, accuracy, and alignment with marketing goals."
+                    ]
+                },
+                {
+                    "title": "Final Quality Check & Delivery",
+                    "descriptions": [
+                        "Final floor plans are delivered in high-quality formats suitable for property listings, websites, brochures, and print—ready for immediate use."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Who Benefits from Our Floor Plan Services",
+            "descriptions": [],
+            "users": [
+                "Real estate agents",
+                "Property developers",
+                "Builders and architects",
+                "Interior designers",
+                "Property marketing teams"
+            ],
+            "phrase_text": "Our high-quality floor plans for real estate listings help professionals present properties with confidence and clarity."
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Real Estate-Focused Expertise",
+                    "descriptions": [
+                        "We specialize in floor plan drawing for property marketing, not generic layouts."
+                    ]
+                },
+                {
+                    "title": "Accuracy & Clarity",
+                    "descriptions": [
+                        "Every property layout is scaled correctly and reviewed for precision."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround",
+                    "descriptions": [
+                        "We understand real estate timelines and deliver quickly without compromising quality."
+                    ]
+                },
+                {
+                    "title": "Custom Branding Support",
+                    "descriptions": [
+                        "Our real estate floor plan editing services align with your brand and listing style."
+                    ]
+                },
+                {
+                    "title": "Conversion-Driven Design",
+                    "descriptions": [
+                        "We don’t just draw plans — we design floor plans that help properties sell."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Showcase Your Property with Confidence",
+            "descriptions": [
+                "Transform your listings with professional floor plan services for real estate by Wellcode Studio.",
+                "Clear layouts, strong visuals, and buyer-friendly designs that elevate your property marketing.",
+                "Contact Wellcode Studio today and let your floor plans do the selling."
+            ],
+            "link": {
+                "text": "Contact Wellcode Studio today and let your floor plans do the selling.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Interactive digital floor plan",
+                    "filepath": "/assets/images/service-images/floorplan/floorplan_01.avif",
+                    "alt": "2D floor plan design for residential property by Wellcode Studio"
+                },
+                {
+                    "title": "Custom floor plan design",
+                    "filepath": "/assets/images/service-images/floorplan/floorplan_02.avif",
+                    "alt": "Colored 2D floor plan showing room layout and dimensions"
+                },
+                {
+                    "title": "Detailed 3D floor plan",
+                    "filepath": "/assets/images/service-images/floorplan/floorplan_03.avif",
+                    "alt": "3D floor plan rendering with furniture placement"
+                },
+                {
+                    "title": "Residential 2D floor plan",
+                    "filepath": "/assets/images/service-images/floorplan/floorplan_04.avif",
+                    "alt": "Realistic 3D furnished floor plan for real estate listings"
+                },
+                {
+                    "title": "Site plan integration with floor plan",
+                    "filepath": "/assets/images/service-images/floorplan/floorplan_05.avif",
+                    "alt": "Black and white 2D architectural floor plan"
+                },
+                {
+                    "title": "Professional floor plan design services",
+                    "filepath": "/assets/images/service-images/floorplan/floorplan_06.avif",
+                    "alt": "Textured 2D floor plan highlighting flooring and surfaces"
+                }
+            ],
+            "videos": [],
+            "comparison": {
+                "before": {
+                    "title": "2D floor plan design for residential property",
+                    "filepath": "/assets/images/service-images/floorplan/floorplan_before.avif",
+                    "alt": "Floor plan combined with site plan for property overview before"
+                },
+                "after": {
+                    "title": "Colored 2D floor plan showing room layout",
+                    "filepath": "/assets/images/service-images/floorplan/floorplan_after.avif",
+                    "alt": "Lot plan showing property boundaries and layout after"
+                }
+            }
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "Floor Plan Services by Wellcode Studio",
+            "description": [
+                "Wellcode Studio provides professional floor plan services that turn property layouts into clear, visually appealing, and marketing-ready designs. From 2D and 3D plans to custom layouts, our accurate floor plans help buyers understand spaces, boost engagement, and accelerate decisions."
+            ]
+        },
+        "work_info": {
+            "title": "What is Floor Plan Design?",
+            "descriptions": [
+                "Floor Plan Design is the creation of detailed, accurate layouts that illustrate the arrangement of rooms, walls, and spaces within a property. These visual guides help buyers, architects, and developers understand the flow, dimensions, and functionality of a space before visiting or constructing it."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Ruler",
+                    "content": "Accurate Measurements & Layouts: Ensuring every room and structural element is precisely represented."
+                },
+                {
+                    "icon": "SquareDashed",
+                    "content": "2D & 3D Floor Plans: Offering both flat and three-dimensional views for comprehensive understanding."
+                },
+                {
+                    "icon": "Sofa",
+                    "content": "Furniture & Fixture Placement: Visualizing interiors with realistic furniture and utility placement."
+                },
+                {
+                    "icon": "PenTool",
+                    "content": "Dimension Annotation & Labeling: Clearly marking sizes, areas, and room functions for clarity."
+                },
+                {
+                    "icon": "Layout",
+                    "content": "Marketing & Presentation Ready: Creating floor plans suitable for listings, brochures, and virtual tours."
+                }
+            ]
+        }
+    }
+]

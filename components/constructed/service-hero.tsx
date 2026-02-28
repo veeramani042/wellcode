@@ -89,14 +89,14 @@ const ServiceHero = (props: Props) => {
             <Spotlight />
             <div className="container mx-auto max-w-7xl text-center relative flex flex-col items-center justify-center mt-60">
                 <AuroraText className='block text-4xl mb-5 md:text-5xl lg:text-9xl'>
-                    VISUAL SYNTHESIS ENGINE.
+                    Your Complete Digital Growth Partner.
                 </AuroraText>
                 <TextAnimate
                     animation="slideUp"
                     by="word"
                     className="max-w-3xl mx-auto mt-5 text-xl text-neutral-300"
                 >
-                    A centralized production partner for real estate media, high-end image editing, creative design, and digital product development. We replace fragmented outsourcing with structured, scalable execution. Built for brands that demand precision, speed, and uncompromising quality.
+                    From visual excellence to scalable digital infrastructure, we build solutions that elevate, automate, and accelerate your business.
                 </TextAnimate>
                 <RainbowButton onClick={e => router.push("#content")} className="flex gap-2 py-6 px-10 text-neutral-700 text-lg font-semibold rounded-4xl mx-auto mt-10">
                     {"Explore Our Capabilities"}

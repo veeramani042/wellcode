@@ -1,0 +1,314 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "Panorama Stitching",
+        "meta_titles": [
+            "Professional Panorama Stitching & 360° Image Services | Wellcode Studio",
+            "Panorama Stitching Services | Seamless Wide-Angle Images | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Professional panorama stitching services by Wellcode Studio. We create seamless wide-angle and 360° images with precise alignment, color balance, and realistic results."
+        ],
+        "slug": "panorama-stitching",
+        "header": {
+            "title": "Panorama Stitching Services by Wellcode Studio",
+            "sub_title": "",
+            "descriptions": [
+                "Panorama Stitching is a professional image editing technique that combines multiple overlapping images into one seamless wide-angle or 360-degree panoramic photograph. At Wellcode Studio, we specialize in creating immersive, high-resolution panoramas that accurately represent spaces, environments, and properties in a visually compelling way.",
+                "Whether it’s interiors, exteriors, landscapes, or large commercial spaces, our panorama stitching services ensure every detail is aligned, blended, and presented flawlessly."
+            ]
+        },
+        "general_info": {
+            "title": "Why Panorama Stitching Is Important",
+            "descriptions": [
+                "Panoramic images help viewers understand space, scale, and layout far better than standard photographs."
+            ],
+            "sub_section": {
+                "title": "Key Benefits of Panorama Stitching",
+                "descriptions": [],
+                "list": [
+                    "Wider Field of View: Capture expansive interiors and surroundings in one image",
+                    "High Detail Preservation: Maintains clarity and resolution across the entire scene",
+                    "Improved Engagement: Panoramas keep viewers engaged longer",
+                    "Stronger Visual Storytelling: Ideal for showcasing environments realistically",
+                    "Versatile Usage: Suitable for marketing, listings, presentations, and virtual tours"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Panorama Stitching & Enhancement Services",
+            "descriptions": [
+                "Wellcode Studio provides professional panorama stitching services that transform multiple images into seamless, high-resolution panoramic visuals. Our solutions help showcase space, scale, and layout accurately for real estate, commercial, and architectural marketing."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Seamless Image Alignment & Blending",
+                    "descriptions": [
+                        "We precisely align and blend multiple overlapping images to create smooth, distortion-free panoramic photos that look natural and immersive."
+                    ],
+                    "image": {
+                        "title": "Maintaining natural perspective",
+                        "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_01.avif",
+                        "alt": "Panoramic real estate photo maintaining natural perspective"
+                    }
+                },
+                {
+                    "title": "Color & Exposure Matching",
+                    "descriptions": [
+                        "All frames are color-corrected and exposure-balanced to ensure consistent lighting and a uniform visual appearance across the entire panorama."
+                    ],
+                    "image": {
+                        "title": "Showcasing property surroundings",
+                        "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_02.avif",
+                        "alt": "Wide-angle stitched panorama for marketing and virtual tours"
+                    }
+                },
+                {
+                    "title": "180-Degree & 360-Degree Panorama Stitching",
+                    "descriptions": [
+                        "We create wide-angle and full 360-degree panoramas for interiors, exteriors, and open spaces—ideal for listings, presentations, and virtual tours."
+                    ],
+                    "image": {
+                        "title": "Residential property for listings",
+                        "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_03.avif",
+                        "alt": "Property panorama emphasizing scale and spatial design"
+                    }
+                },
+                {
+                    "title": "Tripod, Nadir & Reflection Removal",
+                    "descriptions": [
+                        "Tripods, camera stands, floor marks, shadows, and reflections are manually removed to deliver clean, uninterrupted panoramic views."
+                    ],
+                    "image": {
+                        "title": "Residential property for listings",
+                        "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_04.avif",
+                        "alt": "Property panorama emphasizing scale and spatial design"
+                    }
+                },
+                {
+                    "title": "HDR Panorama Blending",
+                    "descriptions": [
+                        "Multiple exposures are blended to handle complex lighting, producing clear windows, balanced interiors, and vibrant, realistic colors."
+                    ],
+                    "image": {
+                        "title": "Residential property for listings",
+                        "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_05.avif",
+                        "alt": "Property panorama emphasizing scale and spatial design"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted vs Human Panorama Stitching – Why Humans Matter",
+            "descriptions": [
+                "AI tools can assist with basic stitching, but they often fail with complex patterns, reflections, lighting inconsistencies, and moving elements."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Deliver Better Results",
+                "list": [
+                    "Manual control over alignment and perspective",
+                    "Accurate correction of ghosting and distortions",
+                    "Realistic lighting and color judgment",
+                    "Precise removal of tripods and reflections"
+                ],
+                "phrase_text": "At Wellcode Studio, human expertise ensures panoramas look natural, accurate, and professional — not automated or artificial."
+            }
+        },
+        "process": {
+            "title": "Our Expert Approach to Panorama Stitching",
+            "descriptions": [
+                "Our human-led panorama stitching workflow ensures every panoramic image is accurate, immersive, and professionally finished. We focus on realism, alignment precision, and visual consistency at every stage."
+            ],
+            "steps": [
+                {
+                    "title": "Image Review & Assessment",
+                    "descriptions": [
+                        "We evaluate overlapping images for alignment, lighting consistency, and stitching feasibility before processing."
+                    ]
+                },
+                {
+                    "title": "Manual Panorama Stitching",
+                    "descriptions": [
+                        "Frames are manually stitched to avoid warping, ghosting, and perspective distortion—especially in complex interior and architectural scenes."
+                    ]
+                },
+                {
+                    "title": "Edge Blending & Perspective Correction",
+                    "descriptions": [
+                        "Seam lines are smoothed and horizons corrected to ensure natural transitions and accurate spatial representation."
+                    ]
+                },
+                {
+                    "title": "Color Balancing & Detail Refinement",
+                    "descriptions": [
+                        "Exposure, color tones, and sharpness are refined across the panorama to preserve detail and visual clarity."
+                    ]
+                },
+                {
+                    "title": "Quality Assurance & Final Delivery",
+                    "descriptions": [
+                        "Each panorama undergoes strict quality checks before delivery in your preferred format, ready for MLS, marketing, or virtual tour platforms."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Where Panorama Stitching Is Commonly Used",
+            "descriptions": [
+                "Industries That Benefit"
+            ],
+            "users": [
+                "Real estate property listings",
+                "Architectural and interior design presentations",
+                "Travel, hospitality, and tourism visuals",
+                "Commercial spaces and developments",
+                "Event venues and large environments"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Panorama Stitching?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Real Estate–Focused Editing Expertise",
+                    "descriptions": [
+                        "Our editors understand how panoramic visuals should be stitched to accurately represent space, layout, and property flow for buyers."
+                    ]
+                },
+                {
+                    "title": "Human-Led Quality Control",
+                    "descriptions": [
+                        "We rely on skilled manual stitching for complex panoramas, ensuring precision that automated tools often miss."
+                    ]
+                },
+                {
+                    "title": "Realistic, Distortion-Free Results",
+                    "descriptions": [
+                        "We carefully align frames, correct perspective issues, and remove visual distortions to create seamless panoramic images."
+                    ]
+                },
+                {
+                    "title": "Consistent Quality for All Projects",
+                    "descriptions": [
+                        "Whether it’s a simple panorama or a complex multi-shot stitch, we maintain uniform quality across every project."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround Without Compromising Quality",
+                    "descriptions": [
+                        "We deliver stitched panoramas quickly while maintaining attention to detail and visual accuracy."
+                    ]
+                },
+                {
+                    "title": "Customized Solutions With Strict Quality Checks",
+                    "descriptions": [
+                        "Our process adapts to your requirements, and every panorama passes thorough quality checks before delivery."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Create Immersive Visual Experiences",
+            "descriptions": [
+                "Showcase spaces the way they deserve to be seen. With Wellcode Studio’s Panorama Stitching Services, your images become immersive, engaging, and impactful.",
+                "Get in touch today and turn your images into seamless panoramic visuals."
+            ],
+            "link": {
+                "text": "Get in touch today and turn your images into seamless panoramic visuals.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Residential property for listings",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_06.avif",
+                    "alt": "Property panorama emphasizing scale and spatial design"
+                },
+                {
+                    "title": "Residential property for listings",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_07.avif",
+                    "alt": "Property panorama emphasizing scale and spatial design"
+                },
+                {
+                    "title": "Maintaining natural perspective",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_01.avif",
+                    "alt": "Panoramic real estate photo maintaining natural perspective"
+                },
+                {
+                    "title": "Showcasing property surroundings",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_02.avif",
+                    "alt": "Wide-angle stitched panorama for marketing and virtual tours"
+                },
+                {
+                    "title": "Residential property for listings",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_03.avif",
+                    "alt": "Property panorama emphasizing scale and spatial design"
+                },
+                {
+                    "title": "Residential property for listings",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_04.avif",
+                    "alt": "Property panorama emphasizing scale and spatial design"
+                },
+                {
+                    "title": "Residential property for listings",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_05.avif",
+                    "alt": "Property panorama emphasizing scale and spatial design"
+                }
+            ],
+            "videos": [],
+            "comparison": {
+                "before": {
+                    "title": "Panorama showing entire living space",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_before.avif",
+                    "alt": "Commercial property stitched panorama with high detail before"
+                },
+                "after": {
+                    "title": "Wide panoramic view",
+                    "filepath": "/assets/images/service-images/panorama-stitching/panorama_stitching_after.avif",
+                    "alt": "Panoramic image capturing interior and exterior areas after"
+                }
+            }
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "Real Estate Panorama Stitching by Wellcode Studio",
+            "description": [
+                "Wellcode Studio’s Panorama Stitching services combine multiple images into seamless, high-resolution real estate panoramas. Perfect for interiors, exteriors, and large spaces, our edits deliver immersive visuals that showcase every detail and make listings stand out."
+            ]
+        },
+        "work_info": {
+            "title": "What is Panorama Stitching?",
+            "descriptions": [
+                "Panorama Stitching is a digital imaging process that combines multiple photos taken from the same point to create a wide, seamless, and distortion-free panoramic image. It allows businesses and photographers to showcase a broader field of view, delivering immersive and professional visuals."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "GitMerge",
+                    "content": "Precise Image Alignment & Blending: Seamlessly joining multiple frames into one smooth panorama."
+                },
+                {
+                    "icon": "Sliders",
+                    "content": "Color & Exposure Matching: Ensuring consistent tones and brightness across all images."
+                },
+                {
+                    "icon": "ZoomIn",
+                    "content": "High-Resolution Output: Preserving fine details for print, web, or virtual tours."
+                },
+                {
+                    "icon": "Crop",
+                    "content": "Cropping & Optimization: Adjusting dimensions for MLS listings, websites, and marketing materials."
+                },
+                {
+                    "icon": "Eye",
+                    "content": "Immersive Visual Appeal: Creating natural-looking panoramas that engage viewers."
+                }
+            ]
+        }
+    }
+]

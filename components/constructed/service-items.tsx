@@ -102,7 +102,7 @@ const ServiceItems = (props: Props) => {
     const containerRef = useRef(null);
 
     return (
-        <section className="relative px-2 z-10 py-20 mt-10">
+        <section className="relative px-2 z-10 py-20">
             <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/5 via-transparent to-[#a855f7]/5 blur-3xl" />
             <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/5 via-transparent to-[#a855f7]/5 blur-3xl" />
             <div className="max-w-7xl mx-auto gap-10 md:gap-16 items-center">
@@ -128,9 +128,9 @@ const ServiceItems = (props: Props) => {
                         index={i}
                     />)}
                 </div>
-                <RainbowButton className="flex gap-2 py-6 px-10 text-neutral-700 text-lg font-semibold rounded-4xl mx-auto mt-10">
+                {/* <RainbowButton className="flex gap-2 py-6 px-10 text-neutral-700 text-lg font-semibold rounded-4xl mx-auto mt-10">
                     {"Explore All"}
-                </RainbowButton>
+                </RainbowButton> */}
             </div>
         </section>
     )

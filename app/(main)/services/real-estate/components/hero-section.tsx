@@ -25,7 +25,7 @@ const HeroSection = ({ animate = true }: Props) => {
                         transition={animate && { duration: 0.7, ease: "easeOut" }}
                         className="max-w-3xl mx-auto mt-5 text-md text-neutral-500 mb-10"
                     >
-                        You have discovered one of the top Wellcode providers for your business requirements. Save time and resources by partnering with reliable experts at Well Code Studio in Image Editing, Software Development, and more.
+                        You have discovered one of the top Wellcode providers for your business requirements. Save time and resources by partnering with reliable experts at Wellcode Studio in Image Editing, Software Development, and more.
                     </MotionP>
                     <HeroSearch
                         animate={true}

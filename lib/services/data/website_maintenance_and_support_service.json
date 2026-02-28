@@ -1,0 +1,283 @@
+[
+    {
+        "base_service": "Digital Product Development",
+        "service_title": "Website Maintenance and support service",
+        "meta_titles": [
+            "Website Maintenance & Support Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Keep your website secure, updated, and running smoothly with Wellcode Studio’s website maintenance and support services. Reliable ongoing support for businesses worldwide."
+        ],
+        "service_slider": {
+            "title": "Website Maintenance & Ongoing Support Services",
+            "description": [
+                "Keep your website secure, up to date, and running at peak performance with reliable maintenance and support. At WellCode Studio, we prevent downtime, fix issues proactively, and optimize speed for uninterrupted business growth. Focus on your operations while we ensure your website stays fast, secure, and fully functional."
+            ]
+        },
+        "slug": "website-maintenance-support",
+        "header": {
+            "title": "Website Maintenance and Support Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we provide reliable and secure website maintenance and support services to ensure your website remains updated, fast, and fully functional at all times. A website is not a one-time build—it requires continuous care to perform well, stay secure, and support your business growth.",
+                "Our ongoing maintenance services help businesses worldwide avoid downtime, security risks, and performance issues while focusing on their core operations."
+            ]
+        },
+        "general_info": {
+            "title": "Why Website Maintenance & Support Is Essential",
+            "descriptions": [
+                "Website maintenance and support ensures your site runs smoothly, and performs optimally at all times. Regular updates, backups, and technical support improve user experience, and keep your digital presence reliable and trustworthy."
+            ],
+            "sub_section": {
+                "title": "How Website Maintenance & Support Benefits Your Business",
+                "descriptions": [],
+                "list": [
+                    "Ensures website security and uptime",
+                    "Performs regular updates and backups",
+                    "Improves site performance and user experience",
+                    "Prevents technical issues and downtime",
+                    "Provides reliable support for ongoing digital operations"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Reliable Website Maintenance & Support",
+            "descriptions": [
+                "Wellcode Studio ensures your website stays secure, fast, and fully functional. Our ongoing maintenance services prevent downtime, boost performance, and protect your digital investment while you focus on growing your business."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Website Updates & Content Management",
+                    "descriptions": [
+                        "We handle regular updates, content changes, and structural improvements to keep your website fresh, accurate, and aligned with your goals."
+                    ],
+                    "image": {
+                        "title": "Website Updates & Content Management",
+                        "filepath": "/assets/images/service-images/website_maintenance_support_services/website_updates_content_management.avif",
+                        "alt": "Custom website development for businesses"
+                    }
+                },
+                {
+                    "title": "Software & Plugin Updates",
+                    "descriptions": [
+                        "Timely updates for CMS platforms, plugins, themes, and third-party tools maintain security, compatibility, and smooth functionality."
+                    ],
+                    "image": {
+                        "title": "Software & Plugin Updates",
+                        "filepath": "/assets/images/service-images/website_maintenance_support_services/software_plugin_updates.avif",
+                        "alt": "Responsive web design for desktop and mobile"
+                    }
+                },
+                {
+                    "title": "Security Monitoring & Fixes",
+                    "descriptions": [
+                        "Continuous monitoring for threats, malware, and vulnerabilities, with prompt patching to keep your data safe."
+                    ],
+                    "image": {
+                        "title": "Security Monitoring & Fixes",
+                        "filepath": "/assets/images/service-images/website_maintenance_support_services/security_monitoring_fixes.avif",
+                        "alt": "Full-stack web application development services"
+                    }
+                },
+                {
+                    "title": "Performance Monitoring & Optimization",
+                    "descriptions": [
+                        "Track uptime, speed, and server health to ensure your website loads fast, performs smoothly, and supports SEO."
+                    ],
+                    "image": {
+                        "title": "Performance Monitoring & Optimization",
+                        "filepath": "/assets/images/service-images/website_maintenance_support_services/performance_monitoring_optimization.avif",
+                        "alt": "Front-end and back-end web development solutions"
+                    }
+                },
+                {
+                    "title": "Bug Fixes & Technical Support",
+                    "descriptions": [
+                        "Quick diagnosis and resolution of broken features, compatibility issues, and technical bugs to minimize downtime."
+                    ],
+                    "image": {
+                        "title": "Bug Fixes & Technical Support",
+                        "filepath": "/assets/images/service-images/website_maintenance_support_services/bug_fixes_technical_support.avif",
+                        "alt": "Web development for corporate websites and startups"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Monitoring, Human-Perfected Website Performance",
+            "descriptions": [
+                "AI tools can detect technical issues, but ensuring reliable, secure, and optimized website performance requires human expertise, careful judgment, and proactive management."
+            ],
+            "comparison": {
+                "title": "Why Human Professionals Make the Difference",
+                "list": [
+                    "Human experts diagnose complex problems and determine corrective actions",
+                    "Security updates and performance optimizations are implemented with precision",
+                    "Maintenance strategies are customized for long-term stability",
+                    "Manual oversight ensures consistent, reliable website operation",
+                    "AI supports monitoring, but final quality and performance are ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Maintenance & Support Process",
+            "descriptions": [
+                "We follow a structured, proactive workflow to keep your website secure, optimized, and reliable at all times."
+            ],
+            "steps": [
+                {
+                    "title": "Website Assessment",
+                    "descriptions": [
+                        "We analyze performance, security, and technical structure to understand current strengths and risks."
+                    ]
+                },
+                {
+                    "title": "Planned Maintenance Strategy",
+                    "descriptions": [
+                        "Customized maintenance plans align with your business operations and future goals."
+                    ]
+                },
+                {
+                    "title": "Continuous Monitoring & Updates",
+                    "descriptions": [
+                        "Regular updates, fixes, and optimizations ensure consistent performance and reliability."
+                    ]
+                },
+                {
+                    "title": "Reporting & Support",
+                    "descriptions": [
+                        "Receive transparent updates and on-demand professional support whenever needed."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries We Support",
+            "descriptions": [],
+            "users": [
+                "Business & Corporate Websites",
+                "E-commerce Platforms",
+                "SaaS & Software Companies",
+                "Startups",
+                "Enterprise Websites",
+                "Global Service Providers"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Website Maintenance",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Professional Support Team",
+                    "descriptions": [
+                        "Our experienced team provides end-to-end software maintenance and support services for businesses of all sizes."
+                    ]
+                },
+                {
+                    "title": "Secure & Reliable Maintenance",
+                    "descriptions": [
+                        "We follow best practices to ensure secure, stable, and compliant website maintenance."
+                    ]
+                },
+                {
+                    "title": "Cost-Effective Solutions",
+                    "descriptions": [
+                        "Get professional website support without the expense of maintaining an in-house IT team."
+                    ]
+                },
+                {
+                    "title": "Fast Response & Ongoing Support",
+                    "descriptions": [
+                        "We prioritize quick issue resolution and proactive maintenance to keep your website running smoothly."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Get Started with Wellcode Studio",
+            "descriptions": [
+                "Looking for reliable website maintenance and support services to protect your digital investment? Partner with Wellcode Studio for secure, scalable, and ongoing website support tailored to your business needs. Contact us today to keep your website running at peak performance."
+            ],
+            "link": {
+                "text": "Contact us today to keep your website running at peak performance.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Web application development",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/website_maintence_03.avif",
+                    "alt": "E-commerce web development and online store solutions"
+                },
+                {
+                    "title": "CMS-integrated website development",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/website_maintence_02.avif",
+                    "alt": "Website redesign and performance optimization services"
+                },
+                {
+                    "title": "Website Updates & Content Management",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/website_updates_content_management.avif",
+                    "alt": "Custom website development for businesses"
+                },
+                {
+                    "title": "Software & Plugin Updates",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/software_plugin_updates.avif",
+                    "alt": "Responsive web design for desktop and mobile"
+                },
+                {
+                    "title": "Security Monitoring & Fixes",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/security_monitoring_fixes.avif",
+                    "alt": "Full-stack web application development services"
+                },
+                {
+                    "title": "Performance Monitoring & Optimization",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/performance_monitoring_optimization.avif",
+                    "alt": "Front-end and back-end web development solutions"
+                },
+                {
+                    "title": "Bug Fixes & Technical Support",
+                    "filepath": "/assets/images/service-images/website_maintenance_support_services/bug_fixes_technical_support.avif",
+                    "alt": "Web development for corporate websites and startups"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Website Maintenance and Support Service?",
+            "descriptions": [
+                "Website Maintenance and Support Service is the ongoing process of monitoring, updating, and optimizing a website to ensure it remains secure, fast, and fully functional. It helps businesses prevent issues, improve performance, and keep their website up to date."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Wrench",
+                    "content": "Regular Updates & Bug Fixes: Keeping themes, plugins, and codebases current and error-free."
+                },
+                {
+                    "icon": "Shield",
+                    "content": "Security Monitoring & Protection: Preventing vulnerabilities and safeguarding data."
+                },
+                {
+                    "icon": "Activity",
+                    "content": "Performance & Speed Checks: Ensuring fast load times and smooth functionality."
+                },
+                {
+                    "icon": "RefreshCw",
+                    "content": "Content & Feature Updates: Adding new content and improving existing features."
+                },
+                {
+                    "icon": "HardDrive",
+                    "content": "Backup & Recovery Management: Protecting website data with reliable backup systems."
+                }
+            ]
+        }
+    }
+]

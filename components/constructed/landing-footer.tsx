@@ -20,21 +20,25 @@ const LandingFooter = (props: Props) => {
             href: '/about',
         },
         {
-            title: 'Careers',
-            href: '#',
+            title: 'Contact Support',
+            href: '/contact',
         },
-        {
-            title: 'Brand assets',
-            href: '#',
-        },
-        {
-            title: 'Privacy Policy',
-            href: '#',
-        },
-        {
-            title: 'Terms of Service',
-            href: '#',
-        },
+        // {
+        //     title: 'Careers',
+        //     href: '#',
+        // },
+        // {
+        //     title: 'Brand assets',
+        //     href: '#',
+        // },
+        // {
+        //     title: 'Privacy Policy',
+        //     href: '#',
+        // },
+        // {
+        //     title: 'Terms of Service',
+        //     href: '#',
+        // },
     ];
 
     const resources = [
@@ -44,10 +48,6 @@ const LandingFooter = (props: Props) => {
         },
         {
             title: 'Help Center',
-            href: '#',
-        },
-        {
-            title: 'Contact Support',
             href: '/contact',
         },
     ];
@@ -57,10 +57,10 @@ const LandingFooter = (props: Props) => {
             icon: <FacebookIcon className="size-4" />,
             link: '#',
         },
-        {
-            icon: <GithubIcon className="size-4" />,
-            link: '#',
-        },
+        // {
+        //     icon: <GithubIcon className="size-4" />,
+        //     link: '#',
+        // },
         {
             icon: <InstagramIcon className="size-4" />,
             link: '#',
@@ -69,14 +69,14 @@ const LandingFooter = (props: Props) => {
             icon: <LinkedinIcon className="size-4" />,
             link: '#',
         },
-        {
-            icon: <TwitterIcon className="size-4" />,
-            link: '#',
-        },
-        {
-            icon: <YoutubeIcon className="size-4" />,
-            link: '#',
-        },
+        // {
+        //     icon: <TwitterIcon className="size-4" />,
+        //     link: '#',
+        // },
+        // {
+        //     icon: <YoutubeIcon className="size-4" />,
+        //     link: '#',
+        // },
     ];
 
     return (

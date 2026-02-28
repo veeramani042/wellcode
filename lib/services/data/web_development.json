@@ -1,0 +1,283 @@
+[
+    {
+        "base_service": "Digital Product Development",
+        "service_title": "Web Development",
+        "meta_titles": [
+            "Web Development Services | Grow Your Business | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Build fast, secure, and scalable websites with Wellcode Studio. Custom web development solutions designed to boost user experience, performance, and business growth worldwide."
+        ],
+        "slug": "web-development",
+        "service_slider": {
+            "title": "Professional Web Development for High-Performance Growth",
+            "description": [
+                "At WellCode Studio, we build secure, scalable websites and web applications designed for speed, usability, and long-term success. From business websites to complex web platforms, our solutions align perfectly with your goals. Get a powerful digital presence with technically robust, user-focused web development."
+            ]
+        },
+        "header": {
+            "title": "Web Development Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we provide secure, scalable, and high-performance web development services that help businesses build a strong digital presence. From simple business websites to complex web applications, our solutions are designed to deliver speed, usability, and long-term growth for clients across the globe.",
+                "We focus on creating websites and web applications that are not only visually appealing but also technically robust, user-centric, and aligned with your business objectives."
+            ]
+        },
+        "general_info": {
+            "title": "Why Web Development Is Crucial for Businesses",
+            "descriptions": [
+                "Professional web development creates responsive, user-friendly websites that engage visitors and support business goals by combining functionality, design, and performance."
+            ],
+            "sub_section": {
+                "title": "How Web Development Benefits Your Business",
+                "descriptions": [],
+                "list": [
+                    "Delivers responsive, fast, and user-friendly websites",
+                    "Enhances user experience and engagement",
+                    "Strengthens brand credibility and online presence",
+                    "Supports lead generation and conversions",
+                    "Integrates functionality for seamless digital operations"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Professional Web Development Services",
+            "descriptions": [
+                "Wellcode Studio delivers secure, scalable, and high-performance websites and web applications. Our solutions help businesses build a strong digital presence, improve user engagement, and drive growth."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Custom Website Development",
+                    "descriptions": [
+                        "We craft fully customized websites tailored to your brand and business goals, ensuring responsiveness, performance, and scalability."
+                    ],
+                    "image": {
+                        "title": "Custom Website Development",
+                        "filepath": "/assets/images/service-images/web_development/custom_website_development.avif",
+                        "alt": "Custom website development for businesses"
+                    }
+                },
+                {
+                    "title": "Web Application Development",
+                    "descriptions": [
+                        "Powerful web applications that streamline operations, improve engagement, and deliver secure, scalable solutions using modern technologies."
+                    ],
+                    "image": {
+                        "title": "Web Application Development",
+                        "filepath": "/assets/images/service-images/web_development/web_application_development.avif",
+                        "alt": "Responsive web design for desktop and mobile"
+                    }
+                },
+                {
+                    "title": "Front-End & Back-End Development",
+                    "descriptions": [
+                        "Full-stack development with clean UI, smooth navigation, robust architecture, and secure server-side logic for seamless performance."
+                    ],
+                    "image": {
+                        "title": "Front-End & Back-End Development",
+                        "filepath": "/assets/images/service-images/web_development/front_end_back_end_development.avif",
+                        "alt": "Full-stack web application development services"
+                    }
+                },
+                {
+                    "title": "Responsive Website Development",
+                    "descriptions": [
+                        "Our responsive websites provide flawless experiences across all devices, improving accessibility, usability, and SEO visibility."
+                    ],
+                    "image": {
+                        "title": "Responsive Website Development",
+                        "filepath": "/assets/images/service-images/web_development/responsive_website_development.avif",
+                        "alt": "Front-end and back-end web development solutions"
+                    }
+                },
+                {
+                    "title": "Website Redesign & Optimization",
+                    "descriptions": [
+                        "Modernize your existing website with improved UI/UX, faster load times, and optimized performance for higher conversions."
+                    ],
+                    "image": {
+                        "title": "Website Redesign & Optimization",
+                        "filepath": "/assets/images/service-images/web_development/website_redesign_optimization.avif",
+                        "alt": "Web development for corporate websites and startups"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Web Development, Human-Perfected Websites",
+            "descriptions": [
+                "AI tools can accelerate repetitive tasks, but building accurate, secure, and user-friendly websites requires human expertise, strategic planning, and attention to detail."
+            ],
+            "comparison": {
+                "title": "Why Human Developers Make the Difference",
+                "list": [
+                    "Human developers understand business logic, user behavior, and brand goals",
+                    "Features and designs are customized to meet unique requirements",
+                    "Website security, usability, and scalability are carefully ensured",
+                    "Manual quality assurance guarantees real-world performance and reliability",
+                    "AI supports efficiency, but final quality is ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Web Development Process",
+            "descriptions": [
+                "We follow a structured and transparent workflow to deliver high-quality, secure, and scalable web solutions on time."
+            ],
+            "steps": [
+                {
+                    "title": "Requirement Analysis",
+                    "descriptions": [
+                        "We define clear development goals by understanding your business model, target audience, and functional requirements."
+                    ]
+                },
+                {
+                    "title": "UI/UX Planning & Design",
+                    "descriptions": [
+                        "User-centric designs focus on intuitive interfaces, seamless navigation, and engaging experiences across devices."
+                    ]
+                },
+                {
+                    "title": "Development & Testing",
+                    "descriptions": [
+                        "Secure, scalable code is built and rigorously tested for speed, functionality, and long-term reliability."
+                    ]
+                },
+                {
+                    "title": "Deployment & Support",
+                    "descriptions": [
+                        "We provide post-launch support, updates, and optimization to ensure your website or web app remains efficient and future-ready."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries We Serve",
+            "descriptions": [],
+            "users": [
+                "E-commerce & Retail",
+                "Startups & SaaS Businesses",
+                "Corporate & Enterprise",
+                "Healthcare",
+                "Education",
+                "Finance & Professional Services"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Web Development",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Professional Web Development Team",
+                    "descriptions": [
+                        "Our skilled web developers have hands-on experience across multiple industries and technologies, delivering reliable and future-ready solutions."
+                    ]
+                },
+                {
+                    "title": "Secure & Scalable Solutions",
+                    "descriptions": [
+                        "We follow best coding practices to build secure, scalable, and high-performance websites that grow with your business."
+                    ]
+                },
+                {
+                    "title": "Cost-Effective Development",
+                    "descriptions": [
+                        "Get access to professional web development services without the overhead of maintaining an in-house team."
+                    ]
+                },
+                {
+                    "title": "Agile & Transparent Workflow",
+                    "descriptions": [
+                        "We follow agile development methodologies, ensuring flexibility, faster delivery, and clear communication throughout the project."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Get Started with Wellcode Studio",
+            "descriptions": [
+                "Looking for a professional web development company that delivers secure, scalable, and user-focused solutions? Partner with Wellcode Studio to build websites and web applications that enhance your digital presence and drive business growth. Contact us today to discuss your web development requirements."
+            ],
+            "link": {
+                "text": "Contact us today to discuss your web development requirements.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Professional web development",
+                    "filepath": "/assets/images/service-images/web_development/web_development_03.avif",
+                    "alt": "E-commerce web development and online store solutions"
+                },
+                {
+                    "title": "SEO-friendly website development",
+                    "filepath": "/assets/images/service-images/web_development/web_development_02.avif",
+                    "alt": "Website redesign and performance optimization services"
+                },
+                {
+                    "title": "Custom Website Development",
+                    "filepath": "/assets/images/service-images/web_development/custom_website_development.avif",
+                    "alt": "Custom website development for businesses"
+                },
+                {
+                    "title": "Web Application Development",
+                    "filepath": "/assets/images/service-images/web_development/web_application_development.avif",
+                    "alt": "Responsive web design for desktop and mobile"
+                },
+                {
+                    "title": "Front-End & Back-End Development",
+                    "filepath": "/assets/images/service-images/web_development/front_end_back_end_development.avif",
+                    "alt": "Full-stack web application development services"
+                },
+                {
+                    "title": "Responsive Website Development",
+                    "filepath": "/assets/images/service-images/web_development/responsive_website_development.avif",
+                    "alt": "Front-end and back-end web development solutions"
+                },
+                {
+                    "title": "Website Redesign & Optimization",
+                    "filepath": "/assets/images/service-images/web_development/website_redesign_optimization.avif",
+                    "alt": "Web development for corporate websites and startups"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Web Development?",
+            "descriptions": [
+                "Web Development is the process of designing and building functional, responsive, and high-performance websites tailored to business goals. It focuses on creating fast, secure, and user-friendly websites that deliver seamless experiences across devices."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Code",
+                    "content": "Frontend & Backend Development: Building interactive interfaces supported by robust server logic."
+                },
+                {
+                    "icon": "MonitorSmartphone",
+                    "content": "Responsive Design Implementation: Ensuring compatibility across mobiles, tablets, and desktops."
+                },
+                {
+                    "icon": "Zap",
+                    "content": "Performance & Speed Optimization: Developing websites that load quickly and run smoothly."
+                },
+                {
+                    "icon": "Shield",
+                    "content": "Security & Data Protection: Implementing best practices to safeguard user information."
+                },
+                {
+                    "icon": "Search",
+                    "content": "SEO-Friendly Structure: Structuring websites for better visibility on search engines."
+                }
+            ]
+        }
+    }
+]

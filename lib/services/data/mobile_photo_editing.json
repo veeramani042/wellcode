@@ -1,0 +1,301 @@
+[
+    {
+        "base_service": "Image Editing",
+        "service_title": "Mobile Photo Editing",
+        "meta_titles": [
+            "Professional Mobile Photo Editing Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Enhance your mobile photos with Wellcode Studio’s professional mobile photo editing services. Expert human retouching, color correction, RAW editing, fast turnaround, and affordable pricing."
+        ],
+        "slug": "mobile-photo-editing",
+        "service_slider": {
+            "title": "Professional Mobile Photo Editing Services",
+            "description": [
+                "At WellCode Studio, we transform everyday smartphone photos into clean, polished, professional-quality images. Our mobile photo editing enhances clarity, lighting, and details while preserving natural emotion. Perfect for creators, brands, and individuals seeking high-quality visuals beyond basic app filters."
+            ]
+        },
+        "header": {
+            "title": "Mobile Photo Editing Services",
+            "sub_title": "",
+            "descriptions": [
+                "Your phone captures incredible moments, but raw mobile photos often need professional refinement to truly stand out. At Wellcode Studio, our Mobile Photo Editing Services transform everyday smartphone clicks into clean, polished, and professional-quality images—without losing their natural look or emotional value.",
+                "Whether you’re a content creator, social media influencer, business owner, photographer, or an individual preserving personal memories, our expert editors enhance mobile photos using human creativity, precision, and artistic judgment that automated apps and AI tools simply can’t match."
+            ]
+        },
+        "general_info": {
+            "title": "Why Mobile Photo Editing Matters",
+            "descriptions": [
+                "Mobile photo editing transforms everyday phone photos into polished, professional-looking visuals. We ensures your mobile images are engaging, visually appealing, and ready for social media, marketing, or personal use."
+            ],
+            "sub_section": {
+                "title": "How Mobile Photo Editing Improves Your Images",
+                "descriptions": [],
+                "list": [
+                    "Enhances colors, contrast, and lighting for impactful visuals",
+                    "Removes distractions and unwanted elements",
+                    "Improves clarity, sharpness, and overall quality",
+                    "Optimized for social media, marketing, and personal sharing"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Mobile Photo Editing Services for Stunning Visuals",
+            "descriptions": [
+                "Wellcode Studio transforms smartphone photos into polished, professional-quality images while keeping their natural charm intact. Our human editors enhance color, lighting, and details to create mobile images that stand out on social media, websites, and marketing campaigns—beyond what AI tools or apps can achieve."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Color & Exposure Correction",
+                    "descriptions": [
+                        "We balance uneven lighting, fix dull colors, and adjust highlights and shadows to restore vibrancy and realism in every mobile photo."
+                    ],
+                    "image": {
+                        "title": "Skin retouching and smoothing",
+                        "filepath": "/assets/images/service-images/mobile_photo_editing/color_exposure_correction_04.avif",
+                        "alt": "Mobile photo color correction and exposure adjustment"
+                    }
+                },
+                {
+                    "title": "Mobile Photo Retouching",
+                    "descriptions": [
+                        "Blemishes, distractions, and imperfections are carefully removed while preserving natural skin texture—ideal for portraits, lifestyle shots, and personal photos."
+                    ],
+                    "image": {
+                        "title": "Mobile image enhancement",
+                        "filepath": "/assets/images/service-images/mobile_photo_editing/mobile_photo_retouching_01.avif",
+                        "alt": "Mobile photo retouching for portraits and lifestyle images"
+                    }
+                },
+                {
+                    "title": "RAW (.DNG) Mobile Image Editing",
+                    "descriptions": [
+                        "We professionally edit mobile RAW images to unlock maximum detail, improve dynamic range, reduce noise, and enhance clarity without degrading quality."
+                    ],
+                    "image": {
+                        "title": "Brightness and contrast adjustment",
+                        "filepath": "/assets/images/service-images/mobile_photo_editing/raw_mobile_editing_05.avif",
+                        "alt": "RAW mobile image editing services"
+                    }
+                },
+                {
+                    "title": "Background & Object Removal",
+                    "descriptions": [
+                        "Unwanted objects or cluttered backgrounds are removed cleanly to maintain focus on the main subject."
+                    ],
+                    "image": {
+                        "title": "Brightness and contrast adjustment",
+                        "filepath": "/assets/images/service-images/mobile_photo_editing/background_object_removal_01.avif",
+                        "alt": "Mobile photo cropping and straightening"
+                    }
+                },
+                {
+                    "title": "Image Cropping & Straightening",
+                    "descriptions": [
+                        "Horizons are corrected, framing is improved, and images are cropped for platform-specific needs—perfect for social media, websites, or marketing campaigns."
+                    ],
+                    "image": {
+                        "title": "Brightness and contrast adjustment",
+                        "filepath": "/assets/images/service-images/mobile_photo_editing/image_cropping_straightening_01.avif",
+                        "alt": "Mobile photo clarity and detail enhancement"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Editing, Human-Perfected Mobile Visuals",
+            "descriptions": [
+                "AI tools can assist with quick fixes, but transforming mobile photos into professional, natural, and brand-ready visuals requires human judgment and careful refinement."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors correct perspective distortions and lens artifacts for accuracy",
+                    "Lighting, shadows, and color are refined to achieve realistic results",
+                    "Natural textures and skin tones are carefully preserved",
+                    "Manual retouching ensures polished, professional-quality images",
+                    "AI supports basic adjustments, but final quality is ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Expert Approach to Mobile Photo Editing",
+            "descriptions": [
+                "Our mobile photo editing process combines human expertise, creativity, and professional tools to deliver natural, high-quality results that automated apps or AI alone cannot achieve."
+            ],
+            "steps": [
+                {
+                    "title": "Image Submission",
+                    "descriptions": [
+                        "Upload your mobile photos securely for review and processing."
+                    ]
+                },
+                {
+                    "title": "Requirement Discussion",
+                    "descriptions": [
+                        "Share your editing preferences, style, and goals to ensure tailored results."
+                    ]
+                },
+                {
+                    "title": "Manual Editing by Professionals",
+                    "descriptions": [
+                        "Our human editors refine every detail—including color, exposure, retouching, and background adjustments—for natural, polished images."
+                    ]
+                },
+                {
+                    "title": "Quality Review",
+                    "descriptions": [
+                        "Each image undergoes a thorough check to ensure consistency, realism, and professional-grade quality."
+                    ]
+                },
+                {
+                    "title": "Final Delivery",
+                    "descriptions": [
+                        "Edited images are delivered in your preferred format, ready for social media, marketing, or personal use."
+                    ]
+                },
+                {
+                    "title": "Ongoing Client Support",
+                    "descriptions": [
+                        "Our team is available to assist with revisions, guidance, and support for global clients, ensuring complete satisfaction."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Who Can Benefit from Mobile Photo Editing Services?",
+            "descriptions": [],
+            "users": [
+                "Social media influencers & content creators",
+                "Small businesses & startups",
+                "Personal branding professionals",
+                "Photographers using Mobile photography",
+                "Individuals enhancing personal memories",
+                "Brands using mobile photography for marketing"
+            ],
+            "phrase_text": "Our services are designed for global clients, regardless of industry or location."
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Mobile Photo Editing?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Human-Driven Editing (Not Just AI Filters)",
+                    "descriptions": [
+                        "Every image is manually edited by professionals—no one-click presets or generic app-based filters."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround Time",
+                    "descriptions": [
+                        "We understand the pace of digital content and social media. Our streamlined workflow ensures quick delivery without compromising quality."
+                    ]
+                },
+                {
+                    "title": "Affordable Mobile Photo Editing Services",
+                    "descriptions": [
+                        "High-quality mobile photo editing at cost-effective pricing, suitable for individuals, influencers, and businesses worldwide."
+                    ]
+                },
+                {
+                    "title": "24/7 Client Support",
+                    "descriptions": [
+                        "Our support team is available around the clock to assist with queries, revisions, and updates."
+                    ]
+                },
+                {
+                    "title": "Customized Editing Based on Your Vision",
+                    "descriptions": [
+                        "You define the style—clean, natural, bold, cinematic, or minimal—and we tailor the edits to match your vision."
+                    ]
+                }
+            ],
+            "phrase_text": "At Wellcode Studio, we believe AI can assist, but human expertise delivers perfection. Our image masking services ensure your visuals remain clean, detailed, and conversion-ready."
+        },
+        "footer": {
+            "title": "Elevate Your Mobile Photos with Wellcode Studio",
+            "descriptions": [
+                "Your Mobile photos deserve more than automated edits. At Wellcode Studio, we combine professional tools, artistic expertise, and human creativity to deliver images that look natural, refined, and visually impactful.",
+                "Upload your Mobile photos today and experience the difference professional, human-driven mobile photo editing can make."
+            ],
+            "link": {
+                "text": "Upload your Mobile photos today and experience the difference professional, human-driven mobile photo editing can make.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Brightness and contrast adjustment",
+                    "filepath": "/assets/images/service-images/mobile_photo_editing/why_mobile_photo_editing_02.avif",
+                    "alt": "HEIC to JPG/PNG mobile photo conversion"
+                },
+                {
+                    "title": "Brightness and contrast adjustment",
+                    "filepath": "/assets/images/service-images/mobile_photo_editing/approach_mobile_photo_editing_02.avif",
+                    "alt": "HEIC to JPG/PNG mobile photo conversion"
+                },
+                {
+                    "title": "Skin retouching and smoothing",
+                    "filepath": "/assets/images/service-images/mobile_photo_editing/color_exposure_correction_04.avif",
+                    "alt": "Mobile photo color correction and exposure adjustment"
+                },
+                {
+                    "title": "Mobile image enhancement",
+                    "filepath": "/assets/images/service-images/mobile_photo_editing/mobile_photo_retouching_01.avif",
+                    "alt": "Mobile photo retouching for portraits and lifestyle images"
+                },
+                {
+                    "title": "Brightness and contrast adjustment",
+                    "filepath": "/assets/images/service-images/mobile_photo_editing/raw_mobile_editing_05.avif",
+                    "alt": "RAW mobile image editing services"
+                },
+                {
+                    "title": "Brightness and contrast adjustment",
+                    "filepath": "/assets/images/service-images/mobile_photo_editing/background_object_removal_01.avif",
+                    "alt": "Mobile photo cropping and straightening"
+                },
+                {
+                    "title": "Brightness and contrast adjustment",
+                    "filepath": "/assets/images/service-images/mobile_photo_editing/image_cropping_straightening_01.avif",
+                    "alt": "Mobile photo clarity and detail enhancement"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Mobile Photo Editing?",
+            "descriptions": [
+                "Mobile Photo Editing is the professional enhancement of smartphone images to improve lighting, colors, and overall visual balance while preserving a natural look. Each image is manually reviewed and refined to avoid over-processed results and maintain authenticity."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Sun",
+                    "content": "Lighting & Color Correction: Adjusting exposure and tones for clean, natural visuals."
+                },
+                {
+                    "icon": "Sparkles",
+                    "content": "Skin Tone & Detail Refinement: Enhancing portraits without artificial filters."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Background & Distraction Cleanup: Removing unwanted elements for better composition."
+                },
+                {
+                    "icon": "PenTool",
+                    "content": "Manual Precision Editing: Customized edits instead of template-based filters."
+                },
+                {
+                    "icon": "User",
+                    "content": "Natural Look Preservation: Ensuring images remain realistic and true to the moment."
+                }
+            ]
+        }
+    }
+]

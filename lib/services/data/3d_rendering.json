@@ -1,0 +1,306 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "3D Rendering",
+        "meta_titles": [
+            "Real Estate 3D Rendering & Visualization Services | Wellcode Studio",
+            "Professional 3D Rendering for Property Projects | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Professional 3D rendering services for real estate projects. High-quality interior, exterior, and walkthrough visualizations by Wellcode Studio.",
+            "High-quality 3D rendering for real estate marketing. Accurate architectural, interior, and exterior visualization by expert human editors."
+        ],
+        "slug": "3d-redering",
+        "header": {
+            "title": "Professional 3D Rendering Services for Real Estate Visualization",
+            "sub_title": "",
+            "descriptions": [
+                "Imagine experiencing a property before it is built. At Wellcode Studio, our 3D Rendering Services transform architectural concepts, floor plans, and ideas into high-quality, photorealistic visuals that help you visualize, refine, and market real estate projects with confidence.",
+                "From real estate 3D rendering and architectural visualization to immersive walkthroughs, we create realistic representations that support better decision-making, clearer communication, and stronger property marketing."
+            ],
+            "link": {
+                "text": "floor plans",
+                "slug": "floor-plan"
+            }
+        },
+        "general_info": {
+            "title": "Why 3D Rendering Transforms Property Projects",
+            "descriptions": [
+                "Photorealistic 3D rendering gives a clear vision of the final property, helping stakeholders make smarter decisions and reducing costly rework. It enhances marketing appeal, boosts engagement, and ensures better communication between architects, builders, and clients."
+            ],
+            "sub_section": {
+                "title": "How 3D Rendering Improves Listings & Projects",
+                "descriptions": [],
+                "list": [
+                    "Provides clear visualization of the final property",
+                    "Supports smarter decisions and reduces costly rework",
+                    "Increases engagement and strengthens property marketing",
+                    "Enhances communication among architects, builders, marketers, and clients"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "High-Quality 3D Rendering Services",
+            "descriptions": [
+                "Wellcode Studio provides professional 3D rendering services for real estate visualization, helping developers, architects, and marketers present properties with clarity and confidence. Our services convert plans and concepts into photorealistic, market-ready visuals that support design decisions and property marketing."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Exterior 3D Rendering for Real Estate",
+                    "descriptions": [
+                        "We create lifelike exterior renders with realistic materials, landscaping, lighting, and surroundings to showcase architectural details and curb appeal effectively."
+                    ],
+                    "image": {
+                        "title": "Exterior 3D rendering",
+                        "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_01.avif",
+                        "alt": "Interior design visualization using 3D rendering"
+                    }
+                },
+                {
+                    "title": "Interior 3D Rendering",
+                    "descriptions": [
+                        "Our interior 3D rendering services visualize layouts, furniture placement, textures, and lighting, helping clients clearly understand space flow, scale, and design intent."
+                    ],
+                    "image": {
+                        "title": "Interior 3D rendering",
+                        "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_02.avif",
+                        "alt": "Real estate 3D rendering highlighting property features"
+                    }
+                },
+                {
+                    "title": "Real Estate 3D Walkthrough Rendering",
+                    "descriptions": [
+                        "Immersive 3D walkthroughs simulate real movement through interiors and exteriors, making them ideal for presentations, websites, and digital marketing."
+                    ],
+                    "image": {
+                        "title": "Realistic 3D architectural",
+                        "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_03.avif",
+                        "alt": "Detailed 3D exterior visualization for marketing materials"
+                    }
+                },
+                {
+                    "title": "Architectural 3D Rendering Services",
+                    "descriptions": [
+                        "We focus on accuracy, proportion, and realism, ensuring every element—from materials to lighting—matches real-world expectations for residential and commercial projects."
+                    ],
+                    "image": {
+                        "title": "Realistic 3D architectural",
+                        "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_04.avif",
+                        "alt": "Detailed 3D exterior visualization for marketing materials"
+                    }
+                },
+                {
+                    "title": "2D Architectural Rendering & Elevations",
+                    "descriptions": [
+                        "Our 2D rendering services deliver clear plan-based visuals and elevations that support early-stage planning, approvals, and architectural understanding."
+                    ],
+                    "image": {
+                        "title": "Realistic 3D architectural",
+                        "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_05.avif",
+                        "alt": "Detailed 3D exterior visualization for marketing materials"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted 3D Rendering, Human-Perfected Property Visuals",
+            "descriptions": [
+                "AI tools can speed up modeling and visualization, but creating realistic, market-ready 3D property renderings requires human expertise, careful judgment, and attention to accuracy and aesthetics."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors ensure textures, lighting, and materials look natural",
+                    "Property layouts are accurately represented with precise dimensions",
+                    "Colors and finishes are adjusted for realistic visual impact",
+                    "Each rendering is customized to highlight key property features",
+                    "Final quality checks prevent unrealistic shadows, reflections, or distortions",
+                    "AI enhances efficiency, but 3D renderings that truly impress potential buyers are ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Expert 3D Rendering Approach",
+            "descriptions": [
+                "Our real estate 3D rendering approach combines accurate modeling, realistic materials, and human-refined detailing to deliver consistent, high-quality visuals suitable for property marketing and decision-making."
+            ],
+            "steps": [
+                {
+                    "title": "Project Understanding & Requirement Analysis",
+                    "descriptions": [
+                        "We begin by reviewing your goals, reference materials, architectural plans, and preferred visual style to align the render with your project vision."
+                    ]
+                },
+                {
+                    "title": "Accurate 3D Modeling",
+                    "descriptions": [
+                        "Using provided drawings and inputs, our artists create precise 3D models that form a reliable foundation for realistic property visualization."
+                    ]
+                },
+                {
+                    "title": "Lighting, Materials & Texture Development",
+                    "descriptions": [
+                        "We apply realistic lighting, textures, and materials to achieve photorealistic 3D rendering that reflects real-world finishes and spatial depth."
+                    ]
+                },
+                {
+                    "title": "Human-Refined Rendering Process",
+                    "descriptions": [
+                        "AI tools support efficiency, but every render is manually refined by professionals to ensure realism, proportion accuracy, and visual balance."
+                    ]
+                },
+                {
+                    "title": "Quality Check & Final Delivery",
+                    "descriptions": [
+                        "Each 3D render undergoes a detailed quality review before delivery in your preferred format, ready for marketing, presentations, or approvals."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Applications of Our 3D Rendering Services",
+            "descriptions": [],
+            "users": [
+                "Real estate marketing & listings",
+                "Property development presentations",
+                "Architectural design approvals",
+                "Investor proposals",
+                "Website and brochure visuals"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for 3D Rendering?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Professional Real Estate Focus",
+                    "descriptions": [
+                        "We specialize in 3D rendering for real estate, not generic visuals—ensuring industry-relevant accuracy."
+                    ]
+                },
+                {
+                    "title": "Human Expertise Over Automation",
+                    "descriptions": [
+                        "AI helps speed up workflows, but human judgment ensures realism, proportion, and emotional appeal—critical for property visualization."
+                    ]
+                },
+                {
+                    "title": "Consistent Quality",
+                    "descriptions": [
+                        "Every project follows strict quality benchmarks for lighting, textures, scale, and realism."
+                    ]
+                },
+                {
+                    "title": "Flexible & Scalable Solutions",
+                    "descriptions": [
+                        "From a single 3D interior rendering to full-scale real estate 3D image editing services, we adapt to your needs."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Bring Your Property Vision to Life",
+            "descriptions": [
+                "Whether you need 3D architectural rendering services for real estate, immersive walkthroughs, or detailed interior and exterior visuals, Wellcode Studio helps you present projects with clarity, confidence, and impact.",
+                "Get in touch today to start your professional 3D rendering for property projects."
+            ],
+            "link": {
+                "text": "Get in touch today to start your professional 3D rendering for property projects.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Exterior 3D rendering",
+                    "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_01.avif",
+                    "alt": "Interior design visualization using 3D rendering"
+                },
+                {
+                    "title": "Interior 3D rendering",
+                    "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_02.avif",
+                    "alt": "Real estate 3D rendering highlighting property features"
+                },
+                {
+                    "title": "Realistic 3D architectural",
+                    "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_03.avif",
+                    "alt": "Detailed 3D exterior visualization for marketing materials"
+                },
+                {
+                    "title": "Realistic 3D architectural",
+                    "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_04.avif",
+                    "alt": "Detailed 3D exterior visualization for marketing materials"
+                },
+                {
+                    "title": "Realistic 3D architectural",
+                    "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_05.avif",
+                    "alt": "Detailed 3D exterior visualization for marketing materials"
+                },
+                {
+                    "title": "Realistic 3D architectural",
+                    "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_06.avif",
+                    "alt": "Detailed 3D exterior visualization for marketing materials"
+                },
+                {
+                    "title": "Realistic 3D architectural",
+                    "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_07.avif",
+                    "alt": "Detailed 3D exterior visualization for marketing materials"
+                }
+            ],
+            "videos": [],
+            "comparison": {
+                "before": {
+                    "title": "3D walkthrough rendering",
+                    "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_before.avif",
+                    "alt": "Architectural 3D rendering for client presentations before"
+                },
+                "after": {
+                    "title": "High-quality 3D rendering",
+                    "filepath": "/assets/images/service-images/3d-rendering/3d_rendering_after.avif",
+                    "alt": "Immersive 3D walkthrough of commercial property after"
+                }
+            }
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "3D Rendering Services for Real Estate Visualization",
+            "description": [
+                "Wellcode Studio’s 3D Rendering Services turn architectural concepts and floor plans into photorealistic real estate visuals. From immersive walkthroughs to detailed renderings, our high-quality visuals help you showcase properties, improve marketing, and make confident decisions."
+            ]
+        },
+        "work_info": {
+            "title": "What is 3D Rendering for Real Estate?",
+            "descriptions": [
+                "3D Rendering is the process of transforming 2D drawings, sketches, or plans into highly realistic three-dimensional visuals. By using advanced modeling, lighting, textures, and materials, it produces images and animations that accurately depict how a property will look once completed."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Box",
+                    "content": "3D Modeling & Structure Design: Creating accurate digital representations of buildings and interiors."
+                },
+                {
+                    "icon": "SunDim",
+                    "content": "Lighting & Shadow Simulation: Replicating natural and artificial light for realistic effects."
+                },
+                {
+                    "icon": "Grid",
+                    "content": "Material & Texture Mapping: Applying surfaces, colors, and finishes that reflect real-world properties."
+                },
+                {
+                    "icon": "Move3d",
+                    "content": "Animation & Walkthroughs: Producing dynamic fly-throughs and walkthroughs for immersive presentations."
+                },
+                {
+                    "icon": "Eye",
+                    "content": "Visualization for Marketing & Planning: Helping developers, architects, and marketers showcase projects before construction."
+                }
+            ]
+        }
+    }
+]

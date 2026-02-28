@@ -1,0 +1,303 @@
+[
+    {
+        "base_service": "Image Editing",
+        "service_title": "High-End Manual Photo Retouching Services",
+        "meta_titles": [
+            "High-End Manual Photo Retouching Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Get high-end manual photo retouching services at Wellcode Studio. 100% non-AI professional photo retouching for ecommerce, advertising, and photographers with natural, premium results."
+        ],
+        "slug": "high-end-manual-photo-retouching",
+        "service_slider": {
+            "title": "High-End Manual Photo Retouching Services",
+            "description": [
+                "At WellCode Studio, we deliver 100% manual photo retouching for premium, realistic, and detail-perfect results. Our expert editors enhance images with precision while preserving natural texture and authenticity. Ideal for e-commerce, advertising, fashion, and professional photography that demands flawless quality."
+            ]
+        },
+        "header": {
+            "title": "High-End Manual Photo Retouching Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we provide High-End Manual Photo Retouching Services crafted for brands, photographers, and businesses that demand precision, realism, and premium-quality visuals. Every image is retouched 100% manually by professional editors, ensuring natural results that AI-based tools cannot achieve.",
+                "Our approach focuses on enhancing images while preserving their authenticity, making our services ideal for ecommerce, advertising, fashion, and professional photography."
+            ]
+        },
+        "general_info": {
+            "title": "Why High-End Manual Photo Retouching Matters",
+            "descriptions": [
+                "High-end manual photo retouching delivers meticulous, professional-quality enhancements that AI or automated tools cannot match. Every detail create polished, realistic, and visually striking images that leave a lasting impression."
+            ],
+            "sub_section": {
+                "title": "How Manual Photo Retouching Improves Your Images",
+                "descriptions": [],
+                "list": [
+                    "Refines skin, textures, and fine details with precision",
+                    "Enhances lighting, color balance, and overall aesthetics",
+                    "Removes imperfections while maintaining realism",
+                    "Creates visually striking, professional-quality images suitable for portfolios, advertising, or personal use"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Professional High-End Manual Photo Retouching Services",
+            "descriptions": [
+                "Wellcode Studio provides 100% manual photo retouching by skilled human editors, delivering natural, premium-quality results that AI tools cannot replicate. Our high-end retouching enhances portraits, fashion imagery, e-commerce products, and marketing visuals with precision and attention to every detail."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Advanced Skin Retouching",
+                    "descriptions": [
+                        "We refine skin tones and textures while preserving natural realism—ideal for beauty, fashion, and portrait photography."
+                    ],
+                    "image": {
+                        "title": "Photo retouching services",
+                        "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/advanced_skin_retouching_02.avif",
+                        "alt": "Advanced skin retouching for professional photography"
+                    }
+                },
+                {
+                    "title": "Professional Image Enhancement",
+                    "descriptions": [
+                        "Lighting, contrast, shadows, and highlights are manually adjusted to improve depth, clarity, and visual appeal without over-editing."
+                    ],
+                    "image": {
+                        "title": "Skin texture preservation",
+                        "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/professional_image_enhancement_01.avif",
+                        "alt": "Manual photo enhancement for portraits and products"
+                    }
+                },
+                {
+                    "title": "Color Correction & Tone Balancing",
+                    "descriptions": [
+                        "Accurate color adjustments ensure consistent tones across images, essential for e-commerce catalogs, advertising campaigns, and professional portfolios."
+                    ],
+                    "image": {
+                        "title": "Pixel-level photo cleanup",
+                        "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/color_correction_tone_balancing_02.avif",
+                        "alt": "Color correction and tone balancing for images"
+                    }
+                },
+                {
+                    "title": "Detailed Object & Background Cleanup",
+                    "descriptions": [
+                        "Unwanted elements, dust, wrinkles, distractions, and imperfections are removed with pixel-level precision for polished, professional visuals."
+                    ],
+                    "image": {
+                        "title": "Lighting and contrast",
+                        "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/detailed_object_background_cleanup_01.avif",
+                        "alt": "Manual retouching for fashion and beauty photography"
+                    }
+                },
+                {
+                    "title": "High-End Retouching for E-commerce & Advertising",
+                    "descriptions": [
+                        "We enhance product images and campaign visuals to help brands stand out in competitive marketplaces and global advertising channels."
+                    ],
+                    "image": {
+                        "title": "Adjustment in professional photos",
+                        "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/high-end_retouching_e-commerce_01.avif",
+                        "alt": "Professional photo editing for advertising campaigns"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Editing, Human-Perfected Premium Retouching",
+            "descriptions": [
+                "AI tools can assist with quick corrections, but achieving luxurious, professional-quality retouching requires human judgment, precision, and attention to fine details."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors preserve natural skin texture and intricate details for realism",
+                    "Judgment-based enhancements create a refined and polished appearance",
+                    "Edits are customized according to the image purpose and context",
+                    "Consistency and high-end quality are maintained across all images",
+                    "AI supports basic efficiency, but final quality is ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Expert Approach to High-End Manual Photo Retouching",
+            "descriptions": [
+                "Our approach combines human expertise, creativity, and professional-grade tools to deliver natural, realistic, and premium-quality retouched images—far beyond what AI or automated tools can achieve."
+            ],
+            "steps": [
+                {
+                    "title": "Image Evaluation",
+                    "descriptions": [
+                        "Each image is carefully analyzed to determine the required level of retouching and detail enhancement."
+                    ]
+                },
+                {
+                    "title": "Manual Editing by Professionals",
+                    "descriptions": [
+                        "All edits are performed manually by experienced human editors to ensure precise, consistent, and natural-looking results."
+                    ]
+                },
+                {
+                    "title": "Quality Control",
+                    "descriptions": [
+                        "Every image undergoes a thorough review to ensure realism, consistency, and premium-quality output."
+                    ]
+                },
+                {
+                    "title": "Final Delivery",
+                    "descriptions": [
+                        "Edited images are delivered in your preferred format, ready for web, print, social media, or advertising campaigns."
+                    ]
+                },
+                {
+                    "title": "Ongoing Client Support",
+                    "descriptions": [
+                        "Our team provides revision support, guidance, and global client assistance to ensure complete satisfaction."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries We Serve",
+            "descriptions": [
+                "Our high-quality photo retouching services are trusted by:"
+            ],
+            "users": [
+                "Professional photographers",
+                "Ecommerce businesses",
+                "Fashion and beauty brands",
+                "Advertising and marketing agencies",
+                "Modeling agencies",
+                "Content creators worldwide"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "100% Manual, Non-AI Photo Retouching",
+                    "descriptions": [
+                        "Every image is carefully retouched by hand to ensure premium, natural-looking results without automated shortcuts."
+                    ]
+                },
+                {
+                    "title": "Experienced Professional Retouchers",
+                    "descriptions": [
+                        "Our team brings strong technical skill and creative judgment to enhance photos while preserving authenticity."
+                    ]
+                },
+                {
+                    "title": "Natural-Looking, Premium Results",
+                    "descriptions": [
+                        "We focus on subtle refinements that elevate image quality without making edits look artificial."
+                    ]
+                },
+                {
+                    "title": "Custom Editing Solutions for Every Project",
+                    "descriptions": [
+                        "Each photo is edited based on its purpose, style, and client requirements."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround Time",
+                    "descriptions": [
+                        "Our efficient workflow ensures timely delivery without compromising attention to detail."
+                    ]
+                },
+                {
+                    "title": "Reliable Global Client Support",
+                    "descriptions": [
+                        "We work with clients worldwide, providing dependable communication and consistent service quality."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Elevate Your Images With Skilled Editors At Wellcode Studio",
+            "descriptions": [
+                "Looking for high-end manual photo retouching services that deliver natural, professional results?",
+                "Contact Wellcode Studio today and let skilled human editors elevate your images beyond AI limitations."
+            ],
+            "link": {
+                "text": "Contact Wellcode Studio today and let skilled human editors elevate your images beyond AI limitations.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "photographers and brands",
+                    "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/high-end_manual_01.avif",
+                    "alt": "Pixel-level photo cleanup and detail refinement"
+                },
+                {
+                    "title": "photographers and brands",
+                    "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/high-end_manual_02.avif",
+                    "alt": "Pixel-level photo cleanup and detail refinement"
+                },
+                {
+                    "title": "Photo retouching services",
+                    "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/advanced_skin_retouching_02.avif",
+                    "alt": "Advanced skin retouching for professional photography"
+                },
+                {
+                    "title": "Skin texture preservation",
+                    "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/professional_image_enhancement_01.avif",
+                    "alt": "Manual photo enhancement for portraits and products"
+                },
+                {
+                    "title": "Pixel-level photo cleanup",
+                    "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/color_correction_tone_balancing_02.avif",
+                    "alt": "Color correction and tone balancing for images"
+                },
+                {
+                    "title": "Lighting and contrast",
+                    "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/detailed_object_background_cleanup_01.avif",
+                    "alt": "Manual retouching for fashion and beauty photography"
+                },
+                {
+                    "title": "Adjustment in professional photos",
+                    "filepath": "/assets/images/service-images/high_end_manual_photo_retouching/high-end_retouching_e-commerce_01.avif",
+                    "alt": "Professional photo editing for advertising campaigns"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are High-End Manual Photo Retouching Services?",
+            "descriptions": [
+                "High-End Manual Photo Retouching is a professional editing process performed by skilled human retouchers using advanced tools for complete control and precision. It focuses on enhancing images while preserving natural textures, lighting accuracy, and fine details that automated tools often miss."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Sparkles",
+                    "content": "Skin Texture Preservation: Refining imperfections while keeping natural skin details intact."
+                },
+                {
+                    "icon": "Eye",
+                    "content": "Judgment-Based Enhancements: Applying edits based on lighting, context, and image purpose."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Color & Light Accuracy: Correcting tones without artificial or over-processed results."
+                },
+                {
+                    "icon": "Focus",
+                    "content": "Detail-Oriented Refinement: Enhancing fine elements such as hair, fabric, and textures."
+                },
+                {
+                    "icon": "ShieldCheck",
+                    "content": "Consistent Professional Output: Delivering high-quality results across all images without AI artifacts."
+                }
+            ]
+        }
+    }
+]

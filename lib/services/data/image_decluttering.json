@@ -1,0 +1,302 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "Image De-Cluttering",
+        "meta_titles": [
+            "Image De-Cluttering Services for Real Estate Photos | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Enhance your property images with professional Image De-Cluttering services by Wellcode Studio. Remove unwanted objects, clean up clutter, and create clear, focused real estate photos that attract buyers and boost engagement."
+        ],
+        "slug": "image-de-cluttering",
+        "header": {
+            "title": "Image De-Cluttering Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, our Image De-Cluttering services are designed to refine and simplify images by removing unwanted elements, distractions, and visual noise. The result is a clean, focused, and professional image that highlights what truly matters. Whether for real estate marketing, e-commerce, photography portfolios, or digital campaigns, image decluttering enhances clarity and improves visual impact.",
+                "Image decluttering is an essential part of real estate photo editing and property photo enhancement, helping viewers focus on key features without distraction."
+            ]
+        },
+        "general_info": {
+            "title": "Why Image De-Cluttering Enhances Visual Impact",
+            "descriptions": [
+                "Image de-cluttering removes distractions, helping viewers focus on key subjects while creating a polished, professional impression."
+            ],
+            "sub_section": {
+                "title": "How Image De-Cluttering Improves Visuals",
+                "descriptions": [],
+                "list": [
+                    "Increases focus on the main subject for clearer messaging",
+                    "Creates a polished, professional appearance",
+                    "Enhances visual storytelling by eliminating distractions",
+                    "Clean visuals improves engagement on listings, websites, and social media",
+                    "Suitable for real estate, marketing, e-commerce, and professional photography"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Professional Image De-Cluttering Services",
+            "descriptions": [
+                "Wellcode Studio provides professional image de-cluttering services that remove distractions and visual noise, delivering clean, focused, and marketing-ready images. Our decluttering enhances clarity, highlights key features, and improves visual impact for real estate, e-commerce, and digital campaigns."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Background Removal",
+                    "descriptions": [
+                        "We remove busy or distracting backgrounds to isolate the main subject, improving focus for property photos, product images, and marketing visuals."
+                    ],
+                    "image": {
+                        "title": "Interior photo editing",
+                        "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_01.avif",
+                        "alt": "Object removal for clean marketing visuals"
+                    }
+                },
+                {
+                    "title": "Object Removal",
+                    "descriptions": [
+                        "Unwanted objects such as furniture, wires, personal items, or shadows are carefully removed to create distraction-free and professional images."
+                    ],
+                    "image": {
+                        "title": "Digital de-cluttering",
+                        "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_02.avif",
+                        "alt": "De-cluttering services for online product images"
+                    }
+                },
+                {
+                    "title": "Cropping and Resizing",
+                    "descriptions": [
+                        "Strategic cropping eliminates unnecessary space and guides the viewer’s attention toward the key focal points of the image."
+                    ],
+                    "image": {
+                        "title": "Removal of unwanted objects",
+                        "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_03.avif",
+                        "alt": "Professional photo cleanup for occupied property listings"
+                    }
+                },
+                {
+                    "title": "Color Correction",
+                    "descriptions": [
+                        "We adjust brightness, contrast, and color balance to ensure a harmonious and visually appealing look across all images."
+                    ],
+                    "image": {
+                        "title": "Removal of unwanted objects",
+                        "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_04.avif",
+                        "alt": "Professional photo cleanup for occupied property listings"
+                    }
+                },
+                {
+                    "title": "Sharpening and Clarity Enhancement",
+                    "descriptions": [
+                        "Key elements are enhanced with subtle sharpening to improve definition and make the subject stand out clearly without over-processing."
+                    ],
+                    "image": {
+                        "title": "Removal of unwanted objects",
+                        "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_05.avif",
+                        "alt": "Professional photo cleanup for occupied property listings"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Image De-Cluttering, Human-Perfected Cleanliness",
+            "descriptions": [
+                "AI can quickly identify and remove unwanted objects, but achieving clean, professional property images requires human precision, careful adjustments, and attention to natural lighting and spatial realism."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors remove clutter while preserving architectural lines and textures",
+                    "Lighting and shadows are corrected for a natural look",
+                    "Each property image is carefully refined to enhance space and appeal",
+                    "Manual adjustments prevent over-processing and visual inconsistencies",
+                    "Final quality checks guarantee polished, MLS-ready images",
+                    "AI accelerates the workflow, but de-cluttered images that are clean, realistic, and market-ready are ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Image De-Cluttering Editing Approach",
+            "descriptions": [
+                "Our image de-cluttering process combines human-led precision with advanced editing tools to deliver clean, realistic, and professional visuals suitable for real estate, marketing, and digital campaigns."
+            ],
+            "steps": [
+                {
+                    "title": "Initial Consultation",
+                    "descriptions": [
+                        "We begin by understanding your requirements, intended use, and visual goals to plan the decluttering approach effectively."
+                    ]
+                },
+                {
+                    "title": "Image Submission & Evaluation",
+                    "descriptions": [
+                        "You share the images, and our editors analyze each one to determine the optimal cleanup, object removal, and enhancement techniques."
+                    ]
+                },
+                {
+                    "title": "Decluttering Execution",
+                    "descriptions": [
+                        "Our team performs background removal, object elimination, cropping, framing, and color/exposure correction for a polished final image."
+                    ]
+                },
+                {
+                    "title": "Final Quality Check",
+                    "descriptions": [
+                        "Every image undergoes strict review to ensure accuracy, realism, consistency, and overall visual quality."
+                    ]
+                },
+                {
+                    "title": "Delivery",
+                    "descriptions": [
+                        "Decluttered images are delivered in your preferred format, ready for immediate use across listings, marketing campaigns, and digital platforms."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries That Benefit from Image De-Cluttering",
+            "descriptions": [],
+            "users": [
+                "Real Estate - Clear, clutter-free property images help buyers focus on space, layout, and features.",
+                "E-Commerce - Clean product images improve conversion rates and visual appeal.",
+                "Marketing & Advertising - Decluttered visuals create stronger campaigns and brand consistency.",
+                "Photography - Professional photographers elevate portfolios with refined and distraction-free images.",
+                "Social Media - Clean images stand out better in fast-scrolling environments."
+            ],
+            "phrase_text": "From real estate image background removal to advanced masking, our services enhance visual clarity and listing performance."
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Image De-Cluttering?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Expert Editors",
+                    "descriptions": [
+                        "Our skilled team specializes in professional image cleanup for property photos and commercial visuals."
+                    ]
+                },
+                {
+                    "title": "Advanced Editing Techniques",
+                    "descriptions": [
+                        "We use industry-standard tools combined with manual precision for realistic results."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround",
+                    "descriptions": [
+                        "We deliver high-quality decluttered images within tight timelines."
+                    ]
+                },
+                {
+                    "title": "Custom Solutions",
+                    "descriptions": [
+                        "Each project is tailored to your specific needs and visual goals."
+                    ]
+                },
+                {
+                    "title": "Commitment to Quality",
+                    "descriptions": [
+                        "Every image meets strict quality standards before delivery."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Transform Your Images with Wellcode Studio",
+            "descriptions": [
+                "Don’t let clutter distract from your visuals. With Wellcode Studio’s Image De-Cluttering services, your images become clean, focused, and impactful—perfect for marketing, listings, and professional use.",
+                "Get started today and experience the power of clean visuals."
+            ],
+            "link": {
+                "text": "Get started today and experience the power of clean visuals.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Removal of unwanted objects",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_06.avif",
+                    "alt": "Professional photo cleanup for occupied property listings"
+                },
+                {
+                    "title": "Interior photo editing",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_01.avif",
+                    "alt": "Object removal for clean marketing visuals"
+                },
+                {
+                    "title": "Digital de-cluttering",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_02.avif",
+                    "alt": "De-cluttering services for online product images"
+                },
+                {
+                    "title": "Removal of unwanted objects",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_03.avif",
+                    "alt": "Professional photo cleanup for occupied property listings"
+                },
+                {
+                    "title": "Removal of unwanted objects",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_04.avif",
+                    "alt": "Professional photo cleanup for occupied property listings"
+                },
+                {
+                    "title": "Removal of unwanted objects",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_05.avif",
+                    "alt": "Professional photo cleanup for occupied property listings"
+                }
+            ],
+            "videos": [],
+            "comparison": {
+                "before": {
+                    "title": "Clutter-free property images",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_before.avif",
+                    "alt": "Minimalist image enhancement with clutter removal before"
+                },
+                "after": {
+                    "title": "Professional image de-cluttering",
+                    "filepath": "/assets/images/service-images/de-cluttering/de_cluttering_after.avif",
+                    "alt": "Removing distractions for high-quality visual content after"
+                }
+            }
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "Real Estate Image De-Cluttering Services",
+            "description": [
+                "Simplify and enhance your property images with Wellcode Studio’s Image De-Cluttering services. Remove distractions, unwanted elements, and visual noise to create clean, focused, and professional visuals. Highlight key property features, improve clarity, and make every listing visually impactful."
+            ]
+        },
+        "work_info": {
+            "title": "What is Image De-Cluttering?",
+            "descriptions": [
+                "Image De-Cluttering is a digital editing process that removes unnecessary objects, background distractions, and clutter from property photographs. It ensures the main subject stands out clearly, presenting clean, professional visuals that communicate the space effectively."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Eraser",
+                    "content": "Clutter & Distraction Removal: Eliminating unwanted furniture, objects, and visual noise."
+                },
+                {
+                    "icon": "Brush",
+                    "content": "Background Cleanup: Restoring walls, floors, and surfaces for a natural, polished look."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Color & Lighting Consistency: Maintaining realistic tones and shadows after edits."
+                },
+                {
+                    "icon": "Focus",
+                    "content": "Detail Preservation: Ensuring textures and property features remain accurate and clear."
+                },
+                {
+                    "icon": "Layout",
+                    "content": "Marketing-Ready Images: Producing visuals optimized for listings, brochures, and online platforms."
+                }
+            ]
+        }
+    }
+]

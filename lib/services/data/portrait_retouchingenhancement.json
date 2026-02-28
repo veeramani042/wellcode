@@ -1,0 +1,326 @@
+[
+    {
+        "base_service": "Image Editing",
+        "service_title": "Portrait Retouching/Enhancement",
+        "meta_titles": [
+            "Portrait Retouching & Enhancement Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Enhance portraits with professional portrait retouching services by Wellcode Studio. Natural skin retouching, headshot editing, facial enhancement, and high-quality portrait image editing by skilled human re-touchers."
+        ],
+        "slug": "portrait-retouching-enhancement",
+        "service_slider": {
+            "title": "Professional Portrait Retouching & Enhancement Services",
+            "description": [
+                "At WellCode Studio, we refine portraits with natural, high-quality retouching that enhances beauty without over-processing. Our portrait retouching services preserve individual character while improving clarity and visual appeal. Perfect for professional profiles, fashion portfolios, corporate use, and timeless personal memories."
+            ]
+        },
+        "header": {
+            "title": "Professional Portrait Retouching & Enhancement Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we offer professional portrait retouching and enhancement services designed to refine portraits while preserving natural beauty and individual character. A well-retouched portrait creates a lasting impression—whether for professional profiles, fashion portfolios, corporate use, or personal memories. Our skilled re-touchers work with global clients to deliver high-quality, realistic portrait edits that elevate visual appeal without over-processing."
+            ]
+        },
+        "general_info": {
+            "title": "Why Professional Portrait Retouching Matters",
+            "descriptions": [
+                "High-quality portrait retouching creates polished, engaging visuals that capture attention, preserve emotion, and elevate the overall visual impact."
+            ],
+            "sub_section": {
+                "title": "How Portrait Retouching Improves Your Images",
+                "descriptions": [],
+                "list-portrait-editing": [
+                    {
+                        "icon": "Camera",
+                        "content": "Model & fashion portrait enhancements with editorial-quality finishes"
+                    },
+                    {
+                        "icon": "Sliders",
+                        "content": "High-end retouching for premium, meticulous results"
+                    },
+                    {
+                        "icon": "Layers",
+                        "content": "Creative photo manipulation and object removal while maintaining realism"
+                    },
+                    {
+                        "icon": "Sun",
+                        "content": "Accurate face & head swaps with perfect alignment and skin tones"
+                    },
+                    {
+                        "icon": "Home",
+                        "content": "Corporate event portrait enhancements correcting lighting and colors"
+                    },
+                    {
+                        "icon": "Camera",
+                        "content": "Natural family & baby portrait editing preserving warmth and emotion"
+                    }
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Portrait Retouching Services That Preserve Natural Beauty",
+            "descriptions": [
+                "At Wellcode Studio, we provide expert portrait retouching and enhancement services designed to refine images while maintaining authenticity. Our human-led edits ensure portraits—whether for professional headshots, fashion portfolios, corporate use, or personal memories—look polished, natural, and visually compelling."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Skin Retouching & Texture Refinement",
+                    "descriptions": [
+                        "We smooth skin, reduce blemishes, wrinkles, and uneven tones while keeping natural textures intact for realistic, high-quality results."
+                    ],
+                    "image": {
+                        "title": "Expert portrait retouching services",
+                        "filepath": "/assets/images/service-images/portrait_retouching/skin_retouching_03.avif",
+                        "alt": "Professional portrait retouching services"
+                    }
+                },
+                {
+                    "title": "Facial Feature Enhancement",
+                    "descriptions": [
+                        "Key features like eyes, lips, and contours are subtly enhanced to highlight expressions and achieve balanced, attractive portraits."
+                    ],
+                    "image": {
+                        "title": "Portrait photo improvement",
+                        "filepath": "/assets/images/service-images/portrait_retouching/facial_feature_enhancement_03.avif",
+                        "alt": "Skin smoothing and texture refinement for portraits"
+                    }
+                },
+                {
+                    "title": "Professional Headshot Retouching",
+                    "descriptions": [
+                        "Lighting, background, and facial details are refined for headshots that look polished, authentic, and suitable for branding or professional profiles."
+                    ],
+                    "image": {
+                        "title": "Natural-looking edited headshots",
+                        "filepath": "/assets/images/service-images/portrait_retouching/professional_headshot_retouching_04.avif",
+                        "alt": "Facial feature enhancement and natural editing"
+                    }
+                },
+                {
+                    "title": "Hair Enhancement & Precise Masking",
+                    "descriptions": [
+                        "Hair volume, shine, and definition are improved, with stray hairs controlled using advanced masking techniques for a clean, natural look."
+                    ],
+                    "image": {
+                        "title": "Realistic portrait photo",
+                        "filepath": "/assets/images/service-images/portrait_retouching/hair_enhancement_precise_masking_01.avif",
+                        "alt": "Teeth whitening and smile enhancement editing"
+                    }
+                },
+                {
+                    "title": "Teeth Whitening & Smile Enhancement",
+                    "descriptions": [
+                        "Natural-looking teeth whitening and smile enhancements brighten expressions without over-processing, keeping the subject realistic."
+                    ],
+                    "image": {
+                        "title": "Retouched portraits for social media",
+                        "filepath": "/assets/images/service-images/portrait_retouching/teeth_whitening_smile_enhancement_02.avif",
+                        "alt": "Background adjustment and replacement for portraits"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Portrait Retouching, Human-Perfected Results",
+            "descriptions": [
+                "AI tools can assist with basic smoothing or quick adjustments, but achieving natural, expressive, and professionally retouched portraits requires human expertise, careful judgment, and attention to individuality and emotion."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors maintain facial anatomy and authentic expressions",
+                    "Manual adjustments prevent over-smoothing or unnatural effects",
+                    "Lighting, color, and skin tones are refined for realism",
+                    "Each portrait receives customized attention for personal and professional appeal",
+                    "Final quality checks ensure polished, natural, and visually engaging results",
+                    "AI enhances efficiency, but portrait retouching that looks authentic, professional, and emotionally resonant is ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Proven Approach to Portrait Retouching",
+            "descriptions": [
+                "Our approach combines skilled human retouchers with precise, detail-oriented techniques to create authentic, high-quality portraits that elevate professional and personal imagery."
+            ],
+            "steps": [
+                {
+                    "title": "Requirement Understanding",
+                    "descriptions": [
+                        "We begin by reviewing your goals, style preferences, and intended use to tailor the retouching process for every portrait."
+                    ]
+                },
+                {
+                    "title": "Image Evaluation & Analysis",
+                    "descriptions": [
+                        "Each portrait is carefully examined to determine the most effective editing techniques while maintaining authenticity."
+                    ]
+                },
+                {
+                    "title": "Manual Retouching & Enhancement",
+                    "descriptions": [
+                        "Our re-touchers apply precise, manual adjustments to skin, features, lighting, and background elements for natural yet polished results."
+                    ]
+                },
+                {
+                    "title": "Quality Review & Accuracy Checks",
+                    "descriptions": [
+                        "Every portrait undergoes a strict quality check to ensure consistent realism, accurate tones, and high-end finishing."
+                    ]
+                },
+                {
+                    "title": "Final Delivery",
+                    "descriptions": [
+                        "Edited portraits are delivered in your preferred format and resolution, ready for professional use across digital and print platforms."
+                    ]
+                },
+                {
+                    "title": "Human Expertise vs AI Retouching",
+                    "descriptions": [
+                        "While AI can handle basic edits, human retouching preserves facial structure, expressions, and natural details—ensuring authentic, high-quality results that automated tools often miss."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Who Can Benefit from Our Portrait Retouching Services?",
+            "descriptions": [],
+            "users": [
+                "Professional photographers",
+                "Creative and fashion studios",
+                "Corporate teams and agencies",
+                "Models and actors",
+                "Individuals seeking high-quality portrait enhancements"
+            ],
+            "phrase_text": "Our services are suitable for both commercial and personal portrait requirements worldwide."
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Portrait Retouching Services?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Portrait-Focused Retouching Expertise",
+                    "descriptions": [
+                        "Our skilled retouchers understand facial features, skin tones, and lighting to enhance portraits while keeping them natural."
+                    ]
+                },
+                {
+                    "title": "Human-Led Quality Control",
+                    "descriptions": [
+                        "We follow a careful, non-destructive editing approach that preserves original details and authenticity."
+                    ]
+                },
+                {
+                    "title": "Customized Editing for Every Portrait Type",
+                    "descriptions": [
+                        "From studio shots to candid portraits, we tailor retouching based on the style and purpose of the image."
+                    ]
+                },
+                {
+                    "title": "Strict Data Security and Image Confidentiality",
+                    "descriptions": [
+                        "Your images are handled with complete privacy and secure workflows at every stage."
+                    ]
+                },
+                {
+                    "title": "Consistent Quality With Timely Delivery",
+                    "descriptions": [
+                        "We maintain uniform standards across projects and ensure reliable turnaround times."
+                    ]
+                },
+                {
+                    "title": "Global Support for Photographers and Studios",
+                    "descriptions": [
+                        "Our services are designed to support professionals worldwide with dependable communication and results."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Get Professional Portrait Retouching Services Today",
+            "descriptions": [
+                "With Wellcode Studio, portraits are treated as more than just images—they are refined visual stories. Our portrait retouching and enhancement services help create timeless, polished visuals while preserving authenticity and emotional value.",
+                "Contact us today to enhance your portraits with professional precision and care."
+            ],
+            "link": {
+                "text": "Contact us today to enhance your portraits with professional precision and care.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Beauty retouching",
+                    "filepath": "/assets/images/service-images/portrait_retouching/portrait_retouching_01.avif",
+                    "alt": "Color correction and lighting balance in portrait photos"
+                },
+                {
+                    "title": "Beauty retouching",
+                    "filepath": "/assets/images/service-images/portrait_retouching/portrait_retouching_02.avif",
+                    "alt": "Color correction and lighting balance in portrait photos"
+                },
+                {
+                    "title": "Expert portrait retouching services",
+                    "filepath": "/assets/images/service-images/portrait_retouching/skin_retouching_03.avif",
+                    "alt": "Professional portrait retouching services"
+                },
+                {
+                    "title": "Portrait photo improvement",
+                    "filepath": "/assets/images/service-images/portrait_retouching/facial_feature_enhancement_03.avif",
+                    "alt": "Skin smoothing and texture refinement for portraits"
+                },
+                {
+                    "title": "Natural-looking edited headshots",
+                    "filepath": "/assets/images/service-images/portrait_retouching/professional_headshot_retouching_04.avif",
+                    "alt": "Facial feature enhancement and natural editing"
+                },
+                {
+                    "title": "Realistic portrait photo",
+                    "filepath": "/assets/images/service-images/portrait_retouching/hair_enhancement_precise_masking_01.avif",
+                    "alt": "Teeth whitening and smile enhancement editing"
+                },
+                {
+                    "title": "Retouched portraits for social media",
+                    "filepath": "/assets/images/service-images/portrait_retouching/teeth_whitening_smile_enhancement_02.avif",
+                    "alt": "Background adjustment and replacement for portraits"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Portrait Retouching & Enhancement Services?",
+            "descriptions": [
+                "Portrait Retouching & Enhancement involves carefully refining facial features, skin tones, lighting, and background elements to improve image quality while preserving the subject’s natural look. Each portrait is edited with a personalized approach to ensure subtle, realistic, and professional results."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Sparkles",
+                    "content": "Skin Tone & Texture Refinement: Smoothing imperfections while keeping natural skin details intact."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Lighting & Color Correction: Adjusting brightness and tones for balanced, flattering visuals."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Background Cleanup: Removing distractions to keep focus on the subject."
+                },
+                {
+                    "icon": "Focus",
+                    "content": "Facial Feature Enhancement: Subtle sharpening and detailing of eyes, hair, and expressions."
+                },
+                {
+                    "icon": "User",
+                    "content": "Natural Look Preservation: Enhancing portraits without altering the person’s identity."
+                }
+            ]
+        }
+    }
+]

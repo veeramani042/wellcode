@@ -1,0 +1,307 @@
+[
+    {
+        "base_service": "Image Editing",
+        "service_title": "Image Masking",
+        "meta_titles": [
+            "Professional Image Masking Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Get high-quality image masking services for complex images like hair, fur, glass, and transparent objects. Our professional editors deliver clean, natural cutouts for e-Commerce, advertising, and marketing worldwide."
+        ],
+        "slug": "image-masking",
+        "service_slider": {
+            "title": "Professional Image Masking for Precision Cutouts",
+            "description": [
+                "At WellCode Studio, we deliver high-quality image masking services for complex edges like hair, fur, glass, and transparency. Our experts manually refine every detail to ensure clean cutouts and natural-looking results. Get realistic, marketing-ready images with precision masking beyond basic clipping paths."
+            ]
+        },
+        "header": {
+            "title": "Professional Image Masking Services",
+            "sub_title": "",
+            "descriptions": [
+                "In today’s visual-first digital world, precision matters. Image Masking Services help isolate objects with complex edges such as hair, fur, glass, smoke, or transparent materials—something basic clipping paths cannot achieve. At Wellcode Studio, we deliver high-quality image masking solutions that ensure clean cutouts, preserved details, and natural-looking results for web, print, and marketing use.",
+                "While AI tools can assist in basic selections, human expertise is essential for handling intricate edges and transparency. Our skilled editors manually refine every image to maintain realism, accuracy, and visual perfection."
+            ]
+        },
+        "general_info": {
+            "title": "Why Image Masking Enhances Visual Quality",
+            "descriptions": [
+                "Image masking ensures precise isolation of subjects, preserving fine details like hair, fur, and fabrics while enabling seamless background replacements. Professional masking creates clean, realistic results which AI alone cannot achieve."
+            ],
+            "sub_section": {
+                "title": "How Image Masking Improves Your Images",
+                "descriptions": [],
+                "list": [
+                    "Preserves intricate details for realistic visuals",
+                    "Enables seamless background replacement without harsh edges",
+                    "Creates professional, polished images suitable for any platform",
+                    "Enhances brand credibility with clean, high-quality visuals"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Precision Image Masking Services",
+            "descriptions": [
+                "At Wellcode Studio, our Image Masking Services isolate complex objects with fine details such as hair, fur, glass, smoke, and transparent materials. Our human-led masking ensures clean cutouts, preserved edges, and natural-looking results—perfect for e-commerce, advertising, fashion, and creative projects."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Layer Masking",
+                    "descriptions": [
+                        "Pixel-level control for soft edges like hair, fur, fabrics, and shadows—non-destructive and highly precise."
+                    ],
+                    "image": {
+                        "title": "Transparent object masking",
+                        "filepath": "/assets/images/service-images/image_masking/layer_masking_02.avif",
+                        "alt": "Professional image masking services"
+                    }
+                },
+                {
+                    "title": "Alpha Channel Masking",
+                    "descriptions": [
+                        "Grayscale channel-based masking ideal for glass, smoke, veils, and reflective surfaces requiring subtle transparency and detail accuracy."
+                    ],
+                    "image": {
+                        "title": "Product image masking",
+                        "filepath": "/assets/images/service-images/image_masking/alpha_channel_masking_03.avif",
+                        "alt": "Layer masking for hair, fur, and fabrics"
+                    }
+                },
+                {
+                    "title": "Hair & Fur Masking",
+                    "descriptions": [
+                        "Individual strands are carefully isolated for realistic, natural-looking cutouts that AI often cannot achieve."
+                    ],
+                    "image": {
+                        "title": "Digital marketing visuals",
+                        "filepath": "/assets/images/service-images/image_masking/hair_fur_masking_03.avif",
+                        "alt": "Alpha channel masking for transparency effects"
+                    }
+                },
+                {
+                    "title": "Refine Edge Masking",
+                    "descriptions": [
+                        "Smooth transitions and realistic blending for uneven or delicate edges such as leaves, plants, fabrics, or flyaway hair."
+                    ],
+                    "image": {
+                        "title": "Masking for transparency effects",
+                        "filepath": "/assets/images/service-images/image_masking/refine_edge_masking_03.avif",
+                        "alt": "Transparent object masking for bottles and glass"
+                    }
+                },
+                {
+                    "title": "Transparent & Translucent Object Masking",
+                    "descriptions": [
+                        "Preserves transparency and depth for bottles, glass, water, smoke, or sheer materials while removing backgrounds seamlessly."
+                    ],
+                    "image": {
+                        "title": "Transparent object masking",
+                        "filepath": "/assets/images/service-images/image_masking/transparent_translucent_object_masking_02.avif",
+                        "alt": "Collage masking for creative compositions"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Masking, Human-Perfected Precision",
+            "descriptions": [
+                "AI tools can generate quick outlines, but achieving clean, accurate image masking requires human judgment to handle fine details, textures, and complex edges for flawless results."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors refine intricate edges like hair, fabrics, and reflective surfaces",
+                    "Natural shadows and transparency are carefully preserved",
+                    "Consistency is maintained with brand or platform requirements",
+                    "Manual adjustments ensure perfect masking and seamless compositing",
+                    "AI supports initial detection, but final quality is ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Expert Approach to Professional Image Masking",
+            "descriptions": [
+                "We combine human expertise, industry-grade tools, and quality-driven workflows to deliver precise, natural, and high-quality masked images suitable for web, print, and marketing campaigns."
+            ],
+            "steps": [
+                {
+                    "title": "Image Analysis & Planning",
+                    "descriptions": [
+                        "Each image is evaluated to determine the most effective masking technique—layer, alpha channel, or hybrid."
+                    ]
+                },
+                {
+                    "title": "Manual Mask Creation",
+                    "descriptions": [
+                        "Skilled editors manually create precise masks, ensuring intricate edges, transparency, and fine details are preserved."
+                    ]
+                },
+                {
+                    "title": "Edge Refinement",
+                    "descriptions": [
+                        "Fine edges are carefully adjusted to remove rough lines and maintain smooth, natural transitions."
+                    ]
+                },
+                {
+                    "title": "Background Removal or Replacement",
+                    "descriptions": [
+                        "Based on project requirements, backgrounds are removed or replaced while keeping the subject realistic and visually appealing."
+                    ]
+                },
+                {
+                    "title": "Quality Check & Accuracy Assurance",
+                    "descriptions": [
+                        "Every image undergoes strict quality control for precision, realism, and consistency before delivery."
+                    ]
+                },
+                {
+                    "title": "Final Delivery & Platform-Ready Images",
+                    "descriptions": [
+                        "Images are delivered in the required format, resolution, and specifications—ready for e-commerce, advertising, print, or creative use."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries We Serve",
+            "descriptions": [],
+            "users": [
+                "E-commerce & Online Marketplaces",
+                "Fashion & Apparel Brands",
+                "Advertising & Marketing Agencies",
+                "Photography Studios",
+                "Graphic Design & Media Companies"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Image Masking?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Precision From Experienced Human Editors",
+                    "descriptions": [
+                        "Our editors deliver masking accuracy and edge refinement that automated tools often fail to achieve."
+                    ]
+                },
+                {
+                    "title": "Human-Led Quality With Advanced Tools",
+                    "descriptions": [
+                        "We use industry-standard software to support our work while ensuring every mask is manually perfected."
+                    ]
+                },
+                {
+                    "title": "Customized Solutions for Every Image",
+                    "descriptions": [
+                        "Each image is treated uniquely based on subject, background complexity, and final usage needs."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround Without Compromising Quality",
+                    "descriptions": [
+                        "We work efficiently to meet deadlines while maintaining careful attention to fine details."
+                    ]
+                },
+                {
+                    "title": "High-Quality Output for Web, Print, and Ads",
+                    "descriptions": [
+                        "Our masking results are clean, sharp, and suitable for all digital and print marketing requirements."
+                    ]
+                },
+                {
+                    "title": "AI-Assisted Workflow, Human-Perfected Results",
+                    "descriptions": [
+                        "While AI can assist the process, it is human expertise that ensures your visuals remain polished, detailed, and conversion-ready."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Get Started with Professional Image Masking Services",
+            "descriptions": [
+                "If you’re struggling with complex backgrounds, fine edges, or transparent objects, Wellcode Studio’s Image Masking Services are designed to deliver precise, natural, and high-quality results.",
+                "We combine human expertise, industry-grade tools, and quality-driven workflows to ensure your images are ready for e-Commerce, advertising, and creative use worldwide.",
+                "Contact Wellcode Studio today to discuss your image masking requirements, request a sample edit, or get a customized quote for your project."
+            ],
+            "link": {
+                "text": "Contact Wellcode Studio today to discuss your image masking requirements, request a sample edit, or get a customized quote for your project.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Product image masking",
+                    "filepath": "/assets/images/service-images/image_masking/why_image_masking_01.avif",
+                    "alt": "Real estate image masking services"
+                },
+                {
+                    "title": "Product image masking",
+                    "filepath": "/assets/images/service-images/image_masking/approach_professional_image_masking_04.avif",
+                    "alt": "Real estate image masking services"
+                },
+                {
+                    "title": "Transparent object masking",
+                    "filepath": "/assets/images/service-images/image_masking/layer_masking_02.avif",
+                    "alt": "Professional image masking services"
+                },
+                {
+                    "title": "Product image masking",
+                    "filepath": "/assets/images/service-images/image_masking/alpha_channel_masking_03.avif",
+                    "alt": "Layer masking for hair, fur, and fabrics"
+                },
+                {
+                    "title": "Digital marketing visuals",
+                    "filepath": "/assets/images/service-images/image_masking/hair_fur_masking_03.avif",
+                    "alt": "Alpha channel masking for transparency effects"
+                },
+                {
+                    "title": "Masking for transparency effects",
+                    "filepath": "/assets/images/service-images/image_masking/refine_edge_masking_03.avif",
+                    "alt": "Transparent object masking for bottles and glass"
+                },
+                {
+                    "title": "Transparent object masking",
+                    "filepath": "/assets/images/service-images/image_masking/transparent_translucent_object_masking_02.avif",
+                    "alt": "Collage masking for creative compositions"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Image Masking?",
+            "descriptions": [
+                "Image Masking is an advanced photo editing technique used to separate complex objects from their backgrounds while preserving fine details. It enables selective transparency, making it ideal for images with soft edges, hair, fur, or translucent elements."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Feather",
+                    "content": "Edge Detail Preservation: Retaining fine strands, soft edges, and intricate outlines."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Selective Transparency Control: Allowing precise background removal without hard cut lines."
+                },
+                {
+                    "icon": "Scissors",
+                    "content": "Complex Object Isolation: Handling hair, fabric, glass, and semi-transparent materials."
+                },
+                {
+                    "icon": "ImagePlus",
+                    "content": "Seamless Background Replacement: Integrating subjects naturally into new environments."
+                },
+                {
+                    "icon": "Layout",
+                    "content": "Design & E-commerce Ready Output: Preparing images for composites, ads, and product listings."
+                }
+            ]
+        }
+    }
+]

@@ -230,7 +230,7 @@ export default function TimelineAbout() {
                     Our <AuroraText>History</AuroraText>
                 </h1>
                 <p className="text-lg max-w-3xl mx-auto mt-4 text-gray-100/50 font-light">
-                    Well Code Studio began with a simple idea—deliver reliable, high-quality digital solutions without compromise. Starting as a small, skilled team, we grew by focusing on quality, consistency, and client trust. Today, that same mindset drives everything we build.
+                    Wellcode Studio began with a simple idea—deliver reliable, high-quality digital solutions without compromise. Starting as a small, skilled team, we grew by focusing on quality, consistency, and client trust. Today, that same mindset drives everything we build.
                 </p>
             </motion.div>
             <div ref={sectionRef} className="h-screen relative">

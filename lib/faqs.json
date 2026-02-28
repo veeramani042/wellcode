@@ -79,8 +79,93 @@
                 "answer": "Yes. Outsourcing saves time, reduces workload, and provides professional-quality results without in-house editing costs."
             },
             {
-                "question": "How can I get started with Well Code Studio?",
+                "question": "How can I get started with Wellcode Studio?",
                 "answer": "Simply contact us or request a quote. Share your images, and our team will take care of the rest."
+            }
+        ]
+    },
+    {
+        "title": "editing-style-service",
+        "faqs": [
+            {
+                "question": "What is professional real estate image editing?",
+                "answer": "Real estate image editing is the specialized process of enhancing property photographs to improve lighting, color accuracy, and clarity. Our goal is to create a polished, high-end look that attracts buyers while maintaining the property's authentic details."
+            },
+            {
+                "question": "What are the different real estate editing styles you offer?",
+                "answer": "We provide a variety of specialized styles, including Magazine Style, Editorial Style, Architectural Style, Cinematic Style, Social Media Optimized, and the highly popular Twilight/Sunset Style to suit different marketing needs."
+            },
+            {
+                "question": "What is Magazine Style real estate editing?",
+                "answer": "Magazine Style focuses on ultra-clean, high-gloss aesthetics often seen in luxury publications. This style emphasizes perfect symmetry, crisp textures, and vibrant yet natural colors to make a property look like a feature story."
+            },
+            {
+                "question": "Why should I choose Architectural Style editing?",
+                "answer": "Architectural Style is ideal for developers and architects. It prioritizes structural integrity, ensuring straight vertical lines (perspective correction) and showcasing the building's design elements and materials with precision."
+            },
+            {
+                "question": "How does Cinematic Style editing help sell a home?",
+                "answer": "Cinematic Style uses dramatic lighting, deeper shadows, and rich color grading to tell a visual story. It creates an emotional connection by making the property feel like a scene from a high-end film."
+            },
+            {
+                "question": "What is Twilight or Sunset Style editing?",
+                "answer": "Also known as \"Day-to-Dusk\" conversion, Twilight Style editing turns a standard daytime photo into a warm, glowing evening shot. This highlights exterior lighting and creates an inviting, premium atmosphere that stands out in search results."
+            },
+            {
+                "question": "Do you provide Social Media Optimized real estate photos?",
+                "answer": "Yes. We crop and format images specifically for platforms like Instagram, TikTok, and Facebook, ensuring high engagement through bright, punchy edits that look great on mobile screens."
+            },
+            {
+                "question": "Can I get Editorial Style editing for my listings?",
+                "answer": "Absolutely. Editorial Style blends lifestyle vibes with professional photography, focusing on the \"mood\" of the home. It’s perfect for high-end brochures and lifestyle-driven real estate marketing."
+            },
+            {
+                "question": "Why is professional image editing important for property listings?",
+                "answer": "In a competitive market, listings with professional edits receive significantly more clicks. High-quality visuals build trust, convey value, and help properties sell faster by making a lasting first impression."
+            },
+            {
+                "question": "Do you use AI for your real estate editing styles?",
+                "answer": "We utilize AI-powered tools for efficiency in tasks like sky replacement or noise reduction, but every image is hand-finished by professional editors to ensure the \"human touch\" and artistic consistency."
+            },
+            {
+                "question": "Can you remove unwanted objects from my property photos?",
+                "answer": "Yes. We can remove distracting elements like cars in driveways, power lines, trash cans, or interior clutter to ensure the viewer stays focused on the property itself."
+            },
+            {
+                "question": "Will my edited images still look realistic?",
+                "answer": "Yes. Whether you choose Cinematic or Magazine style, our editors follow a \"realism-first\" policy. We enhance the beauty of the space without misrepresenting the property's actual condition."
+            },
+            {
+                "question": "Do you offer HDR blending and window pull services?",
+                "answer": "Yes. Most of our styles include HDR (High Dynamic Range) blending and window masking to ensure that both the interior room and the view outside the window are perfectly exposed."
+            },
+            {
+                "question": "Who can benefit from these specialized editing styles?",
+                "answer": "Our services are designed for real estate photographers, luxury agents, property developers, and AirBnb hosts looking to elevate their brand and listing performance."
+            },
+            {
+                "question": "How long does it take to receive my edited photos?",
+                "answer": "While turnaround times vary based on the complexity of the style (like Architectural or Twilight), we typically deliver high-quality proofs within 24 to 48 hours."
+            },
+            {
+                "question": "Can I request a custom editing style for my brand?",
+                "answer": "Yes. We can tailor our editing process to match your specific brand aesthetic—whether you prefer a bright and airy look or a moody, high-contrast feel."
+            },
+            {
+                "question": "Are these images optimized for the MLS?",
+                "answer": "Yes. All our edits are delivered in high-resolution for print and optimized file sizes for MLS, Zillow, and Realtor.com to ensure fast loading and crisp display."
+            },
+            {
+                "question": "Do you handle bulk editing for large developments?",
+                "answer": "Yes. We have the capacity to handle large-scale projects, ensuring that every image across a 50-unit development maintains a consistent style and quality."
+            },
+            {
+                "question": "Why is outsourcing to Wellcode Studio better than doing it myself?",
+                "answer": "Outsourcing saves you hours of post-production time and gives you access to high-end editing techniques (like Twilight conversion) that require specialized software and years of expertise."
+            },
+            {
+                "question": "How do I get started with Wellcode Studio?",
+                "answer": "Contact us or upload your RAW or JPEG files via our portal. Select your preferred style—such as Cinematic or Editorial—and our team will begin the transformation."
             }
         ]
     },
@@ -190,7 +275,7 @@
             },
             {
                 "question": "Will the final image look realistic?",
-                "answer": "Absolutely. At Well Code Studio, our editors manually refine each image to ensure natural lighting, accurate shadows, and a believable dusk environment."
+                "answer": "Absolutely. At Wellcode Studio, our editors manually refine each image to ensure natural lighting, accurate shadows, and a believable dusk environment."
             },
             {
                 "question": "Can AI tools be used for Day to Dusk editing?",
@@ -246,11 +331,11 @@
             },
             {
                 "question": "Can you handle bulk Day to Dusk editing projects?",
-                "answer": "Yes. Well Code Studio is equipped to manage high-volume projects while maintaining consistent quality and fast delivery."
+                "answer": "Yes. Wellcode Studio is equipped to manage high-volume projects while maintaining consistent quality and fast delivery."
             },
             {
                 "question": "How do I get started with Day to Dusk editing?",
-                "answer": "Simply share your daytime images and requirements with Well Code Studio, and our team will take care of the rest."
+                "answer": "Simply share your daytime images and requirements with Wellcode Studio, and our team will take care of the rest."
             }
         ]
     },
@@ -271,7 +356,7 @@
             },
             {
                 "question": "Will the staged furniture look realistic?",
-                "answer": "Yes. At Well Code Studio, furniture is placed manually with correct scale, lighting, and shadows to ensure a natural, photo-realistic result."
+                "answer": "Yes. At Wellcode Studio, furniture is placed manually with correct scale, lighting, and shadows to ensure a natural, photo-realistic result."
             },
             {
                 "question": "Can buyers mistake staged images for real furniture?",
@@ -327,7 +412,7 @@
             },
             {
                 "question": "Do you handle bulk virtual staging projects?",
-                "answer": "Yes. Well Code Studio can efficiently manage high-volume projects while maintaining consistent quality."
+                "answer": "Yes. Wellcode Studio can efficiently manage high-volume projects while maintaining consistent quality."
             },
             {
                 "question": "Can virtual staging be used for rental properties?",
@@ -335,7 +420,7 @@
             },
             {
                 "question": "How do I get started with virtual staging?",
-                "answer": "Simply share your property images and requirements with Well Code Studio, and our team will handle the rest."
+                "answer": "Simply share your property images and requirements with Wellcode Studio, and our team will handle the rest."
             }
         ]
     },
@@ -352,7 +437,7 @@
             },
             {
                 "question": "Do I need professional drone photos before editing?",
-                "answer": "Yes, high-resolution drone images produce the best results. Well Code Studio enhances the quality but does not replace the need for clear original photos."
+                "answer": "Yes, high-resolution drone images produce the best results. Wellcode Studio enhances the quality but does not replace the need for clear original photos."
             },
             {
                 "question": "What edits are included in drone/aerial editing?",
@@ -376,7 +461,7 @@
             },
             {
                 "question": "Will edited images still look realistic?",
-                "answer": "Absolutely. At Well Code Studio, realism is a priority. All edits are done carefully to ensure natural lighting, accurate scale, and clean presentation."
+                "answer": "Absolutely. At Wellcode Studio, realism is a priority. All edits are done carefully to ensure natural lighting, accurate scale, and clean presentation."
             },
             {
                 "question": "Can drone images be used for marketing and listings?",
@@ -419,8 +504,8 @@
                 "answer": "You can share your images via secure upload methods such as cloud links or FTP, as per your convenience."
             },
             {
-                "question": "Why choose Well Code Studio for drone/aerial editing?",
-                "answer": "Well Code Studio combines skilled human editors, advanced tools, attention to detail, and consistent quality to deliver professional aerial visuals that stand out."
+                "question": "Why choose Wellcode Studio for drone/aerial editing?",
+                "answer": "Wellcode Studio combines skilled human editors, advanced tools, attention to detail, and consistent quality to deliver professional aerial visuals that stand out."
             }
         ]
     },
@@ -441,7 +526,7 @@
             },
             {
                 "question": "Do you stitch interior and exterior panoramas?",
-                "answer": "Yes. Well Code Studio stitches both interior and exterior panoramas, including wide-angle and 360° views."
+                "answer": "Yes. Wellcode Studio stitches both interior and exterior panoramas, including wide-angle and 360° views."
             },
             {
                 "question": "What image format should I upload for panorama stitching?",
@@ -504,8 +589,8 @@
                 "answer": "Yes. Every project is tailored based on your specific requirements, usage purpose, and visual goals."
             },
             {
-                "question": "Why choose Well Code Studio for panorama stitching?",
-                "answer": "Well Code Studio combines advanced tools with human expertise to deliver seamless, high-quality panoramas that elevate your visuals and improve viewer engagement."
+                "question": "Why choose Wellcode Studio for panorama stitching?",
+                "answer": "Wellcode Studio combines advanced tools with human expertise to deliver seamless, high-quality panoramas that elevate your visuals and improve viewer engagement."
             }
         ]
     },
@@ -513,8 +598,8 @@
         "title": "video-editing",
         "faqs": [
             {
-                "question": "What types of video editing services does Well Code Studio offer?",
-                "answer": "Well Code Studio provides complete video editing services including trimming, color correction, audio enhancement, transitions, text overlays, drone video editing, social media videos, and corporate video editing."
+                "question": "What types of video editing services does Wellcode Studio offer?",
+                "answer": "Wellcode Studio provides complete video editing services including trimming, color correction, audio enhancement, transitions, text overlays, drone video editing, social media videos, and corporate video editing."
             },
             {
                 "question": "Do I need technical knowledge to use your video editing service?",
@@ -546,7 +631,7 @@
             },
             {
                 "question": "Can you edit drone and GoPro videos?",
-                "answer": "Yes. Well Code Studio specializes in editing drone and action-camera footage, including stabilization, trimming, and cinematic enhancements."
+                "answer": "Yes. Wellcode Studio specializes in editing drone and action-camera footage, including stabilization, trimming, and cinematic enhancements."
             },
             {
                 "question": "Do you offer 4K video editing services?",
@@ -581,7 +666,7 @@
                 "answer": "We deliver videos in formats suitable for websites, social media, marketing platforms, and presentations based on your needs."
             },
             {
-                "question": "Is video editing affordable at Well Code Studio?",
+                "question": "Is video editing affordable at Wellcode Studio?",
                 "answer": "Yes. We offer cost-effective video editing solutions without compromising on creativity or quality."
             },
             {
@@ -589,7 +674,7 @@
                 "answer": "Yes. Our team is equipped to manage both single projects and long-term video editing requirements efficiently."
             },
             {
-                "question": "Why choose Well Code Studio for video editing?",
+                "question": "Why choose Wellcode Studio for video editing?",
                 "answer": "Because we combine technology with human creativity. AI assists our workflow, but skilled editors shape the story—delivering videos that connect, engage, and convert."
             }
         ]
@@ -606,8 +691,8 @@
                 "answer": "3D rendering enhances property marketing by showcasing designs clearly and attractively, helping buyers understand the space and make faster decisions."
             },
             {
-                "question": "What types of 3D rendering services does Well Code Studio offer?",
-                "answer": "Well Code Studio provides exterior 3D rendering, interior 3D rendering, architectural visualization, 3D walkthroughs, and property-focused visualization services."
+                "question": "What types of 3D rendering services does Wellcode Studio offer?",
+                "answer": "Wellcode Studio provides exterior 3D rendering, interior 3D rendering, architectural visualization, 3D walkthroughs, and property-focused visualization services."
             },
             {
                 "question": "Can 3D rendering be used before construction starts?",
@@ -623,7 +708,7 @@
             },
             {
                 "question": "Do you provide interior and exterior 3D rendering?",
-                "answer": "Yes. Well Code Studio delivers both interior and exterior 3D rendering, accurately representing materials, lighting, furniture, and surroundings."
+                "answer": "Yes. Wellcode Studio delivers both interior and exterior 3D rendering, accurately representing materials, lighting, furniture, and surroundings."
             },
             {
                 "question": "What is a 3D walkthrough rendering?",
@@ -659,7 +744,7 @@
             },
             {
                 "question": "Are your 3D rendering services customizable?",
-                "answer": "Absolutely. Every project at Well Code Studio is customized to match your architectural style, branding, and marketing goals."
+                "answer": "Absolutely. Every project at Wellcode Studio is customized to match your architectural style, branding, and marketing goals."
             },
             {
                 "question": "What industries benefit most from 3D rendering?",
@@ -670,11 +755,11 @@
                 "answer": "Yes. Clear visual representation improves communication between clients, architects, designers, and stakeholders."
             },
             {
-                "question": "What makes Well Code Studio different from other 3D rendering providers?",
+                "question": "What makes Wellcode Studio different from other 3D rendering providers?",
                 "answer": "Our focus on human-crafted quality, attention to detail, realistic output, and consistency across real estate projects sets us apart."
             },
             {
-                "question": "How do I get started with Well Code Studio’s 3D rendering services?",
+                "question": "How do I get started with Wellcode Studio’s 3D rendering services?",
                 "answer": "Simply contact us with your project details and reference materials. Our team will guide you through the process from concept to final visuals."
             },
             {
@@ -711,8 +796,8 @@
                 "answer": "Floor plans help buyers understand the layout quickly, spend more time on listings, and make confident decisions, which can lead to higher engagement and faster sales."
             },
             {
-                "question": "Does Well Code Studio provide both 2D and 3D floor plans?",
-                "answer": "Yes, Well Code Studio offers professional 2D floor plans, 3D floor plans, and custom floor plan designs based on your property and marketing needs."
+                "question": "Does Wellcode Studio provide both 2D and 3D floor plans?",
+                "answer": "Yes, Wellcode Studio offers professional 2D floor plans, 3D floor plans, and custom floor plan designs based on your property and marketing needs."
             },
             {
                 "question": "What is the difference between a 2D and 3D floor plan?",
@@ -728,7 +813,7 @@
             },
             {
                 "question": "Do you create floor plans from sketches or reference images?",
-                "answer": "Yes, Well Code Studio can create accurate floor plans from hand-drawn sketches, reference images, or existing property details."
+                "answer": "Yes, Wellcode Studio can create accurate floor plans from hand-drawn sketches, reference images, or existing property details."
             },
             {
                 "question": "Are your floor plans suitable for property marketing?",
@@ -748,7 +833,7 @@
             },
             {
                 "question": "Do you provide site plans along with floor plans?",
-                "answer": "Yes, Well Code Studio also offers site plan services, showing property boundaries, outdoor areas, and surrounding layouts."
+                "answer": "Yes, Wellcode Studio also offers site plan services, showing property boundaries, outdoor areas, and surrounding layouts."
             },
             {
                 "question": "How accurate are your floor plans?",
@@ -768,7 +853,7 @@
             },
             {
                 "question": "Do you use AI for creating floor plans?",
-                "answer": "AI tools may assist in basic processing, but all floor plans at Well Code Studio are refined by skilled professionals to ensure accuracy, quality, and realism that AI alone cannot deliver."
+                "answer": "AI tools may assist in basic processing, but all floor plans at Wellcode Studio are refined by skilled professionals to ensure accuracy, quality, and realism that AI alone cannot deliver."
             },
             {
                 "question": "How fast is the turnaround time for floor plans?",
@@ -779,8 +864,8 @@
                 "answer": "Yes, we handle floor plans for apartments, houses, commercial buildings, and large property layouts."
             },
             {
-                "question": "Why choose Well Code Studio for floor plan services?",
-                "answer": "Well Code Studio combines professional expertise, attention to detail, and real-estate-focused design to deliver high-quality floor plans that improve listings and conversions."
+                "question": "Why choose Wellcode Studio for floor plan services?",
+                "answer": "Wellcode Studio combines professional expertise, attention to detail, and real-estate-focused design to deliver high-quality floor plans that improve listings and conversions."
             }
         ]
     },
@@ -796,7 +881,7 @@
                 "answer": "Real estate agents, property owners, photographers, builders, and marketing agencies use item removal services to improve property presentation and buyer engagement."
             },
             {
-                "question": "How does Well Code Studio remove items from photos?",
+                "question": "How does Wellcode Studio remove items from photos?",
                 "answer": "We use AI-powered object detection combined with professional manual retouching to ensure accurate, natural-looking item removal without damaging image quality."
             },
             {
@@ -805,7 +890,7 @@
             },
             {
                 "question": "Is AI used in your item removal service?",
-                "answer": "Yes. Well Code Studio uses AI-assisted item removal to identify unwanted objects quickly, followed by human refinement for realistic and high-quality results."
+                "answer": "Yes. Wellcode Studio uses AI-assisted item removal to identify unwanted objects quickly, followed by human refinement for realistic and high-quality results."
             },
             {
                 "question": "What types of items can be removed from real estate photos?",
@@ -829,7 +914,7 @@
             },
             {
                 "question": "Do you offer bulk item removal for real estate listings?",
-                "answer": "Yes. Well Code Studio provides bulk pricing and scalable solutions for agencies and photographers with high-volume listings."
+                "answer": "Yes. Wellcode Studio provides bulk pricing and scalable solutions for agencies and photographers with high-volume listings."
             },
             {
                 "question": "What file formats do you deliver after item removal?",
@@ -849,7 +934,7 @@
             },
             {
                 "question": "Are my images safe and confidential?",
-                "answer": "Absolutely. Well Code Studio follows strict data security and confidentiality protocols for all client images."
+                "answer": "Absolutely. Wellcode Studio follows strict data security and confidentiality protocols for all client images."
             },
             {
                 "question": "Can I request revisions after item removal?",
@@ -860,11 +945,11 @@
                 "answer": "Yes. Clean, clutter-free images attract more buyers, increase engagement, and help properties sell faster."
             },
             {
-                "question": "What makes Well Code Studio different from other item removal services?",
+                "question": "What makes Wellcode Studio different from other item removal services?",
                 "answer": "Our combination of AI technology, expert editors, fast turnaround, and real estate-focused precision sets us apart."
             },
             {
-                "question": "How do I get started with item removal at Well Code Studio?",
+                "question": "How do I get started with item removal at Wellcode Studio?",
                 "answer": "Simply upload your images, share your requirements, and our team will handle the rest with speed and precision."
             }
         ]
@@ -881,8 +966,8 @@
                 "answer": "Virtual tours increase engagement, keep buyers on listings longer, and help them pre-qualify interest—often leading to quicker and more confident purchase decisions."
             },
             {
-                "question": "Does Well Code Studio provide virtual tours for real estate only?",
-                "answer": "While real estate is our primary focus, Well Code Studio also creates virtual tours for hospitality, commercial spaces, educational institutions, and event venues."
+                "question": "Does Wellcode Studio provide virtual tours for real estate only?",
+                "answer": "While real estate is our primary focus, Wellcode Studio also creates virtual tours for hospitality, commercial spaces, educational institutions, and event venues."
             },
             {
                 "question": "What type of virtual tours do you offer?",
@@ -894,7 +979,7 @@
             },
             {
                 "question": "Can buyers view the virtual tour on mobile devices?",
-                "answer": "Absolutely. All virtual tours created by Well Code Studio are mobile-friendly and work smoothly on smartphones, tablets, and desktops."
+                "answer": "Absolutely. All virtual tours created by Wellcode Studio are mobile-friendly and work smoothly on smartphones, tablets, and desktops."
             },
             {
                 "question": "Do you use AI in virtual tour editing?",
@@ -914,7 +999,7 @@
             },
             {
                 "question": "Do I need special equipment to get started?",
-                "answer": "You only need to provide the captured 360-degree images or raw files. Well Code Studio handles the complete virtual tour creation and editing process."
+                "answer": "You only need to provide the captured 360-degree images or raw files. Wellcode Studio handles the complete virtual tour creation and editing process."
             },
             {
                 "question": "Are your virtual tours suitable for international buyers?",
@@ -941,7 +1026,7 @@
                 "answer": "Yes. We ensure your brand identity is maintained by integrating logos and consistent visual elements where required."
             },
             {
-                "question": "What makes Well Code Studio different from other virtual tour providers?",
+                "question": "What makes Wellcode Studio different from other virtual tour providers?",
                 "answer": "We combine AI efficiency with human expertise, focus on real estate conversion, maintain strict quality standards, and deliver reliable turnaround times."
             },
             {
@@ -949,7 +1034,7 @@
                 "answer": "Yes. We offer revisions to ensure the virtual tour meets your expectations and marketing goals."
             },
             {
-                "question": "How do I get started with Well Code Studio’s virtual tour services?",
+                "question": "How do I get started with Wellcode Studio’s virtual tour services?",
                 "answer": "Simply share your project details and images with us. Our team will guide you through the process and deliver a high-quality virtual tour ready for marketing."
             }
         ]
@@ -967,7 +1052,7 @@
             },
             {
                 "question": "Can sky replacement make a property look unrealistic?",
-                "answer": "No. At Well Code Studio, skies are carefully matched with lighting, shadows, and reflections to ensure a natural and realistic result."
+                "answer": "No. At Wellcode Studio, skies are carefully matched with lighting, shadows, and reflections to ensure a natural and realistic result."
             },
             {
                 "question": "Do you handle complex areas like trees and power lines?",
@@ -1027,14 +1112,14 @@
             },
             {
                 "question": "Do you handle bulk sky replacement orders?",
-                "answer": "Yes. Well Code Studio efficiently manages high-volume projects while maintaining consistent quality."
+                "answer": "Yes. Wellcode Studio efficiently manages high-volume projects while maintaining consistent quality."
             },
             {
                 "question": "Will the sky replacement affect image resolution?",
                 "answer": "No. We maintain original image resolution and quality to ensure images remain suitable for professional use."
             },
             {
-                "question": "Why choose Well Code Studio for sky replacement services?",
+                "question": "Why choose Wellcode Studio for sky replacement services?",
                 "answer": "Because we combine AI-assisted precision with expert human editing to deliver natural, high-quality sky replacement that enhances property photos without looking artificial."
             }
         ]
@@ -1044,7 +1129,7 @@
         "faqs": [
             {
                 "question": "What is a photo clipping path?",
-                "answer": "A photo clipping path is a precise editing technique used to isolate objects from their background. At Well Code Studio, we use clipping paths to create clean, professional real estate images ready for marketing."
+                "answer": "A photo clipping path is a precise editing technique used to isolate objects from their background. At Wellcode Studio, we use clipping paths to create clean, professional real estate images ready for marketing."
             },
             {
                 "question": "How is photo clipping path useful for real estate images?",
@@ -1056,7 +1141,7 @@
             },
             {
                 "question": "What is the difference between photo clipping path and image masking?",
-                "answer": "Clipping paths are ideal for hard edges like furniture and buildings, while image masking works best for complex edges like glass, plants, or curtains. Well Code Studio uses both where required."
+                "answer": "Clipping paths are ideal for hard edges like furniture and buildings, while image masking works best for complex edges like glass, plants, or curtains. Wellcode Studio uses both where required."
             },
             {
                 "question": "Can you remove backgrounds from real estate photos?",
@@ -1072,7 +1157,7 @@
             },
             {
                 "question": "Do you use AI for photo clipping path services?",
-                "answer": "AI helps speed up basic selections, but human expertise is essential for precision, accuracy, and natural results. At Well Code Studio, final editing is always done by skilled professionals."
+                "answer": "AI helps speed up basic selections, but human expertise is essential for precision, accuracy, and natural results. At Wellcode Studio, final editing is always done by skilled professionals."
             },
             {
                 "question": "Why are human editors better than AI for clipping paths?",
@@ -1080,7 +1165,7 @@
             },
             {
                 "question": "Can you handle bulk real estate image editing?",
-                "answer": "Yes. Well Code Studio efficiently handles high-volume real estate photo clipping path projects while maintaining consistent quality."
+                "answer": "Yes. Wellcode Studio efficiently handles high-volume real estate photo clipping path projects while maintaining consistent quality."
             },
             {
                 "question": "What file formats do you support?",
@@ -1095,7 +1180,7 @@
                 "answer": "Our streamlined workflow ensures fast delivery without compromising quality, making us ideal for real estate professionals working on tight schedules."
             },
             {
-                "question": "Is my data safe with Well Code Studio?",
+                "question": "Is my data safe with Wellcode Studio?",
                 "answer": "Yes. We follow strict data security practices to protect your real estate images and confidential information."
             },
             {
@@ -1119,7 +1204,7 @@
                 "answer": "Real estate agents, photographers, property marketers, developers, and agencies all benefit from our services."
             },
             {
-                "question": "Why choose Well Code Studio for photo clipping path services?",
+                "question": "Why choose Wellcode Studio for photo clipping path services?",
                 "answer": "Because we combine skilled human editors, real estate expertise, attention to detail, fast delivery, and consistent quality—all under one trusted brand."
             }
         ]
@@ -1141,7 +1226,7 @@
             },
             {
                 "question": "Can you declutter both interior and exterior property photos?",
-                "answer": "Yes, Well Code Studio provides image de-cluttering for both interior and exterior real estate photos."
+                "answer": "Yes, Wellcode Studio provides image de-cluttering for both interior and exterior real estate photos."
             },
             {
                 "question": "Is image de-cluttering different from item removal?",
@@ -1189,7 +1274,7 @@
             },
             {
                 "question": "Do you offer bulk image de-cluttering for real estate agencies?",
-                "answer": "Yes. Well Code Studio offers scalable image decluttering solutions for agents, brokers, and property management companies."
+                "answer": "Yes. Wellcode Studio offers scalable image decluttering solutions for agents, brokers, and property management companies."
             },
             {
                 "question": "Will the final images look natural after decluttering?",
@@ -1204,8 +1289,8 @@
                 "answer": "Yes. It can be combined with color correction, sky replacement, perspective correction, and virtual staging."
             },
             {
-                "question": "Why choose Well Code Studio for image de-cluttering services?",
-                "answer": "Well Code Studio delivers high-quality, fast, and affordable image de-cluttering tailored specifically for real estate marketing needs."
+                "question": "Why choose Wellcode Studio for image de-cluttering services?",
+                "answer": "Wellcode Studio delivers high-quality, fast, and affordable image de-cluttering tailored specifically for real estate marketing needs."
             }
         ]
     },
@@ -1222,7 +1307,7 @@
             },
             {
                 "question": "Do you provide 360 image enhancement for real estate only?",
-                "answer": "No. While real estate is a major focus, Well Code Studio also offers 360 image enhancement for architecture, hospitality, commercial spaces, tourism, and interior showcases."
+                "answer": "No. While real estate is a major focus, Wellcode Studio also offers 360 image enhancement for architecture, hospitality, commercial spaces, tourism, and interior showcases."
             },
             {
                 "question": "What services are included in your 360 image enhancement?",
@@ -1269,8 +1354,8 @@
                 "answer": "We deliver high-resolution 360 images in formats compatible with real estate platforms and virtual tour software."
             },
             {
-                "question": "Why choose Well Code Studio for 360 image enhancement?",
-                "answer": "Well Code Studio combines skilled editors, advanced tools, and real estate-focused workflows to deliver high-quality 360 image enhancement with fast turnaround and consistent results."
+                "question": "Why choose Wellcode Studio for 360 image enhancement?",
+                "answer": "Wellcode Studio combines skilled editors, advanced tools, and real estate-focused workflows to deliver high-quality 360 image enhancement with fast turnaround and consistent results."
             }
         ]
     },
@@ -1286,7 +1371,7 @@
                 "answer": "Non-compliant images can get listings rejected or removed. MLS-compliant editing helps your listings stay approved and professional."
             },
             {
-                "question": "How does Well Code Studio ensure MLS compliance?",
+                "question": "How does Wellcode Studio ensure MLS compliance?",
                 "answer": "Our editors strictly follow MLS photo standards while enhancing brightness, color balance, sharpness, and overall image quality."
             },
             {
@@ -1299,7 +1384,7 @@
             },
             {
                 "question": "Can sky replacement be MLS-compliant?",
-                "answer": "Yes, when done naturally and within MLS guidelines. At Well Code Studio, we ensure sky replacement remains realistic and compliant."
+                "answer": "Yes, when done naturally and within MLS guidelines. At Wellcode Studio, we ensure sky replacement remains realistic and compliant."
             },
             {
                 "question": "Do you remove items in MLS-compliant editing?",
@@ -1331,7 +1416,7 @@
             },
             {
                 "question": "Do you offer bulk MLS photo editing services?",
-                "answer": "Yes. Well Code Studio handles both single listings and high-volume MLS photo editing projects."
+                "answer": "Yes. Wellcode Studio handles both single listings and high-volume MLS photo editing projects."
             },
             {
                 "question": "What file formats do you deliver for MLS listings?",
@@ -1354,7 +1439,7 @@
                 "answer": "Yes. We offer revisions to ensure images fully meet MLS standards."
             },
             {
-                "question": "Why choose Well Code Studio for MLS-compliant photo editing?",
+                "question": "Why choose Wellcode Studio for MLS-compliant photo editing?",
                 "answer": "Because we combine compliance knowledge, skilled human editing, fast delivery, and consistent quality for professional MLS listings."
             }
         ]
@@ -1371,7 +1456,7 @@
                 "answer": "Strong branding builds credibility, improves recall, and helps properties look more professional and premium across listings, ads, and social media."
             },
             {
-                "question": "What does Well Code Studio include in real estate branding services?",
+                "question": "What does Wellcode Studio include in real estate branding services?",
                 "answer": "We provide brand identity design, marketing creatives, property brochures, social media graphics, advertisements, presentations, and promotional materials tailored for real estate businesses."
             },
             {
@@ -1380,7 +1465,7 @@
             },
             {
                 "question": "Do you design marketing materials for individual agents and realtors?",
-                "answer": "Yes, Well Code Studio creates customized realtor branding solutions for individual agents, teams, and brokerages."
+                "answer": "Yes, Wellcode Studio creates customized realtor branding solutions for individual agents, teams, and brokerages."
             },
             {
                 "question": "Can you create branding for new real estate companies?",
@@ -1404,7 +1489,7 @@
             },
             {
                 "question": "Do you use AI tools in real estate branding and design?",
-                "answer": "Yes, Well Code Studio leverages AI-assisted design workflows to enhance creativity, improve efficiency, and maintain consistency—while keeping a human design touch."
+                "answer": "Yes, Wellcode Studio leverages AI-assisted design workflows to enhance creativity, improve efficiency, and maintain consistency—while keeping a human design touch."
             },
             {
                 "question": "Is your branding service suitable for luxury real estate projects?",
@@ -1432,15 +1517,15 @@
             },
             {
                 "question": "Do you offer ongoing marketing design support?",
-                "answer": "Yes, Well Code Studio provides ongoing creative support for real estate marketing campaigns."
+                "answer": "Yes, Wellcode Studio provides ongoing creative support for real estate marketing campaigns."
             },
             {
                 "question": "Is real estate branding useful for small agencies?",
                 "answer": "Definitely. Professional branding helps small agencies compete with larger firms and build market credibility."
             },
             {
-                "question": "Why choose Well Code Studio for real estate branding and marketing design?",
-                "answer": "Well Code Studio combines creative expertise, real estate industry understanding, AI-assisted workflows, and strategic design to deliver impactful branding and marketing solutions."
+                "question": "Why choose Wellcode Studio for real estate branding and marketing design?",
+                "answer": "Wellcode Studio combines creative expertise, real estate industry understanding, AI-assisted workflows, and strategic design to deliver impactful branding and marketing solutions."
             }
         ]
     },
@@ -1452,8 +1537,8 @@
                 "answer": "Custom digital product development services involve designing and building software, web, mobile, and SaaS solutions tailored to specific business needs instead of using generic, off-the-shelf products."
             },
             {
-                "question": "What types of businesses does Well Code Studio work with?",
-                "answer": "Well Code Studio works with startups, SMEs, enterprises, and global businesses across multiple industries, helping them build scalable and reliable digital products."
+                "question": "What types of businesses does Wellcode Studio work with?",
+                "answer": "Wellcode Studio works with startups, SMEs, enterprises, and global businesses across multiple industries, helping them build scalable and reliable digital products."
             },
             {
                 "question": "Do you offer end-to-end development services?",
@@ -1469,7 +1554,7 @@
             },
             {
                 "question": "Are your development services suitable for global clients?",
-                "answer": "Yes. Well Code Studio serves clients worldwide, offering flexible communication, scalable solutions, and globally aligned development standards."
+                "answer": "Yes. Wellcode Studio serves clients worldwide, offering flexible communication, scalable solutions, and globally aligned development standards."
             },
             {
                 "question": "Do you provide SaaS application development services?",
@@ -1492,7 +1577,7 @@
                 "answer": "Yes. We offer ongoing maintenance, updates, performance optimization, and technical support after deployment."
             },
             {
-                "question": "What development approach does Well Code Studio follow?",
+                "question": "What development approach does Wellcode Studio follow?",
                 "answer": "We follow agile development methodologies that allow flexibility, faster delivery, and continuous improvements based on feedback."
             },
             {
@@ -1520,12 +1605,12 @@
                 "answer": "Yes. Our solutions are built with scalability in mind, allowing easy expansion as user demand and business needs increase."
             },
             {
-                "question": "How do I start a project with Well Code Studio?",
+                "question": "How do I start a project with Wellcode Studio?",
                 "answer": "You can contact us through our website to discuss your requirements, and our team will guide you through the next steps."
             },
             {
-                "question": "Why should I choose Well Code Studio for digital product development?",
-                "answer": "Well Code Studio combines technical expertise, human-driven quality, scalable solutions, and a transparent development process to deliver dependable digital products."
+                "question": "Why should I choose Wellcode Studio for digital product development?",
+                "answer": "Wellcode Studio combines technical expertise, human-driven quality, scalable solutions, and a transparent development process to deliver dependable digital products."
             }
         ]
     },
@@ -1533,8 +1618,8 @@
         "title": "ios-android-app-development",
         "faqs": [
             {
-                "question": "What iOS and Android app development services does Well Code Studio offer?",
-                "answer": "Well Code Studio offers end-to-end iOS and Android app development services, including planning, design, development, testing, deployment, and ongoing support."
+                "question": "What iOS and Android app development services does Wellcode Studio offer?",
+                "answer": "Wellcode Studio offers end-to-end iOS and Android app development services, including planning, design, development, testing, deployment, and ongoing support."
             },
             {
                 "question": "Do you develop apps for both iPhone and Android devices?",
@@ -1609,8 +1694,8 @@
                 "answer": "Yes, we offer competitive pricing while maintaining high development standards, making our services cost-effective for global clients."
             },
             {
-                "question": "Why choose Well Code Studio for iOS and Android app development?",
-                "answer": "Well Code Studio combines technical expertise, human-driven quality, scalable solutions, and a transparent development process to deliver dependable mobile applications."
+                "question": "Why choose Wellcode Studio for iOS and Android app development?",
+                "answer": "Wellcode Studio combines technical expertise, human-driven quality, scalable solutions, and a transparent development process to deliver dependable mobile applications."
             }
         ]
     },
@@ -1626,12 +1711,12 @@
                 "answer": "Custom software is designed around your business needs, while off-the-shelf software offers generic features that may not fully align with your workflows."
             },
             {
-                "question": "What types of custom software does Well Code Studio develop?",
+                "question": "What types of custom software does Wellcode Studio develop?",
                 "answer": "We develop business software, web applications, enterprise systems, and custom applications designed for scalability and performance."
             },
             {
                 "question": "Do you offer end-to-end custom software development services?",
-                "answer": "Yes, Well Code Studio provides end-to-end services, including planning, design, development, testing, deployment, and ongoing support."
+                "answer": "Yes, Wellcode Studio provides end-to-end services, including planning, design, development, testing, deployment, and ongoing support."
             },
             {
                 "question": "Is custom software suitable for startups and enterprises?",
@@ -1666,7 +1751,7 @@
                 "answer": "Yes, we offer ongoing maintenance, updates, and technical support after software deployment."
             },
             {
-                "question": "What development methodology does Well Code Studio follow?",
+                "question": "What development methodology does Wellcode Studio follow?",
                 "answer": "We follow agile development methodologies to ensure flexibility, transparency, and timely delivery."
             },
             {
@@ -1679,7 +1764,7 @@
             },
             {
                 "question": "Do you work with global clients?",
-                "answer": "Yes, Well Code Studio provides custom software development services to clients worldwide."
+                "answer": "Yes, Wellcode Studio provides custom software development services to clients worldwide."
             },
             {
                 "question": "How do you ensure software quality before launch?",
@@ -1694,8 +1779,8 @@
                 "answer": "Yes, we develop custom software solutions tailored to specific industries and business models."
             },
             {
-                "question": "Why choose Well Code Studio for custom software development?",
-                "answer": "Well Code Studio combines technical expertise, human-driven quality, scalable solutions, and a transparent process to deliver dependable custom software."
+                "question": "Why choose Wellcode Studio for custom software development?",
+                "answer": "Wellcode Studio combines technical expertise, human-driven quality, scalable solutions, and a transparent process to deliver dependable custom software."
             }
         ]
     },
@@ -1703,7 +1788,7 @@
         "title": "e-commerce-cms",
         "faqs": [
             {
-                "question": "What e-commerce development services does Well Code Studio offer?",
+                "question": "What e-commerce development services does Wellcode Studio offer?",
                 "answer": "We provide end-to-end e-commerce development services, including custom online store development, shopping cart integration, payment gateway setup, product management, and performance optimization."
             },
             {
@@ -1779,8 +1864,8 @@
                 "answer": "Yes. We focus on fast loading times, optimized images, caching, and performance improvements for better user experience and SEO."
             },
             {
-                "question": "Why choose Well Code Studio for e-commerce & CMS development?",
-                "answer": "Well Code Studio delivers custom, secure, scalable, and SEO-friendly e-commerce and CMS solutions with a client-focused approach and reliable post-launch support."
+                "question": "Why choose Wellcode Studio for e-commerce & CMS development?",
+                "answer": "Wellcode Studio delivers custom, secure, scalable, and SEO-friendly e-commerce and CMS solutions with a client-focused approach and reliable post-launch support."
             }
         ]
     },
@@ -1788,7 +1873,7 @@
         "title": "web-development",
         "faqs": [
             {
-                "question": "What web development services does Well Code Studio offer?",
+                "question": "What web development services does Wellcode Studio offer?",
                 "answer": "We offer custom website development, web application development, full-stack development, responsive web design, website optimization, and ongoing support services."
             },
             {
@@ -1864,7 +1949,7 @@
                 "answer": "Yes. Our full-stack developers manage complete web development projects end to end."
             },
             {
-                "question": "How can I start a web development project with Well Code Studio?",
+                "question": "How can I start a web development project with Wellcode Studio?",
                 "answer": "Simply contact us with your requirements, and our team will guide you through the next steps."
             }
         ]
@@ -1881,7 +1966,7 @@
                 "answer": "Regular maintenance ensures your website remains secure, fast, up to date, and functional—helping prevent downtime, security risks, and poor user experience."
             },
             {
-                "question": "What does Well Code Studio include in its maintenance services?",
+                "question": "What does Wellcode Studio include in its maintenance services?",
                 "answer": "Our services include software updates, security monitoring, performance optimization, content updates, bug fixes, and technical support."
             },
             {
@@ -1949,7 +2034,7 @@
                 "answer": "Response times depend on your service plan, but we prioritize fast and efficient issue resolution."
             },
             {
-                "question": "How can I get started with Well Code Studio’s maintenance services?",
+                "question": "How can I get started with Wellcode Studio’s maintenance services?",
                 "answer": "Simply contact us with your website details, and our team will guide you through the onboarding process."
             }
         ]
@@ -1966,7 +2051,7 @@
                 "answer": "Cloud migration improves scalability, reduces infrastructure costs, enhances security, and enables flexible access to systems from anywhere."
             },
             {
-                "question": "What types of cloud migration does Well Code Studio offer?",
+                "question": "What types of cloud migration does Wellcode Studio offer?",
                 "answer": "We offer end-to-end cloud migration services, including application migration, data migration, and infrastructure migration."
             },
             {
@@ -2034,7 +2119,7 @@
                 "answer": "We use monitoring tools and proactive management to ensure high availability and optimal performance."
             },
             {
-                "question": "How can I start cloud migration with Well Code Studio?",
+                "question": "How can I start cloud migration with Wellcode Studio?",
                 "answer": "Contact us with your requirements, and our cloud experts will guide you through the process step by step."
             }
         ]
@@ -2051,7 +2136,7 @@
                 "answer": "APIs help automate processes, integrate third-party tools, improve scalability, and enhance overall system performance."
             },
             {
-                "question": "What types of APIs does Well Code Studio develop?",
+                "question": "What types of APIs does Wellcode Studio develop?",
                 "answer": "We develop RESTful APIs, custom APIs, and integration APIs for web and mobile applications."
             },
             {
@@ -2119,7 +2204,7 @@
                 "answer": "Yes. We implement encryption and secure authentication methods."
             },
             {
-                "question": "How can I start an API development project with Well Code Studio?",
+                "question": "How can I start an API development project with Wellcode Studio?",
                 "answer": "Contact us with your requirements, and our API experts will guide you through the process."
             }
         ]
@@ -2129,11 +2214,11 @@
         "faqs": [
             {
                 "question": "What are SaaS application development services?",
-                "answer": "SaaS (Software as a Service) application development involves creating cloud-based software that users can access via the internet without installation. Well Code Studio builds secure, scalable, and high-performance SaaS applications tailored to business needs."
+                "answer": "SaaS (Software as a Service) application development involves creating cloud-based software that users can access via the internet without installation. Wellcode Studio builds secure, scalable, and high-performance SaaS applications tailored to business needs."
             },
             {
-                "question": "Why should I choose Well Code Studio for SaaS development?",
-                "answer": "Well Code Studio offers end-to-end SaaS application development with a focus on scalability, security, performance, and user experience. Our team follows modern cloud architecture and agile development practices."
+                "question": "Why should I choose Wellcode Studio for SaaS development?",
+                "answer": "Wellcode Studio offers end-to-end SaaS application development with a focus on scalability, security, performance, and user experience. Our team follows modern cloud architecture and agile development practices."
             },
             {
                 "question": "Do you provide custom SaaS application development?",
@@ -2141,7 +2226,7 @@
             },
             {
                 "question": "Can you develop SaaS applications for startups?",
-                "answer": "Absolutely. Well Code Studio helps startups build MVPs, validate ideas, and scale SaaS products efficiently with cost-effective and flexible development models."
+                "answer": "Absolutely. Wellcode Studio helps startups build MVPs, validate ideas, and scale SaaS products efficiently with cost-effective and flexible development models."
             },
             {
                 "question": "Do you offer enterprise SaaS application development services?",
@@ -2153,7 +2238,7 @@
             },
             {
                 "question": "Is your SaaS application development secure?",
-                "answer": "Security is a priority at Well Code Studio. We implement secure authentication, data encryption, role-based access control, and compliance-ready architectures."
+                "answer": "Security is a priority at Wellcode Studio. We implement secure authentication, data encryption, role-based access control, and compliance-ready architectures."
             },
             {
                 "question": "Do you provide cloud-based SaaS development?",
@@ -2173,7 +2258,7 @@
             },
             {
                 "question": "Do you offer end-to-end SaaS application development?",
-                "answer": "Yes. Well Code Studio provides end-to-end SaaS development, from planning and UI/UX design to development, testing, deployment, and support."
+                "answer": "Yes. Wellcode Studio provides end-to-end SaaS development, from planning and UI/UX design to development, testing, deployment, and support."
             },
             {
                 "question": "Can you integrate third-party APIs into SaaS applications?",
@@ -2192,20 +2277,20 @@
                 "answer": "Yes. We optimize SaaS applications for performance, user experience, and cloud cost efficiency."
             },
             {
-                "question": "Can Well Code Studio develop secure SaaS applications for global users?",
+                "question": "Can Wellcode Studio develop secure SaaS applications for global users?",
                 "answer": "Yes. We build SaaS platforms designed to support global traffic with high availability and performance."
             },
             {
                 "question": "Do you provide affordable SaaS development services?",
-                "answer": "Yes. Well Code Studio offers affordable SaaS application development services without compromising quality or security."
+                "answer": "Yes. Wellcode Studio offers affordable SaaS application development services without compromising quality or security."
             },
             {
                 "question": "Will I own the source code of my SaaS application?",
-                "answer": "Yes. You get complete ownership of the SaaS application source code developed by Well Code Studio."
+                "answer": "Yes. You get complete ownership of the SaaS application source code developed by Wellcode Studio."
             },
             {
-                "question": "How do I get started with Well Code Studio’s SaaS development services?",
-                "answer": "Simply contact Well Code Studio with your requirements. Our experts will guide you through planning, development, and launch."
+                "question": "How do I get started with Wellcode Studio’s SaaS development services?",
+                "answer": "Simply contact Wellcode Studio with your requirements. Our experts will guide you through planning, development, and launch."
             }
         ]
     },
@@ -2217,8 +2302,8 @@
                 "answer": "Creative services involve designing and producing visual, multimedia, and branding assets that help businesses communicate their message effectively across digital and print platforms."
             },
             {
-                "question": "What creative services does Well Code Studio offer?",
-                "answer": "Well Code Studio provides logo creation, brochure and flyer design, video services, e-commerce creatives, data management support, and related creative solutions."
+                "question": "What creative services does Wellcode Studio offer?",
+                "answer": "Wellcode Studio provides logo creation, brochure and flyer design, video services, e-commerce creatives, data management support, and related creative solutions."
             },
             {
                 "question": "Who can benefit from your creative services?",
@@ -2230,7 +2315,7 @@
             },
             {
                 "question": "Do you work with international clients?",
-                "answer": "Yes, Well Code Studio works with clients worldwide and delivers creative services tailored for global markets."
+                "answer": "Yes, Wellcode Studio works with clients worldwide and delivers creative services tailored for global markets."
             },
             {
                 "question": "Can your creative services support digital marketing campaigns?",
@@ -2289,8 +2374,8 @@
                 "answer": "Yes, our creative services can be integrated with digital marketing, branding, and design solutions."
             },
             {
-                "question": "How can I get started with Well Code Studio’s creative services?",
-                "answer": "You can contact Well Code Studio through our website to discuss your creative requirements and start your project."
+                "question": "How can I get started with Wellcode Studio’s creative services?",
+                "answer": "You can contact Wellcode Studio through our website to discuss your creative requirements and start your project."
             }
         ]
     },
@@ -2306,7 +2391,7 @@
                 "answer": "A professional logo helps build brand recognition, trust, and consistency, making your business more memorable to customers."
             },
             {
-                "question": "What types of logo design services does Well Code Studio offer?",
+                "question": "What types of logo design services does Wellcode Studio offer?",
                 "answer": "We offer custom logo design, brand-focused logo creation, corporate logo design, and modern creative logo solutions."
             },
             {
@@ -2319,7 +2404,7 @@
             },
             {
                 "question": "Do you work with international clients?",
-                "answer": "Yes, Well Code Studio provides logo creation services to clients worldwide."
+                "answer": "Yes, Wellcode Studio provides logo creation services to clients worldwide."
             },
             {
                 "question": "What information do you need to start a logo project?",
@@ -2374,8 +2459,8 @@
                 "answer": "Yes, logo creation is a core part of building a strong and consistent brand identity."
             },
             {
-                "question": "How can I get started with Well Code Studio’s logo creation services?",
-                "answer": "You can contact Well Code Studio through our website to discuss your logo requirements and begin your project."
+                "question": "How can I get started with Wellcode Studio’s logo creation services?",
+                "answer": "You can contact Wellcode Studio through our website to discuss your logo requirements and begin your project."
             }
         ]
     },
@@ -2404,7 +2489,7 @@
             },
             {
                 "question": "Do you work with international clients?",
-                "answer": "Yes, Well Code Studio provides brochure and flyer design services to clients worldwide."
+                "answer": "Yes, Wellcode Studio provides brochure and flyer design services to clients worldwide."
             },
             {
                 "question": "What information do you need to start a brochure or flyer project?",
@@ -2459,8 +2544,8 @@
                 "answer": "Each project goes through planning, design execution, review, and quality checks before final delivery."
             },
             {
-                "question": "How can I get started with Well Code Studio’s brochure and flyer design services?",
-                "answer": "You can contact Well Code Studio through our website to discuss your requirements and begin your project."
+                "question": "How can I get started with Wellcode Studio’s brochure and flyer design services?",
+                "answer": "You can contact Wellcode Studio through our website to discuss your requirements and begin your project."
             }
         ]
     },
@@ -2476,8 +2561,8 @@
                 "answer": "Effective data management helps businesses reduce errors, improve productivity, ensure data security, and make informed, data-driven decisions."
             },
             {
-                "question": "What industries does Well Code Studio serve for data management?",
-                "answer": "Well Code Studio provides data management services to businesses across various industries, including e-commerce, finance, healthcare, marketing, real estate, and technology."
+                "question": "What industries does Wellcode Studio serve for data management?",
+                "answer": "Wellcode Studio provides data management services to businesses across various industries, including e-commerce, finance, healthcare, marketing, real estate, and technology."
             },
             {
                 "question": "Do you offer custom data management solutions?",
@@ -2488,7 +2573,7 @@
                 "answer": "Our experienced professionals perform multiple quality checks and validations to ensure data accuracy and reliability before delivery."
             },
             {
-                "question": "Is my business data secure with Well Code Studio?",
+                "question": "Is my business data secure with Wellcode Studio?",
                 "answer": "Yes, data security is a top priority. We follow strict security protocols and industry best practices to protect confidential business information."
             },
             {
@@ -2537,15 +2622,15 @@
             },
             {
                 "question": "Do you provide global data management services?",
-                "answer": "Yes, Well Code Studio serves clients worldwide and supports businesses across different regions."
+                "answer": "Yes, Wellcode Studio serves clients worldwide and supports businesses across different regions."
             },
             {
-                "question": "How do I get started with Well Code Studio’s data management services?",
+                "question": "How do I get started with Wellcode Studio’s data management services?",
                 "answer": "You can contact us with your requirements, and our team will assess your needs and propose the best solution."
             },
             {
-                "question": "Why choose Well Code Studio for data management services?",
-                "answer": "Well Code Studio combines expert human knowledge, secure processes, scalable solutions, and cost-effective pricing to deliver reliable data management services."
+                "question": "Why choose Wellcode Studio for data management services?",
+                "answer": "Wellcode Studio combines expert human knowledge, secure processes, scalable solutions, and cost-effective pricing to deliver reliable data management services."
             }
         ]
     },
@@ -2553,8 +2638,8 @@
         "title": "video-services",
         "faqs": [
             {
-                "question": "What video services does Well Code Studio offer?",
-                "answer": "Well Code Studio offers professional video services including video editing, end-to-end video production, corporate videos, promotional videos, and 360-degree videos."
+                "question": "What video services does Wellcode Studio offer?",
+                "answer": "Wellcode Studio offers professional video services including video editing, end-to-end video production, corporate videos, promotional videos, and 360-degree videos."
             },
             {
                 "question": "Do you provide video services for businesses worldwide?",
@@ -2625,12 +2710,12 @@
                 "answer": "Yes, we provide revisions to ensure the final video meets your expectations and brand requirements."
             },
             {
-                "question": "How do I get started with Well Code Studio’s video services?",
+                "question": "How do I get started with Wellcode Studio’s video services?",
                 "answer": "Simply contact us with your project details, and our team will guide you through the process."
             },
             {
-                "question": "Why choose Well Code Studio for video services?",
-                "answer": "Well Code Studio combines creative expertise, technical proficiency, human-led storytelling, and cost-effective solutions to deliver impactful video content."
+                "question": "Why choose Wellcode Studio for video services?",
+                "answer": "Wellcode Studio combines creative expertise, technical proficiency, human-led storytelling, and cost-effective solutions to deliver impactful video content."
             }
         ]
     },
@@ -2638,8 +2723,8 @@
         "title": "e-commerce",
         "faqs": [
             {
-                "question": "What e-commerce services does Well Code Studio offer?",
-                "answer": "Well Code Studio offers ecommerce creative services, product creative design, product data management, and ecommerce operational support for online businesses."
+                "question": "What e-commerce services does Wellcode Studio offer?",
+                "answer": "Wellcode Studio offers ecommerce creative services, product creative design, product data management, and ecommerce operational support for online businesses."
             },
             {
                 "question": "Do you provide ecommerce services for global clients?",
@@ -2710,12 +2795,12 @@
                 "answer": "Yes, data security and confidentiality are strictly maintained throughout all projects."
             },
             {
-                "question": "How do I get started with Well Code Studio’s ecommerce services?",
+                "question": "How do I get started with Wellcode Studio’s ecommerce services?",
                 "answer": "You can contact us with your requirements, and our team will guide you through the process."
             },
             {
-                "question": "Why choose Well Code Studio for ecommerce services?",
-                "answer": "Well Code Studio combines creative expertise, human-led design, scalable solutions, and cost-effective pricing to deliver impactful ecommerce results."
+                "question": "Why choose Wellcode Studio for ecommerce services?",
+                "answer": "Wellcode Studio combines creative expertise, human-led design, scalable solutions, and cost-effective pricing to deliver impactful ecommerce results."
             }
         ]
     },
@@ -2731,7 +2816,7 @@
                 "answer": "UI design focuses on the visual interface, while UX design focuses on user flow, interaction, and overall experience."
             },
             {
-                "question": "What platforms does Well Code Studio design UI/UX for?",
+                "question": "What platforms does Wellcode Studio design UI/UX for?",
                 "answer": "We design UI/UX for websites, mobile apps, web applications, and digital products across platforms."
             },
             {
@@ -2796,11 +2881,11 @@
             },
             {
                 "question": "Do you provide global UI/UX design services?",
-                "answer": "Yes, Well Code Studio serves clients worldwide across different industries."
+                "answer": "Yes, Wellcode Studio serves clients worldwide across different industries."
             },
             {
-                "question": "Why choose Well Code Studio for UI/UX design services?",
-                "answer": "Well Code Studio combines user-centered design, human creativity, scalable solutions, and cost-effective pricing to deliver impactful UI/UX experiences."
+                "question": "Why choose Wellcode Studio for UI/UX design services?",
+                "answer": "Wellcode Studio combines user-centered design, human creativity, scalable solutions, and cost-effective pricing to deliver impactful UI/UX experiences."
             }
         ]
     },
@@ -2816,7 +2901,7 @@
                 "answer": "A strong brand identity builds trust, improves brand recognition, and helps businesses stand out in competitive markets while creating a lasting impression on customers."
             },
             {
-                "question": "What does Well Code Studio include in brand identity design?",
+                "question": "What does Wellcode Studio include in brand identity design?",
                 "answer": "Our services include logo design, visual identity systems, brand guidelines, typography selection, color strategy, and creative branding assets tailored to your business goals."
             },
             {
@@ -2825,7 +2910,7 @@
             },
             {
                 "question": "Do you offer custom brand identity design solutions?",
-                "answer": "Absolutely. Well Code Studio provides fully customized brand identity design solutions based on your industry, audience, and brand vision."
+                "answer": "Absolutely. Wellcode Studio provides fully customized brand identity design solutions based on your industry, audience, and brand vision."
             },
             {
                 "question": "How long does it take to complete a brand identity project?",
@@ -2845,7 +2930,7 @@
             },
             {
                 "question": "Do you serve international clients?",
-                "answer": "Yes, Well Code Studio works with clients globally, delivering brand identity design services tailored for diverse markets."
+                "answer": "Yes, Wellcode Studio works with clients globally, delivering brand identity design services tailored for diverse markets."
             },
             {
                 "question": "What industries do you specialize in for branding?",
@@ -2865,7 +2950,7 @@
             },
             {
                 "question": "Will my brand identity be unique?",
-                "answer": "Yes, every brand identity designed by Well Code Studio is original, custom-crafted, and aligned with your brand’s core values."
+                "answer": "Yes, every brand identity designed by Wellcode Studio is original, custom-crafted, and aligned with your brand’s core values."
             },
             {
                 "question": "Can you design branding for digital and print use?",
@@ -2884,8 +2969,8 @@
                 "answer": "If your brand lacks consistency, recognition, or professionalism, investing in brand identity design can significantly improve perception and trust."
             },
             {
-                "question": "Why choose Well Code Studio for brand identity design?",
-                "answer": "Well Code Studio combines creative expertise, strategic thinking, human-led design, and global experience to deliver impactful and memorable brand identities."
+                "question": "Why choose Wellcode Studio for brand identity design?",
+                "answer": "Wellcode Studio combines creative expertise, strategic thinking, human-led design, and global experience to deliver impactful and memorable brand identities."
             }
         ]
     },
@@ -2905,8 +2990,8 @@
                 "answer": "UI redesign focuses on the interface and user experience, while a full website redesign may include content, structure, backend, and functionality changes."
             },
             {
-                "question": "Does Well Code Studio offer UI and UX redesign together?",
-                "answer": "Yes, Well Code Studio provides complete UI/UX redesign services to ensure your website is both visually appealing and easy to use."
+                "question": "Does Wellcode Studio offer UI and UX redesign together?",
+                "answer": "Yes, Wellcode Studio provides complete UI/UX redesign services to ensure your website is both visually appealing and easy to use."
             },
             {
                 "question": "Will a UI redesign improve my website conversions?",
@@ -2950,7 +3035,7 @@
             },
             {
                 "question": "Do you provide ongoing support after redesign completion?",
-                "answer": "Yes, Well Code Studio offers post-redesign support and guidance to ensure smooth implementation."
+                "answer": "Yes, Wellcode Studio offers post-redesign support and guidance to ensure smooth implementation."
             },
             {
                 "question": "Will my website downtime occur during the redesign?",
@@ -2966,11 +3051,11 @@
             },
             {
                 "question": "Do you redesign websites for global clients?",
-                "answer": "Yes, Well Code Studio serves clients worldwide with user-centric and globally accessible UI redesign services."
+                "answer": "Yes, Wellcode Studio serves clients worldwide with user-centric and globally accessible UI redesign services."
             },
             {
                 "question": "How do I get started with website UI redesign services?",
-                "answer": "You can contact Well Code Studio with your requirements, and our team will guide you through the redesign process."
+                "answer": "You can contact Wellcode Studio with your requirements, and our team will guide you through the redesign process."
             }
         ]
     },
@@ -2978,8 +3063,8 @@
         "title": "digital-marketing",
         "faqs": [
             {
-                "question": "What digital marketing services does Well Code Studio offer?",
-                "answer": "Well Code Studio provides marketing collateral design, marketing visual content creation, and social media creative design services as part of its digital marketing solutions."
+                "question": "What digital marketing services does Wellcode Studio offer?",
+                "answer": "Wellcode Studio provides marketing collateral design, marketing visual content creation, and social media creative design services as part of its digital marketing solutions."
             },
             {
                 "question": "Do you offer digital marketing services for international clients?",
@@ -3023,7 +3108,7 @@
             },
             {
                 "question": "Can you maintain brand consistency across all marketing creatives?",
-                "answer": "Yes, maintaining consistent branding across all digital marketing assets is a key focus at Well Code Studio."
+                "answer": "Yes, maintaining consistent branding across all digital marketing assets is a key focus at Wellcode Studio."
             },
             {
                 "question": "How long does it take to deliver digital marketing creatives?",
@@ -3054,8 +3139,8 @@
                 "answer": "Yes, we strictly follow your brand guidelines to ensure visual consistency and professionalism."
             },
             {
-                "question": "How can I get started with Well Code Studio’s digital marketing services?",
-                "answer": "You can contact Well Code Studio through our website to discuss your requirements and begin your digital marketing journey."
+                "question": "How can I get started with Wellcode Studio’s digital marketing services?",
+                "answer": "You can contact Wellcode Studio through our website to discuss your requirements and begin your digital marketing journey."
             }
         ]
     },
@@ -3072,7 +3157,7 @@
             },
             {
                 "question": "Do you edit images manually or using AI tools?",
-                "answer": "At Well Code Studio, image editing is primarily done manually by experienced editors. AI tools may assist in basic processes, but human expertise ensures accuracy, creativity, and high-quality results."
+                "answer": "At Wellcode Studio, image editing is primarily done manually by experienced editors. AI tools may assist in basic processes, but human expertise ensures accuracy, creativity, and high-quality results."
             },
             {
                 "question": "Why is human image editing better than AI editing?",
@@ -3088,7 +3173,7 @@
             },
             {
                 "question": "Do you work with international clients?",
-                "answer": "Yes, Well Code Studio works with clients worldwide, providing image editing services across various industries and time zones."
+                "answer": "Yes, Wellcode Studio works with clients worldwide, providing image editing services across various industries and time zones."
             },
             {
                 "question": "What file formats do you accept for image editing?",
@@ -3140,7 +3225,7 @@
             },
             {
                 "question": "How can I get started with your image editing services?",
-                "answer": "You can contact Well Code Studio through our website to share your project details and receive a customized image editing solution."
+                "answer": "You can contact Wellcode Studio through our website to share your project details and receive a customized image editing solution."
             }
         ]
     },
@@ -3157,7 +3242,7 @@
             },
             {
                 "question": "Do you offer product image editing services for global clients?",
-                "answer": "Yes, Well Code Studio provides product image editing services to e-commerce brands and businesses worldwide."
+                "answer": "Yes, Wellcode Studio provides product image editing services to e-commerce brands and businesses worldwide."
             },
             {
                 "question": "What types of product image editing services do you provide?",
@@ -3225,7 +3310,7 @@
             },
             {
                 "question": "How can I get started with your product image editing services?",
-                "answer": "You can contact Well Code Studio through our website to share your project details and receive a customized product image editing solution."
+                "answer": "You can contact Wellcode Studio through our website to share your project details and receive a customized product image editing solution."
             }
         ]
     },
@@ -3310,7 +3395,7 @@
             },
             {
                 "question": "How do I get started with your portrait retouching services?",
-                "answer": "Simply contact Well Code Studio, share your images, and our team will guide you through the process to deliver high-quality retouched portraits."
+                "answer": "Simply contact Wellcode Studio, share your images, and our team will guide you through the process to deliver high-quality retouched portraits."
             }
         ]
     },
@@ -3386,7 +3471,7 @@
                 "answer": "Yes, all our fashion image editing services are tailored to your specific requirements, brand identity, and target audience."
             },
             {
-                "question": "Are my fashion images secure with Well Code Studio?",
+                "question": "Are my fashion images secure with Wellcode Studio?",
                 "answer": "Yes, we follow strict data security and confidentiality practices to protect all client images and project details."
             },
             {
@@ -3394,7 +3479,7 @@
                 "answer": "We deliver fashion images in formats such as JPEG, PNG, or TIFF, based on your platform or print requirements."
             },
             {
-                "question": "How can I get started with Well Code Studio’s fashion image editing services?",
+                "question": "How can I get started with Wellcode Studio’s fashion image editing services?",
                 "answer": "Simply contact us with your project details and sample images. Our team will review your requirements and provide a customized solution."
             }
         ]
@@ -3471,7 +3556,7 @@
                 "answer": "Yes, our services are fully customizable based on your specific requirements and marketing goals."
             },
             {
-                "question": "Are my vehicle images secure with Well Code Studio?",
+                "question": "Are my vehicle images secure with Wellcode Studio?",
                 "answer": "Yes, we follow strict data security and confidentiality practices to protect all client images."
             },
             {
@@ -3479,7 +3564,7 @@
                 "answer": "We deliver edited automobile images in formats such as JPEG, PNG, or TIFF, depending on your usage needs."
             },
             {
-                "question": "How can I get started with Well Code Studio’s automobile image editing services?",
+                "question": "How can I get started with Wellcode Studio’s automobile image editing services?",
                 "answer": "Simply contact us with your project details and sample images, and our team will guide you through the process."
             }
         ]
@@ -3544,7 +3629,7 @@
                 "answer": "Yes, every project is tailored to match your creative vision, brand style, and objectives."
             },
             {
-                "question": "Are my images secure with Well Code Studio?",
+                "question": "Are my images secure with Wellcode Studio?",
                 "answer": "Yes, we follow strict confidentiality and data security practices to protect all client images."
             },
             {
@@ -3564,7 +3649,7 @@
                 "answer": "Yes, we are equipped to manage both small and large-scale photo manipulation projects."
             },
             {
-                "question": "How can I get started with Well Code Studio’s photo manipulation services?",
+                "question": "How can I get started with Wellcode Studio’s photo manipulation services?",
                 "answer": "Simply contact us with your project details and sample images, and our team will guide you through the process."
             }
         ]
@@ -3744,7 +3829,7 @@
         "faqs": [
             {
                 "question": "What is Mobile photo editing?",
-                "answer": "Mobile photo editing is the process of enhancing photos captured on mobiles using professional editing techniques. At Well Code Studio, we refine mobile images through color correction, exposure balancing, retouching, background cleanup, RAW (.DNG) optimization, and overall image enhancement to deliver high-quality, professional results."
+                "answer": "Mobile photo editing is the process of enhancing photos captured on mobiles using professional editing techniques. At Wellcode Studio, we refine mobile images through color correction, exposure balancing, retouching, background cleanup, RAW (.DNG) optimization, and overall image enhancement to deliver high-quality, professional results."
             },
             {
                 "question": "Can mobile photos be edited professionally like DSLR images?",
@@ -3752,7 +3837,7 @@
             },
             {
                 "question": "Do you edit RAW Mobile photos (.DNG)?",
-                "answer": "Absolutely. Well Code Studio specializes in editing Mobile RAW (.DNG) images. RAW editing allows us to recover highlights, enhance shadows, improve color accuracy, and achieve a more natural and professional finish without quality loss."
+                "answer": "Absolutely. Wellcode Studio specializes in editing Mobile RAW (.DNG) images. RAW editing allows us to recover highlights, enhance shadows, improve color accuracy, and achieve a more natural and professional finish without quality loss."
             },
             {
                 "question": "What types of Mobile photo editing services do you offer?",
@@ -3768,7 +3853,7 @@
             },
             {
                 "question": "Do you offer affordable Mobile photo editing services?",
-                "answer": "Yes. Well Code Studio provides affordable Mobile photo editing services without compromising on quality. Our pricing is flexible and suitable for individuals, creators, and businesses of all sizes."
+                "answer": "Yes. Wellcode Studio provides affordable Mobile photo editing services without compromising on quality. Our pricing is flexible and suitable for individuals, creators, and businesses of all sizes."
             },
             {
                 "question": "How long does it take to edit Mobile photos?",
@@ -3787,7 +3872,7 @@
                 "answer": "Absolutely. Every photo is unique, and we customize our editing approach based on your preferences and requirements. You can request subtle corrections or advanced enhancements based on your vision."
             },
             {
-                "question": "Is my data safe with Well Code Studio?",
+                "question": "Is my data safe with Wellcode Studio?",
                 "answer": "Yes. We maintain strict data privacy and confidentiality standards. Your photos are handled securely and are never shared with third parties."
             },
             {
@@ -3795,12 +3880,12 @@
                 "answer": "We deliver edited images in formats such as JPG, PNG, TIFF, or PSD based on your requirements. We also convert HEIC files into compatible formats upon request."
             },
             {
-                "question": "Why choose Well Code Studio for Mobile photo editing?",
-                "answer": "Well Code Studio stands out due to: Skilled professional editors, High-quality human-edited results, Fast turnaround times, Affordable pricing, 24/7 client support, Customized editing solutions."
+                "question": "Why choose Wellcode Studio for Mobile photo editing?",
+                "answer": "Wellcode Studio stands out due to: Skilled professional editors, High-quality human-edited results, Fast turnaround times, Affordable pricing, 24/7 client support, Customized editing solutions."
             },
             {
                 "question": "How do I get started with Mobile photo editing services?",
-                "answer": "Getting started is easy. Upload your Mobile photos, share your editing requirements, and our experts will take care of the rest. Contact Well Code Studio today to transform your Mobile photos into stunning visuals."
+                "answer": "Getting started is easy. Upload your Mobile photos, share your editing requirements, and our experts will take care of the rest. Contact Wellcode Studio today to transform your Mobile photos into stunning visuals."
             }
         ]
     },
@@ -3816,8 +3901,8 @@
                 "answer": "Manual retouching is done by experienced professionals who understand light, texture, and aesthetics, while AI editing follows presets. Manual retouching delivers precise, natural results that AI cannot replicate."
             },
             {
-                "question": "Does Well Code Studio use AI for photo retouching?",
-                "answer": "No. Well Code Studio provides 100% non-AI manual photo retouching, ensuring complete creative control, accuracy, and high-end results handled by skilled human editors."
+                "question": "Does Wellcode Studio use AI for photo retouching?",
+                "answer": "No. Wellcode Studio provides 100% non-AI manual photo retouching, ensuring complete creative control, accuracy, and high-end results handled by skilled human editors."
             },
             {
                 "question": "Who needs high-end photo retouching services?",
@@ -3844,7 +3929,7 @@
                 "answer": "Yes. We provide professional manual photo retouching for advertising, banners, campaigns, print media, and digital marketing visuals."
             },
             {
-                "question": "Can photographers outsource manual photo retouching to Well Code Studio?",
+                "question": "Can photographers outsource manual photo retouching to Wellcode Studio?",
                 "answer": "Yes. Many professional photographers outsource manual retouching to us to save time while maintaining premium quality and consistent style."
             },
             {
@@ -3861,7 +3946,7 @@
             },
             {
                 "question": "Will my images remain confidential?",
-                "answer": "Absolutely. Well Code Studio follows strict data privacy policies to ensure complete confidentiality and secure handling of all images."
+                "answer": "Absolutely. Wellcode Studio follows strict data privacy policies to ensure complete confidentiality and secure handling of all images."
             },
             {
                 "question": "What file formats do you deliver after retouching?",
@@ -3880,12 +3965,12 @@
                 "answer": "Yes. We specialize in fashion, beauty, and editorial photo retouching with detailed skin work and professional color grading."
             },
             {
-                "question": "Why should I choose Well Code Studio for manual photo retouching?",
-                "answer": "Well Code Studio offers expert human re-touchers, non-AI editing, premium quality, fast turnaround, and customized solutions for professional needs."
+                "question": "Why should I choose Wellcode Studio for manual photo retouching?",
+                "answer": "Wellcode Studio offers expert human re-touchers, non-AI editing, premium quality, fast turnaround, and customized solutions for professional needs."
             },
             {
                 "question": "How do I get started with high-end manual photo retouching services?",
-                "answer": "Simply contact Well Code Studio, share your images and requirements, and our team will guide you through the process from start to finish."
+                "answer": "Simply contact Wellcode Studio, share your images and requirements, and our team will guide you through the process from start to finish."
             }
         ]
     },
@@ -3906,7 +3991,7 @@
             },
             {
                 "question": "Can you handle high-volume product image editing projects?",
-                "answer": "Yes, Well Code Studio specializes in high-volume product image editing. Our streamlined workflows, experienced editors, and scalable infrastructure allow us to handle thousands of images efficiently without compromising quality or consistency."
+                "answer": "Yes, Wellcode Studio specializes in high-volume product image editing. Our streamlined workflows, experienced editors, and scalable infrastructure allow us to handle thousands of images efficiently without compromising quality or consistency."
             },
             {
                 "question": "Do you maintain consistency across all product images?",
@@ -3934,7 +4019,7 @@
             },
             {
                 "question": "What is the turnaround time for bulk ecommerce image editing?",
-                "answer": "Turnaround time depends on the number of images and complexity of edits. However, Well Code Studio is known for fast and reliable delivery, even for large-volume projects, thanks to our dedicated bulk-editing workflows."
+                "answer": "Turnaround time depends on the number of images and complexity of edits. However, Wellcode Studio is known for fast and reliable delivery, even for large-volume projects, thanks to our dedicated bulk-editing workflows."
             },
             {
                 "question": "Do you offer affordable pricing for bulk image editing?",
@@ -3942,7 +4027,7 @@
             },
             {
                 "question": "Is manual editing used or AI-based automation?",
-                "answer": "At Well Code Studio, we focus on professional manual image editing rather than fully automated AI edits. Manual editing ensures better accuracy, natural results, and higher quality—especially important for ecommerce product images."
+                "answer": "At Wellcode Studio, we focus on professional manual image editing rather than fully automated AI edits. Manual editing ensures better accuracy, natural results, and higher quality—especially important for ecommerce product images."
             },
             {
                 "question": "Can you edit images for different product categories?",
@@ -3979,7 +4064,7 @@
             },
             {
                 "question": "Do you manually audit images or use automated tools?",
-                "answer": "At Well Code Studio, we combine professional analysis with advanced tools. Final decisions and optimizations are done manually to ensure accuracy and quality."
+                "answer": "At Wellcode Studio, we combine professional analysis with advanced tools. Final decisions and optimizations are done manually to ensure accuracy and quality."
             },
             {
                 "question": "Is image optimization suitable for e-Commerce websites?",
@@ -4034,8 +4119,8 @@
                 "answer": "Yes. Automated tools help, but human expertise ensures better judgment in balancing quality, clarity, and performance—something AI alone cannot guarantee."
             },
             {
-                "question": "Why choose Well Code Studio for image quality audit & optimization?",
-                "answer": "Well Code Studio offers human-led, detail-oriented image optimization focused on quality, performance, and SEO—ensuring reliable, professional results for global clients."
+                "question": "Why choose Wellcode Studio for image quality audit & optimization?",
+                "answer": "Wellcode Studio offers human-led, detail-oriented image optimization focused on quality, performance, and SEO—ensuring reliable, professional results for global clients."
             }
         ]
     }

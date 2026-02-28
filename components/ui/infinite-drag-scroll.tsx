@@ -173,9 +173,9 @@ export const GridBody = memo(
         const gridBodyStyles = cva("grid grid-cols-[repeat(6,1fr)] h-fit w-fit", {
             variants: {
                 variant: {
-                    default: "gap-14 p-7 md:gap-28 md:p-14",
-                    masonry: "gap-x-14 px-7 md:gap-x-28 md:px-14",
-                    polaroid: "gap-x-14 px-7 md:gap-x-28 md:px-14",
+                    default: "gap-10 p-7 md:gap-16 md:p-10",
+                    masonry: "gap-x-10 px-7 md:gap-x-16 md:px-10",
+                    polaroid: "gap-x-10 px-7 md:gap-x-16 md:px-10",
                 },
             },
             defaultVariants: {

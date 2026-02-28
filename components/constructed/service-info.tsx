@@ -25,6 +25,15 @@ export function ServiceFeatures({ usecase }: { usecase: UseCaseSection }) {
     return (
         <div className="relative pt-20 md:pt-40 text-white">
             {/* Section Header */}
+
+            {/* <div className="absolute inset-0 -z-10 pointer-events-none">
+                <img
+                    src="/assets/images/service-images/gradients/gradient.png"
+                    alt="Gradient"
+                    className="w-full h-full object-cover"
+                />
+            </div> */}
+
             <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/5 via-transparent to-[#a855f7]/5 blur-3xl" />
             <div className="absolute -inset-12 -z-10 pointer-events-none bg-linear-to-br from-[#3b82f6]/10 via-transparent to-[#a855f7]/10 blur-3xl" />
             <div className="text-center">
@@ -288,8 +297,7 @@ export default function ServiceInfo({ service }: Props) {
                                             animate={{ opacity: 1, y: 0 }}
                                             transition={{ delay: i * 0.1 }}
                                             loading="lazy"
-                                            className="min-h-[80px] md:min-h-[130px] object-cover rounded-md border-2 border-gray-300 hover:border-blue-500 cursor-pointer"
-                                        />
+                                            className="min-h-[80px] md:min-h-[130px] max-h-[130px] object-cover w-100 rounded-md border-2 border-gray-300 hover:border-blue-500 cursor-pointer" />
                                     </SwiperSlide>
                                 ))}
                             </Swiper>
@@ -335,7 +343,7 @@ export default function ServiceInfo({ service }: Props) {
                 </div>
             }
 
-            {
+            {/* {
                 service.base_service !== "Real Estate Image Editing" &&
                 <div className="max-w-7xl mx-auto items-center px-4">
                     <motion.div
@@ -371,7 +379,7 @@ export default function ServiceInfo({ service }: Props) {
                         </p>
                     </motion.div>
                 </div>
-            }
+            } */}
 
             {
                 service.our_works &&
@@ -800,8 +808,8 @@ export default function ServiceInfo({ service }: Props) {
                                     service.media.images.length > 0) ?
                                     <>
                                         <Image
-                                            src={service.media.images.length > 1 ? service.media.images[5].filepath : service.media.images[0].filepath}
-                                            alt={service.media.images.length > 1 ? service.media.images[5].title : service.media.images[0].title}
+                                            src={service.media.images.length > 1 ? service.media.images[0].filepath : service.media.images[0].filepath}
+                                            alt={service.media.images.length > 1 ? service.media.images[0].title : service.media.images[0].title}
                                             width={600}
                                             height={400}
                                             className="object-cover h-full w-full rounded-xl min-h-[375px] max-h-[400px]"
@@ -1058,8 +1066,8 @@ export default function ServiceInfo({ service }: Props) {
                                                 service.media.images.length > 0 ?
                                                     <>
                                                         <Image
-                                                            src={service.media.images[0].filepath}
-                                                            alt={service.media.images[0].alt}
+                                                            src={service.media.images[1].filepath}
+                                                            alt={service.media.images[1].alt}
                                                             width={600}
                                                             height={400}
                                                             className="object-cover h-full w-full rounded-b-xl"

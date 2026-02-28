@@ -1,0 +1,301 @@
+[
+    {
+        "base_service": "Creative Services",
+        "service_title": "Digital marketing",
+        "meta_titles": [
+            "Digital Marketing Services | Creative & Visual | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Boost your brand’s online presence with Wellcode Studio’s digital marketing services. We offer marketing collateral design, visual content creation, and social media creative design to help businesses grow globally."
+        ],
+        "slug": "digital-marketing",
+        "service_slider": {
+            "title": "Result-Driven Digital Marketing Services",
+            "description": [
+                "At WellCode Studio, we help businesses grow online visibility, attract the right audience, and generate measurable results. Our digital marketing strategies combine data-driven insights with creative execution for consistent growth. Increase traffic, boost engagement, and convert leads with performance-focused marketing solutions."
+            ]
+        },
+        "header": {
+            "title": "Digital Marketing Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we provide result-driven Digital Marketing Services designed to help businesses grow their online presence, attract the right audience, and convert traffic into measurable results. In today’s competitive digital landscape, simply being online is not enough — brands need consistent visibility, engaging content, and strategic execution.",
+                "Our digital marketing solutions combine creative expertise, data-driven strategies, and human-led execution to deliver sustainable growth for businesses across the globe."
+            ]
+        },
+        "general_info": {
+            "title": "Why Digital Marketing Services Are Essential for Growth",
+            "descriptions": [
+                "Digital marketing services helps combining strategy, content, and analytics, providing professional marketing solutions which increase engagement, conversions, and long-term business growth."
+            ],
+            "sub_section": {
+                "title": "How Digital Marketing Services Benefit Your Business",
+                "descriptions": [],
+                "list": [
+                    "Boosts brand visibility across digital channels",
+                    "Engages target audiences with strategic campaigns",
+                    "Drives traffic, leads, and conversions effectively",
+                    "Supports measurable results and ROI tracking",
+                    "Strengthens long-term business growth and online presence"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Creative-Driven Digital Marketing Services",
+            "descriptions": [
+                "Wellcode Studio delivers result-oriented digital marketing services focused on strong visuals, consistent branding, and audience engagement. Our creative-led marketing solutions help businesses improve visibility, connect with the right audience, and drive meaningful conversions across digital platforms."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Marketing Collateral Design Services",
+                    "descriptions": [
+                        "We design brand-consistent marketing collateral including digital brochures, presentations, email creatives, and promotional assets that support campaigns and improve brand recall."
+                    ],
+                    "image": {
+                        "title": "Performance-driven digital marketing",
+                        "filepath": "/assets/images/service-images/digital_marketing/marketing_collateral_design_services_01.avif",
+                        "alt": "Professional digital marketing services for businesses"
+                    }
+                },
+                {
+                    "title": "Marketing Visual Content Creation",
+                    "descriptions": [
+                        "Our visual content creation services deliver high-quality graphics, infographics, and product visuals that capture attention and strengthen your brand message."
+                    ],
+                    "image": {
+                        "title": "Digital marketing services",
+                        "filepath": "/assets/images/service-images/digital_marketing/marketing_visual_content_creation_01.avif",
+                        "alt": "End-to-end digital marketing solutions for brands"
+                    }
+                },
+                {
+                    "title": "Social Media Creative Design Services",
+                    "descriptions": [
+                        "We create platform-optimized social media creatives including posts, ads, stories, and reels designed to increase engagement and brand visibility."
+                    ],
+                    "image": {
+                        "title": "Creative digital marketing services",
+                        "filepath": "/assets/images/service-images/digital_marketing/social_media_creative_design_services_02.avif",
+                        "alt": "Social media marketing and content creation services"
+                    }
+                },
+                {
+                    "title": "Campaign Creative Design for Ads",
+                    "descriptions": [
+                        "Our campaign creatives are designed for online advertisements and promotions, focusing on clarity, visual impact, and conversion performance."
+                    ],
+                    "image": {
+                        "title": "Paid advertising and social media marketing",
+                        "filepath": "/assets/images/service-images/digital_marketing/campaign_creative_design_for_ads_02.avif",
+                        "alt": "Online marketing campaigns for business growth"
+                    }
+                },
+                {
+                    "title": "Brand-Consistent Digital Assets",
+                    "descriptions": [
+                        "We ensure all digital marketing visuals follow your brand identity, maintaining consistency across websites, ads, emails, and social platforms."
+                    ],
+                    "image": {
+                        "title": "Conversion-focused digital marketing",
+                        "filepath": "/assets/images/service-images/digital_marketing/brand_consistent_digital_assets_01.avif",
+                        "alt": "SEO and digital marketing services for websites"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Digital Marketing, Human-Perfected Campaigns",
+            "descriptions": [
+                "AI tools can automate scheduling and analyze data, but creating effective, engaging, and brand-aligned marketing campaigns requires human expertise, creativity, and strategic judgment."
+            ],
+            "comparison": {
+                "title": "Why Human Marketers Make the Difference",
+                "list": [
+                    "Human marketers craft messaging that truly resonates with the target audience",
+                    "Visuals and campaigns are designed to align with brand identity",
+                    "Strategies are developed for engagement, conversions, and long-term impact",
+                    "Manual oversight ensures creativity, quality, and relevance",
+                    "AI supports efficiency, but final digital campaigns are creative, precise, and deliver measurable results through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Strategic Digital Marketing Process",
+            "descriptions": [
+                "Our digital marketing process blends creative strategy, AI-assisted efficiency, and human expertise to deliver engaging, scalable, and performance-focused marketing assets."
+            ],
+            "steps": [
+                {
+                    "title": "Brand & Goal Understanding",
+                    "descriptions": [
+                        "We begin by understanding your business goals, target audience, and brand positioning to align marketing efforts with clear objectives."
+                    ]
+                },
+                {
+                    "title": "Creative Strategy & Content Planning",
+                    "descriptions": [
+                        "Our team defines visual direction, messaging tone, and creative formats to ensure consistency and campaign effectiveness."
+                    ]
+                },
+                {
+                    "title": "Design & Creative Execution",
+                    "descriptions": [
+                        "High-quality digital marketing creatives are developed with attention to detail, brand alignment, and platform-specific requirements."
+                    ]
+                },
+                {
+                    "title": "AI-Assisted Workflow Optimization",
+                    "descriptions": [
+                        "AI tools assist with faster production, layout suggestions, and initial optimization without replacing creative decision-making."
+                    ]
+                },
+                {
+                    "title": "Human-Led Creative Refinement",
+                    "descriptions": [
+                        "Our designers manually refine visuals to ensure clarity, emotional appeal, and strong audience connection."
+                    ]
+                },
+                {
+                    "title": "Review, Optimization & Final Delivery",
+                    "descriptions": [
+                        "Each marketing asset goes through quality checks and refinements before final delivery to ensure readiness for campaigns."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries We Serve",
+            "descriptions": [],
+            "users": [
+                "E-commerce brands",
+                "Corporate businesses",
+                "Startups and entrepreneurs",
+                "Marketing agencies",
+                "Global brands and enterprises"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Digital Marketing Services",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Strategy-First Approach",
+                    "descriptions": [
+                        "We don’t believe in one-size-fits-all marketing. Every digital marketing strategy is customized based on your business goals and audience."
+                    ]
+                },
+                {
+                    "title": "Human Creativity Backed by Smart Technology",
+                    "descriptions": [
+                        "AI supports efficiency, but human expertise drives quality, accuracy, and emotional impact—which is critical for real results"
+                    ]
+                },
+                {
+                    "title": "Global Client Experience",
+                    "descriptions": [
+                        "We work with businesses worldwide, creating digital marketing assets that resonate across regions and industries."
+                    ]
+                },
+                {
+                    "title": "Brand-Focused Execution",
+                    "descriptions": [
+                        "Every design, visual, and creative asset aligns with your brand identity and long-term growth vision."
+                    ]
+                },
+                {
+                    "title": "Scalable & Cost-Effective Solutions",
+                    "descriptions": [
+                        "Whether you are a startup or an established enterprise, our services scale as your business grows."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Let’s Grow Your Digital Presence",
+            "descriptions": [
+                "At Wellcode Studio, we believe successful digital marketing is built on strategy, creativity, and human insight. Whether you need high-impact visuals, engaging social media creatives, or complete marketing collateral, our digital marketing services are designed to deliver meaningful growth.",
+                "Contact Wellcode Studio today and take your digital marketing efforts to the next level."
+            ],
+            "link": {
+                "text": "Contact Wellcode Studio today and take your digital marketing efforts to the next level.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Marketing strategy and digital content services",
+                    "filepath": "/assets/images/service-images/digital_marketing/digital_marketing_01.avif",
+                    "alt": "Marketing collateral design for digital campaigns"
+                },
+                {
+                    "title": "Professional online marketing",
+                    "filepath": "/assets/images/service-images/digital_marketing/digital_marketing_02.avif",
+                    "alt": "Brand promotion through digital marketing services"
+                },
+                {
+                    "title": "Performance-driven digital marketing",
+                    "filepath": "/assets/images/service-images/digital_marketing/marketing_collateral_design_services_01.avif",
+                    "alt": "Professional digital marketing services for businesses"
+                },
+                {
+                    "title": "Digital marketing services",
+                    "filepath": "/assets/images/service-images/digital_marketing/marketing_visual_content_creation_01.avif",
+                    "alt": "End-to-end digital marketing solutions for brands"
+                },
+                {
+                    "title": "Creative digital marketing services",
+                    "filepath": "/assets/images/service-images/digital_marketing/social_media_creative_design_services_02.avif",
+                    "alt": "Social media marketing and content creation services"
+                },
+                {
+                    "title": "Paid advertising and social media marketing",
+                    "filepath": "/assets/images/service-images/digital_marketing/campaign_creative_design_for_ads_02.avif",
+                    "alt": "Online marketing campaigns for business growth"
+                },
+                {
+                    "title": "Conversion-focused digital marketing",
+                    "filepath": "/assets/images/service-images/digital_marketing/brand_consistent_digital_assets_01.avif",
+                    "alt": "SEO and digital marketing services for websites"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Digital Marketing Services?",
+            "descriptions": [
+                "Digital Marketing Services involve creating and executing online strategies to increase brand visibility, attract targeted audiences, and drive measurable business results. These services encompass content creation, social media, SEO, paid campaigns, and analytics to help businesses grow digitally."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Search",
+                    "content": "Search Engine Optimization (SEO): Optimizing websites and content to improve search rankings and organic traffic."
+                },
+                {
+                    "icon": "Share2",
+                    "content": "Social Media Marketing: Crafting engaging posts, campaigns, and visuals to boost brand presence."
+                },
+                {
+                    "icon": "PenLine",
+                    "content": "Content Marketing: Producing high-quality content that educates, informs, and converts audiences."
+                },
+                {
+                    "icon": "Megaphone",
+                    "content": "Paid Advertising & Campaign Management: Running targeted ads on platforms like Google, Facebook, and Instagram."
+                },
+                {
+                    "icon": "BarChart",
+                    "content": "Analytics & Performance Tracking: Measuring campaigns and strategies to refine and maximize ROI."
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "base_service": "Image Editing",
+        "service_title": "Photo Manipulation",
+        "meta_titles": [
+            "Creative Photo Manipulation Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Transform ordinary images into stunning visuals with Wellcode Studio’s photo manipulation services. Creative compositing, digital enhancement, retouching & marketing image manipulation for global brands."
+        ],
+        "slug": "photo-manipulation",
+        "service_slider": {
+            "title": "Creative Photo Manipulation Services for Impactful Visuals",
+            "description": [
+                "At WellCode Studio, we transform ordinary images into powerful, attention-grabbing visual stories. Our photo manipulation services blend creativity and technical precision to reshape visuals with realism and balance. Bring your creative vision to life with high-impact, professionally crafted imagery."
+            ]
+        },
+        "header": {
+            "title": "Photo Manipulation Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, our Photo Manipulation services are designed to transform ordinary images into powerful visual narratives. By combining creativity, technical expertise, and human precision, we help brands, photographers, and marketers create images that capture attention, convey emotion, and leave a lasting impact.",
+                "Photo manipulation goes beyond basic editing—it involves reshaping reality to match creative vision while maintaining visual balance, realism, and storytelling impact."
+            ]
+        },
+        "general_info": {
+            "title": "Why Professional Photo Manipulation Enhances Visuals",
+            "descriptions": [
+                "Photo manipulation combines technical enhancement and creative adjustments to transform images into polished, impactful visuals."
+            ],
+            "sub_section": {
+                "title": "How Photo Manipulation Improves Your Images",
+                "descriptions": [],
+                "list": [
+                    "Corrects color, tones, and white balance for vibrant visuals",
+                    "Adjusts exposure and lighting for optimal clarity",
+                    "Enhances sharpening and fine details",
+                    "Reduces noise while preserving essential elements",
+                    "Removes unwanted objects and distractions",
+                    "Edits or replaces backgrounds for clean compositions",
+                    "Refines cropping, framing, and visual balance",
+                    "Applies vintage, black & white, and artistic effects",
+                    "Restores old or damaged images while preserving value"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Creative Photo Manipulation Services",
+            "descriptions": [
+                "At Wellcode Studio, our Photo Manipulation services transform ordinary images into powerful visual stories. By blending human creativity with technical expertise, we help brands, photographers, and marketers craft visually striking images that capture attention, convey emotion, and elevate brand presence across campaigns, advertising, and social media."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Creative Compositing",
+                    "descriptions": [
+                        "We merge multiple images and elements into seamless, cohesive compositions for conceptual visuals, creative campaigns, and high-impact marketing."
+                    ],
+                    "image": {
+                        "title": "Realistic digital photo",
+                        "filepath": "/assets/images/service-images/photo_manipulation/creative_compositing_05.avif",
+                        "alt": "Professional photo manipulation services"
+                    }
+                },
+                {
+                    "title": "Image Reconstruction",
+                    "descriptions": [
+                        "From reshaping objects to rebuilding backgrounds and scenes, we bring complex ideas to life while maintaining realism and visual balance."
+                    ],
+                    "image": {
+                        "title": "Product and lifestyle",
+                        "filepath": "/assets/images/service-images/photo_manipulation/image_reconstruction_03.avif",
+                        "alt": "Creative image compositing and editing"
+                    }
+                },
+                {
+                    "title": "Digital Painting & Artistic Enhancement",
+                    "descriptions": [
+                        "Advanced digital painting techniques add textures, colors, and artistic detailing to transform photographs into visually expressive artwork."
+                    ],
+                    "image": {
+                        "title": "Manipulation for campaigns",
+                        "filepath": "/assets/images/service-images/photo_manipulation/digital_painting_artistic_enhancement_04.avif",
+                        "alt": "Digital photo reconstruction for marketing"
+                    }
+                },
+                {
+                    "title": "Facial Retouching & Feature Refinement",
+                    "descriptions": [
+                        "Facial features are refined, blemishes removed, and skin smoothed while preserving natural expressions and realistic textures."
+                    ],
+                    "image": {
+                        "title": "Advanced image retouching",
+                        "filepath": "/assets/images/service-images/photo_manipulation/facial_retouching_feature_refinement_02.avif",
+                        "alt": "Facial retouching and feature enhancement"
+                    }
+                },
+                {
+                    "title": "Special Effects & Surreal Enhancements",
+                    "descriptions": [
+                        "Dramatic lighting, fantasy elements, and surreal effects are added to enhance emotion and depth without overpowering the original image."
+                    ],
+                    "image": {
+                        "title": "Surreal photo effects",
+                        "filepath": "/assets/images/service-images/photo_manipulation/special_effects_surreal_enhancements_01.avif",
+                        "alt": "Marketing-focused photo manipulation services"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Editing, Human-Perfected Creative Compositions",
+            "descriptions": [
+                "AI tools can assist with quick edits, but delivering compelling, concept-driven photo manipulations requires human judgment, creativity, and precision to achieve realistic and visually impactful results."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors perform complex compositing and layered edits with precision",
+                    "Artistic storytelling and emotional balance are thoughtfully crafted",
+                    "Realism is maintained while applying creative vision and effects",
+                    "Manual masking, blending, and precision retouching refine every detail",
+                    "AI supports basic edits, but final quality is ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Proven Approach to Photo Manipulation",
+            "descriptions": [
+                "Our approach combines creative vision, human expertise, and precise editing to produce photo-manipulated images that are realistic, balanced, and tailored to brand and campaign objectives."
+            ],
+            "steps": [
+                {
+                    "title": "Requirement Understanding & Creative Planning",
+                    "descriptions": [
+                        "We begin by understanding your creative vision, goals, and intended use to plan a custom manipulation strategy."
+                    ]
+                },
+                {
+                    "title": "Image Analysis & Layer Planning",
+                    "descriptions": [
+                        "Each image is evaluated for compositing, adjustments, and artistic elements to ensure seamless integration and visual coherence."
+                    ]
+                },
+                {
+                    "title": "Manual Manipulation & Enhancement",
+                    "descriptions": [
+                        "Our skilled editors apply precise adjustments, blending, reconstruction, and digital painting to achieve polished, high-quality results."
+                    ]
+                },
+                {
+                    "title": "Color, Lighting & Exposure Refinement",
+                    "descriptions": [
+                        "Colors, tones, shadows, and highlights are optimized to maintain realism, depth, and brand-aligned aesthetics."
+                    ]
+                },
+                {
+                    "title": "Quality Review & Detail Assurance",
+                    "descriptions": [
+                        "Every manipulated image undergoes rigorous checks for artistic quality, consistency, and technical accuracy."
+                    ]
+                },
+                {
+                    "title": "Final Delivery & Campaign-Ready Images",
+                    "descriptions": [
+                        "Images are delivered in your preferred format, resolution, and specifications—ready for marketing, advertising, social media, or publication."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries We Serve",
+            "descriptions": [],
+            "users": [
+                "Advertising & Marketing",
+                "E-commerce & Product Brands",
+                "Fashion & Portrait Photography",
+                "Real Estate & Architecture",
+                "Media & Publishing",
+                "Historical Photo Restoration"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Photo Manipulation?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Artistic & Technical Expertise",
+                    "descriptions": [
+                        "Our editors blend creativity with technical mastery for high-end photo manipulation."
+                    ]
+                },
+                {
+                    "title": "Customized Creative Solutions",
+                    "descriptions": [
+                        "Every project is tailored to your vision, brand, and objectives."
+                    ]
+                },
+                {
+                    "title": "High-End Quality Control",
+                    "descriptions": [
+                        "Each image undergoes detailed review to ensure flawless execution."
+                    ]
+                },
+                {
+                    "title": "On-Time Delivery",
+                    "descriptions": [
+                        "We respect deadlines and deliver without compromising quality."
+                    ]
+                },
+                {
+                    "title": "Data Security & Confidentiality",
+                    "descriptions": [
+                        "Your images are handled with strict confidentiality and secure workflows."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Let’s Create Visual Stories That Stand Out",
+            "descriptions": [
+                "At Wellcode Studio, we believe every image has the potential to inspire, persuade, and connect. Our Photo Manipulation services help transform ideas into powerful visuals that elevate your brand in a crowded digital space.",
+                "Contact us today to discuss your photo manipulation requirements and bring your creative vision to life."
+            ],
+            "link": {
+                "text": "Contact us today to discuss your photo manipulation requirements and bring your creative vision to life.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Conceptual photo manipulation",
+                    "filepath": "/assets/images/service-images/photo_manipulation/why_professional_photo_manipulation_04.avif",
+                    "alt": "Layered image compositing for advertisements"
+                },
+                {
+                    "title": "Conceptual photo manipulation",
+                    "filepath": "/assets/images/service-images/photo_manipulation/approach_photo_manipulation_01.avif",
+                    "alt": "Layered image compositing for advertisements"
+                },
+                {
+                    "title": "Realistic digital photo",
+                    "filepath": "/assets/images/service-images/photo_manipulation/creative_compositing_05.avif",
+                    "alt": "Professional photo manipulation services"
+                },
+                {
+                    "title": "Product and lifestyle",
+                    "filepath": "/assets/images/service-images/photo_manipulation/image_reconstruction_03.avif",
+                    "alt": "Creative image compositing and editing"
+                },
+                {
+                    "title": "Manipulation for campaigns",
+                    "filepath": "/assets/images/service-images/photo_manipulation/digital_painting_artistic_enhancement_04.avif",
+                    "alt": "Digital photo reconstruction for marketing"
+                },
+                {
+                    "title": "Advanced image retouching",
+                    "filepath": "/assets/images/service-images/photo_manipulation/facial_retouching_feature_refinement_02.avif",
+                    "alt": "Facial retouching and feature enhancement"
+                },
+                {
+                    "title": "Surreal photo effects",
+                    "filepath": "/assets/images/service-images/photo_manipulation/special_effects_surreal_enhancements_01.avif",
+                    "alt": "Marketing-focused photo manipulation services"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Photo Manipulation?",
+            "descriptions": [
+                "Photo Manipulation is a creative editing process that transforms standard images into unique, high-impact visuals for branding, advertising, and digital campaigns. It combines multiple elements, effects, and artistic techniques to create compelling visual storytelling."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "GitMerge",
+                    "content": "Composite Image Creation: Merging multiple images seamlessly into one cohesive visual."
+                },
+                {
+                    "icon": "ImagePlus",
+                    "content": "Creative Background & Scene Design: Building imaginative or conceptual environments."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Lighting & Color Harmony: Matching tones and shadows across combined elements."
+                },
+                {
+                    "icon": "Brush",
+                    "content": "Detail Blending & Refinement: Ensuring realistic edges, textures, and transitions."
+                },
+                {
+                    "icon": "Sparkles",
+                    "content": "Campaign-Ready Visual Output: Crafting striking images for ads, social media, and branding."
+                }
+            ]
+        }
+    }
+]

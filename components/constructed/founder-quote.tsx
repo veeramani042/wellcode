@@ -68,10 +68,10 @@ const FounderQoute = () => {
                                 transition={{ duration: 0.8, delay: 0.5 }}
                                 className="font-display text-4xl md:text-5xl text-foreground leading-[1.2] tracking-tight relative"
                             >
-                                <TextAnimate key={`${textY}`} animation="slideUp" by="word">I believe better systems create better lives. That belief has shaped my journey, from my hardware service to tech innovation.</TextAnimate>
+                                <TextAnimate key={`${textY}`} animation="slideUp" by="word">I Believe Better Systems Create Better Lives. That Belief Has Shaped My Journey, From My Hardware Service To Tech Innovation.</TextAnimate>
                             </motion.h2>
 
-                            <motion.p
+                            {/* <motion.p
                                 initial={{ opacity: 0, y: 20 }}
                                 whileInView={{ opacity: 1, y: 0 }}
                                 viewport={{ once: true, margin: "-100px" }}
@@ -79,7 +79,7 @@ const FounderQoute = () => {
                                 className="text-muted-foreground text-lg leading-relaxed pl-2 md:pl-20 lg:pl-50"
                             >
                                 Behind every project is a promise—to deliver work we’re proud of and results our clients can trust. That commitment continues to guide Wellcode Studio every day.
-                            </motion.p>
+                            </motion.p> */}
 
                             <motion.div
                                 initial={{ opacity: 0, y: 20 }}

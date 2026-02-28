@@ -1,0 +1,304 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "Real Estate Editing",
+        "meta_titles": [
+            "Professional Real Estate Image Editing Services – Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Professional real estate photo editing with human quality control. Fast turnaround, global support, and market-ready results.",
+            "Looking to improve property listings? Our real estate image editing services enhance lighting, colors, and clarity for better buyer engagement."
+        ],
+        "slug": "real-estate-services",
+        "header": {
+            "title": "Professional Real Estate Image Editing Services That Help Properties Sell Faster",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we deliver professional real estate image editing services that help property listings stand out, attract more qualified buyers, and generate faster inquiries across global markets.",
+                "We work with real estate agents, photographers, property marketers, and developers worldwide, providing clean, realistic, and market-ready visuals—including virtual staging solutions—designed to enhance listings without compromising authenticity. If your properties need stronger visual impact without looking over-edited, our human-led editing approach is built for you."
+            ]
+        },
+        "general_info": {
+            "title": "Why High-Quality Real Estate Image Editing Matters",
+            "descriptions": [
+                "In digital property listings, images influence buyer decisions long before descriptions are read. High-quality visuals play a critical role in capturing attention, increasing engagement, and driving inquiries—especially in competitive markets."
+            ],
+            "sub_section": {
+                "title": "How Professional Image Editing Improves Results",
+                "list": [
+                    "Creates a strong first impression within seconds",
+                    "Increases listing visibility and buyer inquiries",
+                    "Enhances perceived property value and space usability",
+                    "Helps listings stand out in competitive marketplaces",
+                    "Supports faster sales and leasing cycles"
+                ],
+                "phrase_text": "Professionally edited images—including virtual staging-enhanced visuals—don’t just look better; they convert better."
+            }
+        },
+        "our_works": {
+            "title": "Real Estate Image Editing Services for Stunning Listings",
+            "descriptions": [
+                "At Wellcode Studio, we provide professional real estate image editing services that make property listings visually compelling and market-ready. Our human-led edits help listings attract more buyers and drive faster inquiries."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Precision Image Corrections",
+                    "descriptions": [
+                        "Correct colors, lighting, and distortion to ensure images are natural, balanced, and visually appealing."
+                    ],
+                    "image": {
+                        "title": "High-quality real estate image optimized",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_01.avif",
+                        "alt": "Cleaned and clutter-free kitchen image for real estate marketing"
+                    }
+                },
+                {
+                    "title": "Advanced Visual Enhancements",
+                    "descriptions": [
+                        "Enhance interiors, exteriors, and architectural details with realistic refinements that make properties stand out."
+                    ],
+                    "image": {
+                        "title": "Cleaned and polished hallway image",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_02.avif",
+                        "alt": "Real estate exterior image with sky replacement and color balance"
+                    }
+                },
+                {
+                    "title": "Detail & Environment Refinement",
+                    "descriptions": [
+                        "Improve lawns, pools, fireplaces, and remove unwanted elements to create polished, professional visuals."
+                    ],
+                    "image": {
+                        "title": "Bright and appealing balcony",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_03.avif",
+                        "alt": "Living area photo with enhanced sharpness and detail"
+                    }
+                },
+                {
+                    "title": "Virtual Staging & Purpose-Driven Enhancements",
+                    "descriptions": [
+                        "Showcase furnished spaces or design potential with realistic virtual staging that boosts buyer confidence."
+                    ],
+                    "image": {
+                        "title": "Bright and appealing balcony",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_04.avif",
+                        "alt": "Living area photo with enhanced sharpness and detail"
+                    }
+                },
+                {
+                    "title": "Human-Led Quality Assurance",
+                    "descriptions": [
+                        "Each image undergoes careful review to ensure accuracy, realism, and buyer-trustworthy presentation."
+                    ],
+                    "image": {
+                        "title": "Bright and appealing balcony",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_05.avif",
+                        "alt": "Living area photo with enhanced sharpness and detail"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Editing, Human-Perfected Results",
+            "descriptions": [
+                "AI tools support speed and consistency in modern image editing, but real estate visuals demand human judgment—especially for realistic enhancements and virtual staging."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors understand buyer perception and visual psychology",
+                    "Manual editing ensures natural lighting, textures, and proportions",
+                    "Virtual staging is carefully styled to match property architecture",
+                    "Each property receives customized attention",
+                    "Final quality checks prevent unnatural or over-processed results"
+                ],
+                "phrase_text": "At Wellcode Studio, AI supports the workflow, but human expertise defines the final quality clients trust."
+            }
+        },
+        "process": {
+            "title": "Our Expert Approach to Real Estate Image Editing",
+            "descriptions": [
+                "Our structured, human-led editing process enhances property visuals without compromising authenticity. Each step focuses on clarity, realism, and market-ready results."
+            ],
+            "steps": [
+                {
+                    "title": "Human-Led Image Review",
+                    "descriptions": [
+                        "We analyze raw property photos to understand lighting, space, and editing requirements."
+                    ]
+                },
+                {
+                    "title": "Professional Editing",
+                    "descriptions": [
+                        "Our editors apply corrections, enhancements, and refinements tailored to each property type and listing goal."
+                    ]
+                },
+                {
+                    "title": "Virtual Staging Application",
+                    "descriptions": [
+                        "Furniture, décor, and space enhancements are applied only when appropriate, maintaining natural realism."
+                    ]
+                },
+                {
+                    "title": "Detail & Surroundings Refinement",
+                    "descriptions": [
+                        "Surrounding elements like lawns, pools, and interior objects are improved or removed for polished visuals."
+                    ]
+                },
+                {
+                    "title": "Final Quality Assurance & Delivery",
+                    "descriptions": [
+                        "Every image is manually reviewed to ensure consistency, realism, and readiness for marketing platforms."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Who We Work With",
+            "descriptions": [
+                "Our real estate image editing and virtual staging services are ideal for:"
+            ],
+            "users": [
+                "Real estate agents and brokers",
+                "Professional property photographers",
+                "Property developers and builders",
+                "Interior designers and home stylists",
+                "Vacation rental owners and managers",
+                "Commercial property marketers"
+            ],
+            "phrase_text": "Why Choose Wellcode Studio for Real Estate Image Editing?"
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for HDR Blending?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Real Estate–Focused Expertise",
+                    "descriptions": [
+                        "Our editors specialize in real estate visuals, including virtual staging, and understand how to present properties to attract serious buyers."
+                    ]
+                },
+                {
+                    "title": "Human-Led Quality Control",
+                    "descriptions": [
+                        "We don’t rely on automated shortcuts. Every image is manually refined and reviewed by skilled professionals."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround With out Compromising Quality",
+                    "descriptions": [
+                        "We respect tight property marketing timelines and deliver reliable results without sacrificing detail."
+                    ]
+                },
+                {
+                    "title": "Cost-Effective Outsourcing",
+                    "descriptions": [
+                        "Outsourcing your image editing and virtual staging saves time, reduces workload, and ensures consistent quality at scale."
+                    ]
+                },
+                {
+                    "title": "Trusted by Clients Worldwide",
+                    "descriptions": [
+                        "Our editing approach aligns with international listing standards and global real estate marketing expectations."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Ready to Elevate Your Property Listings?",
+            "descriptions": [
+                "If you want your listings to attract more attention and convert faster, Wellcode Studio is ready to help.",
+                "Request a quote or share your images today, and let our expert editors enhance your real estate photos—with professional image editing—to create stronger visual impact and better results online."
+            ],
+            "link": {
+                "text": "Request a quote or share your images today, and let our expert editors enhance your real estate photos",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_06.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                },
+                {
+                    "title": "High-quality real estate image optimized",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_01.avif",
+                    "alt": "Cleaned and clutter-free kitchen image for real estate marketing"
+                },
+                {
+                    "title": "Cleaned and polished hallway image",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_02.avif",
+                    "alt": "Real estate exterior image with sky replacement and color balance"
+                },
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_03.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                },
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_04.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                },
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_05.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                }
+            ],
+            "videos": [],
+            "comparison": {
+                "before": {
+                    "title": "Corrected window reflections",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image_editing_before_one.avif",
+                    "alt": "Professionally retouched bathroom image for online listings before"
+                },
+                "after": {
+                    "title": "Showing accurate light and depth",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image_editing_after_one.avif",
+                    "alt": "Enhanced garden and lawn image for property promotion after"
+                }
+            }
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "Real Estate Photo Editing to Sell Properties Faster",
+            "description": [
+                "At Wellcode Studio, we provide professional real estate image editing services that make your property listings stand out and attract more buyers. From clean, realistic edits to virtual staging, our human-led approach ensures market-ready visuals that boost inquiries and sales worldwide."
+            ]
+        },
+        "work_info": {
+            "title": "What is Real Estate Editing?",
+            "descriptions": [
+                "Real Estate Editing is a specialized digital enhancement process that transforms property images into polished, market-ready visuals. By refining lighting, perspective, and color balance, it helps listings stand out, attract potential buyers, and convey the true value of a property."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Ruler",
+                    "content": "Perspective Correction: Adjusting angles and lines to ensure architectural accuracy and visual appeal."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Color & Light Enhancement: Balancing exposure, brightness, and color tones for natural, eye-catching images."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Background Cleanup: Removing distractions and clutter to focus attention on the property."
+                },
+                {
+                    "icon": "Sofa",
+                    "content": "Virtual Staging Support: Integrating digital furniture and decor for better visualization."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Shadow & Reflection Refinement: Adding realistic depth and dimension to interiors and exteriors."
+                }
+            ]
+        }
+    }
+]

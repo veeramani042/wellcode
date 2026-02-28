@@ -1,0 +1,293 @@
+[
+    {
+        "base_service": "Digital Product Development",
+        "service_title": "Custom Software Development",
+        "meta_titles": [
+            "Custom Business Software Development Company | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Wellcode Studio delivers custom software development services, building scalable, secure, and tailor-made business software for global enterprises."
+        ],
+        "service_slider": {
+            "title": "Custom Software Development for Business Growth",
+            "description": [
+                "At WellCode Studio, we deliver scalable, tailor-made software solutions built around your unique business workflows and goals. Our custom software development services solve real operational challenges with precision and flexibility. Smart-assisted efficiency backed by human expertise ensures reliable, high-performance software that scales with you."
+            ]
+        },
+        "slug": "custom-software-development",
+        "header": {
+            "title": "Custom Software Development Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we provide reliable and scalable custom software development services designed to solve real business challenges. In a fast-evolving digital landscape, off-the-shelf software often fails to meet specific operational needs. That’s why we focus on tailor-made software development solutions that align perfectly with your business goals, workflows, and growth plans.",
+                "Our approach combines modern software engineering practices with strong human expertise. While AI-assisted tools can support certain development tasks, human-led planning, logic, and quality control ensure software that performs reliably in real-world business environments."
+            ]
+        },
+        "general_info": {
+            "title": "Why Custom Software Development Drives Business Efficiency",
+            "descriptions": [
+                "Custom software development provides tailored solutions that align perfectly with your business processes and delivers scalable solutions for long-term growth."
+            ],
+            "sub_section": {
+                "title": "How Custom Software Development Benefits Your Business",
+                "descriptions": [],
+                "list": [
+                    "Delivers solutions tailored to your unique business needs",
+                    "Improves operational efficiency and workflow automation",
+                    "Integrates seamlessly with existing systems",
+                    "Supports scalability and long-term growth",
+                    "Enhances productivity while reducing errors"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Reliable Custom Software Development",
+            "descriptions": [
+                "Wellcode Studio delivers tailor-made software solutions designed to solve real business challenges. Our scalable, secure, and efficient software aligns perfectly with your workflows and growth objectives."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Custom Business Software",
+                    "descriptions": [
+                        "We build software tailored to your internal processes, improving efficiency, automation, and data-driven decision-making."
+                    ],
+                    "image": {
+                        "title": "Custom Business Software",
+                        "filepath": "/assets/images/service-images/custom_software_development/custom_business_software.avif",
+                        "alt": "Custom digital product development for businesses"
+                    }
+                },
+                {
+                    "title": "Custom Web Application Development",
+                    "descriptions": [
+                        "High-performing web applications designed for usability, scalability, and long-term business success."
+                    ],
+                    "image": {
+                        "title": "Custom Web Application Development",
+                        "filepath": "/assets/images/service-images/custom_software_development/custom_web_application_development_01.avif",
+                        "alt": "End-to-end mobile application development solutions"
+                    }
+                },
+                {
+                    "title": "Enterprise Software Solutions",
+                    "descriptions": [
+                        "Robust enterprise software to manage complex operations, large data volumes, and multiple user roles securely."
+                    ],
+                    "image": {
+                        "title": "Enterprise Software Solutions",
+                        "filepath": "/assets/images/service-images/custom_software_development/enterprise_software_solutions_01.avif",
+                        "alt": "Native and cross-platform mobile app development"
+                    }
+                },
+                {
+                    "title": "Custom Application Development",
+                    "descriptions": [
+                        "Web, desktop, and system-based applications crafted to meet your unique business needs with maximum flexibility."
+                    ],
+                    "image": {
+                        "title": "Custom Application Development",
+                        "filepath": "/assets/images/service-images/custom_software_development/custom_application_development_01.avif",
+                        "alt": "Mobile app UI/UX design and development services"
+                    }
+                },
+                {
+                    "title": "Legacy System Modernization",
+                    "descriptions": [
+                        "Upgrade outdated software with modern technologies, enhanced security, and improved performance for smooth operations."
+                    ],
+                    "image": {
+                        "title": "Legacy System Modernization",
+                        "filepath": "/assets/images/service-images/custom_software_development/legacy_system_modernization_02.avif",
+                        "alt": "Scalable and secure mobile apps for businesses"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Development, Human-Engineered Software Excellence",
+            "descriptions": [
+                "AI tools can enhance automation and efficiency, but building complex, secure, and scalable software requires human expertise, strategic thinking, and technical depth."
+            ],
+            "comparison": {
+                "title": "Why Human Engineers Make the Difference",
+                "list": [
+                    "Human engineers understand complex business logic and operational workflows",
+                    "Features are customized to meet unique business requirements",
+                    "Security, reliability, and long-term scalability are carefully ensured",
+                    "Manual quality assurance and strategic decisions guide the development process",
+                    "AI supports efficiency, but final quality is ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Software Development Process",
+            "descriptions": [
+                "We follow a structured yet flexible approach to deliver reliable, scalable, and high-quality software on time."
+            ],
+            "steps": [
+                {
+                    "title": "Requirement Analysis & Planning",
+                    "descriptions": [
+                        "We define clear development roadmaps by understanding your objectives, technical needs, and scalability requirements."
+                    ]
+                },
+                {
+                    "title": "Software Architecture & Design",
+                    "descriptions": [
+                        "Robust architecture that ensures performance, security, and maintainability across the software lifecycle."
+                    ]
+                },
+                {
+                    "title": "Development & Quality Assurance",
+                    "descriptions": [
+                        "Secure, efficient software built with modern frameworks and thoroughly tested for stability and reliability."
+                    ]
+                },
+                {
+                    "title": "Deployment & Ongoing Support",
+                    "descriptions": [
+                        "Continuous updates, monitoring, and support ensure your software remains optimized and future-ready."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries We Serve",
+            "descriptions": [],
+            "users": [
+                "Startups & Entrepreneurs",
+                "Enterprises",
+                "SaaS & Technology Companies",
+                "E-Commerce Businesses",
+                "Education & Digital Platforms"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio as Your Custom Software Development Company",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Experienced Software Engineers",
+                    "descriptions": [
+                        "Our skilled developers bring strong expertise in software engineering, enabling us to deliver robust and future-proof solutions."
+                    ]
+                },
+                {
+                    "title": "End-to-End Custom Software Development",
+                    "descriptions": [
+                        "From planning to deployment and maintenance, we handle the complete software development lifecycle."
+                    ]
+                },
+                {
+                    "title": "Scalable & Secure Software Solutions",
+                    "descriptions": [
+                        "We build software designed to grow with your business while maintaining high security and performance standards."
+                    ]
+                },
+                {
+                    "title": "Cost-Effective Development Services",
+                    "descriptions": [
+                        "Our affordable custom software development services help global clients access high-quality development without in-house overhead costs."
+                    ]
+                },
+                {
+                    "title": "Agile & Transparent Process",
+                    "descriptions": [
+                        "Our agile methodology ensures flexibility, faster delivery, and continuous collaboration throughout the project."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Get Started with Wellcode Studio",
+            "descriptions": [
+                "Looking for a reliable custom software development company to build scalable and secure business software? Partner with Wellcode Studio for bespoke software development services designed to support innovation, efficiency, and long-term success."
+            ],
+            "link": {
+                "text": "Partner with Wellcode Studio for bespoke software development services",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Custom Business Software",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_business_software.avif",
+                    "alt": "Custom digital product development for businesses"
+                },
+                {
+                    "title": "Custom Web Application Development",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_web_application_development_01.avif",
+                    "alt": "End-to-end mobile application development solutions"
+                },
+                {
+                    "title": "Enterprise Software Solutions",
+                    "filepath": "/assets/images/service-images/custom_software_development/enterprise_software_solutions_01.avif",
+                    "alt": "Native and cross-platform mobile app development"
+                },
+                {
+                    "title": "Custom Application Development",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_application_development_01.avif",
+                    "alt": "Mobile app UI/UX design and development services"
+                },
+                {
+                    "title": "Legacy System Modernization",
+                    "filepath": "/assets/images/service-images/custom_software_development/legacy_system_modernization_02.avif",
+                    "alt": "Scalable and secure mobile apps for businesses"
+                },
+                {
+                    "title": "App development for startups",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_application_02.avif",
+                    "alt": "Custom iOS app development for startups and enterprises"
+                },
+                {
+                    "title": "Mobile app development for global businesses",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_application_03.avif",
+                    "alt": "Android app development for smooth performance"
+                },
+                {
+                    "title": "High-performance mobile app",
+                    "filepath": "/assets/images/service-images/custom_software_development/custom_application_04.avif",
+                    "alt": "Digital product prototyping and development solutions"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Custom Software Development?",
+            "descriptions": [
+                "Custom Software Development is the process of designing and building tailored software solutions that address specific business requirements. It focuses on creating scalable, efficient systems that streamline operations, improve productivity, and solve unique workflow challenges."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "ClipboardList",
+                    "content": "Requirement Analysis & System Planning: Defining clear architecture based on business needs."
+                },
+                {
+                    "icon": "Boxes",
+                    "content": "Scalable Application Development: Building flexible software that grows with the organization."
+                },
+                {
+                    "icon": "Server",
+                    "content": "Database & Backend Engineering: Ensuring reliable data management and performance."
+                },
+                {
+                    "icon": "Link",
+                    "content": "Integration with Existing Tools: Connecting software with current systems and workflows."
+                },
+                {
+                    "icon": "Lock",
+                    "content": "Testing, Security & Optimization: Delivering stable, secure, and high-performing software."
+                }
+            ]
+        }
+    }
+]

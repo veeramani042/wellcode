@@ -1,0 +1,303 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "Real Estate Branding & Marketing Design",
+        "meta_titles": [
+            "Real Estate Branding & Marketing Design Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Build a powerful property brand with Wellcode Studio’s real estate branding & marketing design services. Professional real estate graphic design, marketing materials, and visual branding solutions that drive engagement and trust."
+        ],
+        "slug": "real-estate-branding-marketing-design",
+        "header": {
+            "title": "Real Estate Branding & Marketing Design Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we specialize in Real Estate Branding & Marketing Design services that help real estate businesses stand out in a competitive market. A strong brand identity combined with compelling marketing visuals builds trust, attracts buyers, and positions your property listings for success.",
+                "From startups to established real estate agencies, our real estate branding and marketing design solutions are crafted to elevate your brand presence, strengthen recognition, and drive meaningful engagement across digital and print platforms."
+            ]
+        },
+        "general_info": {
+            "title": "Why Real Estate Branding & Marketing Design Matters",
+            "descriptions": [
+                "In today’s visually driven market, branding goes beyond logos—it shapes the complete experience your audience associates with your business."
+            ],
+            "sub_section": {
+                "title": "How Branding & Marketing Design Improves Real Estate Presence",
+                "descriptions": [],
+                "list": [
+                    "Builds a strong, credible and recognizable brand identity across all channels",
+                    "Increases buyer trust and engagement with high-quality visuals",
+                    "Differentiates your listings and services from competitors in market"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Professional Real Estate Branding & Marketing Design Services",
+            "descriptions": [
+                "Wellcode Studio provides professional real estate branding and marketing design services that help agencies, developers, and realtors stand out in a competitive market. Our designs combine strong brand identity with visually compelling marketing assets to build trust, attract buyers, and drive engagement across digital and print platforms."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Real Estate Brand Identity Design",
+                    "descriptions": [
+                        "We create cohesive brand identities that define your business visually and emotionally, including logos, brand guidelines, typography, and color palettes for consistent presentation across all platforms."
+                    ],
+                    "image": {
+                        "title": "Professional MLS real estate",
+                        "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_01.avif",
+                        "alt": "Property image color correction for MLS listings"
+                    }
+                },
+                {
+                    "title": "Property Marketing Design Solutions",
+                    "descriptions": [
+                        "Our property marketing design services showcase listings through brochures, flyers, and presentation templates, delivering a compelling, sales-focused visual experience online and offline."
+                    ],
+                    "image": {
+                        "title": "Professional MLS real estate",
+                        "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_02.avif",
+                        "alt": "Property image color correction for MLS listings"
+                    }
+                },
+                {
+                    "title": "Real Estate Graphic Design for Marketing",
+                    "descriptions": [
+                        "We design impactful marketing visuals, including social media creatives, email graphics, and digital or print advertisements that communicate professionalism and value."
+                    ],
+                    "image": {
+                        "title": "Accurate angles and straight walls",
+                        "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_03.avif",
+                        "alt": "Exposure and brightness enhancement for MLS photos"
+                    }
+                },
+                {
+                    "title": "Real Estate Advertising & Creative Services",
+                    "descriptions": [
+                        "From campaign banners to display ads, our creative services help attract attention, engage prospects, and support lead generation with brand-aligned advertising designs."
+                    ],
+                    "image": {
+                        "title": "Listing-ready MLS property",
+                        "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_04.avif",
+                        "alt": "Vertical and perspective correction for real estate images"
+                    }
+                },
+                {
+                    "title": "Realtor Branding Solutions",
+                    "descriptions": [
+                        "Tailored solutions for real estate agents and brokers, including personal brand identity, agent marketing kits, listing templates, and presentation materials for effective client communication."
+                    ],
+                    "image": {
+                        "title": "Compliance-focused real estate",
+                        "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_05.avif",
+                        "alt": "MLS-compliant window pull and view balancing"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Design, Human-Perfected Marketing Materials",
+            "descriptions": [
+                "AI-assisted tools can optimize layouts and maintain brand consistency, but creating impactful, emotionally engaging real estate marketing materials requires human creativity, strategic judgment, and careful refinement."
+            ],
+            "comparison": {
+                "title": "Why Human Designers Make the Difference",
+                "list": [
+                    "Human designers ensure creativity and emotion are at the heart of every design",
+                    "Brand identity is preserved across brochures, ads, and social media creatives",
+                    "Layouts are refined for visual impact and buyer engagement",
+                    "Each project receives customized attention for market relevance",
+                    "Final quality checks guarantee polished, professional, and brand-aligned designs",
+                    "AI enhances efficiency, but real estate branding and marketing materials that resonate with buyers and elevate property appeal are ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Real Estate Branding & Marketing Design Approach",
+            "descriptions": [
+                "Our approach combines AI-assisted design tools with human creativity to deliver scalable, high-quality real estate marketing designs that maintain brand consistency, enhance visual impact, and achieve strategic business goals."
+            ],
+            "steps": [
+                {
+                    "title": "Discovery & Brand Understanding",
+                    "descriptions": [
+                        "We analyze your business goals, target audience, and market positioning to inform every design decision and ensure alignment with your brand strategy."
+                    ]
+                },
+                {
+                    "title": "Concept & Creative Direction",
+                    "descriptions": [
+                        "Our designers develop innovative branding and marketing concepts that reflect your vision, resonate with your audience, and differentiate your business."
+                    ]
+                },
+                {
+                    "title": "Design Execution",
+                    "descriptions": [
+                        "High-quality marketing assets are created for multiple platforms, ensuring consistency, visual appeal, and effectiveness across digital and print media."
+                    ]
+                },
+                {
+                    "title": "Review & Refinement",
+                    "descriptions": [
+                        "We incorporate feedback to refine designs, ensuring the final outputs meet your expectations and align with brand objectives."
+                    ]
+                },
+                {
+                    "title": "Final Delivery",
+                    "descriptions": [
+                        "You receive ready-to-use branding and marketing materials in all required formats, optimized for immediate use across listings, campaigns, and promotional platforms."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries & Professionals We Serve",
+            "descriptions": [],
+            "users": [
+                "Real estate agencies & brokerages",
+                "Property developers",
+                "Independent realtors & consultants",
+                "Commercial & residential property marketers"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Branding & Marketing Design?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Real Estate Branding & Marketing Expertise",
+                    "descriptions": [
+                        "We specialize in branding and marketing design tailored specifically for real estate businesses and property promotions."
+                    ]
+                },
+                {
+                    "title": "Experienced Creative and Marketing Designers",
+                    "descriptions": [
+                        "Our team combines creative thinking with marketing strategy to produce designs that are both visually appealing and purpose-driven."
+                    ]
+                },
+                {
+                    "title": "Human-Led Quality With AI-Supported Workflows",
+                    "descriptions": [
+                        "We use AI where it adds efficiency, while ensuring every design is guided and refined by skilled professionals."
+                    ]
+                },
+                {
+                    "title": "Custom and Scalable Branding Solutions",
+                    "descriptions": [
+                        "Our solutions adapt to your business size and marketing needs, supporting both small projects and large campaigns."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround With Consistent Quality",
+                    "descriptions": [
+                        "We deliver designs quickly while maintaining uniform standards across all branding and marketing materials."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Let’s Build a Powerful Real Estate Brand",
+            "descriptions": [
+                "Your brand is your strongest asset. With Wellcode Studio’s Real Estate Branding & Marketing Design services, you gain visually compelling, strategically aligned designs that elevate your presence and drive results."
+            ],
+            "link": {
+                "text": "gain visually compelling, strategically aligned designs that elevate your presence and drive results.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "MLS listing photography",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_06.avif",
+                    "alt": "Minor object cleanup for MLS property photos"
+                },
+                {
+                    "title": "Color correction for MLS listings",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_07.avif",
+                    "alt": "Real estate photo editing that meets MLS standards"
+                },
+                {
+                    "title": "Professional MLS real estate",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_01.avif",
+                    "alt": "Property image color correction for MLS listings"
+                },
+                {
+                    "title": "Professional MLS real estate",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_02.avif",
+                    "alt": "Property image color correction for MLS listings"
+                },
+                {
+                    "title": "Accurate angles and straight walls",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_03.avif",
+                    "alt": "Exposure and brightness enhancement for MLS photos"
+                },
+                {
+                    "title": "Listing-ready MLS property",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_04.avif",
+                    "alt": "Vertical and perspective correction for real estate images"
+                },
+                {
+                    "title": "Compliance-focused real estate",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_05.avif",
+                    "alt": "MLS-compliant window pull and view balancing"
+                }
+            ],
+            "videos": [],
+            "comparison": {
+                "before": {
+                    "title": "Real estate brand identity design",
+                    "filepath": "/assets/images/before/real-estate-branding-marketing-design-before.jpg",
+                    "alt": "Real estate advertising and campaign design before"
+                },
+                "after": {
+                    "title": "Services for realtors",
+                    "filepath": "/assets/images/after/real-estate-branding-marketing-design-after.jpg",
+                    "alt": "Brand-aligned real estate promotional designs after"
+                }
+            }
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "Real Estate Branding & Marketing Design",
+            "description": [
+                "Stand out in a competitive market with Wellcode Studio’s real estate branding and marketing design services. Build trust, attract buyers, and elevate your property listings with a strong brand identity and compelling visuals. Our solutions enhance recognition and drive engagement across both digital and print platforms."
+            ]
+        },
+        "work_info": {
+            "title": "What is Real Estate Branding & Marketing Design?",
+            "descriptions": [
+                "Real Estate Branding & Marketing Design is the process of creating a cohesive visual identity and promotional materials for property businesses. It helps realtors, developers, and agencies stand out, build credibility, and communicate their brand consistently across listings, advertisements, and digital platforms."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Badge",
+                    "content": "Brand Identity Creation: Designing logos, color schemes, and typography that reflect the business’s personality."
+                },
+                {
+                    "icon": "FileImage",
+                    "content": "Marketing Collateral Design: Producing brochures, flyers, social media graphics, and advertisements."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Consistency Across Platforms: Ensuring the brand’s look and message remain uniform across all media."
+                },
+                {
+                    "icon": "Film",
+                    "content": "Visual Storytelling: Highlighting properties effectively through compelling design elements."
+                },
+                {
+                    "icon": "Users",
+                    "content": "Client & Market Engagement: Crafting visuals that attract, inform, and convert potential buyers or clients."
+                }
+            ]
+        }
+    }
+]

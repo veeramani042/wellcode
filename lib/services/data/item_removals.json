@@ -1,0 +1,300 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "Item Removals",
+        "meta_titles": [
+            "Item Removal for Real Estate Photos | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Professional item removal for real estate photos by Wellcode Studio. Remove unwanted objects, clutter, and furniture with AI-assisted, human-refined editing."
+        ],
+        "slug": "item-removal",
+        "header": {
+            "title": "Item Removal Services for Real Estate Photos",
+            "sub_title": "",
+            "descriptions": [
+                "Cluttered property photos can instantly reduce buyer interest. At Wellcode Studio, our Item Removal Services help you remove unwanted objects, furniture, and distractions from real estate photos—creating clean, spacious, and visually appealing images that convert better.",
+                "Whether it’s a lived-in home, an occupied property, or a last-minute listing issue, our professional object removal for real estate photos ensures your images stay focused on what truly matters: the property."
+            ]
+        },
+        "general_info": {
+            "title": "Why Item Removal Enhances Real Estate Listings",
+            "descriptions": [
+                "Clutter and distracting items can divert attention from a property’s key features. Professional item removal creates clean, polished images that engage buyers, prepare spaces for virtual staging, and ensure every listing makes a strong first impression online."
+            ],
+            "sub_section": {
+                "title": "How Item Removal Improves Listings",
+                "descriptions": [],
+                "list": [
+                    "Boosts buyer engagement with clean, clutter-free visuals",
+                    "Fixes unwanted items instantly without reshoots",
+                    "Prepares images for realistic and effective virtual staging"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Expert Item & Object Removal Services",
+            "descriptions": [
+                "Wellcode Studio provides professional item removal services for real estate photos that help create clean, spacious, and distraction-free property images. Our services are designed to improve visual clarity, buyer focus, and listing performance without the need for reshoots."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Unwanted Object Removal",
+                    "descriptions": [
+                        "We remove distracting elements such as wires, trash bins, personal belongings, wall stains, and background clutter while preserving the natural look, textures, and structure of the property image."
+                    ],
+                    "image": {
+                        "title": "Clutter-free interior",
+                        "filepath": "/assets/images/service-images/item-removal/item_removal_01.avif",
+                        "alt": "Removing personal belongings from property photos"
+                    }
+                },
+                {
+                    "title": "Small Item Removal",
+                    "descriptions": [
+                        "Our team digitally removes small clutter-causing items like toys, cables, décor overload, shoes, electronics, and loose objects that make rooms feel crowded, helping spaces appear open and well-presented."
+                    ],
+                    "image": {
+                        "title": "Large furniture removal",
+                        "filepath": "/assets/images/service-images/item-removal/item_removal_02.avif",
+                        "alt": "Wire and background distraction removal from property images"
+                    }
+                },
+                {
+                    "title": "Large Item Removal",
+                    "descriptions": [
+                        "We professionally remove large furniture items such as sofas, tables, cabinets, beds, and appliances while maintaining realistic flooring, shadows, and surface details for a natural finish."
+                    ],
+                    "image": {
+                        "title": "De-cluttered kitchen image",
+                        "filepath": "/assets/images/service-images/item-removal/item_removal_03.avif",
+                        "alt": "Professional item removal for occupied home photos"
+                    }
+                },
+                {
+                    "title": "De-Cluttering for Occupied Properties",
+                    "descriptions": [
+                        "For lived-in or occupied homes, we digitally declutter spaces to make them visually clean and buyer-friendly while keeping the property realistic and inviting."
+                    ],
+                    "image": {
+                        "title": "De-cluttered kitchen image",
+                        "filepath": "/assets/images/service-images/item-removal/item_removal_04.avif",
+                        "alt": "Professional item removal for occupied home photos"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Editing, Human-Perfected Property Cleanup",
+            "descriptions": [
+                "AI-assisted tools can speed up initial removal of unwanted items, but achieving flawless, realistic property images requires human expertise, careful attention, and design judgment."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors handle complex textures like carpets, wood, and patterned surfaces",
+                    "Straight architectural lines are carefully preserved",
+                    "Lighting and shadows are corrected for natural, realistic results",
+                    "Each property receives customized cleanup attention",
+                    "Final quality checks ensure images are MLS-compliant and visually appealing",
+                    "AI supports efficiency, but item removals that are clean, professional, and buyer-ready are ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Item & Object Removal Approach",
+            "descriptions": [
+                "Our item removal approach combines AI-assisted efficiency with human-led precision to deliver clean, natural, and MLS-compliant real estate images that enhance buyer confidence and engagement."
+            ],
+            "steps": [
+                {
+                    "title": "Image Upload & Review",
+                    "descriptions": [
+                        "Clients securely upload property images, and our team carefully reviews each photo to understand the structure, lighting, and removal requirements."
+                    ]
+                },
+                {
+                    "title": "Requirement Identification",
+                    "descriptions": [
+                        "We follow your exact instructions on what needs to be removed, whether it is small clutter, large furniture, or multiple distracting elements across the image."
+                    ]
+                },
+                {
+                    "title": "AI-Assisted Detection with Human Refinement",
+                    "descriptions": [
+                        "AI tools help identify objects and speed up initial cleanup, but skilled human editors manually refine surfaces, edges, textures, and lighting to ensure realism and accuracy."
+                    ]
+                },
+                {
+                    "title": "Natural Reconstruction & Detailing",
+                    "descriptions": [
+                        "Our editors carefully rebuild hidden areas such as floors, walls, and backgrounds so the final image looks untouched and professionally edited."
+                    ]
+                },
+                {
+                    "title": "Quality Check & Final Delivery",
+                    "descriptions": [
+                        "Each image undergoes strict quality control before being delivered in high resolution, ready for immediate use in listings, marketing, and virtual staging."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Who Benefits from Our Item Removal Services",
+            "descriptions": [],
+            "users": [
+                "Real estate agents",
+                "Property developers",
+                "Home stagers",
+                "Interior designers",
+                "Property marketing teams"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Item Removal",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Real Estate Editing Expertise",
+                    "descriptions": [
+                        "We specialize in real estate photo editing, ensuring every edit aligns with marketing and buyer psychology"
+                    ]
+                },
+                {
+                    "title": "Accuracy & Clarity",
+                    "descriptions": [
+                        "Every property layout is scaled correctly and reviewed for precision."
+                    ]
+                },
+                {
+                    "title": "Human Precision Over AI Shortcuts",
+                    "descriptions": [
+                        "AI can remove objects, but it often leaves distortion, texture loss, or unrealistic surfaces. Our skilled editors refine every detail manually for a flawless finish."
+                    ]
+                },
+                {
+                    "title": "Secure & Confidential",
+                    "descriptions": [
+                        "Your property images are handled with complete confidentiality and secure workflows."
+                    ]
+                },
+                {
+                    "title": "Consistent Quality at Scale",
+                    "descriptions": [
+                        "Whether you need a few images or bulk editing, our best item removal service for real estate maintains consistent results."
+                    ]
+                },
+                {
+                    "title": " On-Time Delivery",
+                    "descriptions": [
+                        "We respect deadlines so your listings go live without delay."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Transform Your Property Photos with Item Removal",
+            "descriptions": [
+                "Don’t let visual clutter reduce your listing’s potential. With Wellcode Studio’s professional object removal editing for real estate listings, your images become clean, focused, and buyer-ready",
+                "Start your job today and experience high-quality item removal that enhances property value."
+            ],
+            "link": {
+                "text": "Start your job today and experience high-quality item removal that enhances property value.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "De-cluttered kitchen image",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_06.avif",
+                    "alt": "Professional item removal for occupied home photos"
+                },
+                {
+                    "title": "De-cluttered kitchen image",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_07.avif",
+                    "alt": "Professional item removal for occupied home photos"
+                },
+                {
+                    "title": "Clutter-free interior",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_01.avif",
+                    "alt": "Removing personal belongings from property photos"
+                },
+                {
+                    "title": "Large furniture removal",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_02.avif",
+                    "alt": "Wire and background distraction removal from property images"
+                },
+                {
+                    "title": "De-cluttered kitchen image",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_03.avif",
+                    "alt": "Professional item removal for occupied home photos"
+                },
+                {
+                    "title": "De-cluttered kitchen image",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_04.avif",
+                    "alt": "Professional item removal for occupied home photos"
+                },
+                {
+                    "title": "De-cluttered kitchen image",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_05.avif",
+                    "alt": "Professional item removal for occupied home photos"
+                }
+            ],
+            "videos": [],
+            "comparison": {
+                "before": {
+                    "title": "Removing personal belongings",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_before.avif",
+                    "alt": "Clean and polished interior after object removal"
+                },
+                "after": {
+                    "title": "Interior after object removal",
+                    "filepath": "/assets/images/service-images/item-removal/item_removal_after.avif",
+                    "alt": "Virtual furniture removal for real estate marketing"
+                }
+            }
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "Real Estate Photo Item Removal Services",
+            "description": [
+                "Wellcode Studio’s Item Removal Services clean up real estate photos by removing unwanted objects, furniture, and distractions. Our professional edits create spacious, visually appealing images that highlight the property and help listings attract more buyers."
+            ]
+        },
+        "work_info": {
+            "title": "What is Item Removal in Real Estate Photography?",
+            "descriptions": [
+                "Item Removal is a digital editing process that eliminates unwanted objects, clutter, or distractions from property images. By creating clean, polished visuals, it helps buyers focus on the space itself, making listings appear more spacious, professional, and visually appealing."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Trash2",
+                    "content": "Clutter & Object Removal: Eliminating furniture, appliances, or personal items that distract from the property."
+                },
+                {
+                    "icon": "Brush",
+                    "content": "Background & Surface Retouching: Seamlessly filling areas where items were removed for a natural look."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Consistency in Lighting & Shadows: Maintaining realistic lighting after objects are edited out."
+                },
+                {
+                    "icon": "Maximize",
+                    "content": "Space Optimization Visualization: Making rooms appear larger and more open."
+                },
+                {
+                    "icon": "ZoomIn",
+                    "content": "High-Resolution Output: Ensuring edited images retain clarity for web and marketing use."
+                }
+            ]
+        }
+    }
+]

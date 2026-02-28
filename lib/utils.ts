@@ -918,7 +918,7 @@ export const servicesData = [
                 title: "Day to Dusk",
                 slug: "day-to-dusk",
                 description:
-                    "At Well Code Studio, we transform daytime property photos into warm, inviting dusk scenes that enhance mood and visual impact. Through realistic lighting, sky replacement, and color grading, our Day to Dusk editing helps listings stand out and create a strong emotional connection with buyers.",
+                    "At Wellcode Studio, we transform daytime property photos into warm, inviting dusk scenes that enhance mood and visual impact. Through realistic lighting, sky replacement, and color grading, our Day to Dusk editing helps listings stand out and create a strong emotional connection with buyers.",
                 features: ["Dusk Sky Replacement", "Twilight Color Grading", "Interior & Exterior Light Activation", "Shadow & Atmosphere Refinement"],
                 feature_content: ["Replaces flat daytime skies with realistic twilight skies featuring smooth gradients and natural light transitions.", "Applies warm, balanced tones to recreate the soft, inviting ambiance of sunset and early evening.", "Enhances window, porch, and exterior lighting to add depth, warmth, and a lived-in feel.", "Adjusts shadows and contrast to align with dusk lighting for a clean, realistic, and cohesive look."],
                 slider_images: [
@@ -1003,7 +1003,7 @@ export const servicesData = [
         id: "imaging",
         slug: "imaging",
         title: "Premium Brand Imaging",
-        tag: "commercial sector",
+        tag: "Image sector",
         cards: [
             {
                 title: "Product Image Editing & Enhancement Services",
@@ -1057,9 +1057,9 @@ export const servicesData = [
                 title: "Automobile Image Editing Services",
                 slug: "automobile-image-editing",
                 description:
-                    "At Well Code Studio, we professionally enhance automobile images to present vehicles with sharp detail, accurate colors, and strong visual impact. Our automobile image editing delivers clean, realistic, and marketing-ready visuals that build buyer confidence and improve online engagement.",
+                    "At Wellcode Studio, we professionally enhance automobile images to present vehicles with sharp detail, accurate colors, and strong visual impact. Our automobile image editing delivers clean, realistic, and marketing-ready visuals that build buyer confidence and improve online engagement.",
                 features: ["Background Cleanup & Isolation", "Lighting & Reflection Control", "Paint & Surface Retouching", "Shadow & Depth Enhancement"],
-                feature_content: ["Remove’s distracting surroundings and places vehicles  on clean or custom backgrounds to keep full focus on the car.", "Balances highlights, reduces glare, and refines reflections for clear, polished vehicle presentation.", "Eliminates scratches, dust, and imperfections while preserving original paint texture and realism.", "Adds natural ground shadows and depth to create a professional, showroom-quality look."],
+                feature_content: ["Remove’s distracting surroundings and places vehicles on clean or custom backgrounds to keep full focus on the car.", "Balances highlights, reduces glare, and refines reflections for clear, polished vehicle presentation.", "Eliminates scratches, dust, and imperfections while preserving original paint texture and realism.", "Adds natural ground shadows and depth to create a professional, showroom-quality look."],
                 slider_images: [
                     { filepath: "/assets/images/service-images/our-works/our_works_01.avif" },
                     { filepath: "/assets/images/service-images/our-works/our_works_02.avif" },
@@ -1073,7 +1073,7 @@ export const servicesData = [
                 title: "Photo Manipulation Services",
                 slug: "photo-manipulation",
                 description:
-                    "At Well Code Studio, we create high-impact photo manipulations that transform standard images into visually powerful stories. Our expert-led photo manipulation blends creativity, realism, and precision to produce striking visuals for branding, advertising, and digital campaigns.",
+                    "At Wellcode Studio, we create high-impact photo manipulations that transform standard images into visually powerful stories. Our expert-led photo manipulation blends creativity, realism, and precision to produce striking visuals for branding, advertising, and digital campaigns.",
                 features: ["Creative Image Compositing", "Advanced Object & Scene Reconstruction", "Lighting, Color & Mood Control", "Artistic Effects & Visual Storytelling"],
                 feature_content: ["Seamlessly combines multiple elements into a single, cohesive composition with natural depth and visual balance.", "Reshapes, rebuilds, or replaces elements to match creative concepts while maintaining realistic structure and flow.", "Refines tones, contrast, and lighting to establish emotional impact and professional visual consistency.", "Applies controlled special effects, surreal elements, and artistic enhancements that elevate brand communication without overpowering realism."],
                 slider_images: [
@@ -1089,7 +1089,7 @@ export const servicesData = [
                 title: "Image Masking Services",
                 slug: "image-masking",
                 description:
-                    "At Well Code Studio, we deliver precision-focused image masking services to isolate complex objects with fine edges like hair, fur, glass, and transparent materials. Our human-led masking ensures clean cutouts, preserved details, and natural transparency—perfect for e-commerce, advertising, and creative visuals.",
+                    "At Wellcode Studio, we deliver precision-focused image masking services to isolate complex objects with fine edges like hair, fur, glass, and transparent materials. Our human-led masking ensures clean cutouts, preserved details, and natural transparency—perfect for e-commerce, advertising, and creative visuals.",
                 features: ["Hair & Fine Edge Masking", "Alpha & Transparency Masking", "Refine Edge & Soft Transition Control", "Background Replacement & Composite Readiness"],
                 feature_content: ["Manually separates hair, fur, and soft edges with pixel-level accuracy for natural, realistic cutouts.", "Preserves transparency in glass, smoke, water, and sheer materials without losing depth or detail.", "Smooths irregular boundaries and delicate edges to ensure seamless background blending.", "Prepares perfectly masked subjects for clean background removal, replacement, or creative compositing."],
                 slider_images: [
@@ -1116,7 +1116,7 @@ export const servicesData = [
                 title: "Custom Software Development Services",
                 slug: "native-app-architecture",
                 description:
-                    "At Well Code Studio, we build custom software solutions that solve real business problems—not generic use cases. Our tailor-made software is designed around your workflows, goals, and future growth, helping you automate processes, improve efficiency, and scale with confidence. While AI-assisted tools support development speed, human expertise drives logic, architecture, and long-term reliability.",
+                    "At Wellcode Studio, we build custom software solutions that solve real business problems—not generic use cases. Our tailor-made software is designed around your workflows, goals, and future growth, helping you automate processes, improve efficiency, and scale with confidence. While AI-assisted tools support development speed, human expertise drives logic, architecture, and long-term reliability.",
                 features: ["Tailor-Made Software Solutions", "Scalable & Future-Ready Architecture", "Secure & Reliable Development", "End-to-End Development & Support"],
                 feature_content: ["We develop fully customized software built around your exact business needs—so your operations adapt to the software, not the other way around.", "Our software is designed to grow with your business, supporting increased users, data, and features without performance issues.", "We follow industry best practices to ensure data security, system stability, and dependable performance across all environments.", "From planning and development to deployment and ongoing support, we manage the complete software lifecycle for smooth, stress-free execution."],
                 slider_images: [
@@ -1132,7 +1132,7 @@ export const servicesData = [
                 title: "E-Commerce & CMS Development Services",
                 slug: "custom-enterprise-cms",
                 description:
-                    "At Well Code Studio, we build powerful e-commerce and CMS platforms that help businesses sell online, manage content easily, and scale without limitations. Our solutions are designed for performance, security, and growth—combining human expertise with modern development practices to deliver platforms that convert visitors into customers.",
+                    "At Wellcode Studio, we build powerful e-commerce and CMS platforms that help businesses sell online, manage content easily, and scale without limitations. Our solutions are designed for performance, security, and growth—combining human expertise with modern development practices to deliver platforms that convert visitors into customers.",
                 features: ["Conversion-Optimized E-Commerce Development", "Scalable & Global-Ready Platforms", "Flexible & Easy-to-Manage CMS", "Secure, Reliable & Future-Proof Architecture"],
                 feature_content: ["We build online stores focused on smooth navigation, secure payments, and optimized checkout flows that increase sales and reduce drop-offs.", "Our e-commerce and CMS solutions support multi-currency, international users, integrations, and future expansion without performance issues.", "We develop intuitive CMS systems that allow you to update content, products, and pages easily—without technical dependency.", "Every platform is built with strong security, fast performance, and scalable architecture to support long-term business growth."],
                 slider_images: [
@@ -1148,14 +1148,14 @@ export const servicesData = [
                 title: "Web Development Services",
                 slug: "ai-automation-logic",
                 description:
-                    "At Well Code Studio, we build fast, secure, and scalable websites that help businesses grow online. Our web development solutions focus on performance, usability, and conversions—crafted by human experts for long-term success.",
+                    "At Wellcode Studio, we build fast, secure, and scalable websites that help businesses grow online. Our web development solutions focus on performance, usability, and conversions—crafted by human experts for long-term success.",
                 features: ["Custom & Scalable Development", "Conversion-Focused UI/UX", "Secure & High-Performance Build", "SEO & Mobile Optimized"],
                 feature_content: ["Websites built specifically for your business goals, brand identity, and future growth.", "User-friendly layouts and clear journeys designed to turn visitors into leads and customers.", "Clean code, strong security practices, and optimized speed for reliable performance.", "Search-engine-friendly structure with responsive design for all devices."],
                 slider_images: [
                     { filepath: "/assets/images/service-images/web_development/custom_website_development.avif" },
                     { filepath: "/assets/images/service-images/web_development/web_application_development.avif" },
                     { filepath: "/assets/images/service-images/web_development/responsive_website_development.avif" },
-                    { filepath: "/assets/images/service-images/web_development/web_development_01.avif" },
+                    { filepath: "/assets/images/service-images/web_development/website_redesign_optimization.avif" },
                     { filepath: "/assets/images/service-images/web_development/web_development_03.avif" },
                 ],
                 images: ["/assets/images/service-images/web_development/website_redesign_optimization.avif"],
@@ -1164,7 +1164,7 @@ export const servicesData = [
                 title: "Website Maintenance & Support Services",
                 slug: "website-maintenance-support",
                 description:
-                    "At Well Code Studio, we keep your website secure, updated, and running at peak performance—so you can focus on growing your business. Our proactive website maintenance and support services prevent downtime, security risks, and performance issues before they impact your users.",
+                    "At Wellcode Studio, we keep your website secure, updated, and running at peak performance—so you can focus on growing your business. Our proactive website maintenance and support services prevent downtime, security risks, and performance issues before they impact your users.",
                 features: ["Security Monitoring & Protection", "Regular Updates & Content Support", "Performance & Speed Optimization", "Quick Bug Fixes & Technical Support"],
                 feature_content: ["Continuous security checks, malware prevention, and vulnerability fixes to keep your website safe.", "Timely CMS, plugin, and content updates to keep your site fresh, accurate, and functional.", "Ongoing monitoring and optimization to ensure fast loading, smooth performance, and better SEO.", "Fast issue resolution and expert support to minimize downtime and technical disruptions."],
                 slider_images: [
@@ -1180,17 +1180,33 @@ export const servicesData = [
                 title: "Cloud Migration & Management Services",
                 slug: "cloud-migration-management",
                 description:
-                    "At Well Code Studio, we help businesses move to the cloud smoothly, securely, and without disruption. Our cloud migration and management services modernize your IT infrastructure, improve performance, and reduce costs—while ensuring long-term scalability and reliability.",
+                    "At Wellcode Studio, we help businesses move to the cloud smoothly, securely, and without disruption. Our cloud migration and management services modernize your IT infrastructure, improve performance, and reduce costs—while ensuring long-term scalability and reliability.",
                 features: ["Secure Cloud Migration", "Cloud Infrastructure Management", "Cost Optimization & Resource Control", "Ongoing Cloud Support & Monitoring"],
                 feature_content: ["Seamless migration of applications, data, and systems with minimal downtime and complete data protection.", "Continuous monitoring and management to ensure high availability, performance, and stability of your cloud environment.", "Smart cloud optimization to eliminate unnecessary spending while maximizing efficiency and performance.", "Proactive monitoring, troubleshooting, and expert support to keep your cloud infrastructure running smoothly."],
                 slider_images: [
                     { filepath: "/assets/images/service-images/cloud-migration/cloud_migration_01.avif" },
-                    { filepath: "/assets/images/service-images/cloud-migration/cloud_migration_02.avif" },
+                    { filepath: "/assets/images/service-images/cloud-migration/cloud_migration_06.avif" },
                     { filepath: "/assets/images/service-images/cloud-migration/cloud_migration_03.avif" },
                     { filepath: "/assets/images/service-images/cloud-migration/cloud_migration_04.avif" },
                     { filepath: "/assets/images/service-images/cloud-migration/cloud_migration_05.avif" },
                 ],
                 images: ["/assets/images/service-images/cloud-migration/cloud_consulting_strategy.avif"],
+            },
+            {
+                title: "iOS & Android App Development Services",
+                slug: "ios-android-app-development",
+                description:
+                    "At Wellcode Studio, we build secure, scalable, and high-performance iOS and Android applications that help businesses grow, engage users, and launch faster. Our mobile apps are crafted by experienced developers who combine smart technology with human expertise to deliver reliable, real-world results—not just code that looks good on paper.",
+                features: ["Custom App Development", "High-Performance & Scalable Architecture", "User-Centric UI/UX Design", "Secure & Reliable Development"],
+                feature_content: ["We design and develop fully customized mobile apps tailored to your business goals, target audience, and brand identity—no templates, no shortcuts.", "Our apps are built for speed, stability, and future growth, ensuring smooth performance even as your user base and features expand.", "We create intuitive, engaging interfaces that improve user experience, increase retention, and drive higher app engagement.", "From data protection to secure authentication, we follow best practices to ensure your app is safe, stable, and trusted by users."],
+                slider_images: [
+                    { filepath: "/assets/images/service-images/ios-android-app-development/android_app_development.avif" },
+                    { filepath: "/assets/images/service-images/ios-android-app-development/android_app_development_01.avif" },
+                    { filepath: "/assets/images/service-images/ios-android-app-development/app_uiux_design.avif" },
+                    { filepath: "/assets/images/service-images/ios-android-app-development/app_uiux_design01.avif" },
+                    { filepath: "/assets/images/service-images/ios-android-app-development/native_cross_platform_apps_01.avif" },
+                ],
+                images: ["/assets/images/service-images/ios-android-app-development/custom_mobile_app_solutions_01.avif"],
             },
         ],
         subtitle: "Transform complex systems into clear, compelling stories. Communicate innovation with precision and impact.",
@@ -1206,7 +1222,7 @@ export const servicesData = [
                 title: "Professional Logo Creation Services",
                 slug: "logo-creation",
                 description:
-                    "We create custom, memorable logos that help businesses build strong brand recognition and instant trust. At Well Code Studio, our logo designs are crafted to reflect your brand’s identity, values, and long-term vision—perfect for startups, growing brands, and global businesses.",
+                    "We create custom, memorable logos that help businesses build strong brand recognition and instant trust. At Wellcode Studio, our logo designs are crafted to reflect your brand’s identity, values, and long-term vision—perfect for startups, growing brands, and global businesses.",
                 features: ["Custom & Brand-Focused Design", "Strategic Visual Identity", "Scalable for All Platforms", "Modern, Timeless & Memorable"],
                 feature_content: ["Logos designed from scratch to match your brand personality, industry, and audience—no templates, no generic ideas.", "We blend creativity with branding strategy to ensure your logo communicates credibility, professionalism, and purpose.", "Your logo is delivered in high-quality formats that work seamlessly across websites, social media, print, and marketing materials.", "Clean, modern designs that stay relevant over time and help your brand stand out in competitive markets."],
                 slider_images: [
@@ -1222,7 +1238,7 @@ export const servicesData = [
                 title: "Professional Brochure & Flyer Design Services",
                 slug: "digital-marketing",
                 description:
-                    "We design visually compelling brochures and flyers that clearly communicate your message and boost brand credibility. At Well Code Studio, our designs are crafted to support marketing, sales, and promotions—perfect for both digital sharing and high-quality print.",
+                    "We design visually compelling brochures and flyers that clearly communicate your message and boost brand credibility. At Wellcode Studio, our designs are crafted to support marketing, sales, and promotions—perfect for both digital sharing and high-quality print.",
                 features: ["Clear Messaging & Smart Layouts", "Brand-Consistent Visual Design", "Print-Ready & Digital-Optimized", "Marketing-Driven Creative Approach"],
                 feature_content: ["Well-structured designs that highlight your key offerings, making information easy to read and quick to understand.", "Every brochure and flyer aligns perfectly with your brand identity, colors, and tone for a professional, unified look.", "High-resolution designs delivered in formats ready for printing and digital distribution without quality loss.", "Designs focused on engagement and action—ideal for promotions, events, presentations, and sales campaigns."],
                 slider_images: [
@@ -1238,7 +1254,7 @@ export const servicesData = [
                 title: "Data Management Services",
                 slug: "data-management",
                 description:
-                    "We help businesses organize, secure, and manage data with accuracy and confidence. At Well Code Studio, our data management services turn raw, scattered information into structured, reliable assets that support smarter decisions and smoother operations.",
+                    "We help businesses organize, secure, and manage data with accuracy and confidence. At Wellcode Studio, our data management services turn raw, scattered information into structured, reliable assets that support smarter decisions and smoother operations.",
                 features: ["Structured & Organized Data", "Accurate Data Processing", "Secure Data Handling", "Scalable Data Solutions"],
                 feature_content: ["We clean, organize, and structure your data for easy access, consistency, and long-term usability across systems.", "Efficient data entry, validation, and handling services that reduce errors and keep business operations running smoothly.", "Industry-standard security practices ensure your sensitive business data stays protected and confidential.", "Custom data management solutions designed to grow with your business and evolving data needs."],
                 slider_images: [
@@ -1254,7 +1270,7 @@ export const servicesData = [
                 title: "Video Services",
                 slug: "video-services",
                 description:
-                    "We create high-impact videos that help brands engage audiences, communicate clearly, and stand out online. At Well Code Studio, our professional video services turn ideas into visually compelling stories that drive attention, trust, and conversions.",
+                    "We create high-impact videos that help brands engage audiences, communicate clearly, and stand out online. At Wellcode Studio, our professional video services turn ideas into visually compelling stories that drive attention, trust, and conversions.",
                 features: ["Professional Video Editing", "End-to-End Video Production", "Corporate & Promotional Videos", "360° Videos & Virtual Tours"],
                 feature_content: ["Clean, polished editing with color correction, sound enhancement, and optimized visuals that keep viewers engaged.", "From concept and scripting to final delivery, we handle the complete video creation process with consistency and quality.", "Brand-focused videos designed to showcase your business, services, and value—perfect for websites and marketing campaigns.", "Immersive video experiences that increase engagement and help audiences explore spaces and stories interactively."],
                 slider_images: [
@@ -1270,7 +1286,7 @@ export const servicesData = [
                 title: "E-Commerce Services",
                 slug: "e-commerce",
                 description:
-                    "At Well Code Studio, we provide conversion-driven E-Commerce services that help online businesses attract customers, build trust, and increase sales. From compelling visuals to accurate product data and smooth operations, we optimize every element that impacts buying decisions.",
+                    "At Wellcode Studio, we provide conversion-driven E-Commerce services that help online businesses attract customers, build trust, and increase sales. From compelling visuals to accurate product data and smooth operations, we optimize every element that impacts buying decisions.",
                 features: ["E-Commerce Creative Design", "Product Visual Optimization", "Product Data Management", "E-Commerce Support & Operations"],
                 feature_content: ["Eye-catching banners, product creatives, and promotional visuals designed to boost engagement and conversions.", "High-quality, consistent product visuals that build trust and influence faster purchase decisions.", "Accurate titles, descriptions, and attributes that keep listings optimized, organized, and customer-ready.", "Reliable support for order workflows, platform handling, and checkout experience to ensure smooth online operations."],
                 slider_images: [
@@ -1286,7 +1302,7 @@ export const servicesData = [
                 title: "UI/UX Design Services",
                 slug: "ui-ux-design",
                 description:
-                    "At Well Code Studio, we deliver user-centric UI/UX design services that turn digital products into intuitive, engaging, and conversion-driven experiences. Our designs are built around real user behavior—helping businesses improve usability, retention, and customer trust across web and mobile platforms.",
+                    "At Wellcode Studio, we deliver user-centric UI/UX design services that turn digital products into intuitive, engaging, and conversion-driven experiences. Our designs are built around real user behavior—helping businesses improve usability, retention, and customer trust across web and mobile platforms.",
                 features: ["User-Centered UX Design", "Clean & Modern UI Design", "Web & Mobile UI/UX Design", "Conversion-Driven Product Design"],
                 feature_content: ["Well-researched user journeys that simplify navigation, reduce friction, and improve overall user satisfaction.", "Visually consistent interfaces with clear hierarchy, branding, and layouts that feel intuitive and professional.", "Optimized UI/UX designs for websites and mobile apps that perform seamlessly across all devices and screen sizes.", "Designs focused on engagement, usability, and actions—helping users adopt products faster and convert with confidence."],
                 slider_images: [

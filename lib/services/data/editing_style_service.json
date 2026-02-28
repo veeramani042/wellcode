@@ -1,0 +1,296 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "Editing Style Service",
+        "meta_titles": [
+            "Property Editing Styles for High-Impact Listings | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Explore professional real estate photo editing styles, including Magazine, Editorial, Cinematic, Architectural, and Social Media Optimized. Enhance property listings and attract more buyers with market-ready visuals."
+        ],
+        "slug": "editing-style-service",
+        "header": {
+            "title": "Professional Real Estate Image Editing Services That Help Properties Sell Faster",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we deliver professional real estate image editing services that help property listings stand out, attract more qualified buyers, and generate faster inquiries across global markets.",
+                "We work with real estate agents, photographers, property marketers, and developers worldwide, providing clean, realistic, and market-ready visuals—including virtual staging solutions—designed to enhance listings without compromising authenticity. If your properties need stronger visual impact without looking over-edited, our human-led editing approach is built for you."
+            ]
+        },
+        "general_info": {
+            "title": "Why Editing Style Matters in Real Estate Listings",
+            "descriptions": [
+                "In competitive real estate markets, buyers form impressions within seconds of viewing a property online. The right editing style enhances visual appeal, strengthens perceived value, and aligns images with your marketing strategy. Professionally styled real estate photos don’t just look polished — they attract attention, build trust, and drive stronger engagement."
+            ],
+            "sub_section": {
+                "title": "How the Right Editing Style Improves Listings",
+                "list": [
+                    "Increases engagement and listing clicks",
+                    "Enhances perceived property value and space appeal",
+                    "Improves visual consistency across marketing platforms",
+                    "Supports faster sales and leasing cycles",
+                    "Strengthens agent and developer brand positioning"
+                ]
+            }
+        },
+        "our_works": {
+            "title": "Real Estate Editing Styles for High-Impact Property Listings",
+            "descriptions": [
+                "Our real estate photo editing styles are designed to match different property types, branding strategies, and marketing goals. Each style enhances visual appeal, improves listing performance, and maintains natural realism to attract serious buyers."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Magazine Style Editing",
+                    "descriptions": [
+                        "Create bright, polished, and aspirational property visuals inspired by premium real estate publications. Ideal for luxury homes and competitive listings where strong first impressions drive engagement."
+                    ],
+                    "image": {
+                        "title": "High-quality real estate image optimized",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_01.avif",
+                        "alt": "Cleaned and clutter-free kitchen image for real estate marketing"
+                    }
+                },
+                {
+                    "title": "Editorial Style Editing",
+                    "descriptions": [
+                        "Deliver clean, balanced, and true-to-life property images that maintain authenticity. Perfect for MLS listings, property portals, and professional presentations."
+                    ],
+                    "image": {
+                        "title": "Cleaned and polished hallway image",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_02.avif",
+                        "alt": "Real estate exterior image with sky replacement and color balance"
+                    }
+                },
+                {
+                    "title": "Architectural Style Editing",
+                    "descriptions": [
+                        "Highlight structure, symmetry, materials, and design precision with technically refined enhancements. Best suited for architects, developers, and design-focused properties."
+                    ],
+                    "image": {
+                        "title": "Bright and appealing balcony",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_03.avif",
+                        "alt": "Living area photo with enhanced sharpness and detail"
+                    }
+                },
+                {
+                    "title": "Cinematic Style Editing",
+                    "descriptions": [
+                        "Add dramatic contrast, refined shadows, and rich tones to create bold, luxury-driven visuals. Ideal for high-end villas, promotional campaigns, and premium marketing materials."
+                    ],
+                    "image": {
+                        "title": "Bright and appealing balcony",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_04.avif",
+                        "alt": "Living area photo with enhanced sharpness and detail"
+                    }
+                },
+                {
+                    "title": "Social Media Optimized Editing",
+                    "descriptions": [
+                        "Enhance clarity, contrast, and visual impact to create scroll-stopping property images. Designed specifically for Instagram, Facebook, and digital advertising campaigns."
+                    ],
+                    "image": {
+                        "title": "Bright and appealing balcony",
+                        "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_05.avif",
+                        "alt": "Living area photo with enhanced sharpness and detail"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Editing, Human-Perfected Real Estate Styles",
+            "descriptions": [
+                "AI tools enhance workflow efficiency, but defining the right real estate editing style requires professional judgment and creative precision. Achieving the correct mood, tonal balance, and property positioning depends on human expertise—not automation alone."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors fine-tune tone, contrast, and mood based on property type and target audience",
+                    "Manual refinements ensure architectural details and materials remain accurate",
+                    "Style consistency is maintained across the entire property gallery",
+                    "Customized adjustments align visuals with specific marketing goals",
+                    "Final quality checks prevent over-processing and unnatural enhancements",
+                    "AI supports speed, but market-ready, high-converting real estate images are perfected through human expertise at Wellcode Studio."
+                ]
+            }
+        },
+        "process": {
+            "title": "Our Approach to Editing Styles",
+            "descriptions": [
+                "Our structured, human-led process ensures each editing style is applied with precision and consistency. Every step is designed to deliver realistic, market-ready real estate images aligned with your marketing goals."
+            ],
+            "steps": [
+                {
+                    "title": "Style Selection Consultation",
+                    "descriptions": [
+                        "We evaluate the property type, target audience, and marketing objective to determine the most suitable editing style."
+                    ]
+                },
+                {
+                    "title": "Professional Image Enhancement",
+                    "descriptions": [
+                        "Exposure, color balance, contrast, and tonal adjustments are carefully tailored to match the chosen visual direction."
+                    ]
+                },
+                {
+                    "title": "Detail Refinement",
+                    "descriptions": [
+                        "Unwanted distractions, lighting inconsistencies, and minor imperfections are corrected to achieve a clean, market-ready presentation."
+                    ]
+                },
+                {
+                    "title": "Style Consistency Review",
+                    "descriptions": [
+                        "We ensure every image within the property gallery maintains a uniform mood, tone, and visual identity aligned with the selected editing style."
+                    ]
+                },
+                {
+                    "title": "Final Quality Assurance & Optimization",
+                    "descriptions": [
+                        "Each image undergoes a final manual inspection to verify accuracy, realism, and readiness for listing platforms and marketing use."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Who We Work With",
+            "descriptions": [
+                "Our real estate editing styles are designed for professionals who rely on high-quality property visuals to attract buyers and strengthen brand positioning, including:"
+            ],
+            "users": [
+                "Luxury real estate agencies",
+                "Property photographers and media companies",
+                "Developers and builders",
+                "Architecture and interior design firms",
+                "Vacation rental owners and hospitality brands",
+                "Commercial property marketers"
+            ]
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Editing Styles?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Real Estate–Focused Expertise",
+                    "descriptions": [
+                        "Our team specializes exclusively in property visuals and understands how style influences buyer perception."
+                    ]
+                },
+                {
+                    "title": "Human-Led Quality Control",
+                    "descriptions": [
+                        "Every style is manually refined and reviewed to maintain realism and market compliance."
+                    ]
+                },
+                {
+                    "title": "Consistent Brand Alignment",
+                    "descriptions": [
+                        "We ensure editing styles remain consistent across entire property galleries."
+                    ]
+                },
+                {
+                    "title": "Fast & Reliable Turnaround",
+                    "descriptions": [
+                        "We deliver market-ready visuals within tight real estate marketing timelines."
+                    ]
+                },
+                {
+                    "title": "Trusted by Global Clients",
+                    "descriptions": [
+                        "Our editing standards align with international property listing expectations."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Ready to Choose the Right Editing Style for Your Property?",
+            "descriptions": [
+                "Let Wellcode Studio help you present your listings with the visual identity they deserve. Request a quote or share your images today — and let our expert editors apply the perfect editing style to enhance engagement and results."
+            ],
+            "link": {
+                "text": "Request a quote or share your images today",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_06.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                },
+                {
+                    "title": "High-quality real estate image optimized",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_01.avif",
+                    "alt": "Cleaned and clutter-free kitchen image for real estate marketing"
+                },
+                {
+                    "title": "Cleaned and polished hallway image",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_02.avif",
+                    "alt": "Real estate exterior image with sky replacement and color balance"
+                },
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_03.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                },
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_04.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                },
+                {
+                    "title": "Bright and appealing balcony",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image-editing_05.avif",
+                    "alt": "Living area photo with enhanced sharpness and detail"
+                }
+            ],
+            "videos": [],
+            "comparison": {
+                "before": {
+                    "title": "Corrected window reflections",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image_editing_before_one.avif",
+                    "alt": "Professionally retouched bathroom image for online listings before"
+                },
+                "after": {
+                    "title": "Showing accurate light and depth",
+                    "filepath": "/assets/images/service-images/real-estate-image-editing/real_estate_image_editing_after_one.avif",
+                    "alt": "Enhanced garden and lawn image for property promotion after"
+                }
+            }
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "Real Estate Editing Styles Designed for Every Property Positioning",
+            "description": [
+                "Every property listing requires a distinct visual approach to attract the right buyers. At Wellcode Studio, we provide specialized real estate photo editing styles tailored to property type, brand positioning, and marketing goals. Our human-led editing ensures market-ready, high-converting property images that stand out on listing platforms."
+            ]
+        },
+        "work_info": {
+            "title": "What Are Real Estate Editing Styles?",
+            "descriptions": [
+                "Real estate editing styles define the visual mood, tone, and enhancement direction applied to property images. While core technical corrections remain consistent, the final aesthetic is tailored to match property positioning and marketing strategy. The right style helps listings attract the right buyers and perform stronger across digital platforms."
+            ],
+            "sub_title": "Choosing the right editing style helps",
+            "list": [
+                {
+                    "icon": "Target",
+                    "content": "Align visuals with target buyer expectations."
+                },
+                {
+                    "icon": "MousePointerClick",
+                    "content": "Improve click-through rates on listing portals."
+                },
+                {
+                    "icon": "BadgeCheck",
+                    "content": "Strengthen brand identity for agents and developers."
+                },
+                {
+                    "icon": "TrendingUp",
+                    "content": "Increase perceived property value."
+                }
+            ]
+        }
+    }
+]

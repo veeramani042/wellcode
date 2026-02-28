@@ -265,5 +265,6 @@ export type MediaComparison = {
 export type Media = {
     images: MediaItem[]
     videos: MediaItem[]
+    slider: MediaItem[]
     comparison: MediaComparison | null
 }

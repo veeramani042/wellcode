@@ -87,10 +87,10 @@ export default function StrengthSection() {
                         className="relative overflow-hidden rounded-3xl col-span-1 lg:col-span-2 bg-gradient-to-br from-pink-900/80 to-black/50 min-h-[350px] px-6 py-20"
                     >
                         <h3 className="max-w-sm text-3xl font-semibold text-white">
-                            Competitive Edge Through Strategic Wellcode.
+                            Competitive Edge Through Strategic Outsource.
                         </h3>
                         <p className="mt-4 max-w-sm text-white/60">
-                            Wellcode your image editing, creative production, and digital services to reduce operational costs, increase efficiency, and scale faster. Focus on growth while we handle high-quality execution.
+                            Outsource your image editing, creative production, and digital services to reduce operational costs, increase efficiency, and scale faster. Focus on growth while we handle high-quality execution.
                         </p>
 
                         <motion.img

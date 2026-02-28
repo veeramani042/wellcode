@@ -1,0 +1,301 @@
+[
+    {
+        "base_service": "Image Editing",
+        "service_title": "Automobile Image Editing",
+        "meta_titles": [
+            "Professional Automobile Image Editing Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Get high-quality automobile image editing services from Wellcode Studio. Professional car photo editing, background removal, shadow creation, color correction & vehicle retouching for global automotive brands."
+        ],
+        "slug": "automobile-image-editing",
+        "service_slider": {
+            "title": "Professional Automobile Image Editing for Automotive Brands",
+            "description": [
+                "At WellCode Studio, we enhance vehicle and spare part images with precision, clarity, and strong visual impact. Our automobile image editing services create realistic, marketing-ready visuals for websites and marketplaces. Drive buyer confidence and influence purchase decisions with professionally edited automotive images."
+            ]
+        },
+        "header": {
+            "title": "Automobile Image Editing Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, our Automobile Image Editing services help automotive brands, dealerships, and marketer’s present vehicles and spare parts with clarity, precision, and visual impact. In today’s digital-first buying journey, high-quality automobile images play a critical role in influencing customer decisions.",
+                "We enhance vehicle images using a blend of human expertise and advanced editing tools, ensuring every car image looks professional, realistic, and ready for marketing across websites, marketplaces, and advertisements."
+            ]
+        },
+        "general_info": {
+            "title": "Why Automobile Image Editing Boosts Brand Impact",
+            "descriptions": [
+                "Professionally High-quality automobile images shape customer perception, build trust, and enhance brand value."
+            ],
+            "sub_section": {
+                "title": "How Automobile Image Editing Improves Listings & Marketing",
+                "descriptions": [],
+                "list": [
+                    "Creates strong first impressions that capture attention",
+                    "Improves engagement on listings, ads, and promotions",
+                    "Increases inquiry and conversion rates",
+                    "Builds credibility for online buyers",
+                    "Strengthens brand consistency across platforms"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "High-Impact Automobile Image Editing Services",
+            "descriptions": [
+                "At Wellcode Studio, we provide professional automobile image editing services that enhance vehicle visuals with precision, realism, and brand consistency. Our human-led edits ensure cars, bikes, and spare parts look sharp, polished, and marketing-ready—helping dealerships, manufacturers, and marketers attract customers and drive conversions."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Background Removal & Replacement",
+                    "descriptions": [
+                        "Distracting backgrounds are removed and replaced with clean or custom environments to keep the focus on the vehicle and improve listing appeal."
+                    ],
+                    "image": {
+                        "title": "Car photo retouching",
+                        "filepath": "/assets/images/service-images/automobile_image_editing/background_remove_replacement_02.avif",
+                        "alt": "Professional automobile photo editing services"
+                    }
+                },
+                {
+                    "title": "Shadow & Reflection Creation",
+                    "descriptions": [
+                        "Natural ground shadows and realistic reflections add depth and authenticity, enhancing visual impact without distortion."
+                    ],
+                    "image": {
+                        "title": "Manipulation and detailing",
+                        "filepath": "/assets/images/service-images/automobile_image_editing/shadow_reflection_03.avif",
+                        "alt": "Car background removal and replacement"
+                    }
+                },
+                {
+                    "title": "Car Color Change & Variant Visualization",
+                    "descriptions": [
+                        "Digital color changes showcase multiple variants while maintaining true-to-life tones aligned with brand standards."
+                    ],
+                    "image": {
+                        "title": "Photo editing for dealerships",
+                        "filepath": "/assets/images/service-images/automobile_image_editing/car_color_change_04.avif",
+                        "alt": "Vehicle shadow and reflection creation"
+                    }
+                },
+                {
+                    "title": "Paint Retouching & Scratch Removal",
+                    "descriptions": [
+                        "Minor scratches, dust, stains, and surface imperfections are removed to deliver showroom-ready, flawless vehicle images."
+                    ],
+                    "image": {
+                        "title": "Glare removal in car photos",
+                        "filepath": "/assets/images/service-images/automobile_image_editing/paint_retouching_scratch_removal_03.avif",
+                        "alt": "Lighting enhancement and glare removal in car photos"
+                    }
+                },
+                {
+                    "title": "Lighting Enhancement & Glare Control",
+                    "descriptions": [
+                        "We balance highlights, exposure, and glare on metal, glass, and headlights for crystal-clear, professional visuals."
+                    ],
+                    "image": {
+                        "title": "Expert automobile photo editing",
+                        "filepath": "/assets/images/service-images/automobile_image_editing/lighting_enhancement_glare_control_06.avif",
+                        "alt": "Interior and exterior vehicle image editing"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Editing, Human-Perfected Automobile Visuals",
+            "descriptions": [
+                "AI tools can assist with quick corrections, but achieving precise, realistic automobile imagery requires human judgment and attention to detail to maintain accuracy and visual authenticity."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors ensure accurate paint color representation for true-to-life results",
+                    "Complex reflections, glare, and lighting nuances are carefully handled",
+                    "Vehicle contours and perspective are manually corrected for realism",
+                    "Manual masking and precision retouching enhance every detail",
+                    "AI supports basic enhancements, but final quality is ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Proven Approach to Automobile Image Editing",
+            "descriptions": [
+                "Our approach combines human expertise with careful, detail-oriented editing techniques to create polished, realistic automobile visuals that support marketing, e-commerce, and branding goals."
+            ],
+            "steps": [
+                {
+                    "title": "Requirement Understanding",
+                    "descriptions": [
+                        "We assess your vehicles, platforms, and visual goals to plan a tailored editing strategy for consistent, high-quality output."
+                    ]
+                },
+                {
+                    "title": "Image Review & Analysis",
+                    "descriptions": [
+                        "Each vehicle image is analyzed for lighting, reflections, angles, and color accuracy before editing begins."
+                    ]
+                },
+                {
+                    "title": "Manual Editing & Enhancement",
+                    "descriptions": [
+                        "Skilled editors refine body surfaces, interiors, lighting, and features to achieve realistic, polished, and professional results."
+                    ]
+                },
+                {
+                    "title": "Shadow, Reflection & Color Optimization",
+                    "descriptions": [
+                        "Shadows, reflections, and colors are perfected to maintain depth, realism, and accurate representation of the vehicle."
+                    ]
+                },
+                {
+                    "title": "Quality Assurance & Accuracy Checks",
+                    "descriptions": [
+                        "Every edited image is reviewed for consistency, realism, and marketing readiness to ensure maximum visual impact."
+                    ]
+                },
+                {
+                    "title": "Final Delivery & Platform-Ready Images",
+                    "descriptions": [
+                        "Images are delivered in your preferred format, resolution, and specifications, ready for listings, marketplaces, advertisements, and websites."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries We Serve",
+            "descriptions": [],
+            "users": [
+                "Car Dealerships & Showrooms",
+                "Automotive Manufacturers",
+                "Online Vehicle Marketplaces",
+                "Rental & Leasing Companies",
+                "Automotive Event Organizers"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Automobile Image Editing?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Skilled Automotive Editors",
+                    "descriptions": [
+                        "Our editors have hands-on experience with car and vehicle image retouching across industries."
+                    ]
+                },
+                {
+                    "title": "High-End Editing Quality",
+                    "descriptions": [
+                        "We focus on detail, realism, and consistency—no over-editing, no compromise."
+                    ]
+                },
+                {
+                    "title": "Quick Turnaround Time",
+                    "descriptions": [
+                        "We handle both small and bulk projects efficiently, even under tight deadlines."
+                    ]
+                },
+                {
+                    "title": "Scalable & Affordable Solutions",
+                    "descriptions": [
+                        "From single vehicle edits to large dealership inventories, our services scale to your needs."
+                    ]
+                },
+                {
+                    "title": "Global Client Support",
+                    "descriptions": [
+                        "We work with international clients, ensuring secure data handling and reliable delivery."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Showcase Your Vehicles with Confidence",
+            "descriptions": [
+                "With Wellcode Studio’s Automobile Image Editing services, your vehicles look sharp, realistic, and market-ready—helping you attract global customers and drive conversions.",
+                "Contact us today to discuss your automobile image editing requirements and experience professional results that elevate your brand."
+            ],
+            "link": {
+                "text": "Contact us today to discuss your automobile image editing requirements and experience professional results that elevate your brand.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Realistic reflections and shadows",
+                    "filepath": "/assets/images/service-images/automobile_image_editing/automobile_image_editing_01.avif",
+                    "alt": "Automotive image enhancement for online listings"
+                },
+                {
+                    "title": "Realistic reflections and shadows",
+                    "filepath": "/assets/images/service-images/automobile_image_editing/automobile_image_editing_02.avif",
+                    "alt": "Automotive image enhancement for online listings"
+                },
+                {
+                    "title": "Car photo retouching",
+                    "filepath": "/assets/images/service-images/automobile_image_editing/background_remove_replacement_02.avif",
+                    "alt": "Professional automobile photo editing services"
+                },
+                {
+                    "title": "Manipulation and detailing",
+                    "filepath": "/assets/images/service-images/automobile_image_editing/shadow_reflection_03.avif",
+                    "alt": "Car background removal and replacement"
+                },
+                {
+                    "title": "Photo editing for dealerships",
+                    "filepath": "/assets/images/service-images/automobile_image_editing/car_color_change_04.avif",
+                    "alt": "Vehicle shadow and reflection creation"
+                },
+                {
+                    "title": "Glare removal in car photos",
+                    "filepath": "/assets/images/service-images/automobile_image_editing/paint_retouching_scratch_removal_03.avif",
+                    "alt": "Lighting enhancement and glare removal in car photos"
+                },
+                {
+                    "title": "Expert automobile photo editing",
+                    "filepath": "/assets/images/service-images/automobile_image_editing/lighting_enhancement_glare_control_06.avif",
+                    "alt": "Interior and exterior vehicle image editing"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Automobile Image Editing?",
+            "descriptions": [
+                "Automobile Image Editing is the professional enhancement of vehicle photographs to create clean, detailed, and visually appealing visuals for modern buyers. It improves image quality while maintaining accuracy, helping dealerships and automotive businesses build trust and attract attention online."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Palette",
+                    "content": "Color & Paint Enhancement: Refining tones and reflections to highlight the vehicle’s finish."
+                },
+                {
+                    "icon": "ImageMinus",
+                    "content": "Background Cleanup & Replacement: Removing distractions for a focused, professional look."
+                },
+                {
+                    "icon": "Focus",
+                    "content": "Detail Sharpening: Enhancing headlights, interiors, wheels, and key features."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Shadow & Reflection Balancing: Adding depth while maintaining realistic lighting."
+                },
+                {
+                    "icon": "Layout",
+                    "content": "Marketplace-Ready Optimization: Preparing images for automotive websites, listings, and ads."
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "base_service": "Image Editing",
+        "service_title": "Image Editing",
+        "meta_titles": [
+            "Image Editing Services | Professional Photo Editing – Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Wellcode Studio offers expert image editing services with manual precision and fast turnaround. High-quality photo enhancement solutions for global businesses and creatives."
+        ],
+        "slug": "image-editing",
+        "service_slider": {
+            "title": "Professional Image Editing for High-Quality Visuals",
+            "description": [
+                "At WellCode Studio, we transform ordinary images into visually compelling, high-quality assets with precision editing. Our expert image editing services enhance clarity, detail, and visual appeal while maintaining a natural finish. Trusted by photographers, e-commerce brands, and businesses worldwide for consistent, professional results."
+            ]
+        },
+        "header": {
+            "title": "Professional Image Editing Services for High-Quality Visual Results",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we offer professional image editing services designed to transform ordinary images into visually compelling assets. Whether you are a photographer, e-commerce brand, creative agency, or business owner, our expert editors enhance image quality, clarity, and visual appeal while maintaining a natural and realistic finish. We work with clients worldwide, delivering consistent, high-quality image editing solutions tailored to diverse industries and creative needs."
+            ]
+        },
+        "general_info": {
+            "title": "Why Professional Image Editing Matters",
+            "descriptions": [
+                "Professional image editing turns ordinary visuals into polished, eye-catching content that captures attention and communicates your message effectively."
+            ],
+            "sub_section": {
+                "title": "How Image Editing Improves Your Visuals",
+                "descriptions": [],
+                "list": [
+                    "Enhances colors, lighting, and clarity for impactful visuals",
+                    "Removes distractions and imperfections for a polished look",
+                    "Boosts audience engagement and retention",
+                    "Supports stronger brand perception across platforms"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Professional Image Editing Services – Elevate Your Visuals",
+            "descriptions": [
+                "Wellcode Studio provides professional image editing services that transform ordinary photos into visually compelling, high-quality assets. Our expert editors enhance clarity, color, and composition, delivering polished images suitable for real estate, e-commerce, creative agencies, and businesses worldwide."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Image Repair & Restoration",
+                    "descriptions": [
+                        "We fix damaged, blurred, or imperfect images by restoring details, correcting flaws, and improving overall clarity while preserving the image’s natural and original appearance."
+                    ],
+                    "image": null
+                },
+                {
+                    "title": "Color Correction & Brightness Adjustment",
+                    "descriptions": [
+                        "Our editors refine color balance, contrast, and brightness to produce vibrant, natural-looking images that meet commercial and professional standards."
+                    ],
+                    "image": null
+                },
+                {
+                    "title": "Photo Cropping & Resizing",
+                    "descriptions": [
+                        "We crop and resize images precisely to platform specifications, ensuring visual consistency across websites, marketplaces, and marketing materials."
+                    ],
+                    "image": null
+                },
+                {
+                    "title": "Photo Manipulation & Enhancement",
+                    "descriptions": [
+                        "Advanced image enhancements are applied creatively while maintaining realism, ensuring visuals align with brand guidelines and intended messaging."
+                    ],
+                    "image": null
+                },
+                {
+                    "title": "Effects & Visual Enhancements",
+                    "descriptions": [
+                        "Subtle effects and refinements improve image depth, texture, and visual appeal without overpowering the original composition."
+                    ],
+                    "image": null
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Image Editing, Human-Perfected Visuals",
+            "descriptions": [
+                "AI tools can speed up basic edits, but achieving precise, creative, and context-aware image results requires human expertise, careful adjustments, and attention to brand aesthetics and visual storytelling."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors understand brand identity and image intent for consistent visuals",
+                    "Manual adjustments ensure accurate detailing and controlled enhancements",
+                    "Creative judgment is applied to color, lighting, and composition",
+                    "Each image is customized for professional appeal and buyer engagement",
+                    "Final quality checks guarantee polished, market-ready results",
+                    "AI supports efficiency, but image edits that are precise, visually compelling, and aligned with client expectations are ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Image Editing Approach",
+            "descriptions": [
+                "Our image editing approach combines human expertise with advanced tools to ensure professional-quality results. Every image is evaluated, enhanced, and refined with attention to detail for natural, realistic, and brand-ready visuals."
+            ],
+            "steps": [
+                {
+                    "title": "Image Evaluation",
+                    "descriptions": [
+                        "Each photo is carefully reviewed to identify issues, challenges, and requirements for the intended use and platform."
+                    ]
+                },
+                {
+                    "title": "Manual Editing & Enhancement",
+                    "descriptions": [
+                        "Editors apply customized techniques using professional tools to enhance clarity, color, and overall image quality while maintaining realism."
+                    ]
+                },
+                {
+                    "title": "Quality Check",
+                    "descriptions": [
+                        "Every image undergoes a strict quality review to ensure consistency, precision, and adherence to professional standards."
+                    ]
+                },
+                {
+                    "title": "Final Delivery",
+                    "descriptions": [
+                        "Edited images are delivered in the required resolution, format, and platform-ready specifications for immediate use in marketing or listings."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Who Can Benefit from Our Image Editing Services?",
+            "descriptions": [],
+            "users": [
+                "Professional photographers",
+                "E-commerce businesses",
+                "Marketing and creative agencies",
+                "Brands and enterprises",
+                "Individuals requiring personal image enhancement"
+            ],
+            "phrase_text": "Our services are suitable for both commercial and personal image editing requirements."
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Image Editing Services?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Human-Driven Editing With Attention to Detail",
+                    "descriptions": [
+                        "Every image is manually edited by experienced professionals, ensuring precision, creativity, and natural-looking results."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround Time",
+                    "descriptions": [
+                        "Our streamlined workflow helps us deliver edited images quickly while maintaining high quality for global clients."
+                    ]
+                },
+                {
+                    "title": "Cost-Effective and Flexible Pricing",
+                    "descriptions": [
+                        "We offer affordable pricing options designed to suit individuals, businesses, and bulk project requirements."
+                    ]
+                },
+                {
+                    "title": "High-Quality Output Without Losing Image Integrity",
+                    "descriptions": [
+                        "We enhance visuals carefully to preserve original details, clarity, and realistic appearance."
+                    ]
+                },
+                {
+                    "title": "Advanced Tools Combined With Human Expertise",
+                    "descriptions": [
+                        "We use professional editing tools to support our work, while relying on skilled human judgment for the final result."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Get Professional Image Editing Services Today",
+            "descriptions": [
+                "Choosing Wellcode Studio means partnering with a team dedicated to enhancing the visual impact of your images with precision and care. We collaborate closely with clients worldwide to understand their requirements and deliver results that elevate brand presentation and visual storytelling.",
+                "Contact us today to discuss your image editing needs and experience professional-quality results that make a lasting impression."
+            ],
+            "link": {
+                "text": "Contact us today to discuss your image editing needs and experience professional-quality results that make a lasting impression.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Professional photo post-processing",
+                    "filepath": "/assets/images/service-images/image_editing/image_repair_restoration_03.avif",
+                    "alt": "Professional image editing services"
+                },
+                {
+                    "title": "Realistic and natural image editing",
+                    "filepath": "/assets/images/service-images/image_editing/color_correction_brightness_adjustment_03.avif",
+                    "alt": "Photo color correction and brightness adjustment"
+                },
+                {
+                    "title": "Commercial photo editing solutions",
+                    "filepath": "/assets/images/service-images/image_editing/photo_cropping_resizing_03.avif",
+                    "alt": "Image retouching and enhancement"
+                },
+                {
+                    "title": "High-quality photo cropping",
+                    "filepath": "/assets/images/service-images/image_editing/photo_manipulation_enhancement_02.avif",
+                    "alt": "Image effects and visual enhancement"
+                },
+                {
+                    "title": "Image effects and visual",
+                    "filepath": "/assets/images/service-images/image_editing/effects_visual_enhancements_01.avif",
+                    "alt": "Background improvement and removal"
+                },
+                {
+                    "title": "Photo enhancement for web",
+                    "filepath": "/assets/images/service-images/image_editing/image_editing_02.avif",
+                    "alt": "Image restoration and repair services"
+                },
+                {
+                    "title": "Photo enhancement for web",
+                    "filepath": "/assets/images/service-images/image_editing/image_editing_05.avif",
+                    "alt": "Image restoration and repair services"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Image Editing Services?",
+            "descriptions": [
+                "Image Editing Services involve the professional enhancement, correction, and optimization of digital images to improve their overall quality and visual impact. Each image is carefully analyzed and edited based on its lighting, composition, and intended usage to deliver clean, sharp, and visually appealing results."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Sun",
+                    "content": "Color Correction & Exposure Adjustment: Optimizing brightness, contrast, and color balance for natural visuals."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Retouching & Cleanup: Removing imperfections, distractions, and unwanted elements."
+                },
+                {
+                    "icon": "ImageMinus",
+                    "content": "Background Editing & Replacement: Isolating or changing backgrounds for professional presentation."
+                },
+                {
+                    "icon": "ZoomIn",
+                    "content": "Sharpness & Detail Enhancement: Ensuring images appear crisp and high-resolution."
+                },
+                {
+                    "icon": "FileCog",
+                    "content": "Format Optimization: Preparing images for print, web, social media, and other digital platforms."
+                }
+            ]
+        }
+    }
+]

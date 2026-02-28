@@ -330,7 +330,7 @@ const HorizontalSection = ({
                     bounce: 0.4,
                 }}
                 viewport={{ once: true, amount: 0.1 }}
-                className="text-center pt-30"
+                className="text-center pt-10"
                 id={service.tag.split(" ").join("-")}
             >
                 <Badge className="text-sm py-3 px-5 rounded-full font-light capitalize leading-0.5 tracking-wider text-muted-foreground" variant={"outline"}>#{service.id.replaceAll("-", " ")} Sector</Badge>

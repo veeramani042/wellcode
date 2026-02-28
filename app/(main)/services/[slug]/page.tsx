@@ -4,7 +4,7 @@ import Testimonial from "@/components/constructed/testimonial";
 import LandingFooter from "@/components/constructed/landing-footer";
 import ServiceFaQ from "@/components/constructed/service-faq";
 import ScrollSmoothWrapper from "@/components/custom/scroll-smoothner";
-import servicesJson from "@/lib/services.json";
+import servicesJson from "@/lib/services";
 import { ServiceInformation } from "@/lib/model";
 import ComingSoonSection from "@/components/custom/comming-soon";
 import faqJson from "@/lib/faqs.json"

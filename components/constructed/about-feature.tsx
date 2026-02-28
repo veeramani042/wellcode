@@ -97,7 +97,7 @@ const AboutFeautres = () => {
                             A Digital Partner Built for Growth
                         </h2>
                         <p className="text-lg max-w-4xl mx-auto mt-4 text-gray-100/50 font-light">
-                            Well Code Studio helps brands grow through creative excellence, smart technology, and scalable digital solutions. We turn ideas into visuals, platforms, and systems that perform—reliably, efficiently, and on time.
+                            Wellcode Studio helps brands grow through creative excellence, smart technology, and scalable digital solutions. We turn ideas into visuals, platforms, and systems that perform—reliably, efficiently, and on time.
                         </p>
                     </motion.div>
 

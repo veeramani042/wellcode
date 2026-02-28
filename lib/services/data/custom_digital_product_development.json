@@ -1,0 +1,287 @@
+[
+    {
+        "base_service": "Digital Product Development",
+        "service_title": "Custom Digital Product Development",
+        "meta_titles": [
+            "Custom Software & App Development Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Build scalable software, web, mobile, e-Commerce, and SaaS solutions with Wellcode Studio. Trusted digital product development partner worldwide."
+        ],
+        "slug": "custom-digital-product-development",
+        "header": {
+            "title": "Custom Digital Product Development Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we deliver reliable and scalable custom digital product development services for businesses across the globe. From concept to deployment, we help startups, enterprises, and growing organizations turn ideas into high-performance digital solutions. Our focus is on building secure, user-centric, and future-ready products that align perfectly with real business needs.",
+                "While modern tools and AI-assisted technologies help speed up development, human expertise remains essential. Our experienced developers ensure accuracy, logic, and long-term stability—something automation alone cannot fully guarantee."
+            ]
+        },
+        "service_slider": {
+            "title": "Custom Digital Product Development Solutions",
+            "description": [
+                "At WellCode Studio, we build scalable, secure, and high-performance digital products tailored to your business goals. From concept to deployment, our expert developers turn ideas into user-centric, future-ready solutions. Smart-assisted efficiency meets human expertise to ensure accuracy, stability, and long-term growth."
+            ]
+        },
+        "general_info": {
+            "title": "Why Custom Digital Product Development Drives Business Growth",
+            "descriptions": [
+                "Custom digital product development creates tailored software solutions designed to meet unique business needs."
+            ],
+            "sub_section": {
+                "title": "How Custom Digital Product Development Benefits Your Business",
+                "descriptions": [],
+                "list": [
+                    "Delivers solutions tailored to your specific business requirements",
+                    "Improves operational efficiency and workflow automation",
+                    "Enhances user experience for customers and employees",
+                    "Supports scalability and long-term business growth",
+                    "Provides a competitive edge with innovative digital markets"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Cutting-Edge Custom Digital Product Development",
+            "descriptions": [
+                "Wellcode Studio delivers scalable, high-performance digital solutions tailored for startups, enterprises, and growing businesses. From concept to deployment, we turn ideas into secure, user-friendly products built for long-term success."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Custom Software Solutions",
+                    "descriptions": [
+                        "We craft software tailored to your unique business processes, ensuring flexibility, security, and efficiency for sustainable growth."
+                    ],
+                    "image": {
+                        "title": "Lifecycle support for digital products",
+                        "filepath": "/assets/images/service-images/custom-digital-product/custom_software_solutions_01.avif",
+                        "alt": "Custom digital product development for businesses"
+                    }
+                },
+                {
+                    "title": "Responsive Web Development",
+                    "descriptions": [
+                        "Build fast, modern, and secure websites or web apps that perform seamlessly across devices and boost user engagement."
+                    ],
+                    "image": {
+                        "title": "High-quality mobile and web",
+                        "filepath": "/assets/images/service-images/custom-digital-product/responsive_web_development.avif",
+                        "alt": "End-to-end software development solutions"
+                    }
+                },
+                {
+                    "title": "Mobile App Development (iOS & Android)",
+                    "descriptions": [
+                        "Engage users with high-quality native and cross-platform mobile apps designed for usability, speed, and scalability."
+                    ],
+                    "image": {
+                        "title": "Custom software development",
+                        "filepath": "/assets/images/service-images/custom-digital-product/mobile_app_development.avif",
+                        "alt": "Mobile and web application development services"
+                    }
+                },
+                {
+                    "title": "E-Commerce & CMS Platforms",
+                    "descriptions": [
+                        "Launch robust e-commerce and content management systems with secure payments, easy product management, and future-ready growth."
+                    ],
+                    "image": {
+                        "title": "Digital product design and implementation",
+                        "filepath": "/assets/images/service-images/custom-digital-product/e-commerce_cms_platforms.avif",
+                        "alt": "Scalable and secure digital product creation"
+                    }
+                },
+                {
+                    "title": "SaaS Application Development",
+                    "descriptions": [
+                        "Create scalable, subscription-based SaaS platforms optimized for performance, security, and increasing user demands."
+                    ],
+                    "image": {
+                        "title": "Cloud-ready digital product",
+                        "filepath": "/assets/images/service-images/custom-digital-product/saas_application_development.avif",
+                        "alt": "UI/UX driven digital product design and development"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Development, Human-Driven Digital Excellence",
+            "descriptions": [
+                "AI tools can speed up certain development tasks, but building scalable, user-friendly, and reliable digital products requires human expertise, strategic thinking, and technical precision."
+            ],
+            "comparison": {
+                "title": "Why Human Developers Make the Difference",
+                "list": [
+                    "Human developers understand complex business logic and real user behavior",
+                    "Features are customized to meet unique project requirements",
+                    "Strategic decisions ensure scalability, performance, and long-term reliability",
+                    "Overall product quality and usability are carefully validated",
+                    "AI supports efficiency, but final quality is ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Agile Development Approach",
+            "descriptions": [
+                "We combine structured methodology with flexibility to deliver reliable, high-quality digital products aligned with your business goals."
+            ],
+            "steps": [
+                {
+                    "title": "Requirement Analysis & Planning",
+                    "descriptions": [
+                        "We map your business objectives and technical needs to define a clear, actionable development roadmap."
+                    ]
+                },
+                {
+                    "title": "UI/UX Design",
+                    "descriptions": [
+                        "Our intuitive designs prioritize usability and visual appeal, ensuring smooth experiences for all users."
+                    ]
+                },
+                {
+                    "title": "Development & Testing",
+                    "descriptions": [
+                        "Modern frameworks and rigorous testing guarantee secure, scalable, and stable digital solutions."
+                    ]
+                },
+                {
+                    "title": "Deployment & Ongoing Support",
+                    "descriptions": [
+                        "Post-launch, we provide continuous updates, optimizations, and monitoring to keep your products efficient and future-ready."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries We Serve",
+            "descriptions": [],
+            "users": [
+                "Startups & Entrepreneurs",
+                "Enterprises",
+                "E-Commerce Businesses",
+                "SaaS Companies",
+                "Education & Technology Platforms"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Experienced Development Team",
+                    "descriptions": [
+                        "Our skilled developers bring practical experience and industry knowledge to every project, ensuring dependable and modern solutions."
+                    ]
+                },
+                {
+                    "title": "Scalable & Future-Ready Solutions",
+                    "descriptions": [
+                        "We build products that grow with your business, making future upgrades and expansions seamless."
+                    ]
+                },
+                {
+                    "title": "Agile & Transparent Process",
+                    "descriptions": [
+                        "Our agile methodology allows flexibility, faster delivery, and clear communication throughout the development lifecycle."
+                    ]
+                },
+                {
+                    "title": "Cost-Effective Global Services",
+                    "descriptions": [
+                        "We help global clients access high-quality development services without the overhead costs of in-house teams."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Get Started with Wellcode Studio",
+            "descriptions": [
+                "Looking to build a reliable digital product that delivers real business value? Partner with Wellcode Studio for professional custom digital product development services designed to support innovation, scalability, and long-term success."
+            ],
+            "link": {
+                "text": "Partner with Wellcode Studio for professional custom digital product development services",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Digital product prototyping and development",
+                    "filepath": "/assets/images/service-images/custom-digital-product/development_approach.avif",
+                    "alt": "Innovative software solutions for startups and enterprises"
+                },
+                {
+                    "title": "Full-stack digital product development services",
+                    "filepath": "/assets/images/service-images/custom-digital-product/custom_digital_product_01.avif",
+                    "alt": "Custom app and software development"
+                },
+                {
+                    "title": "Scalable and secure digital",
+                    "filepath": "/assets/images/service-images/custom-digital-product/custom_digital_product_02.avif",
+                    "alt": "Digital product prototyping and development solutions"
+                },
+                {
+                    "title": "Lifecycle support for digital products",
+                    "filepath": "/assets/images/service-images/custom-digital-product/custom_software_solutions_01.avif",
+                    "alt": "Custom digital product development for businesses"
+                },
+                {
+                    "title": "High-quality mobile and web",
+                    "filepath": "/assets/images/service-images/custom-digital-product/responsive_web_development.avif",
+                    "alt": "End-to-end software development solutions"
+                },
+                {
+                    "title": "Custom software development",
+                    "filepath": "/assets/images/service-images/custom-digital-product/mobile_app_development.avif",
+                    "alt": "Mobile and web application development services"
+                },
+                {
+                    "title": "Digital product design and implementation",
+                    "filepath": "/assets/images/service-images/custom-digital-product/e-commerce_cms_platforms.avif",
+                    "alt": "Scalable and secure digital product creation"
+                },
+                {
+                    "title": "Cloud-ready digital product",
+                    "filepath": "/assets/images/service-images/custom-digital-product/saas_application_development.avif",
+                    "alt": "UI/UX driven digital product design and development"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is Custom Digital Product Development?",
+            "descriptions": [
+                "Custom Digital Product Development is the process of designing and building tailored digital solutions based on specific business needs. It involves creating scalable, user-focused products such as web applications, tools, platforms, and systems that solve real operational challenges."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "ClipboardList",
+                    "content": "Requirement Analysis & Planning: Understanding business goals to define clear product architecture."
+                },
+                {
+                    "icon": "PenTool",
+                    "content": "UI/UX-Centered Design: Crafting intuitive interfaces for seamless user experience."
+                },
+                {
+                    "icon": "Boxes",
+                    "content": "Scalable Development Architecture: Building flexible systems that grow with business needs."
+                },
+                {
+                    "icon": "Workflow",
+                    "content": "Integration & Automation: Connecting tools, APIs, and workflows for efficiency."
+                },
+                {
+                    "icon": "Gauge",
+                    "content": "Testing & Performance Optimization: Ensuring reliability, speed, and security across the product."
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,295 @@
+[
+    {
+        "base_service": "Creative Services",
+        "service_title": "Video Service",
+        "meta_titles": [
+            "Professional Video Services & Video Production | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Wellcode Studio offers professional video services including video editing, production, corporate and promotional videos to help businesses engage audiences worldwide."
+        ],
+        "slug": "video-services",
+        "service_slider": {
+            "title": "Professional Video Production & Editing Services",
+            "description": [
+                "At WellCode Studio, we create high-quality video content that transforms ideas into powerful visual stories. From concept to final delivery, our video services drive engagement and elevate brand presence. Capture attention, communicate clearly, and leave a lasting impact across digital platforms."
+            ]
+        },
+        "header": {
+            "title": "Video Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we specialize in transforming ideas into powerful visual stories. Our professional video services are designed to help businesses communicate clearly, engage audiences, and strengthen brand presence across digital platforms. From concept to final delivery, we create high-quality video content that leaves a lasting impact on viewers worldwide."
+            ]
+        },
+        "general_info": {
+            "title": "Why Video Services Are Essential for Your Brand",
+            "descriptions": [
+                "From promotional videos to tutorials and brand storytelling, professional video production and editing services create engaging visual content that captures attention and communicates your message effectively."
+            ],
+            "sub_section": {
+                "title": "How Video Services Benefit Your Business",
+                "descriptions": [],
+                "list": [
+                    "Delivers visually compelling and engaging video content",
+                    "Enhances audience engagement and retention",
+                    "Supports brand storytelling and marketing campaigns",
+                    "Builds trust and credibility with professional production",
+                    "Increases visibility across digital and social platforms"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Elevate Your Brand with Professional Video Services",
+            "descriptions": [
+                "We create high-quality video content designed to strengthen brand presence, improve audience engagement, and communicate messages clearly across digital platforms worldwide."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Video Editing Services",
+                    "descriptions": [
+                        "We transform raw footage into polished, engaging videos using professional editing techniques. Our video editing services ensure clarity, visual consistency, and message-driven storytelling."
+                    ],
+                    "image": {
+                        "title": "Creative video content",
+                        "filepath": "/assets/images/service-images/video_editing/video_editing_services_03.avif",
+                        "alt": "Professional video editing services by Wellcode Studio"
+                    }
+                },
+                {
+                    "title": "Video Production Services",
+                    "descriptions": [
+                        "Our end-to-end video production services cover concept, scripting, filming, and post-production. We deliver high-quality videos aligned with your brand goals and marketing strategy."
+                    ],
+                    "image": {
+                        "title": "Post-production edited video",
+                        "filepath": "/assets/images/service-images/video_editing/video_production_services_03.avif",
+                        "alt": "Color-graded and polished marketing video"
+                    }
+                },
+                {
+                    "title": "Corporate & Promotional Video Services",
+                    "descriptions": [
+                        "We create corporate and promotional videos that clearly communicate your brand message. These videos help build trust, boost engagement, and support marketing campaigns."
+                    ],
+                    "image": {
+                        "title": "Engaging video with seamless",
+                        "filepath": "/assets/images/service-images/video_editing/corporate_promotional_03.avif",
+                        "alt": "Edited corporate video with smooth transitions"
+                    }
+                },
+                {
+                    "title": "360-Degree Videos & Virtual Tours",
+                    "descriptions": [
+                        "Our 360-degree videos and virtual tours offer immersive, interactive viewing experiences. They are ideal for real estate, hospitality, showrooms, and digital brand storytelling."
+                    ],
+                    "image": {
+                        "title": "Professional video editing",
+                        "filepath": "/assets/images/service-images/video_editing/360_videos_virtual_tours_02.avif",
+                        "alt": "High-quality promotional video for online campaigns"
+                    }
+                },
+                {
+                    "title": "AI-Assisted Video Services with Human Creativity",
+                    "descriptions": [
+                        "AI tools help speed up processing and basic enhancements in video production. Human creativity ensures storytelling, emotional impact, and strong brand alignment."
+                    ],
+                    "image": {
+                        "title": "High-resolution video",
+                        "filepath": "/assets/images/service-images/video_editing/ai_assisted_video_services_02.avif",
+                        "alt": "Video with refined audio and visual enhancements"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Video Editing, Human-Perfected Storytelling",
+            "descriptions": [
+                "AI tools can handle basic cuts and automation, but creating engaging, professional, and story-driven videos requires human expertise, creativity, and careful refinement."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors refine pacing, transitions, and storytelling flow",
+                    "Color grading and visual effects are adjusted for mood and impact",
+                    "Brand consistency and audience engagement are carefully maintained",
+                    "Manual quality checks ensure polished, professional videos",
+                    "AI supports efficiency, but final videos are compelling, accurate, and market-ready through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Video Production & Editing Process",
+            "descriptions": [
+                "We follow a structured and creative process to ensure consistent quality and timely delivery."
+            ],
+            "steps": [
+                {
+                    "title": "Understanding Goals & Creative Direction",
+                    "descriptions": [
+                        "We begin by understanding your brand, target audience, message, and video objectives."
+                    ]
+                },
+                {
+                    "title": "Concept Planning & Storyboarding",
+                    "descriptions": [
+                        "Our team develops creative concepts and visual structures that guide production and storytelling."
+                    ]
+                },
+                {
+                    "title": "Editing, Production & Quality Control",
+                    "descriptions": [
+                        "Videos are edited, enhanced, and reviewed for visual quality, sound, pacing, and brand consistency."
+                    ]
+                },
+                {
+                    "title": "Final Delivery & Optimization",
+                    "descriptions": [
+                        "We deliver videos optimized for web, social media, marketing campaigns, and presentations."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries We Serve",
+            "descriptions": [],
+            "users": [
+                "Corporate Businesses",
+                "Startups & Small Businesses",
+                "E-commerce Brands",
+                "Marketing & Sales Teams",
+                "Agencies & Enterprises"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Video Services?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Creative Expertise",
+                    "descriptions": [
+                        "Our creative professionals bring experience, originality, and storytelling skills to every video project."
+                    ]
+                },
+                {
+                    "title": "Technical Proficiency",
+                    "descriptions": [
+                        "We use modern editing software, animation tools, and production technologies to deliver high-quality results."
+                    ]
+                },
+                {
+                    "title": "Cost-Effective Video Solutions",
+                    "descriptions": [
+                        "Get access to professional talent without the cost of maintaining an in-house production team."
+                    ]
+                },
+                {
+                    "title": "Timely Delivery",
+                    "descriptions": [
+                        "We follow efficient workflows to ensure on-time delivery without compromising video quality."
+                    ]
+                },
+                {
+                    "title": "Scalable & Custom Video Services",
+                    "descriptions": [
+                        "Our custom video services for brands are designed to scale based on your business needs and project size."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Bring Your Vision to Life with Wellcode Studio",
+            "descriptions": [
+                "At Wellcode Studio, we believe in the power of visual storytelling. Our video content creation services help businesses connect with audiences, communicate messages effectively, and stand out in competitive markets.",
+                "Contact Wellcode Studio today to discuss your video requirements and create compelling video content that truly represents your brand."
+            ],
+            "link": {
+                "text": "Contact Wellcode Studio today to discuss your video requirements and create compelling video content that truly represents your brand.",
+                "slug": ""
+            },
+            "related_services": {
+                "title": "Related Services",
+                "descriptions": [
+                    "Our brochure and flyer design services work seamlessly with:"
+                ],
+                "list": []
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Promotional and corporate video",
+                    "filepath": "/assets/images/service-images/video_editing/video_editing_01.avif",
+                    "alt": "Social media optimized video with text and captions"
+                },
+                {
+                    "title": "Video content prepared",
+                    "filepath": "/assets/images/service-images/video_editing/video_editing_02.avif",
+                    "alt": "Marketing video showcasing product or service highlights"
+                },
+                {
+                    "title": "Creative video content",
+                    "filepath": "/assets/images/service-images/video_editing/video_editing_services_03.avif",
+                    "alt": "Professional video editing services by Wellcode Studio"
+                },
+                {
+                    "title": "Post-production edited video",
+                    "filepath": "/assets/images/service-images/video_editing/video_production_services_03.avif",
+                    "alt": "Color-graded and polished marketing video"
+                },
+                {
+                    "title": "Engaging video with seamless",
+                    "filepath": "/assets/images/service-images/video_editing/corporate_promotional_03.avif",
+                    "alt": "Edited corporate video with smooth transitions"
+                },
+                {
+                    "title": "Professional video editing",
+                    "filepath": "/assets/images/service-images/video_editing/360_videos_virtual_tours_02.avif",
+                    "alt": "High-quality promotional video for online campaigns"
+                },
+                {
+                    "title": "High-resolution video",
+                    "filepath": "/assets/images/service-images/video_editing/ai_assisted_video_services_02.avif",
+                    "alt": "Video with refined audio and visual enhancements"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are Video Services?",
+            "descriptions": [
+                "Video Services involve creating professional, engaging, and polished video content for marketing, branding, and communication purposes. They help businesses tell their story, showcase products, and connect with audiences through compelling visual storytelling."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "Lightbulb",
+                    "content": "Concept & Script Development: Planning content that aligns with brand goals and messaging."
+                },
+                {
+                    "icon": "Clapperboard",
+                    "content": "High-Quality Filming & Production: Capturing visually appealing footage with professional techniques."
+                },
+                {
+                    "icon": "Wand2",
+                    "content": "Post-Production Editing: Enhancing visuals, audio, and effects for polished final videos."
+                },
+                {
+                    "icon": "Video",
+                    "content": "Motion Graphics & Animation: Adding dynamic elements to increase engagement and clarity."
+                },
+                {
+                    "icon": "MonitorPlay",
+                    "content": "Platform-Optimized Delivery: Preparing videos for social media, websites, advertisements, or presentations."
+                }
+            ]
+        }
+    }
+]

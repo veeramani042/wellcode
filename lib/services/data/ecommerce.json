@@ -1,0 +1,307 @@
+[
+    {
+        "base_service": "Creative Services",
+        "service_title": "E-Commerce",
+        "meta_titles": [
+            "E-Commerce Services & Ecommerce Creative Solutions | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Wellcode Studio offers ecommerce services including ecommerce creative design, product visuals, and data support to boost conversions and grow online stores globally."
+        ],
+        "slug": "e-commerce",
+        "service_slider": {
+            "title": "High-Conversion E-Commerce Growth Services",
+            "description": [
+                "At WellCode Studio, we help online businesses grow, convert, and scale with performance-driven e-commerce solutions. From creative design to product data management and visual optimization, we enhance user experience and sales. Boost brand presence and maximize revenue with strategic, results-focused e-commerce services."
+            ]
+        },
+        "header": {
+            "title": "E-Commerce Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we deliver professional E-Commerce services designed to help online businesses grow, convert, and scale in today’s competitive digital marketplace. From ecommerce creative design to product data handling and visual optimization, our solutions focus on enhancing user experience, brand presence, and sales performance for global clients."
+            ]
+        },
+        "general_info": {
+            "title": "Why E-Commerce Services Are Vital for Your Business",
+            "descriptions": [
+                "E-Commerce services help businesses establish and optimize online stores that drive sales and enhance customer experience. By integrating all the benefits, professional e-commerce solutions increase conversions and help grow your digital presence."
+            ],
+            "sub_section": {
+                "title": "How E-Commerce Services Benefit Your Business",
+                "descriptions": [],
+                "list": [
+                    "Creates seamless, user-friendly online shopping experiences",
+                    "Integrates secure payment and checkout systems",
+                    "Optimizes product listings for better visibility and sales",
+                    "Supports scalability and business growth",
+                    "Enhances overall customer experience and engagement"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Conversion-Driven E-Commerce Services",
+            "descriptions": [
+                "Our solutions combine creative design, accurate data handling, and operational support to improve store performance, enhance product presentation, and increase conversions which help online businesses grow confidently across platforms."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "E-Commerce Creative Design Services",
+                    "descriptions": [
+                        "We design high-impact ecommerce creatives including banners, store visuals, and promotional graphics that strengthen brand identity and encourage user engagement."
+                    ],
+                    "image": {
+                        "title": "Conversion-focused e-commerce",
+                        "filepath": "/assets/images/service-images/e_commerce/e_commerce_creative_design_services_03.avif",
+                        "alt": "E-commerce creative services for online stores"
+                    }
+                },
+                {
+                    "title": "Product Creative Design & Visual Optimization",
+                    "descriptions": [
+                        "Our ecommerce product creative design focuses on clarity, consistency, and branding to build buyer trust and improve purchase decisions."
+                    ],
+                    "image": {
+                        "title": "E-commerce design services",
+                        "filepath": "/assets/images/service-images/e_commerce/product_creative_design_visual_optimization_03.avif",
+                        "alt": "Product creative design services for e-commerce platforms"
+                    }
+                },
+                {
+                    "title": "Product Data Management",
+                    "descriptions": [
+                        "We manage ecommerce product titles, descriptions, attributes, and catalogs to ensure accurate, optimized, and customer-ready listings."
+                    ],
+                    "image": {
+                        "title": "E-commerce creative services",
+                        "filepath": "/assets/images/service-images/e_commerce/product_data_management_01.avif",
+                        "alt": "E-commerce visual design for better conversions"
+                    }
+                },
+                {
+                    "title": "Order Processing & E-Commerce Support",
+                    "descriptions": [
+                        "Our ecommerce support services help streamline order workflows, improving efficiency while maintaining smooth customer experiences."
+                    ],
+                    "image": {
+                        "title": "Visual content creation",
+                        "filepath": "/assets/images/service-images/e_commerce/order_processing_ecommerce_support_01.avif",
+                        "alt": "Creative design services for e-commerce marketing"
+                    }
+                },
+                {
+                    "title": "Payment Gateway & Platform Support",
+                    "descriptions": [
+                        "We assist with ecommerce platform support and payment gateway integration to deliver secure, reliable, and friction-free checkout experiences."
+                    ],
+                    "image": {
+                        "title": "Professional e-commerce creative design",
+                        "filepath": "/assets/images/service-images/e_commerce/payment_gateway_platform_support_01.avif",
+                        "alt": "E-commerce banner and promotional creative design"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted E-Commerce, Human-Perfected Online Stores",
+            "descriptions": [
+                "AI tools can automate listings, image optimization, and basic layouts, but creating a seamless, brand-aligned, and conversion-focused e-commerce experience requires human expertise, careful design, and strategic judgment."
+            ],
+            "comparison": {
+                "title": "Why Human Experts Make the Difference",
+                "list": [
+                    "Human experts craft visually appealing, brand-consistent product pages",
+                    "Layouts and user flows are optimized for higher conversions",
+                    "Product information accuracy and quality are carefully ensured",
+                    "Manual review maintains consistency and enhances user experience",
+                    "AI supports efficiency, but final e-commerce platforms are professional, user-friendly, and fully optimized through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Smart E-Commerce Service Approach",
+            "descriptions": [
+                "Our ecommerce service approach blends AI-assisted efficiency with human-led creativity to deliver visually strong, data-accurate, and conversion-focused online store solutions tailored for long-term growth."
+            ],
+            "steps": [
+                {
+                    "title": "Business & Store Requirement Analysis",
+                    "descriptions": [
+                        "We begin by understanding your ecommerce platform, product range, target audience, and business goals to align services with growth objectives."
+                    ]
+                },
+                {
+                    "title": "Creative Planning & Visual Strategy",
+                    "descriptions": [
+                        "Our team plans ecommerce creatives and product visuals that match your brand identity and appeal to buyer psychology."
+                    ]
+                },
+                {
+                    "title": "Product Data Structuring & Optimization",
+                    "descriptions": [
+                        "We organize and optimize product data for consistency, search visibility, and improved customer understanding across ecommerce platforms."
+                    ]
+                },
+                {
+                    "title": "AI-Assisted Workflow Execution",
+                    "descriptions": [
+                        "AI tools support automation, speed, and initial optimization, allowing faster turnaround without compromising accuracy."
+                    ]
+                },
+                {
+                    "title": "Human-Led Quality Enhancement",
+                    "descriptions": [
+                        "Our professionals refine visuals, data, and workflows manually to ensure precision, branding consistency, and conversion readiness."
+                    ]
+                },
+                {
+                    "title": "Quality Check & Final Delivery",
+                    "descriptions": [
+                        "Every ecommerce project undergoes strict quality checks before delivery to ensure platform compatibility, performance, and immediate usability."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Who Benefits from Our E-Commerce Services",
+            "descriptions": [],
+            "users": [
+                "Online retailers and marketplaces",
+                "Fashion and lifestyle brands",
+                "Product photographers",
+                "Marketing and advertising agencies",
+                "Startups and small businesses"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for E-Commerce Services?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "E-Commerce Industry Expertise",
+                    "descriptions": [
+                        "Our team understands the challenges of online selling and applies proven strategies to improve performance and brand presence."
+                    ]
+                },
+                {
+                    "title": "Conversion-Driven Creative Approach",
+                    "descriptions": [
+                        "We focus on ecommerce visuals and creative services that are designed to convert visitors into customers"
+                    ]
+                },
+                {
+                    "title": "Skilled Professionals",
+                    "descriptions": [
+                        "Our designers, editors, and data specialists work together to deliver consistent, high-quality results."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround & Scalability",
+                    "descriptions": [
+                        "We handle projects efficiently while offering scalable solutions to support growing e-commerce businesses."
+                    ]
+                },
+                {
+                    "title": "Cost-Effective Solutions",
+                    "descriptions": [
+                        "Our affordable ecommerce creative services help businesses reduce operational costs without compromising quality."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Elevate Your Online Store with Wellcode Studio",
+            "descriptions": [
+                "At Wellcode Studio, we understand that strong visuals, accurate data, and seamless operations are key to ecommerce success. Our custom ecommerce creative solutions help brands improve customer trust, boost engagement, and increase online sales.",
+                "Contact Wellcode Studio today to enhance your ecommerce store with creative, conversion-focused solutions."
+            ],
+            "link": {
+                "text": "Contact Wellcode Studio today to enhance your ecommerce store with creative, conversion-focused solutions.",
+                "slug": ""
+            },
+            "related_services": {
+                "title": "Related Services",
+                "descriptions": [
+                    "Our brochure and flyer design services work seamlessly with:"
+                ],
+                "list": []
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "E-commerce marketing creatives design",
+                    "filepath": "/assets/images/service-images/e_commerce/ecommerce_01.avif",
+                    "alt": "Product visual optimization for e-commerce websites"
+                },
+                {
+                    "title": "Creative e-commerce services",
+                    "filepath": "/assets/images/service-images/e_commerce/ecommerce_02.avif",
+                    "alt": "Branded e-commerce creative design solutions"
+                },
+                {
+                    "title": "Conversion-focused e-commerce",
+                    "filepath": "/assets/images/service-images/e_commerce/e_commerce_creative_design_services_03.avif",
+                    "alt": "E-commerce creative services for online stores"
+                },
+                {
+                    "title": "E-commerce design services",
+                    "filepath": "/assets/images/service-images/e_commerce/product_creative_design_visual_optimization_03.avif",
+                    "alt": "Product creative design services for e-commerce platforms"
+                },
+                {
+                    "title": "E-commerce creative services",
+                    "filepath": "/assets/images/service-images/e_commerce/product_data_management_01.avif",
+                    "alt": "E-commerce visual design for better conversions"
+                },
+                {
+                    "title": "Visual content creation",
+                    "filepath": "/assets/images/service-images/e_commerce/order_processing_ecommerce_support_01.avif",
+                    "alt": "Creative design services for e-commerce marketing"
+                },
+                {
+                    "title": "Professional e-commerce creative design",
+                    "filepath": "/assets/images/service-images/e_commerce/payment_gateway_platform_support_01.avif",
+                    "alt": "E-commerce banner and promotional creative design"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What are E-Commerce Services?",
+            "descriptions": [
+                "E-Commerce Services involve creating visually compelling, user-friendly, and conversion-focused online shopping experiences. These services help businesses showcase products effectively, streamline workflows, and build customer trust to drive sales and engagement."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "ShoppingBag",
+                    "content": "Product Image & Visual Enhancement: Ensuring high-quality, appealing product visuals."
+                },
+                {
+                    "icon": "ListOrdered",
+                    "content": "Catalog Management & Organization: Structuring product listings for easy navigation and searchability."
+                },
+                {
+                    "icon": "MousePointerClick",
+                    "content": "User Experience Optimization: Designing intuitive interfaces for seamless shopping journeys."
+                },
+                {
+                    "icon": "Search",
+                    "content": "Content Accuracy & SEO: Maintaining detailed, accurate product information optimized for search engines."
+                },
+                {
+                    "icon": "LineChart",
+                    "content": "Conversion & Performance Monitoring: Tracking engagement and sales metrics to maximize results."
+                }
+            ]
+        }
+    }
+]

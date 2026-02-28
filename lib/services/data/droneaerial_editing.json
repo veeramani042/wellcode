@@ -1,0 +1,321 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "Drone/Aerial Editing",
+        "meta_titles": [
+            "Drone & Aerial Editing Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Professional drone and aerial editing services by Wellcode Studio. Enhance images with color correction, sky replacement, property highlighting, and boundary marking for clear, impactful visuals."
+        ],
+        "slug": "drone-or-aerial-editing",
+        "header": {
+            "title": "Drone / Aerial Editing Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, our Drone / Aerial Editing services are designed to transform raw aerial images into powerful visual assets. Captured from drones or elevated perspectives, aerial images offer a unique view—but without professional editing, they often fail to communicate their full value.",
+                "Our expert editors enhance aerial photos with precision, clarity, and realism, helping real estate professionals, developers, marketers, and photographers present properties and landscapes in the most compelling way possible."
+            ]
+        },
+        "general_info": {
+            "title": "Why Drone & Aerial Editing Elevates Real Estate Listings",
+            "descriptions": [
+                "Professionally edited drone images highlight layouts and surroundings, remove distractions, and create a polished, professional impression—enhancing buyer understanding, engagement, and trust, making listings more compelling and memorable."
+            ],
+            "sub_section": {
+                "title": "How Drone & Aerial Editing Improves Listings",
+                "descriptions": [],
+                "list": [
+                    "Highlights property layout and surroundings clearly",
+                    "Removes distractions and visual inconsistencies",
+                    "Improves buyer understanding and engagement",
+                    "Creates a polished, professional brand impression"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "High Quality Drone & Aerial Image Editing Services",
+            "descriptions": [
+                "At Wellcode Studio, our Drone / Aerial Editing services transform raw aerial photos into compelling, market-ready visuals. We enhance property and landscape images to improve clarity, highlight features, and engage buyers effectively."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Property Background Optimization",
+                    "descriptions": [
+                        "Distracting background colors are subtly faded or muted, keeping the property as the main focus for clean and professional aerial visuals."
+                    ],
+                    "image": {
+                        "title": "Aerial view of property",
+                        "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_01.avif",
+                        "alt": "Drone photo with clear lot lines and plot divisions"
+                    }
+                },
+                {
+                    "title": "Highlighting Key Property Areas",
+                    "descriptions": [
+                        "Buildings, gardens, pools, and other important elements are enhanced with brightness, contrast, and glow effects to naturally guide viewer attention."
+                    ],
+                    "image": {
+                        "title": "Drone-captured building",
+                        "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_02.avif",
+                        "alt": "Landmark pin dropped on aerial property image by Wellcode Studio"
+                    }
+                },
+                {
+                    "title": "Landmark Pin Integration",
+                    "descriptions": [
+                        "We add visually balanced pin markers to showcase nearby amenities, landmarks, and points of interest, making location value instantly clear."
+                    ],
+                    "image": {
+                        "title": "Enhanced rooftop and garden",
+                        "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_03.avif",
+                        "alt": "High-resolution drone shot optimized for marketing"
+                    }
+                },
+                {
+                    "title": "Aerial Lot & Boundary Marking",
+                    "descriptions": [
+                        "Lot lines, plot divisions, and property boundaries are digitally outlined and labeled for accurate, easy-to-understand property representation."
+                    ],
+                    "image": {
+                        "title": "Aerial view of estate with enhanced",
+                        "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_04.avif",
+                        "alt": "Top-down view of property with marked boundaries and landmarks"
+                    }
+                },
+                {
+                    "title": "Color Correction & Tone Balancing",
+                    "descriptions": [
+                        "Colors, contrast, and exposure are adjusted to ensure natural, consistent, and visually compelling aerial images suitable for marketing and listings."
+                    ],
+                    "image": {
+                        "title": "Contrast and property highlights",
+                        "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_05.avif",
+                        "alt": "Residential neighborhood aerial image with focus on target property"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assistance Supported by Human Expertise",
+            "descriptions": [
+                "AI tools can assist with basic adjustments, but aerial editing requires human judgment. At Wellcode Studio, AI is used only as a support—not a replacement."
+            ],
+            "comparison": {
+                "title": "Why humans do it better:",
+                "list": [
+                    "Accurate interpretation of property boundaries and layouts",
+                    "Natural-looking enhancements without overprocessing",
+                    "Better understanding of buyer psychology and visual flow",
+                    "Precise control over realism and compliance"
+                ],
+                "phrase_text": "This human-led approach ensures every image looks authentic, informative, and trustworthy."
+            }
+        },
+        "process": {
+            "title": "Our Expert Approach to Drone & Aerial Editing",
+            "descriptions": [
+                "Our human-led aerial editing workflow ensures each drone image highlights key features, boundaries, and landscapes with clarity and realism. Every step is designed to create informative, professional, and buyer-trustworthy visuals."
+            ],
+            "steps": [
+                {
+                    "title": "Requirement Discussion",
+                    "descriptions": [
+                        "We understand your goals, project type, and specific aerial editing needs before starting."
+                    ]
+                },
+                {
+                    "title": "Image Submission & Evaluation",
+                    "descriptions": [
+                        "High-resolution drone images are assessed for lighting, perspective, and enhancement opportunities to plan optimal edits."
+                    ]
+                },
+                {
+                    "title": "Professional Editing",
+                    "descriptions": [
+                        "Our editors apply precise techniques including property highlighting, background optimization, lot marking, and boundary visualization for maximum clarity."
+                    ]
+                },
+                {
+                    "title": "Landmark & Area Enhancement",
+                    "descriptions": [
+                        "Key property areas and surrounding points of interest are emphasized to showcase the property’s unique advantages."
+                    ]
+                },
+                {
+                    "title": "Quality Assurance & Review",
+                    "descriptions": [
+                        "Each image undergoes meticulous human review to ensure accuracy, realism, and visual consistency."
+                    ]
+                },
+                {
+                    "title": "Final Delivery",
+                    "descriptions": [
+                        "Edited aerial images are delivered in your preferred format, ready for listings, presentations, marketing, or project proposals."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries That Benefit from Drone / Aerial Editing",
+            "descriptions": [],
+            "users": [
+                "Real Estate & Property Marketing",
+                "Land Development & Construction",
+                "Tourism & Hospitality",
+                "Agriculture & Land Monitoring",
+                "Environmental & Conservation Projects"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio for Drone / Aerial Editing?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Real Estate–Focused Editing Expertise",
+                    "descriptions": [
+                        "Our editors understand how aerial and drone visuals should be enhanced to highlight property layout, surroundings, and location advantages for buyers."
+                    ]
+                },
+                {
+                    "title": "Human-Led Quality Control",
+                    "descriptions": [
+                        "Every drone image is manually refined by experienced professionals, with AI assistance used only where it genuinely improves efficiency."
+                    ]
+                },
+                {
+                    "title": "Realistic, Detail-Focused Enhancements",
+                    "descriptions": [
+                        "We enhance colors, clarity, and perspective while preserving natural realism and accurate environmental details."
+                    ]
+                },
+                {
+                    "title": "Consistent Quality for All Projects",
+                    "descriptions": [
+                        "From single aerial shots to large project batches, we maintain uniform editing standards and visual consistency."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround Without Compromising Quality",
+                    "descriptions": [
+                        "We respect tight marketing timelines and deliver prompt results without sacrificing precision."
+                    ]
+                },
+                {
+                    "title": "Custom Solutions Tailored to Your Needs",
+                    "descriptions": [
+                        "Our workflow adapts to your project requirements, ensuring each aerial image meets your specific marketing goals."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Elevate Your Aerial Imagery Today",
+            "descriptions": [
+                "Make your listings, projects, and presentations stand out with professionally edited aerial visuals.",
+                "Wellcode Studio helps you turn raw drone images into powerful marketing assets. Contact us today to get started."
+            ],
+            "link": {
+                "text": "Contact us today to get started.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "High-resolution drone shot",
+                    "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_06.avif",
+                    "alt": "Enhanced drone photography for real estate marketing by Wellcode Studio"
+                },
+                {
+                    "title": "High-resolution drone shot",
+                    "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_07.avif",
+                    "alt": "Enhanced drone photography for real estate marketing by Wellcode Studio"
+                },
+                {
+                    "title": "High-resolution drone shot",
+                    "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_08.avif",
+                    "alt": "Enhanced drone photography for real estate marketing by Wellcode Studio"
+                },
+                {
+                    "title": "Aerial view of property",
+                    "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_01.avif",
+                    "alt": "Drone photo with clear lot lines and plot divisions"
+                },
+                {
+                    "title": "Drone-captured building",
+                    "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_02.avif",
+                    "alt": "Landmark pin dropped on aerial property image by Wellcode Studio"
+                },
+                {
+                    "title": "Enhanced rooftop and garden",
+                    "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_03.avif",
+                    "alt": "High-resolution drone shot optimized for marketing"
+                },
+                {
+                    "title": "Aerial view of estate with enhanced",
+                    "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_04.avif",
+                    "alt": "Top-down view of property with marked boundaries and landmarks"
+                },
+                {
+                    "title": "Contrast and property highlights",
+                    "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_05.avif",
+                    "alt": "Residential neighborhood aerial image with focus on target property"
+                }
+            ],
+            "videos": [],
+            "comparison": {
+                "before": {
+                    "title": "Commercial building aerial image",
+                    "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_before.avif",
+                    "alt": "Aerial view of estate with enhanced contrast and property highlights before"
+                },
+                "after": {
+                    "title": "Property area highlighted",
+                    "filepath": "/assets/images/service-images/drone-aerial-editing/drone_aerial_editing_after.avif",
+                    "alt": "Real estate drone image with accurate boundary outlines after"
+                }
+            }
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "Professional Drone & Aerial Photo Editing Services",
+            "description": [
+                "Wellcode Studio’s Drone & Aerial Editing services turn raw aerial photos into stunning, market-ready visuals. With precision and clarity, we enhance real estate and landscape images to showcase properties from unique perspectives—capturing attention and driving engagement."
+            ]
+        },
+        "work_info": {
+            "title": "What is Drone/Aerial Editing?",
+            "descriptions": [
+                "Drone/Aerial Editing is a specialized photo enhancement process that transforms raw aerial images into polished, high-impact visuals. By refining colors, lighting, and perspective, it highlights property layouts, landscapes, and surroundings, creating visually striking images for real estate marketing and promotional use."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "AlignCenter",
+                    "content": "Perspective & Alignment Correction: Ensuring aerial shots are level, proportional, and visually balanced."
+                },
+                {
+                    "icon": "Sun",
+                    "content": "Color Grading & Light Enhancement: Enhancing skies, land, and structures for vibrant, eye-catching results."
+                },
+                {
+                    "icon": "Eraser",
+                    "content": "Object & Distraction Removal: Cleaning unwanted elements for a professional, crisp appearance."
+                },
+                {
+                    "icon": "Layers",
+                    "content": "Shadow & Reflection Refinement: Adding depth to landscapes and buildings for realistic visuals."
+                },
+                {
+                    "icon": "Maximize2",
+                    "content": "High-Resolution Optimization: Maintaining clarity and detail across large-format aerial images."
+                }
+            ]
+        }
+    }
+]

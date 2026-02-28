@@ -1,5 +1,6 @@
 import AboutFeautres from '@/components/constructed/about-feature'
 import AboutHero from '@/components/constructed/about-hero'
+import AboutMissionSection from '@/components/constructed/about-mission-section'
 import AboutTimeline from '@/components/constructed/about-timeline'
 import LandingFooter from '@/components/constructed/landing-footer'
 import ServiceManagement from '@/components/constructed/service-management'
@@ -22,8 +23,9 @@ function AboutPage({ }: Props) {
             <AboutHero />
             <AboutFeautres />
             <AboutTimeline />
-            <ServiceManagement />            
-            <ComingSoonSection />
+            <ServiceManagement />
+            <AboutMissionSection />
+            {/* <ComingSoonSection /> */}
             <LandingFooter />
         </ScrollSmoothWrapper>
     )

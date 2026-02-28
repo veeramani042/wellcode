@@ -1,0 +1,308 @@
+[
+    {
+        "base_service": "Real Estate Image Editing",
+        "service_title": "MLS-Compliant Real Estate Photo Editing",
+        "meta_titles": [
+            "MLS-Compliant Real Estate Photo Editing Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Get professional MLS-compliant real estate photo editing from Wellcode Studio. High-quality, MLS-approved property photos that meet listing standards and attract buyers."
+        ],
+        "slug": "mls-compliant-real-estate",
+        "header": {
+            "title": "MLS-Compliant Real Estate Photo Editing Services",
+            "sub_title": "",
+            "descriptions": [
+                "At Wellcode Studio, we provide MLS-compliant real estate photo editing services that help your property listings get approved faster, look professional, and perform better across MLS platforms.",
+                "Every image we edit strictly follows MLS photo standards while enhancing clarity, brightness, and visual appeal—without violating compliance rules.Our goal is simple:",
+                "Create high-quality, MLS-approved property photos that attract buyers and protect your listings from rejection."
+            ]
+        },
+        "general_info": {
+            "title": "Why MLS-Compliant Photo Editing Boosts Property Listings",
+            "descriptions": [
+                "MLS-compliant photo editing ensures property images meet platform standards, speeding up approvals while building buyer trust and showcasing a professional brand image."
+            ],
+            "sub_section": {
+                "title": "How MLS-Compliant Editing Improves Listings",
+                "descriptions": [],
+                "list": [
+                    "Enables faster listing approval with MLS-compliant images",
+                    "Builds buyer trust and ensures transparency",
+                    "Enhances professional credibility for agents and brokers",
+                    "Improves listing performance with higher engagement and enquiries"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Expert MLS-Compliant Photo Editing Services",
+            "descriptions": [
+                "Wellcode Studio provides MLS-compliant real estate photo editing services that ensure property listings get approved faster, look professional, and perform better across MLS platforms. Every image is enhanced for clarity, brightness, and visual appeal while strictly adhering to MLS standards."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Brightness, Exposure & Color Correction",
+                    "descriptions": [
+                        "We enhance lighting and color balance while preserving the property’s natural look—never exaggerating or misrepresenting the space."
+                    ],
+                    "image": {
+                        "title": "MLS property photos",
+                        "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_01.avif",
+                        "alt": "MLS-compliant real estate photo editing"
+                    }
+                },
+                {
+                    "title": "Vertical & Perspective Correction",
+                    "descriptions": [
+                        "Walls, doors, and architectural lines are carefully aligned to produce straight, accurate compositions that comply with MLS guidelines."
+                    ],
+                    "image": {
+                        "title": "Professional MLS real estate",
+                        "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_02.avif",
+                        "alt": "Property image color correction for MLS listings"
+                    }
+                },
+                {
+                    "title": "Sky Enhancement (Where Permitted)",
+                    "descriptions": [
+                        "Subtle sky replacement or enhancement is applied only when allowed, maintaining realism and compliance without misleading buyers."
+                    ],
+                    "image": {
+                        "title": "Accurate angles and straight walls",
+                        "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_03.avif",
+                        "alt": "Exposure and brightness enhancement for MLS photos"
+                    }
+                },
+                {
+                    "title": "Window Pull & View Balancing",
+                    "descriptions": [
+                        "We adjust interior and exterior visibility naturally, ensuring accurate window views without altering real property conditions."
+                    ],
+                    "image": {
+                        "title": "Listing-ready MLS property",
+                        "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_04.avif",
+                        "alt": "Vertical and perspective correction for real estate images"
+                    }
+                },
+                {
+                    "title": "Minor Object Cleanup",
+                    "descriptions": [
+                        "Small distractions like cords, bins, or stains are removed only where MLS rules allow, keeping edits ethical and compliant."
+                    ],
+                    "image": {
+                        "title": "Compliance-focused real estate",
+                        "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_05.avif",
+                        "alt": "MLS-compliant window pull and view balancing"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Editing, Human-Perfected MLS Compliance",
+            "descriptions": [
+                "AI-assisted tools can handle exposure balancing, noise reduction, and base color correction, but achieving fully MLS-compliant, accurate property images requires human expertise, careful attention, and precision editing."
+            ],
+            "comparison": {
+                "title": "Why Human Editors Make the Difference",
+                "list": [
+                    "Human editors understand MLS rules and nuanced grey areas",
+                    "Prevent misleading edits that could misrepresent the property",
+                    "Maintain property accuracy in every detail",
+                    "Perform manual masking and precision retouching",
+                    "Final quality checks ensure polished, professional, and MLS-compliant images",
+                    "AI supports efficiency, but property photos that meet MLS standards and professionally attract buyers are ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our MLS-Compliant Photo Editing Approach",
+            "descriptions": [
+                "Our MLS-compliant photo editing workflow combines AI-assisted efficiency with human-led precision to ensure every image meets MLS standards, protects listing integrity, and remains visually appealing."
+            ],
+            "steps": [
+                {
+                    "title": "Image Review & Evaluation",
+                    "descriptions": [
+                        "We analyze each image against MLS photo standards and your listing requirements before starting any edits."
+                    ]
+                },
+                {
+                    "title": "Compliance-Focused Editing",
+                    "descriptions": [
+                        "Edits are applied conservatively, including brightness, perspective, object cleanup, and color balance, while adhering strictly to MLS rules."
+                    ]
+                },
+                {
+                    "title": "Human Quality & Compliance Check",
+                    "descriptions": [
+                        "Every image passes a manual QA process to ensure accuracy, transparency, and adherence to MLS guidelines."
+                    ]
+                },
+                {
+                    "title": "Final Delivery",
+                    "descriptions": [
+                        "MLS-approved property photos are delivered in optimized resolution and format, ready for immediate upload to your listings."
+                    ]
+                },
+                {
+                    "title": "AI-Assisted Support with Human Verification",
+                    "descriptions": [
+                        "AI helps with exposure balancing, noise reduction, and base color correction—but all edits are manually verified to ensure 100% MLS compliance."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Who Benefits from MLS-Compliant Photo Editing?",
+            "descriptions": [],
+            "users": [
+                "Real estate agents & brokers",
+                "Property managers",
+                "Real estate marketing firms",
+                "Builders & developers",
+                "Property listing platforms"
+            ],
+            "phrase_text": "If your listings must meet MLS rules, professional MLS-compliant real estate photo editing is not optional—it’s essential."
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio?",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "MLS-First Editing Approach",
+                    "descriptions": [
+                        "Every edit respects MLS image standards—no risky manipulation."
+                    ]
+                },
+                {
+                    "title": "Human-Verified Quality",
+                    "descriptions": [
+                        "No blind automation. Every image is manually reviewed."
+                    ]
+                },
+                {
+                    "title": "Fast Turnaround",
+                    "descriptions": [
+                        "Quick delivery without compromising compliance or quality."
+                    ]
+                },
+                {
+                    "title": "Scalable for Volume Listings",
+                    "descriptions": [
+                        "Perfect for single listings or bulk MLS photo editing services."
+                    ]
+                },
+                {
+                    "title": "Consistent & Reliable Results",
+                    "descriptions": [
+                        "Uniform quality across all your MLS listing photos."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Get MLS-Approved Photos With out Rework",
+            "descriptions": [
+                "Avoid rejected listings and compliance issues.",
+                "Choose Wellcode Studio’s MLS-compliant real estate photo editing services and publish your property listings with confidence.",
+                "Contact us today to get started with professional, MLS-approved photo editing."
+            ],
+            "link": {
+                "text": "Contact us today to get started with professional, MLS-approved photo editing.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "MLS listing photography",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_06.avif",
+                    "alt": "Minor object cleanup for MLS property photos"
+                },
+                {
+                    "title": "Color correction for MLS listings",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_07.avif",
+                    "alt": "Real estate photo editing that meets MLS standards"
+                },
+                {
+                    "title": "MLS property photos",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_01.avif",
+                    "alt": "MLS-compliant real estate photo editing"
+                },
+                {
+                    "title": "Professional MLS real estate",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_02.avif",
+                    "alt": "Property image color correction for MLS listings"
+                },
+                {
+                    "title": "Accurate angles and straight walls",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_03.avif",
+                    "alt": "Exposure and brightness enhancement for MLS photos"
+                },
+                {
+                    "title": "Listing-ready MLS property",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_04.avif",
+                    "alt": "Vertical and perspective correction for real estate images"
+                },
+                {
+                    "title": "Compliance-focused real estate",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_05.avif",
+                    "alt": "MLS-compliant window pull and view balancing"
+                }
+            ],
+            "videos": [],
+            "comparison": {
+                "before": {
+                    "title": "Real estate photo editing",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_before.avif",
+                    "alt": "Sky enhancement and replacement for MLS listing images"
+                },
+                "after": {
+                    "title": "MLS-compliant photo editing service",
+                    "filepath": "/assets/images/service-images/mls-compliant-real-estate/mls_compliant_real_estate_after.avif",
+                    "alt": "MLS photo resizing and formatting for real estate listings"
+                }
+            }
+        },
+        "meta_schema": [],
+        "service_slider": {
+            "title": "MLS-Compliant Real Estate Photo Editing",
+            "description": [
+                "Ensure your listings get approved and stand out with Wellcode Studio’s MLS-compliant photo editing services. We enhance clarity, brightness, and appeal while strictly following MLS standards. Create professional, high-quality property photos that attract buyers and prevent listing rejections."
+            ]
+        },
+        "work_info": {
+            "title": "What is MLS-Compliant Real Estate Photo Editing?",
+            "descriptions": [
+                "MLS-Compliant Real Estate Photo Editing ensures property images adhere to the technical, ethical, and visual standards set by Multiple Listing Services. This process guarantees accurate, professional visuals while avoiding misleading edits or over-manipulation."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "CheckCrcle",
+                    "content": "Standards Adherence: Ensuring images meet MLS rules for accuracy and representation."
+                },
+                {
+                    "icon": "Trash",
+                    "content": "Controlled Object Removal: Removing distractions without altering the property’s integrity."
+                },
+                {
+                    "icon": "Home",
+                    "content": "No Structural Alterations: Preserving walls, layouts, and architectural features."
+                },
+                {
+                    "icon": "SlidersHorizontal",
+                    "content": "Balanced Retouching: Enhancing brightness, color, and clarity within compliance limits."
+                },
+                {
+                    "icon": "ShieldCheck",
+                    "content": "Marketing-Ready & Compliant: Producing visuals that are both appealing and MLS-approved."
+                }
+            ]
+        }
+    }
+]

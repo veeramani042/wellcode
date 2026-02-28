@@ -9,7 +9,7 @@ import { usePathname } from 'next/navigation'
 import { useEffect, useState } from 'react'
 import { BorderBeam } from '../ui/border-beam'
 import { useMediaQuery } from '@/hooks/use-media-query'
-import serviceJson from "@/lib/services.json"
+import serviceJson from "@/lib/services"
 
 type Props = {
     className?: string;

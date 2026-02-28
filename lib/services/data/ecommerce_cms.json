@@ -1,0 +1,282 @@
+[
+    {
+        "base_service": "Digital Product Development",
+        "service_title": "E-Commerce & CMS",
+        "meta_titles": [
+            "E-Commerce & CMS Development Services | Wellcode Studio"
+        ],
+        "meta_descriptions": [
+            "Wellcode Studio offers secure and scalable e-commerce & CMS development services. Build custom online stores and CMS websites designed for performance, growth, and global businesses."
+        ],
+        "slug": "e-commerce-cms",
+        "service_slider": {
+            "title": "E-Commerce & CMS Development That Drives Sales",
+            "description": [
+                "At WellCode Studio, we build scalable e-commerce platforms and powerful CMS solutions that help you sell smarter and manage content effortlessly. Our secure, high-performance online stores are tailored to your business goals and growth strategy. Launch faster, operate smoother, and scale globally with conversion-focused digital platforms."
+            ]
+        },
+        "header": {
+            "title": "E-Commerce & CMS Development Services",
+            "sub_title": "",
+            "descriptions": [
+                "In today’s digital-first economy, businesses need more than just an online presence — they need powerful, scalable, and easy-to-manage platforms. At Wellcode Studio, we deliver E-Commerce and CMS development services that help businesses sell smarter, manage content effortlessly, and grow globally.",
+                "From feature-rich online stores to flexible content management systems, we build solutions that are secure, performance-driven, and tailored to your business goals."
+            ]
+        },
+        "general_info": {
+            "title": "Why E-Commerce & CMS Development Matters for Businesses",
+            "descriptions": [
+                "E-Commerce and CMS development empowers businesses to manage content and online stores efficiently while delivering seamless shopping experiences. Customized solutions help businesses grow in competitive digital markets."
+            ],
+            "sub_section": {
+                "title": "How E-Commerce & CMS Development Benefits Your Business",
+                "descriptions": [],
+                "list": [
+                    "Enables efficient content and product management",
+                    "Delivers smooth, user-friendly shopping experiences",
+                    "Improves customer engagement and retention",
+                    "Streamlines business operations and workflows",
+                    "Supports growth in competitive digital markets"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "our_works": {
+            "title": "Powerful E-Commerce & CMS Development",
+            "descriptions": [
+                "Wellcode Studio builds scalable, secure, and high-performance e-commerce stores and CMS platforms. Our solutions help businesses sell smarter, manage content efficiently, and expand globally."
+            ],
+            "include": null,
+            "list": [
+                {
+                    "title": "Custom E-Commerce Websites",
+                    "descriptions": [
+                        "We design online stores focused on user experience, conversion optimization, and smooth, secure transactions for long-term growth."
+                    ],
+                    "image": {
+                        "title": "Custom E-Commerce Websites",
+                        "filepath": "/assets/images/service-images/e-commerce_cms/custom_e_commerce_websites.avif",
+                        "alt": "Custom e-commerce website development solutions"
+                    }
+                },
+                {
+                    "title": "End-to-End E-Commerce Platforms",
+                    "descriptions": [
+                        "From planning and design to development and deployment, we create fast, reliable, and future-ready e-commerce solutions."
+                    ],
+                    "image": {
+                        "title": "End-to-End E-Commerce Platforms",
+                        "filepath": "/assets/images/service-images/e-commerce_cms/end_to_end_e-commerce.avif",
+                        "alt": "CMS-based website design and development"
+                    }
+                },
+                {
+                    "title": "Global Online Store Development",
+                    "descriptions": [
+                        "Expand internationally with multi-currency, tax-compliant, and shipping-integrated online stores optimized for global audiences."
+                    ],
+                    "image": {
+                        "title": "Global Online Store Development",
+                        "filepath": "/assets/images/service-images/e-commerce_cms/global_online_store_development.avif",
+                        "alt": "End-to-end online store development services"
+                    }
+                },
+                {
+                    "title": "CMS Website Design & Development",
+                    "descriptions": [
+                        "Intuitive, flexible CMS platforms enable easy content management without technical complexity, supporting seamless long-term growth."
+                    ],
+                    "image": {
+                        "title": "CMS Website Design & Development",
+                        "filepath": "/assets/images/service-images/e-commerce_cms/cms_website_design_dvelopment.avif",
+                        "alt": "Scalable e-commerce platform development for businesses"
+                    }
+                },
+                {
+                    "title": "Custom & Open-Source CMS Solutions",
+                    "descriptions": [
+                        "Tailored CMS systems, including WordPress and custom platforms, provide secure, efficient, and fast content updates."
+                    ],
+                    "image": {
+                        "title": "Custom & Open-Source CMS Solutions",
+                        "filepath": "/assets/images/service-images/e-commerce_cms/custom_open_source_cms_solutions.avif",
+                        "alt": "WordPress and open-source CMS development services"
+                    }
+                }
+            ]
+        },
+        "ai_works": {
+            "title": "Smart-Assisted Development, Human-Perfected Digital Platforms",
+            "descriptions": [
+                "AI tools can automate certain tasks, but building tailored, user-friendly, and brand-aligned e-commerce and CMS platforms requires human expertise, thoughtful design, and careful execution."
+            ],
+            "comparison": {
+                "title": "Why Human Developers Make the Difference",
+                "list": [
+                    "Human developers make informed design and functionality decisions based on real user behavior",
+                    "E-commerce experiences are customized to meet unique business needs",
+                    "Brand identity and consistency are carefully maintained across the platform",
+                    "Manual testing and quality assurance ensure precision, usability, and optimal performance",
+                    "AI supports efficiency, but final quality is ensured through human expertise at Wellcode Studio"
+                ],
+                "phrase_text": ""
+            }
+        },
+        "process": {
+            "title": "Our Development Process",
+            "descriptions": [
+                "We follow a structured, transparent workflow to deliver secure, scalable, and high-quality e-commerce and CMS platforms."
+            ],
+            "steps": [
+                {
+                    "title": "Requirement Analysis & Strategy",
+                    "descriptions": [
+                        "We analyze your business model, audience, and growth plans to define the ideal architecture for long-term success."
+                    ]
+                },
+                {
+                    "title": "UI/UX Design & Architecture",
+                    "descriptions": [
+                        "Our designs focus on usability, engagement, and seamless experiences across devices for better conversions."
+                    ]
+                },
+                {
+                    "title": "Development & Quality Testing",
+                    "descriptions": [
+                        "Secure, scalable, and high-performance code is developed using modern frameworks and rigorously tested for reliability."
+                    ]
+                },
+                {
+                    "title": "Deployment, Training & Support",
+                    "descriptions": [
+                        "We provide deployment assistance, CMS training, and ongoing maintenance to keep your platform optimized and secure."
+                    ]
+                }
+            ]
+        },
+        "suitable_users": {
+            "title": "Industries We Serve",
+            "descriptions": [],
+            "users": [
+                "Retail & Ecommerce Brands",
+                "Startups & Entrepreneurs",
+                "Corporate & Enterprise Businesses",
+                "Content-Driven Platforms",
+                "Service-Based Companies"
+            ],
+            "phrase_text": ""
+        },
+        "usecase": {
+            "title": "Why Choose Wellcode Studio",
+            "descriptions": [],
+            "list": [
+                {
+                    "title": "Professional Development Team",
+                    "descriptions": [
+                        "Our team has hands-on experience in ecommerce development services and CMS platform development for businesses across industries."
+                    ]
+                },
+                {
+                    "title": "Secure & Scalable Solutions",
+                    "descriptions": [
+                        "We build platforms that grow with your business, ensuring security, performance, and long-term reliability."
+                    ]
+                },
+                {
+                    "title": "Cost-Effective & Transparent Pricing",
+                    "descriptions": [
+                        "Our affordable ecommerce and CMS development services help businesses save costs without compromising quality."
+                    ]
+                },
+                {
+                    "title": "Faster Turnaround & Reliable Support",
+                    "descriptions": [
+                        "With agile workflows and dedicated support, we ensure timely delivery and continuous improvements."
+                    ]
+                }
+            ],
+            "phrase_text": ""
+        },
+        "footer": {
+            "title": "Get Started with Wellcode Studio",
+            "descriptions": [
+                "Whether you need a custom ecommerce website, a secure CMS solution, or a complete ecommerce and CMS development service, Wellcode Studio is your trusted development partner. Contact us today to build a platform that converts visitors into customers and content into growth."
+            ],
+            "link": {
+                "text": "Contact us today to build a platform that converts visitors into customers and content into growth.",
+                "slug": ""
+            }
+        },
+        "media": {
+            "images": [
+                {
+                    "title": "Custom CMS development",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/e-commerce_cms_06.avif",
+                    "alt": "E-commerce website UI/UX design and development"
+                },
+                {
+                    "title": "Secure and fast e-commerce",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/e-commerce_cms_02.avif",
+                    "alt": "Online store development for global e-commerce businesses"
+                },
+                {
+                    "title": "Custom E-Commerce Websites",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/custom_e_commerce_websites.avif",
+                    "alt": "Custom e-commerce website development solutions"
+                },
+                {
+                    "title": "End-to-End E-Commerce Platforms",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/end_to_end_e-commerce.avif",
+                    "alt": "CMS-based website design and development"
+                },
+                {
+                    "title": "Global Online Store Development",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/global_online_store_development.avif",
+                    "alt": "End-to-end online store development services"
+                },
+                {
+                    "title": "CMS Website Design & Development",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/cms_website_design_dvelopment.avif",
+                    "alt": "Scalable e-commerce platform development for businesses"
+                },
+                {
+                    "title": "Custom & Open-Source CMS Solutions",
+                    "filepath": "/assets/images/service-images/e-commerce_cms/custom_open_source_cms_solutions.avif",
+                    "alt": "WordPress and open-source CMS development services"
+                }
+            ],
+            "videos": [],
+            "comparison": null
+        },
+        "meta_schema": [],
+        "work_info": {
+            "title": "What is E-Commerce & CMS Development?",
+            "descriptions": [
+                "E-Commerce & CMS Development is the process of building online stores and content management systems that allow businesses to sell products and manage website content efficiently. It focuses on creating user-friendly, scalable platforms that support seamless shopping experiences and easy content updates."
+            ],
+            "sub_title": "The Core Elements",
+            "list": [
+                {
+                    "icon": "ShoppingCart",
+                    "content": "E-Commerce Platform Setup: Developing secure online stores with product, cart, and checkout systems."
+                },
+                {
+                    "icon": "FileText",
+                    "content": "CMS Integration: Enabling easy content management without technical expertise."
+                },
+                {
+                    "icon": "CreditCard",
+                    "content": "Payment Gateway & API Integration: Connecting secure payment and third-party services."
+                },
+                {
+                    "icon": "MonitorSmartphone",
+                    "content": "Responsive UI/UX Design: Ensuring smooth performance across devices and browsers."
+                },
+                {
+                    "icon": "ShieldCheck",
+                    "content": "Performance & Security Optimization: Delivering fast, reliable, and protected platforms."
+                }
+            ]
+        }
+    }
+]
